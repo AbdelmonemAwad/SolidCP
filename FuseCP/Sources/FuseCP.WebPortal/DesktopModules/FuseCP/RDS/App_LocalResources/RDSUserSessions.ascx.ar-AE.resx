@@ -127,7 +127,7 @@
     <value>حالة الجلسة</value>
   </data>
   <data name="gvUserName.HeaderText" xml:space="preserve">
-    <value>اسم االمستخدم</value>
+    <value>اسم المستخدم</value>
   </data>
   <data name="locTitle.Text" xml:space="preserve">
     <value>تحرير مجموعة RDS</value>
@@ -139,22 +139,22 @@
     <value>جلسات مستخدم RDS</value>
   </data>
   <data name="cmdLogOff.OnClientClick" xml:space="preserve">
-    <value>if(!confirm('هل أنت متأكد أنك تريد تسجيل خروج المستخدم؟')) return false; else ShowProgressDialog('تسجيل خروج المستخدم ...');</value>
+    <value>if(!confirm('هل أنت متأكد أنك تريد تسجيل خروج المستخدم؟')) return false; else ShowProgressDialog('تسجيل خروج المستخدم...');</value>
   </data>
   <data name="cmdLogOff.Text" xml:space="preserve">
-    <value>إطفاء</value>
+    <value>تسجيل الخروج</value>
   </data>
   <data name="cmdLogOff.ToolTip" xml:space="preserve">
-    <value>إطفاء</value>
+    <value>تسجيل الخروج</value>
   </data>
   <data name="btnRefresh.Text" xml:space="preserve">
-    <value>اعادة تنشيط</value>
+    <value>تحديث</value>
   </data>
   <data name="cmdControlSession.Text" xml:space="preserve">
     <value>التحكم</value>
   </data>
   <data name="cmdControlSession.ToolTip" xml:space="preserve">
-    <value>جلسة تحكم</value>
+    <value>التحكم في الجلسة</value>
   </data>
   <data name="cmdViewSession.Text" xml:space="preserve">
     <value>عرض</value>
@@ -163,7 +163,7 @@
     <value>مشاهدة الجلسة</value>
   </data>
   <data name="btnAdd.Text" xml:space="preserve">
-    <value>أضف</value>
+    <value>إضافة</value>
   </data>
   <data name="btnCancel.Text" xml:space="preserve">
     <value>إلغاء</value>
@@ -172,7 +172,7 @@
     <value>الرسائل الأخيرة</value>
   </data>
   <data name="cmdSendMessage.Text" xml:space="preserve">
-    <value>أرسل رسالة</value>
+    <value>إرسال رسالة</value>
   </data>
   <data name="gvMessagesHistory.EmptyDataText" xml:space="preserve">
     <value>لا توجد رسائل حديثة</value>
@@ -181,7 +181,7 @@
     <value>الرسالة</value>
   </data>
   <data name="gvUser.HeaderText" xml:space="preserve">
-    <value>اسم االمستخدم</value>
+    <value>اسم المستخدم</value>
   </data>
   <data name="headerEnterMessage.Text" xml:space="preserve">
     <value>أدخل رسالة:</value>
@@ -190,7 +190,7 @@
     <value>الرسائل الأخيرة</value>
   </data>
   <data name="btnAddText.Text" xml:space="preserve">
-    <value>أضف</value>
+    <value>إضافة</value>
   </data>
   <data name="btnCancelText.Text" xml:space="preserve">
     <value>إلغاء</value>
@@ -199,9 +199,9 @@
     <value>الرسائل الأخيرة</value>
   </data>
   <data name="btnRefreshText.Text" xml:space="preserve">
-    <value>اعادة تنشيط</value>
+    <value>تحديث</value>
   </data>
   <data name="cmdSendMessageText.Text" xml:space="preserve">
-    <value>أرسل رسالة</value>
+    <value>إرسال رسالة</value>
   </data>
 </root>

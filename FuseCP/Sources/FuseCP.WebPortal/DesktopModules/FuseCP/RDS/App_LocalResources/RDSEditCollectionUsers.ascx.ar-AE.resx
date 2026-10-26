@@ -136,10 +136,10 @@
     <value>اسم الخادم</value>
   </data>
   <data name="gvRDSServers.Empty" xml:space="preserve">
-    <value>لم يتم إضافة خوادم RDS حتى الآن. لإضافة خوادم RDS جديدة ، انقر فوق الزر "إضافة خادم RDS".</value>
+    <value>لم يتم إضافة خوادم RDS حتى الآن. لإضافة خوادم RDS جديدة، انقر فوق الزر "إضافة خادم RDS".</value>
   </data>
   <data name="secRdsUsers.Text" xml:space="preserve">
-    <value>مستخدمين RDS</value>
+    <value>مستخدمو RDS</value>
   </data>
   <data name="locQuota.Text" xml:space="preserve">
     <value>إجمالي مستخدمي RDS المعينين:</value>

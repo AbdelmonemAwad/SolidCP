@@ -121,6 +121,6 @@
     <value>اسم ODBC DSN:</value>
   </data>
   <data name="secOdbc.Text" xml:space="preserve">
-    <value>سياسة DSNs ODBC</value>
+    <value>سياسة ODBC DSN</value>
   </data>
 </root>

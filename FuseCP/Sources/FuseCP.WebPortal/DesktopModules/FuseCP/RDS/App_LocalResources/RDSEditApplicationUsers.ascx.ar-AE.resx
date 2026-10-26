@@ -136,10 +136,10 @@
     <value>اسم الخادم</value>
   </data>
   <data name="gvRDSServers.Empty" xml:space="preserve">
-    <value>لم يتم إضافة خوادم RDS حتى الآن. لإضافة خوادم RDS جديدة ، انقر فوق الزر "إضافة خادم RDS".</value>
+    <value>لم يتم إضافة خوادم RDS حتى الآن. لإضافة خوادم RDS جديدة، انقر فوق الزر "إضافة خادم RDS".</value>
   </data>
   <data name="locApplicationName.Text" xml:space="preserve">
-    <value>اسم التطبيق</value>
+    <value>اسم التطبيق:</value>
   </data>
   <data name="secRdsApplicationUsers.Text" xml:space="preserve">
     <value>المستخدمون</value>
@@ -151,7 +151,7 @@
     <value>العودة إلى قائمة التطبيقات</value>
   </data>
   <data name="btnSaveExit.Text" xml:space="preserve">
-    <value>حفظ التغييرات و الخروج</value>
+    <value>حفظ التغييرات والخروج</value>
   </data>
   <data name="locCommandLine.Text" xml:space="preserve">
     <value>معلمات سطر الأوامر</value>
@@ -163,16 +163,16 @@
     <value>السماح بأية معلمات سطر أوامر</value>
   </data>
   <data name="chNotAllow.Text" xml:space="preserve">
-    <value>لا تسمح بأي معلمات سطر أوامر</value>
+    <value>عدم السماح بأي معلمات سطر أوامر</value>
   </data>
   <data name="locAllowAny.Text" xml:space="preserve">
-    <value>من خلال السماح بتشغيل برنامج RempteApp مع أي معلمة سطر أوامر ، قد يكون خادمك عرضة للبرامج الضارة</value>
+    <value>عند السماح بتشغيل برنامج RemoteApp هذا مع أي معلمة سطر أوامر، قد يصبح خادمك عرضة للبرامج الضارة</value>
   </data>
   <data name="btnExitText.Text" xml:space="preserve">
     <value>العودة إلى قائمة التطبيقات</value>
   </data>
   <data name="btnSaveExitText.Text" xml:space="preserve">
-    <value>حفظ التغييرات و الخروج</value>
+    <value>حفظ التغييرات والخروج</value>
   </data>
   <data name="btnSaveText.Text" xml:space="preserve">
     <value>حفظ التغييرات</value>

@@ -121,13 +121,13 @@
     <value>مجلد النسخ الاحتياطي:</value>
   </data>
   <data name="lblBackupFolderHint.Text" xml:space="preserve">
-    <value>([date], [time] المتغيرات مدعومة)</value>
+    <value>(المتغيران [date] و[time] مدعومان)</value>
   </data>
   <data name="lblBackupName.Text" xml:space="preserve">
     <value>اسم ملف النسخ الاحتياطي:</value>
   </data>
   <data name="lblBackupNameHint.Text" xml:space="preserve">
-    <value>([date], [time] المتغيرات مدعومة)</value>
+    <value>(المتغيران [date] و[time] مدعومان)</value>
   </data>
   <data name="lblDatabaseName.Text" xml:space="preserve">
     <value>اسم قاعدة البيانات:</value>

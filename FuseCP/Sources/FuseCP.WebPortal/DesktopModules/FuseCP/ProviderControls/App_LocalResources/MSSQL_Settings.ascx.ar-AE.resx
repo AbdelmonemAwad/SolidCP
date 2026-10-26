@@ -118,7 +118,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="DefaultLocation.Text" xml:space="preserve">
-    <value>&lt;خادم افتراضي&gt;</value>
+    <value>&lt;الإعداد الافتراضي للخادم&gt;</value>
   </data>
   <data name="lblBrowseMethod.Text" xml:space="preserve">
     <value>أسلوب تسجيل الدخول إلى مستعرض قاعدة البيانات:</value>
@@ -139,7 +139,7 @@
     <value>اتصال:</value>
   </data>
   <data name="lblCurrPassword.Text" xml:space="preserve">
-    <value>كلمة السر الحالية:</value>
+    <value>كلمة المرور الحالية:</value>
   </data>
   <data name="lblExternalAddress.Text" xml:space="preserve">
     <value>العنوان الخارجي:</value>
@@ -172,15 +172,15 @@
     <value>يجب أن تكون كلمتا المرور متطابقتين</value>
   </data>
   <data name="rblAccountTypeItem.SQL" xml:space="preserve">
-    <value>حساب خادم SQL</value>
+    <value>حساب SQL Server</value>
   </data>
   <data name="rblAccountTypeItem.Trusted" xml:space="preserve">
-    <value>استخدم اتصال موثوق</value>
+    <value>استخدام اتصال موثوق</value>
   </data>
   <data name="rblDbLocationItem.Custom" xml:space="preserve">
     <value>موقع مخصص</value>
   </data>
   <data name="rblDbLocationItem.Default" xml:space="preserve">
-    <value>موقع خادم SQL الافتراضي</value>
+    <value>موقع SQL Server الافتراضي</value>
   </data>
 </root>

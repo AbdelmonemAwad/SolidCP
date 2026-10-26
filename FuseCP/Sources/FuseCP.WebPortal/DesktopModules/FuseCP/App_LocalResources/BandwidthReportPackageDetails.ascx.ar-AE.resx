@@ -124,10 +124,10 @@
     <value>التقرير فارغ.</value>
   </data>
   <data name="gvSummaryBandwidthReceived.Header" xml:space="preserve">
-    <value>تم الاستلام</value>
+    <value>المستلمة</value>
   </data>
   <data name="gvSummaryBandwidthSent.Header" xml:space="preserve">
-    <value>أرسلت</value>
+    <value>المرسلة</value>
   </data>
   <data name="gvSummaryBandwidthTotal.Header" xml:space="preserve">
     <value>الإجمالي</value>
@@ -142,9 +142,9 @@
     <value>ميجا بايت</value>
   </data>
   <data name="lblTotal.Text" xml:space="preserve">
-    <value>الإجمالي :</value>
+    <value>الإجمالي:</value>
   </data>
   <data name="secSummary.Text" xml:space="preserve">
-    <value>عرض الباندويث من خلال الموارد</value>
+    <value>عرض النطاق الترددي حسب الموارد</value>
   </data>
 </root>

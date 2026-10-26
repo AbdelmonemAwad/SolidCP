@@ -121,7 +121,7 @@
     <value>إنشاء مستخدم</value>
   </data>
   <data name="ddlFilterColumnItem.CompanyName" xml:space="preserve">
-    <value>اسم الشركة:</value>
+    <value>اسم الشركة</value>
   </data>
   <data name="ddlFilterColumnItem.Email" xml:space="preserve">
     <value>بريد إلكتروني</value>
@@ -136,7 +136,7 @@
     <value>لم يتم العثور على حسابات مستخدمين.</value>
   </data>
   <data name="gvUsersCompanyName.Header" xml:space="preserve">
-    <value>اسم الشركة:</value>
+    <value>اسم الشركة</value>
   </data>
   <data name="gvUsersEmail.Header" xml:space="preserve">
     <value>بريد إلكتروني</value>
@@ -157,6 +157,6 @@
     <value>الحالة</value>
   </data>
   <data name="gvUsersUsername.Header" xml:space="preserve">
-    <value>اسم االمستخدم</value>
+    <value>اسم المستخدم</value>
   </data>
 </root>

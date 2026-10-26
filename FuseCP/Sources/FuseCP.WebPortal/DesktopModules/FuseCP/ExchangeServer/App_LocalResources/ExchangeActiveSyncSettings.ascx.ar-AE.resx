@@ -118,7 +118,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="btnSave.OnClientClick" xml:space="preserve">
-    <value>ShowProgressDialog('جارٍ تحديث إعدادات المزامنة النشطة ...');</value>
+    <value>ShowProgressDialog('جارٍ تحديث إعدادات ActiveSync...');</value>
   </data>
   <data name="btnSave.Text" xml:space="preserve">
     <value>حفظ التغييرات</value>
@@ -127,7 +127,7 @@
     <value>السماح بتنزيل المرفقات على الجهاز</value>
   </data>
   <data name="chkAllowNonProvisionable.Text" xml:space="preserve">
-    <value>السماح بالأجهزة غير القابلة للتوفير</value>
+    <value>السماح بالأجهزة غير القابلة للتزويد</value>
   </data>
   <data name="chkAllowSimplePassword.Text" xml:space="preserve">
     <value>السماح بكلمة مرور بسيطة</value>
@@ -136,19 +136,19 @@
     <value>تمكين استعادة كلمة المرور</value>
   </data>
   <data name="chkRequireAlphaNumeric.Text" xml:space="preserve">
-    <value>مطلوب كلمة مرور أبجدية رقمية</value>
+    <value>طلب كلمة مرور أبجدية رقمية</value>
   </data>
   <data name="chkRequireEncryption.Text" xml:space="preserve">
     <value>طلب التشفير على الجهاز</value>
   </data>
   <data name="chkRequirePasword.Text" xml:space="preserve">
-    <value>مطلوب كلمة مرور</value>
+    <value>طلب كلمة مرور</value>
   </data>
   <data name="chkWindowsFileShares.Text" xml:space="preserve">
     <value>مشاركات ملفات Windows</value>
   </data>
   <data name="chkWindowsSharePoint.Text" xml:space="preserve">
-    <value>خدمات Windows شيربوينت</value>
+    <value>خدمات Windows SharePoint</value>
   </data>
   <data name="lblRefreshInterval.Text" xml:space="preserve">
     <value>الفاصل الزمني للتحديث:</value>
@@ -175,19 +175,19 @@
     <value>فرض محفوظات كلمة المرور:</value>
   </data>
   <data name="locTimeReenter.Text" xml:space="preserve">
-    <value>يجب إعادة إدخال الوقت بدون إدخال المستخدم قبل إدخال كلمة المرور:</value>
+    <value>مدة عدم نشاط المستخدم قبل وجوب إعادة إدخال كلمة المرور:</value>
   </data>
   <data name="locTitle.Text" xml:space="preserve">
-    <value>سياسة صندوق بريد المزامنة النشطة</value>
+    <value>سياسة صندوق بريد ActiveSync</value>
   </data>
   <data name="secApplication.Text" xml:space="preserve">
     <value>تطبيق</value>
   </data>
   <data name="secPassword.Text" xml:space="preserve">
-    <value>كلمه المرور</value>
+    <value>كلمة المرور</value>
   </data>
   <data name="Text.PageName" xml:space="preserve">
-    <value>سياسة صندوق بريد المزامنة النشطة</value>
+    <value>سياسة صندوق بريد ActiveSync</value>
   </data>
   <data name="btnSaveText.Text" xml:space="preserve">
     <value>حفظ التغييرات</value>

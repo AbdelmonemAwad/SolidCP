@@ -118,7 +118,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="btnAddServiceLevel.Text" xml:space="preserve">
-    <value>اضف جديد</value>
+    <value>إضافة جديد</value>
   </data>
   <data name="gvServiceLevels.Empty" xml:space="preserve">
     <value>لم يتم إضافة مستويات الخدمة حتى الآن. لإضافة مستوى خدمة جديد قم بتعيين المعلمات وانقر فوق الزر "إضافة جديد".</value>
@@ -142,7 +142,7 @@
     <value>مستوى الخدمة</value>
   </data>
   <data name="btnAddServiceLevelText.Text" xml:space="preserve">
-    <value>اضف جديد</value>
+    <value>إضافة جديد</value>
   </data>
   <data name="btnUpdateServiceLevelText.Text" xml:space="preserve">
     <value>تحديث</value>

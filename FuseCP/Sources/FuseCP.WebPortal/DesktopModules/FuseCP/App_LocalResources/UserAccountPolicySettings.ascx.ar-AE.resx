@@ -127,7 +127,7 @@
     <value>سياسة FuseCP</value>
   </data>
   <data name="lnkExchangePolicy.Text" xml:space="preserve">
-    <value>سياسة تنظيم الاستضافة</value>
+    <value>سياسة المؤسسة المستضافة</value>
   </data>
   <data name="lnkFtpPolicy.Text" xml:space="preserve">
     <value>سياسة FTP</value>
@@ -148,7 +148,7 @@
     <value>سياسة نظام التشغيل</value>
   </data>
   <data name="lnkSharePointPolicy.Text" xml:space="preserve">
-    <value>سياسة شيربوينت</value>
+    <value>سياسة SharePoint</value>
   </data>
   <data name="lnkVpsPolicy.Text" xml:space="preserve">
     <value>سياسة الخوادم الافتراضية الخاصة</value>

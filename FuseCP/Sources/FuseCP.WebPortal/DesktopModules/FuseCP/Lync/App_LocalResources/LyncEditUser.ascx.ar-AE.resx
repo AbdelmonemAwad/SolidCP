@@ -124,7 +124,7 @@
     <value>حفظ التغييرات</value>
   </data>
   <data name="locDisplayName.Text" xml:space="preserve">
-    <value>عرض الاسم :</value>
+    <value>اسم العرض:</value>
   </data>
   <data name="locTitle.Text" xml:space="preserve">
     <value>تحرير مستخدم Lync</value>
@@ -136,7 +136,7 @@
     <value>عنوان SIP:</value>
   </data>
   <data name="btnSaveExitText.Text" xml:space="preserve">
-    <value>حفظ التغييرات و الخروج</value>
+    <value>حفظ التغييرات والخروج</value>
   </data>
   <data name="btnSaveText.Text" xml:space="preserve">
     <value>حفظ التغييرات</value>

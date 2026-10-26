@@ -121,7 +121,7 @@
     <value>وحدة تحكم النطاق المفضلة:</value>
   </data>
   <data name="lblRootOU.Text" xml:space="preserve">
-    <value>الجذر OU:</value>
+    <value>الوحدة التنظيمية الجذر (OU):</value>
   </data>
   <data name="lblTemporyDomainName.Text" xml:space="preserve">
     <value>اسم النطاق المؤقت:</value>

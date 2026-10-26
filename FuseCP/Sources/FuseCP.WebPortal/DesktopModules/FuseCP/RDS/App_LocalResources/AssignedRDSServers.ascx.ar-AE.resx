@@ -121,7 +121,7 @@
     <value>إضافة خادم</value>
   </data>
   <data name="cmdDelete.OnClientClick" xml:space="preserve">
-    <value>if(!confirm('هل أنت متأكد أنك تريد إزالة الخادم المحدد؟')) return false; else ShowProgressDialog('جاري إزالة الخادم ...');</value>
+    <value>if(!confirm('هل أنت متأكد أنك تريد إزالة الخادم المحدد؟')) return false; else ShowProgressDialog('جاري إزالة الخادم...');</value>
   </data>
   <data name="cmdDelete.Text" xml:space="preserve">
     <value>إزالة</value>
@@ -130,7 +130,7 @@
     <value>إزالة الخادم</value>
   </data>
   <data name="gvRDSAssignedServers.Empty" xml:space="preserve">
-    <value>لم يتم إضافة خوادم RDS حتى الآن. لإضافة خوادم RDS جديدة انقر فوق الزر "إضافة ...".</value>
+    <value>لم يتم إضافة خوادم RDS حتى الآن. لإضافة خوادم RDS جديدة انقر فوق الزر "إضافة...".</value>
   </data>
   <data name="Text.PageName" xml:space="preserve">
     <value>خوادم RDS</value>

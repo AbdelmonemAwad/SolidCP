@@ -118,13 +118,13 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="btnAdd.Text" xml:space="preserve">
-    <value>أضف عنوان IP</value>
+    <value>إضافة عنوان IP</value>
   </data>
   <data name="gvIPAddresses.Empty" xml:space="preserve">
     <value>لم يتم العثور على عناوين IP.</value>
   </data>
   <data name="gvIPAddressesComments.Header" xml:space="preserve">
-    <value>التعليقات:</value>
+    <value>التعليقات</value>
   </data>
   <data name="gvIPAddressesDefaultGateway.Header" xml:space="preserve">
     <value>البوابة الافتراضية</value>

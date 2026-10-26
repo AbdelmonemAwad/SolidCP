@@ -136,7 +136,7 @@
     <value>ميجا بايت</value>
   </data>
   <data name="lblTotal.Text" xml:space="preserve">
-    <value>الإجمالي :</value>
+    <value>الإجمالي:</value>
   </data>
   <data name="secSummary.Text" xml:space="preserve">
     <value>مساحة القرص حسب الموارد</value>

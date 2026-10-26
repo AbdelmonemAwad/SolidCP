@@ -118,7 +118,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="chkVpsFolderIncludesUsername.Text" xml:space="preserve">
-    <value>اسم االمستخدم</value>
+    <value>اسم المستخدم</value>
   </data>
   <data name="ComparePasswordsValidator.ErrorMessage" xml:space="preserve">
     <value>يجب أن تتطابق كلتا كلمتي مرور حساب المورِّد</value>
@@ -136,7 +136,7 @@
     <value>أدخل نمط اسم المضيف</value>
   </data>
   <data name="locAlternateNameServer.Text" xml:space="preserve">
-    <value>أسم الخادم البديل:</value>
+    <value>خادم الأسماء البديل:</value>
   </data>
   <data name="locDefaultGateway.Text" xml:space="preserve">
     <value>البوابة الافتراضية:</value>
@@ -148,13 +148,13 @@
     <value>حساب موزع FuseCP</value>
   </data>
   <data name="locDvdIsoPath.Text" xml:space="preserve">
-    <value>مسار مكتبة القرص الرقمي:</value>
+    <value>مسار مكتبة DVD:</value>
   </data>
   <data name="locExistingPassword.Text" xml:space="preserve">
-    <value>كلمة السر الموجودة حاليا:</value>
+    <value>كلمة المرور الحالية:</value>
   </data>
   <data name="locExportedVpsPath.Text" xml:space="preserve">
-    <value>مسار VPS المستخرج:</value>
+    <value>مسار VPS المُصدَّر:</value>
   </data>
   <data name="locExternalNetwork.Text" xml:space="preserve">
     <value>الشبكة الخارجية</value>
@@ -163,7 +163,7 @@
     <value>الاتصال بالشبكة:</value>
   </data>
   <data name="locGeneralSettings.Text" xml:space="preserve">
-    <value>الاعدادات العامة</value>
+    <value>الإعدادات العامة</value>
   </data>
   <data name="locHostname.Text" xml:space="preserve">
     <value>اسم مضيف VPS</value>
@@ -175,7 +175,7 @@
     <value>تنسيق عناوين IP:</value>
   </data>
   <data name="locMediaLibrary.Text" xml:space="preserve">
-    <value>مكتبة وسائط القرص الرقمي</value>
+    <value>مكتبة وسائط DVD</value>
   </data>
   <data name="locNetworkAdapter.Text" xml:space="preserve">
     <value>محول الشبكة</value>
@@ -184,19 +184,16 @@
     <value>مسار قوالب نظام التشغيل:</value>
   </data>
   <data name="locPatternText.Text" xml:space="preserve">
-    <value>عندما لا يُسمح للمستخدم بتحديد اسم المضيف المخصص الخاص به ، فسيقوم النظام بإنشاء اسم المضيف لخادم VPS الجديد بناءً على هذا النمط. &lt;br/&gt; &lt;br/&gt;
-يمكن استخدام متغيرات الاستبدال التالية في النمط: &lt;br/&gt;
-[USERNAME] ، [USER_ID] ، [SPACE_ID] ، [ip_last_1_octect] ، [ip_last_2_octects] ، [ip_last_3_octects] ، [ip_last_4_octects] ، [NetBIOSName] &lt;br/&gt;
-مثال: &lt;b&gt; [NetBIOSName] .domain.local &lt;/b&gt; (بحد أقصى 15-symbols.domain.zone)</value>
+    <value>عندما لا يُسمح للمستخدم بتحديد اسم المضيف المخصص الخاص به، فسيقوم النظام بإنشاء اسم المضيف لخادم VPS الجديد بناءً على هذا النمط.&lt;br/&gt;&lt;br/&gt; يمكن استخدام متغيرات الاستبدال التالية في النمط:&lt;br/&gt; [USERNAME], [USER_ID], [SPACE_ID], [ip_last_1_octect], [ip_last_2_octects], [ip_last_3_octects], [ip_last_4_octects], [NetBIOSName] &lt;br/&gt; مثال: &lt;b&gt;[NetBIOSName].domain.local&lt;/b&gt; (max-15-symbols.domain.zone)</value>
   </data>
   <data name="locPreferredNameServer.Text" xml:space="preserve">
-    <value>أسم الخادم المفضل:</value>
+    <value>خادم الأسماء المفضل:</value>
   </data>
   <data name="locPrivateNetwork.Text" xml:space="preserve">
     <value>شبكة خاصة</value>
   </data>
   <data name="locResellerAccountText.Text" xml:space="preserve">
-    <value>للتزويد التلقائي بلوحة تحكم FuseCP داخل VPS ، يرجى إدخال تفاصيل حساب بائع FuseCP أدناه:</value>
+    <value>للتزويد التلقائي بلوحة تحكم FuseCP داخل VPS، يرجى إدخال تفاصيل حساب موزع FuseCP أدناه:</value>
   </data>
   <data name="locResellerConfirmPassword.Text" xml:space="preserve">
     <value>تأكيد كلمة المرور:</value>
@@ -208,13 +205,13 @@
     <value>اسم المستخدم:</value>
   </data>
   <data name="locSeconds.Text" xml:space="preserve">
-    <value>ثواني</value>
+    <value>ثوانٍ</value>
   </data>
   <data name="locStartAction.Text" xml:space="preserve">
-    <value>بدء العمل التلقائي</value>
+    <value>إجراء البدء التلقائي</value>
   </data>
   <data name="locStartOptionsText.Text" xml:space="preserve">
-    <value>ماذا تريد أن تفعل VPS عند بدء تشغيل الكمبيوتر الفعلي؟</value>
+    <value>ماذا تريد أن يفعل خادم VPS عند بدء تشغيل الكمبيوتر الفعلي؟</value>
   </data>
   <data name="locStartupDelay.Text" xml:space="preserve">
     <value>تأخير بدء التشغيل:</value>
@@ -223,10 +220,10 @@
     <value>حدد تأخير بدء التشغيل لتقليل التنازع على الموارد بين الأجهزة الافتراضية.</value>
   </data>
   <data name="locStopAction.Text" xml:space="preserve">
-    <value>بدء العمل التلقائي</value>
+    <value>إجراء الإيقاف التلقائي</value>
   </data>
   <data name="locStopActionText.Text" xml:space="preserve">
-    <value>ماذا تريد أن تفعل VPS عند إيقاف التشغيل الفعلي؟</value>
+    <value>ماذا تريد أن يفعل خادم VPS عند إيقاف تشغيل الكمبيوتر الفعلي؟</value>
   </data>
   <data name="locSubnetMask.Text" xml:space="preserve">
     <value>قناع الشبكة الفرعية:</value>
@@ -253,7 +250,7 @@
     <value>قم دائمًا ببدء VPS تلقائيًا</value>
   </data>
   <data name="radioStartActionNothing.Text" xml:space="preserve">
-    <value>لا شيئ</value>
+    <value>لا شيء</value>
   </data>
   <data name="radioStartActionStart.Text" xml:space="preserve">
     <value>ابدأ تلقائيًا إذا كان يعمل عند توقف الخدمة</value>
@@ -274,16 +271,16 @@
     <value>حجم ثابت</value>
   </data>
   <data name="radioVpsFolderIncludesID.Text" xml:space="preserve">
-    <value>معرّف VPS ، على سبيل المثال "843FA-A0B2-34404"</value>
+    <value>معرّف VPS، على سبيل المثال "843FA-A0B2-34404"</value>
   </data>
   <data name="radioVpsFolderIncludesName.Text" xml:space="preserve">
-    <value>اسم مضيف VPS ، على سبيل المثال "vps1.domain.com"</value>
+    <value>اسم مضيف VPS، على سبيل المثال "vps1.domain.com"</value>
   </data>
   <data name="radioSwitchTypePrivatePrivate.Text" xml:space="preserve">
-    <value>تبديل خاص جديد لكل مساحة استضافة</value>
+    <value>مبدّل شبكة خاص جديد لكل مساحة استضافة</value>
   </data>
   <data name="radioSwitchTypePrivateExternal.Text" xml:space="preserve">
-    <value>استخدم مفتاح خارجي (فصل VLAN)</value>
+    <value>استخدام مبدّل خارجي (فصل VLAN)</value>
   </data>
   <data name="RootFolderValidator.ErrorMessage" xml:space="preserve">
     <value>أدخل المجلد الجذر VPS</value>
@@ -310,7 +307,7 @@
     <value>حد الجهاز الافتراضي:</value>
   </data>
   <data name="locCpuReserve.Text" xml:space="preserve">
-    <value>احتياطي الجهازالافتراضي:</value>
+    <value>احتياطي الجهاز الافتراضي:</value>
   </data>
   <data name="locCpuWeight.Text" xml:space="preserve">
     <value>الوزن النسبي:</value>
@@ -322,25 +319,25 @@
     <value>إعدادات موارد المعالج</value>
   </data>
   <data name="btnConnect.Text" xml:space="preserve">
-    <value>الاتصال</value>
+    <value>اتصال</value>
   </data>
   <data name="ErrorReadingNetworksList.Text" xml:space="preserve">
     <value>&lt;لا يمكن قراءة قائمة الشبكات&gt;</value>
   </data>
   <data name="locErrorReadingNetworksList.Text" xml:space="preserve">
-    <value>&lt;br/&gt; &lt;b&gt; تعذر الاتصال بخادم Hyper-V &lt;/b&gt; &lt;br/&gt; &lt;br/&gt; الأسباب المحتملة: &lt;ol&gt; &lt;li&gt; أنت بصدد إدارة خادم Hyper-V البعيد (إما مركز الخادم أو جهاز Hyper-V Server 2008) حيث لم يتم تثبيت خادم FuseCP. اكتب اسم الخادم الصحيح أعلى هذا النموذج ثم انقر فوق الزر "اتصال". &lt;/ li&gt; &lt;li&gt; خادم FuseCP ليس لديه أذونات كافية للاتصال بخادم Hyper-V البعيد. يرجى الرجوع إلى دليل المسؤول للحصول على إرشادات إعداد العميل والخادم. &lt;/ li&gt; &lt;li&gt; فقد الاتصال مع خادم FuseCP المثبت على خادم Hyper-V الافتراضي. تحقق من الاتصال وافتح صفحة خصائص الخدمة مرة أخرى. &lt;/ li&gt; &lt;/ol&gt;</value>
+    <value>&lt;br/&gt;&lt;b&gt;تعذر الاتصال بخادم Hyper-V&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;الأسباب المحتملة:&lt;ol&gt;&lt;li&gt;أنت بصدد إدارة خادم Hyper-V بعيد (Server Core أو جهاز Hyper-V Server 2008) لم يتم تثبيت FuseCP Server عليه. اكتب اسم الخادم الصحيح أعلى هذا النموذج ثم انقر فوق الزر "اتصال".&lt;/li&gt;&lt;li&gt;لا يملك FuseCP Server أذونات كافية للاتصال بخادم Hyper-V البعيد. يرجى الرجوع إلى دليل المسؤول للحصول على إرشادات إعداد العميل والخادم.&lt;/li&gt;&lt;li&gt;انقطع الاتصال مع FuseCP Server المثبت على خادم المحاكاة الافتراضية Hyper-V. تحقق من الاتصال وافتح صفحة خصائص الخدمة مرة أخرى.&lt;/li&gt;&lt;/ol&gt;</value>
   </data>
   <data name="locHyperVServer.Text" xml:space="preserve">
-    <value>Hyper-V خادم</value>
+    <value>خادم Hyper-V</value>
   </data>
   <data name="locServerName.Text" xml:space="preserve">
     <value>اسم الخادم:</value>
   </data>
   <data name="radioServerLocal.Text" xml:space="preserve">
-    <value>&lt;b&gt; محلي &lt;/ b&gt; - تم تثبيت دور Hyper-V على هذا الخادم</value>
+    <value>&lt;b&gt;محلي&lt;/b&gt; - تم تثبيت دور Hyper-V على هذا الخادم</value>
   </data>
   <data name="radioServerRemote.Text" xml:space="preserve">
-    <value>&lt;b&gt;التحكم عن بعد&lt;/b&gt; - التحكم عن بعد Windows 2008 Server Core أو Hyper-V Server 2008</value>
+    <value>&lt;b&gt;بعيد&lt;/b&gt; - خادم Windows Server Core أو Hyper-V Server بعيد</value>
   </data>
   <data name="ServerNameValidator.ErrorMessage" xml:space="preserve">
     <value>أدخل اسم الخادم</value>
@@ -349,7 +346,7 @@
     <value>&lt;لا تقم بتوصيل VPS بشبكة الإدارة&gt;</value>
   </data>
   <data name="locManagementNetwork.Text" xml:space="preserve">
-    <value>إدارة الشبكة</value>
+    <value>شبكة الإدارة</value>
   </data>
   <data name="locManagementNetworkName.Text" xml:space="preserve">
     <value>الاتصال بالشبكة:</value>
@@ -412,7 +409,7 @@
     <value>تعيين</value>
   </data>
   <data name="CertificateThumbnailValidator.ErrorMessage" xml:space="preserve">
-    <value>أدخل الصورة المصغرة لشهادة SSL</value>
+    <value>أدخل بصمة شهادة SSL</value>
   </data>
   <data name="locCertThumbnail.Text" xml:space="preserve">
     <value>بصمة شهادة SSL:</value>
@@ -421,7 +418,7 @@
     <value>لا يمكن تعيين الخادم كخادم نسخ متماثل باستخدام اسم الخادم الذي تم إدخاله ومسار النسخ المتماثل وشهادة SSL</value>
   </data>
   <data name="locReplicaPath.Text" xml:space="preserve">
-    <value>مسار التكرارات:</value>
+    <value>مسار النسخ المتماثلة:</value>
   </data>
   <data name="locReplication.Text" xml:space="preserve">
     <value>النسخ المتماثل</value>
@@ -439,7 +436,7 @@
     <value>تمكين النسخ المتماثل Hyper-V</value>
   </data>
   <data name="ReplicationModeIsReplicaServer.Text" xml:space="preserve">
-    <value>هذا خادم نسخة طبق الأصل</value>
+    <value>هذا خادم نسخ متماثل</value>
   </data>
   <data name="locEnableReplicaError.Text" xml:space="preserve">
     <value>الرجاء إضافة خادم مع النسخ المتماثل الممكّن وتحديده من القائمة</value>
@@ -451,10 +448,10 @@
     <value>خادم النسخ المتماثل:</value>
   </data>
   <data name="btnAddDvd.Text" xml:space="preserve">
-    <value>أضف DVD</value>
+    <value>إضافة DVD</value>
   </data>
   <data name="btnAddOsTemplate.Text" xml:space="preserve">
-    <value>أضف قالب نظام التشغيل</value>
+    <value>إضافة قالب نظام تشغيل</value>
   </data>
   <data name="btnRemoveDvd.Text" xml:space="preserve">
     <value>إزالة</value>
@@ -496,10 +493,10 @@
     <value>الاسم:</value>
   </data>
   <data name="locProcessVolume.Text" xml:space="preserve">
-    <value>فهرس الحجم المطلوب توسيعه:</value>
+    <value>فهرس وحدة التخزين المطلوب توسيعها:</value>
   </data>
   <data name="locSysprep.Text" xml:space="preserve">
-    <value>Sysprep ملفات (مفصولة بـ ';'):</value>
+    <value>ملفات Sysprep (مفصولة بـ ';'):</value>
   </data>
   <data name="locTemplateFileName.Text" xml:space="preserve">
     <value>اسم الملف (بامتداد):</value>
@@ -517,19 +514,19 @@
     <value>أدخل اسم قالب نظام التشغيل</value>
   </data>
   <data name="valProcessVolume.ErrorMessage" xml:space="preserve">
-    <value>أدخل حجم عملية قالب نظام التشغيل</value>
+    <value>أدخل وحدة التخزين المراد معالجتها لقالب نظام التشغيل</value>
   </data>
   <data name="vcmProcessVolume.ErrorMessage" xml:space="preserve">
-    <value>يجب أن يكون حجم العملية عددًا موجبًا</value>
+    <value>يجب أن يكون رقم وحدة التخزين المراد معالجتها عددًا موجبًا</value>
   </data>
   <data name="btnAddDvdText.Text" xml:space="preserve">
-    <value>أضف DVD</value>
+    <value>إضافة DVD</value>
   </data>
   <data name="btnAddOsTemplateText.Text" xml:space="preserve">
-    <value>أضف قالب نظام التشغيل</value>
+    <value>إضافة قالب نظام تشغيل</value>
   </data>
   <data name="btnConnectText.Text" xml:space="preserve">
-    <value>الاتصال</value>
+    <value>اتصال</value>
   </data>
   <data name="btnRemoveDvdText.Text" xml:space="preserve">
     <value>إزالة</value>
@@ -544,10 +541,10 @@
     <value>يمكنك العثور على مزيد من المعلومات هنا https://docs.microsoft.com/en-us/windows-server/virtualization/hyper-v/deploy/upgrade-virtual-machine-version-in-hyper-v-on-windows-or-windows-server#BKMK_SupportedConfigVersions</value>
   </data>
   <data name="locMaintenanceModeText.Text" xml:space="preserve">
-    <value>إذا تم تمكين وضع الصيانة ، فإنك تقوم بتعطيل تثبيت أو إعادة تثبيت الخوادم للعملاء.</value>
+    <value>إذا تم تمكين وضع الصيانة، فإنك تقوم بتعطيل تثبيت أو إعادة تثبيت الخوادم للعملاء.</value>
   </data>
   <data name="valTemplateGeneration.ErrorMessage" xml:space="preserve">
-    <value>اختر إنشاء قالب نظام التشغيل</value>
+    <value>اختر جيل قالب نظام التشغيل</value>
   </data>
   <data name="locSecureBootTemplate.Text" xml:space="preserve">
     <value>قالب التمهيد الآمن:</value>
@@ -568,13 +565,13 @@
     <value>استخدم نظام مجموعة تجاوز الفشل</value>
   </data>
   <data name="ClusterNameValidator.ErrorMessage" xml:space="preserve">
-    <value>أدخل اسم العنقودية</value>
+    <value>أدخل اسم نظام المجموعة</value>
   </data>
   <data name="locClusterName.Text" xml:space="preserve">
-    <value>اسم العنقودFQDN:</value>
+    <value>اسم FQDN لنظام المجموعة:</value>
   </data>
   <data name="locFailoverCluster.Text" xml:space="preserve">
-    <value>عنقودية تجاوز الفشل</value>
+    <value>نظام مجموعة تجاوز الفشل</value>
   </data>
   <data name="locDiskSize.Text" xml:space="preserve">
     <value>حجم قرص VHD (جيجابايت):</value>

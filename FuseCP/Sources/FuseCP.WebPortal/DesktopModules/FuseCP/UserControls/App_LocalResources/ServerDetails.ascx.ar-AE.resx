@@ -124,10 +124,10 @@
     <value>الاسم:</value>
   </data>
   <data name="Text.Unknown" xml:space="preserve">
-    <value>غير محدود</value>
+    <value>غير معروف</value>
   </data>
   <data name="Text.Virtual" xml:space="preserve">
-    <value>هو افتراضي:</value>
+    <value>افتراضي:</value>
   </data>
   <data name="Text.WindowCaption" xml:space="preserve">
     <value>تفاصيل الخادم</value>

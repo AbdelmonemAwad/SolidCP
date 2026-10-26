@@ -121,7 +121,7 @@
     <value>ShowProgressDialog('إحضار خوادم RDS ...');</value>
   </data>
   <data name="btnAdd.Text" xml:space="preserve">
-    <value>إضافة ...</value>
+    <value>إضافة...</value>
   </data>
   <data name="btnAddSelected.OnClientClick" xml:space="preserve">
     <value>CloseProgressDialog();</value>
@@ -133,7 +133,7 @@
     <value>إضافة خوادم</value>
   </data>
   <data name="btnAddText.Text" xml:space="preserve">
-    <value>إضافة ...</value>
+    <value>إضافة...</value>
   </data>
   <data name="btnCancel.OnClientClick" xml:space="preserve">
     <value>CloseProgressDialog();</value>
@@ -151,7 +151,7 @@
     <value>حذف</value>
   </data>
   <data name="btnRefreshText.Text" xml:space="preserve">
-    <value>اعادة تنشيط</value>
+    <value>تحديث</value>
   </data>
   <data name="btnServerInfoCancel.OnClientClick" xml:space="preserve">
     <value>CloseProgressDialog();</value>
@@ -175,7 +175,7 @@
     <value>اسم الخادم</value>
   </data>
   <data name="gvServers.EmptyDataText" xml:space="preserve">
-    <value>قائمة الخوادم فارغة. انقر فوق الزر "إضافة ...".</value>
+    <value>قائمة الخوادم فارغة. انقر فوق الزر "إضافة...".</value>
   </data>
   <data name="headerAddServers.Text" xml:space="preserve">
     <value>الخوادم الممكّنة</value>
@@ -187,10 +187,10 @@
     <value>إعادة تشغيل</value>
   </data>
   <data name="lbShutdown.Text" xml:space="preserve">
-    <value>ايقاف التشغيل</value>
+    <value>إيقاف التشغيل</value>
   </data>
   <data name="lbViewInfo.OnClientClick" xml:space="preserve">
-    <value>ShowProgressDialog('الحصول على معلومات الخادم ...');</value>
+    <value>ShowProgressDialog('الحصول على معلومات الخادم...');</value>
   </data>
   <data name="lbViewInfo.Text" xml:space="preserve">
     <value>عرض المعلومات</value>
@@ -205,6 +205,6 @@
     <value>الحجم:</value>
   </data>
   <data name="locVolumeName.Text" xml:space="preserve">
-    <value>اسم المجلد:</value>
+    <value>اسم وحدة التخزين:</value>
   </data>
 </root>

@@ -118,13 +118,13 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="lbBandwidthPerHour.Text" xml:space="preserve">
-    <value>عرض الباندويث الصادر في الساعة ، ميجابايت:</value>
+    <value>عرض النطاق الترددي الصادر في الساعة، ميجابايت:</value>
   </data>
   <data name="lbBouncesPerHour.Text" xml:space="preserve">
-    <value>عدد مرات الارتداد المستلمة في الساعة:</value>
+    <value>عدد الرسائل المرتدة المستلمة في الساعة:</value>
   </data>
   <data name="lbEnabled.Text" xml:space="preserve">
-    <value>تمكين</value>
+    <value>مُمكَّن</value>
   </data>
   <data name="lbMessagesPerHour.Text" xml:space="preserve">
     <value>الرسائل الصادرة في الساعة:</value>

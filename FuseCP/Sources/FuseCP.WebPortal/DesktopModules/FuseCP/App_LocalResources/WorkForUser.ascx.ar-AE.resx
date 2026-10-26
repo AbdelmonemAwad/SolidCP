@@ -133,7 +133,7 @@
     <value>اختر المستخدم...</value>
   </data>
   <data name="mnuActions.SwitchLoggedUser" xml:space="preserve">
-    <value>قم بالتبديل إلى المستخدم المسجل</value>
+    <value>التبديل إلى المستخدم المسجّل دخوله</value>
   </data>
   <data name="mnuActions.SwitchReseller" xml:space="preserve">
     <value>قم بالتبديل إلى الموزع</value>
@@ -151,7 +151,7 @@
     <value>نشط</value>
   </data>
   <data name="UserStatus.Cancelled" xml:space="preserve">
-    <value>ألغيت</value>
+    <value>ملغى</value>
   </data>
   <data name="UserStatus.Demo" xml:space="preserve">
     <value>الوضع التجريبي</value>
@@ -160,6 +160,6 @@
     <value>قيد الانتظار</value>
   </data>
   <data name="UserStatus.Suspended" xml:space="preserve">
-    <value>موقوف عن العمل</value>
+    <value>معلّق</value>
   </data>
 </root>

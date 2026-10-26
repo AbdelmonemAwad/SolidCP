@@ -127,7 +127,7 @@
     <value>نوع المصادقة</value>
   </data>
   <data name="lblFolderName.Text" xml:space="preserve">
-    <value>مسار الملف</value>
+    <value>مسار المجلد</value>
   </data>
   <data name="lblFolderTitle.Text" xml:space="preserve">
     <value>اسم المصادقة</value>

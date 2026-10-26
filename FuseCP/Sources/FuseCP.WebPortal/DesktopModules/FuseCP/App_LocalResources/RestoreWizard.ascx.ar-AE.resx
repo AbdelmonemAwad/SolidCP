@@ -148,7 +148,7 @@
     <value>استعادة العناصر</value>
   </data>
   <data name="Text.ServerRestoreMode" xml:space="preserve">
-    <value>استعادة "{0}" الخادم</value>
+    <value>استعادة الخادم "{0}"</value>
   </data>
   <data name="Text.ServiceRestoreMode" xml:space="preserve">
     <value>استعادة الخدمة "{0}"</value>
@@ -157,7 +157,7 @@
     <value>استعادة مساحة الاستضافة "{0}"</value>
   </data>
   <data name="Text.UserRestoreMode" xml:space="preserve">
-    <value>استعادة "{0}" حساب المستخدم</value>
+    <value>استعادة حساب المستخدم "{0}"</value>
   </data>
   <data name="valRequireServerPath.Text" xml:space="preserve">
     <value>*</value>

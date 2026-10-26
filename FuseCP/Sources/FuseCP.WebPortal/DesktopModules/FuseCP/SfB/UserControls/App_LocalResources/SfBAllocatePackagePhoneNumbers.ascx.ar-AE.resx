@@ -118,25 +118,25 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="btnAdd.Text" xml:space="preserve">
-    <value>أضف</value>
+    <value>إضافة</value>
   </data>
   <data name="btnCancel.Text" xml:space="preserve">
     <value>إلغاء</value>
   </data>
   <data name="ExternalAddressesValidator.ErrorMessage" xml:space="preserve">
-    <value>أدخل رقم أرقام الهواتف</value>
+    <value>أدخل عدد أرقام الهواتف</value>
   </data>
   <data name="litMaxAddresses.Text" xml:space="preserve">
     <value>({0} كحد أقصى)</value>
   </data>
   <data name="locExternalAddresses.Text" xml:space="preserve">
-    <value>عدد ارقام الهاتف:</value>
+    <value>عدد أرقام الهواتف:</value>
   </data>
   <data name="locHoldCtrl.Text" xml:space="preserve">
-    <value>* اضغط على مفتاح CTRL لتحديد عناوين متعددة</value>
+    <value>* اضغط مع الاستمرار على مفتاح CTRL لتحديد عدة أرقام هواتف</value>
   </data>
   <data name="locNotEnoughAddresses.Text" xml:space="preserve">
-    <value>مجموعة أرقام الهواتف فارغة. &lt;br/&gt; تخصيص المزيد من أرقام الهواتف على مستوى المورِّد. إذا كانت مساحة الاستضافة الحالية متداخلة ضمن مساحة "النظام" ، فقم بإضافة المزيد من أرقام هواتف الخادم إلى المجموعة المناسبة في صفحة "التكوين -&gt; أرقام الهواتف".</value>
+    <value>مجموعة أرقام الهواتف فارغة. &lt;br/&gt; تخصيص المزيد من أرقام الهواتف على مستوى المورِّد. إذا كانت مساحة الاستضافة الحالية متداخلة ضمن مساحة "النظام"، فقم بإضافة المزيد من أرقام هواتف الخادم إلى المجموعة المناسبة في صفحة "التكوين -&gt; أرقام الهواتف".</value>
   </data>
   <data name="locTitle.Text" xml:space="preserve">
     <value>تخصيص أرقام الهواتف</value>

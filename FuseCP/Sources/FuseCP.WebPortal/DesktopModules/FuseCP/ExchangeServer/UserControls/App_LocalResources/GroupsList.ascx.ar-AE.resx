@@ -118,16 +118,16 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="btnAdd.Text" xml:space="preserve">
-    <value>إضافة ...</value>
+    <value>إضافة...</value>
   </data>
   <data name="btnAddSelected.Text" xml:space="preserve">
-    <value>أضف مجموعة</value>
+    <value>إضافة مجموعات</value>
   </data>
   <data name="btnAddSelectedText.Text" xml:space="preserve">
-    <value>أضف مجموعة</value>
+    <value>إضافة مجموعات</value>
   </data>
   <data name="btnAddText.Text" xml:space="preserve">
-    <value>أضف</value>
+    <value>إضافة</value>
   </data>
   <data name="btnCancel.Text" xml:space="preserve">
     <value>إلغاء</value>
@@ -142,13 +142,13 @@
     <value>حذف</value>
   </data>
   <data name="ddlSearchColumnDisplayName.Text" xml:space="preserve">
-    <value>عرض الاسم </value>
+    <value>الاسم المعروض</value>
   </data>
   <data name="gvGroups.EmptyDataText" xml:space="preserve">
-    <value>قائمة المجموعات فارغة. انقر فوق الزر "إضافة ..." لإضافة مجموعات.</value>
+    <value>قائمة المجموعات فارغة. انقر فوق الزر "إضافة..." لإضافة مجموعات.</value>
   </data>
   <data name="gvGroupsDisplayName.HeaderText" xml:space="preserve">
-    <value>عرض الاسم </value>
+    <value>الاسم المعروض</value>
   </data>
   <data name="gvPopupGroups.EmptyDataText" xml:space="preserve">
     <value>لم يتم العثور على مجموعات.</value>

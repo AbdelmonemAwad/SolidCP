@@ -121,19 +121,19 @@
     <value>تخصيص عناوين IP "مخصصة" تلقائيًا عند إنشاء المساحة</value>
   </data>
   <data name="FilterDialogButton.AlternateText" xml:space="preserve">
-    <value>انقر لتعديل عامل التصفية ...</value>
+    <value>انقر لتعديل عامل التصفية...</value>
   </data>
   <data name="chkGalleryAppsAlwaysIgnoreDependencies.Text" xml:space="preserve">
-    <value>دائما تجاهل التبعيات</value>
+    <value>تجاهل التبعيات دائمًا</value>
   </data>
   <data name="FilterDialogButton.Text" xml:space="preserve">
-    <value>انقر لإنشاء عامل تصفية ...</value>
+    <value>انقر لإنشاء عامل تصفية...</value>
   </data>
   <data name="GalleryFeedFilter.Text" xml:space="preserve">
-    <value>فلتر تغذية المعرض:</value>
+    <value>عامل تصفية موجز المعرض:</value>
   </data>
   <data name="lblADIntegration.Text" xml:space="preserve">
-    <value>Active Directory تكامل:</value>
+    <value>تكامل Active Directory:</value>
   </data>
   <data name="lblAsp11Pool.Text" xml:space="preserve">
     <value>تجمع تطبيقات ASP.NET 1.1:</value>
@@ -154,16 +154,16 @@
     <value>مسار ColdFusion:</value>
   </data>
   <data name="lblFlashRemotingDir.Text" xml:space="preserve">
-    <value>دليل فلاش عن بعد:</value>
+    <value>دليل Flash Remoting:</value>
   </data>
   <data name="lblGalleryFeed.Text" xml:space="preserve">
-    <value>رابط تغذية المعرض :</value>
+    <value>عنوان URL لموجز المعرض:</value>
   </data>
   <data name="lblGroupName.Text" xml:space="preserve">
     <value>اسم مجموعة مستخدمي الويب:</value>
   </data>
   <data name="lblPasswordFilterPath.Text" xml:space="preserve">
-    <value>مسار عامل تصفية كلمة مرور IIS:</value>
+    <value>مسار عامل تصفية IISPassword:</value>
   </data>
   <data name="lblPerlPath.Text" xml:space="preserve">
     <value>مسار Perl القابل للتنفيذ:</value>
@@ -175,16 +175,16 @@
     <value>مسار PHP 5.x القابل للتنفيذ:</value>
   </data>
   <data name="lblProtectedAccessFile.Text" xml:space="preserve">
-    <value>ملف الوصول إلى كلمة مرور IIS:</value>
+    <value>ملف الوصول لـ IISPassword:</value>
   </data>
   <data name="lblProtectedFoldersFile.Text" xml:space="preserve">
-    <value>ملف مجلدات كلمة مرور IIS:</value>
+    <value>ملف المجلدات لـ IISPassword:</value>
   </data>
   <data name="lblProtectedGroupsFile.Text" xml:space="preserve">
-    <value>ملف مجموعات كلمة مرور IIS:</value>
+    <value>ملف المجموعات لـ IISPassword:</value>
   </data>
   <data name="lblProtectedUsersFile.Text" xml:space="preserve">
-    <value>ملف مستخدمي كلمة مرور IIS:</value>
+    <value>ملف المستخدمين لـ IISPassword:</value>
   </data>
   <data name="lblPythonPath.Text" xml:space="preserve">
     <value>مسار بايثون القابل للتنفيذ:</value>
@@ -196,7 +196,7 @@
     <value>عنوان IP المشترك لمواقع الويب:</value>
   </data>
   <data name="lblSharedSslSites.Text" xml:space="preserve">
-    <value>مواقع الويب SSL المشتركة:</value>
+    <value>مواقع الويب ذات SSL المشترك:</value>
   </data>
   <data name="lblWebAppGallery.Text" xml:space="preserve">
     <value>معرض تطبيقات الويب</value>
@@ -205,16 +205,16 @@
     <value>دعم مزارع الويب:</value>
   </data>
   <data name="lclGalleryFeedNote.Text" xml:space="preserve">
-    <value>يمكنك الكتابة فوق موجز ويب ATOM الافتراضي لمعرض تطبيقات الويب الموجود في موقع Microsoft على الويب بنفسك لتوفير تطبيقاتك الخاصة لعملائك. اترك هذا الحقل فارغًا لاستخدام الخلاصة الافتراضية.</value>
+    <value>يمكنك استبدال موجز ATOM الافتراضي لمعرض تطبيقات الويب الموجود على موقع Microsoft بموجز خاص بك لتوفير تطبيقاتك الخاصة لعملائك. اترك هذا الحقل فارغًا لاستخدام الموجز الافتراضي.</value>
   </data>
   <data name="secAspNet.Text" xml:space="preserve">
     <value>ASP.NET</value>
   </data>
   <data name="secIISpassword.Text" xml:space="preserve">
-    <value>كلمة مرور IIS</value>
+    <value>IISPassword</value>
   </data>
   <data name="secOther.Text" xml:space="preserve">
-    <value>اعدادات اخرى</value>
+    <value>إعدادات أخرى</value>
   </data>
   <data name="secPools.Text" xml:space="preserve">
     <value>تجمعات التطبيقات</value>
@@ -232,7 +232,7 @@
     <value>تجمع تطبيقات ASP.NET 4.0:</value>
   </data>
   <data name="ipAddress.SelectValueText" xml:space="preserve">
-    <value>&lt;جميع غير المعينين&gt;</value>
+    <value>&lt;كل العناوين غير المعيّنة&gt;</value>
   </data>
   <data name="txtPublicSharedIP.Text" xml:space="preserve">
     <value>العنوان العام المشترك لمواقع الويب:</value>
@@ -241,7 +241,7 @@
     <value>إلغاء</value>
   </data>
   <data name="btnchangefilterText.Text" xml:space="preserve">
-    <value>تغيير فلتر</value>
+    <value>تغيير عامل التصفية</value>
   </data>
   <data name="btnokText.Text" xml:space="preserve">
     <value>تنفيذ</value>

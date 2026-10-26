@@ -118,22 +118,22 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="btnAdd.OnClientClick" xml:space="preserve">
-    <value>ShowProgressDialog('الحصول على التطبيقات البعيدة ...');</value>
+    <value>ShowProgressDialog('الحصول على التطبيقات البعيدة...');</value>
   </data>
   <data name="btnAdd.Text" xml:space="preserve">
-    <value>إضافة ...</value>
+    <value>إضافة...</value>
   </data>
   <data name="btnAddSelected.OnClientClick" xml:space="preserve">
     <value>CloseProgressDialog();</value>
   </data>
   <data name="btnAddSelected.Text" xml:space="preserve">
-    <value>أضف تطبيقات</value>
+    <value>إضافة تطبيقات</value>
   </data>
   <data name="btnAddSelectedText.Text" xml:space="preserve">
-    <value>أضف تطبيقات</value>
+    <value>إضافة تطبيقات</value>
   </data>
   <data name="btnAddText.Text" xml:space="preserve">
-    <value>إضافة ...</value>
+    <value>إضافة...</value>
   </data>
   <data name="btnCancel.OnClientClick" xml:space="preserve">
     <value>CloseProgressDialog();</value>
@@ -154,7 +154,7 @@
     <value>اسم التطبيق البعيد</value>
   </data>
   <data name="gvApps.EmptyDataText" xml:space="preserve">
-    <value>قائمة التطبيقات البعيدة فارغة. انقر فوق الزر "إضافة ...".</value>
+    <value>قائمة التطبيقات البعيدة فارغة. انقر فوق الزر "إضافة...".</value>
   </data>
   <data name="gvPopupAppName.HeaderText" xml:space="preserve">
     <value>اسم التطبيق البعيد</value>
@@ -166,6 +166,6 @@
     <value>التطبيقات البعيدة المتوفرة</value>
   </data>
   <data name="lnkDisplayName" xml:space="preserve">
-    <value>ShowProgressDialog('جار التحميل ...');</value>
+    <value>ShowProgressDialog('جار التحميل...');</value>
   </data>
 </root>

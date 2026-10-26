@@ -121,16 +121,16 @@
     <value>سجلات DNS العالمية</value>
   </data>
   <data name="lnkExchangeServer.Text" xml:space="preserve">
-    <value>Exchange خادم</value>
+    <value>خادم Exchange</value>
   </data>
   <data name="lnkPreviewDomain.Text" xml:space="preserve">
-    <value>معاينة النطاق</value>
+    <value>نطاق المعاينة</value>
   </data>
   <data name="lnkNameServers.Text" xml:space="preserve">
-    <value>اسماء الخوادم</value>
+    <value>خوادم الأسماء</value>
   </data>
   <data name="lnkPackagesFolder.Text" xml:space="preserve">
-    <value>موقع المساحة الفرعية</value>
+    <value>موقع المساحات الفرعية</value>
   </data>
   <data name="lnkSharedSSL.Text" xml:space="preserve">
     <value>مواقع SSL المشتركة</value>

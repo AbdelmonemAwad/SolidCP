@@ -118,7 +118,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="btnAddItem.Text" xml:space="preserve">
-    <value>أضف الخادم الافتراضي</value>
+    <value>إضافة خادم افتراضي</value>
   </data>
   <data name="lblEmptyList.Text" xml:space="preserve">
     <value>قائمة الخوادم الافتراضية فارغة. انقر فوق الزر "إضافة خادم افتراضي" لإنشاء خادم افتراضي جديد.</value>

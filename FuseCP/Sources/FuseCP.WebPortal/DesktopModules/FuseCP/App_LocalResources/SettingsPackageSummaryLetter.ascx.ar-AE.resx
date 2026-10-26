@@ -145,6 +145,6 @@
     <value>موضوع:</value>
   </data>
   <data name="lblTextBody.Text" xml:space="preserve">
-    <value>هيئة النص:</value>
+    <value>النص العادي:</value>
   </data>
 </root>

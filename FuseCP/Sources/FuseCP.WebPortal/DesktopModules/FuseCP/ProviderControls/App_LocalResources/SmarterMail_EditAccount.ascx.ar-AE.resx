@@ -130,7 +130,7 @@
     <value>نعم</value>
   </data>
   <data name="lblFirstName.Text" xml:space="preserve">
-    <value>الاسم الأول: </value>
+    <value>الاسم الأول:</value>
   </data>
   <data name="lblForwardTo.Text" xml:space="preserve">
     <value>إعادة توجيه البريد إلى العنوان:</value>

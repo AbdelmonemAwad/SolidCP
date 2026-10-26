@@ -121,13 +121,13 @@
     <value>تشغيل في الخلفية</value>
   </data>
   <data name="btnCloseProgressDialog.Text" xml:space="preserve">
-    <value>اغلاق</value>
+    <value>إغلاق</value>
   </data>
   <data name="lblDuration.Text" xml:space="preserve">
     <value>المدة:</value>
   </data>
   <data name="lblStarted.Text" xml:space="preserve">
-    <value>بدأت:</value>
+    <value>البدء:</value>
   </data>
   <data name="lblTitle.Text" xml:space="preserve">
     <value>يرجى الانتظار...</value>
@@ -136,7 +136,7 @@
     <value>تم الانتهاء من المهمة</value>
   </data>
   <data name="Text.GenericTitle" xml:space="preserve">
-    <value>تشغيل...</value>
+    <value>جارٍ التشغيل...</value>
   </data>
   <data name="btnCancelProgressDialogText.Text" xml:space="preserve">
     <value>تشغيل في الخلفية</value>

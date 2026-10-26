@@ -118,7 +118,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="btnSave.OnClientClick" xml:space="preserve">
-    <value>ShowProgressDialog('جارٍ تحديث إعدادات الاتصال ...');</value>
+    <value>ShowProgressDialog('جارٍ تحديث إعدادات جهة الاتصال...');</value>
   </data>
   <data name="btnSave.Text" xml:space="preserve">
     <value>حفظ التغييرات</value>
@@ -127,7 +127,7 @@
     <value>إخفاء من دفتر العناوين</value>
   </data>
   <data name="locAddress.Text" xml:space="preserve">
-    <value>عنوان</value>
+    <value>العنوان:</value>
   </data>
   <data name="locBusinessPhone.Text" xml:space="preserve">
     <value>هاتف العمل:</value>
@@ -145,7 +145,7 @@
     <value>قسم:</value>
   </data>
   <data name="locDisplayName.Text" xml:space="preserve">
-    <value>عرض الاسم : *</value>
+    <value>الاسم المعروض:</value>
   </data>
   <data name="locEmail.Text" xml:space="preserve">
     <value>عنوان البريد الإلكتروني: *</value>
@@ -154,7 +154,7 @@
     <value>الفاكس:</value>
   </data>
   <data name="locFirstName.Text" xml:space="preserve">
-    <value>الاسم الأول: </value>
+    <value>الاسم الأول:</value>
   </data>
   <data name="locName.Text" xml:space="preserve">
     <value>الاسم:</value>
@@ -163,7 +163,7 @@
     <value>هاتف المنزل:</value>
   </data>
   <data name="locJobTitle.Text" xml:space="preserve">
-    <value>أسم المهمة:</value>
+    <value>المسمى الوظيفي:</value>
   </data>
   <data name="locLastName.Text" xml:space="preserve">
     <value>اسم العائلة:</value>
@@ -178,7 +178,7 @@
     <value>الهاتف المحمول:</value>
   </data>
   <data name="locNotes.Text" xml:space="preserve">
-    <value>ملاحظات</value>
+    <value>ملاحظات:</value>
   </data>
   <data name="locPager.Text" xml:space="preserve">
     <value>جهاز النداء:</value>
@@ -202,7 +202,7 @@
     <value>استخدام الإعدادات الافتراضية</value>
   </data>
   <data name="MAPIRichTextFormat.Never" xml:space="preserve">
-    <value>جديد</value>
+    <value>أبدًا</value>
   </data>
   <data name="secAddressInfo.Text" xml:space="preserve">
     <value>عنوان</value>
@@ -217,19 +217,19 @@
     <value>جهات الاتصال</value>
   </data>
   <data name="valCorrectEmail.ErrorMessage" xml:space="preserve">
-    <value>الرجاء إدخال عنوان البريد الإلكتروني الصحيح ، على سبيل المثال someone@fusecp.com</value>
+    <value>الرجاء إدخال عنوان البريد الإلكتروني الصحيح، على سبيل المثال someone@fusecp.com</value>
   </data>
   <data name="valCorrectEmail.Text" xml:space="preserve">
     <value>*</value>
   </data>
   <data name="valRequireAccount.ErrorMessage" xml:space="preserve">
-    <value>أدخل عنوان البريد الالكتروني</value>
+    <value>أدخل عنوان البريد الإلكتروني</value>
   </data>
   <data name="valRequireAccount.Text" xml:space="preserve">
     <value>*</value>
   </data>
   <data name="valRequireDisplayName.ErrorMessage" xml:space="preserve">
-    <value>أدخل اسم العرض</value>
+    <value>أدخل الاسم المعروض</value>
   </data>
   <data name="valRequireDisplayName.Text" xml:space="preserve">
     <value>*</value>

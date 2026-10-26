@@ -139,7 +139,7 @@
     <value>الحالة</value>
   </data>
   <data name="lnkOverusageReport.Text" xml:space="preserve">
-    <value>تقرير الإفراط</value>
+    <value>تقرير الاستخدام الزائد</value>
   </data>
   <data name="chkDefaultSpace.Text" xml:space="preserve">
     <value>المساحة الافتراضية</value>
@@ -154,6 +154,6 @@
     <value>تعليق</value>
   </data>
   <data name="lblSuspendedDate.Text" xml:space="preserve">
-    <value>موقوف عن العمل:</value>
+    <value>معلّق:</value>
   </data>
 </root>

@@ -118,10 +118,10 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="FormComments.Text" xml:space="preserve">
-    <value>&lt;p&gt; يعرض النموذج قائمة عناوين IP من تجمع "VM External Network" المخصص لمساحة الاستضافة. بدلاً من ذلك ، يمكن اعتبار هذا النموذج "خريطة" لعناوين IP الخارجية وتخصيصاتها للأجهزة الافتراضية. &lt;/ p&gt; &lt;p&gt; إذا تم تعيين أي IP بالفعل لبعض الأجهزة الافتراضية ، فسيكون هناك اسم مضيف VM في "العنصر name ". &lt;/p&gt; &lt;p&gt; إذا كان هناك الكثير من VPS في مساحة الاستضافة ، يمكنك البحث عنها بسهولة عن طريق IP الخارجي الخاص بها. &lt;/ p&gt; &lt;p&gt; توضح حصة" عدد عناوين IP "الحد الأقصى لعدد عناوين IP الخارجية التي يمكن تخصيصها لهذه المساحة. &lt;/ p&gt;</value>
+    <value>&lt;p&gt;يعرض النموذج قائمة عناوين IP من تجمع "VM External Network" المخصصة لمساحة الاستضافة. ويمكن اعتبار هذا النموذج أيضًا "خريطة" لعناوين IP الخارجية وتعييناتها للأجهزة الافتراضية.&lt;/p&gt;&lt;p&gt;إذا كان أي عنوان IP معيّنًا بالفعل لجهاز افتراضي، فسيظهر اسم مضيف VM في عمود "اسم العنصر".&lt;/p&gt;&lt;p&gt;إذا كان هناك الكثير من خوادم VPS في مساحة الاستضافة، يمكنك البحث عنها بسهولة بواسطة عنوان IP الخارجي.&lt;/p&gt;&lt;p&gt;تُظهر حصة "عدد عناوين IP" الحد الأقصى لعدد عناوين IP الخارجية التي يمكن تخصيصها لهذه المساحة.&lt;/p&gt;</value>
   </data>
   <data name="locBandwidthQuota.Text" xml:space="preserve">
-    <value>الباندويث ، جيجابايت:</value>
+    <value>عرض النطاق الترددي، جيجابايت:</value>
   </data>
   <data name="locIPQuota.Text" xml:space="preserve">
     <value>عدد عناوين IP:</value>

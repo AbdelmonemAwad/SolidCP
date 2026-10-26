@@ -127,9 +127,9 @@
     <value>return confirm('إلغاء تثبيت الحزمة؟');</value>
   </data>
   <data name="btnUninstall.Text" xml:space="preserve">
-    <value>الغاء التثبيت</value>
+    <value>إلغاء التثبيت</value>
   </data>
   <data name="btnUninstallText.Text" xml:space="preserve">
-    <value>الغاء التثبيت</value>
+    <value>إلغاء التثبيت</value>
   </data>
 </root>

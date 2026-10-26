@@ -121,7 +121,7 @@
     <value>نعم</value>
   </data>
   <data name="lblADIntegration.Text" xml:space="preserve">
-    <value>Active Directory تكامل:</value>
+    <value>تكامل Active Directory:</value>
   </data>
   <data name="lblExclusiveNTLM.Text" xml:space="preserve">
     <value>استخدم مصادقة NTLM فقط</value>

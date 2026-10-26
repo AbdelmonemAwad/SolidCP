@@ -118,37 +118,37 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="btnCreate.Text" xml:space="preserve">
-    <value>إنشاء منظمة جديدة</value>
+    <value>إنشاء مؤسسة جديدة</value>
   </data>
   <data name="chkRecursive.Text" xml:space="preserve">
     <value>إظهار عناصر المساحات المتداخلة</value>
   </data>
   <data name="cmdDelete.OnClientClick" xml:space="preserve">
-    <value>if(!confirm('هل أنت متأكد أنك تريد حذف المنظمة؟')) return false; else ShowProgressDialog('جارٍ حذف المؤسسة ...');</value>
+    <value>if(!confirm('هل أنت متأكد أنك تريد حذف المؤسسة؟')) return false; else ShowProgressDialog('جارٍ حذف المؤسسة...');</value>
   </data>
   <data name="cmdDelete.Text" xml:space="preserve">
     <value>حذف</value>
   </data>
   <data name="cmdDelete.ToolTip" xml:space="preserve">
-    <value>حذف المنظمة</value>
+    <value>حذف المؤسسة</value>
   </data>
   <data name="ddlSearchColumnItemName.Text" xml:space="preserve">
-    <value>اسم المنظمة</value>
+    <value>اسم المؤسسة</value>
   </data>
   <data name="ddlSearchColumnUsername.Text" xml:space="preserve">
     <value>اسم مستخدم المالك</value>
   </data>
   <data name="gvOrgs.EmptyDataText" xml:space="preserve">
-    <value>لم يتم إنشاء أي منظمات. لإنشاء منظمة جديدة انقر فوق الزر "إنشاء منظمة جديدة".</value>
+    <value>لم يتم إنشاء أي مؤسسات. لإنشاء مؤسسة جديدة انقر فوق الزر "إنشاء مؤسسة جديدة".</value>
   </data>
   <data name="gvOrgsCreated.HeaderText" xml:space="preserve">
-    <value>تم إنشاؤه:</value>
+    <value>تم إنشاؤه</value>
   </data>
   <data name="gvOrgsID.HeaderText" xml:space="preserve">
     <value>المعرف</value>
   </data>
   <data name="gvOrgsName.HeaderText" xml:space="preserve">
-    <value>اسم المنظمة</value>
+    <value>اسم المؤسسة</value>
   </data>
   <data name="gvOrgsSpace.HeaderText" xml:space="preserve">
     <value>مساحة الاستضافة</value>
@@ -157,22 +157,22 @@
     <value>المالك</value>
   </data>
   <data name="locQuota.Text" xml:space="preserve">
-    <value>إجمالي المنظمات المنشأة:</value>
+    <value>إجمالي المؤسسات المنشأة:</value>
   </data>
   <data name="locTitle.Text" xml:space="preserve">
-    <value>المنظمات</value>
+    <value>المؤسسات</value>
   </data>
   <data name="Text.PageName" xml:space="preserve">
-    <value>الرئيسيه </value>
+    <value>الرئيسية</value>
   </data>
   <data name="gvOrgsDefault.HeaderText" xml:space="preserve">
-    <value>الإفتراضي</value>
+    <value>الافتراضي</value>
   </data>
   <data name="btnSetDefaultOrganization.Text" xml:space="preserve">
     <value>تعيين المؤسسة الافتراضية</value>
   </data>
   <data name="btnCreateText.Text" xml:space="preserve">
-    <value>إنشاء منظمة جديدة</value>
+    <value>إنشاء مؤسسة جديدة</value>
   </data>
   <data name="btnSetDefaultOrganizationText.Text" xml:space="preserve">
     <value>تعيين المؤسسة الافتراضية</value>

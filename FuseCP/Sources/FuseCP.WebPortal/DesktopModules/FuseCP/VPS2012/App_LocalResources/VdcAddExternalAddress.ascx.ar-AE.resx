@@ -118,7 +118,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="FormComments.Text" xml:space="preserve">
-    <value>&lt;p&gt; يسمح النموذج بتخصيص عناوين IP خارجية إضافية لمساحة الاستضافة هذه. تُستخدم عناوين IP هذه لتكوين محول شبكة VPS المتصل بالشبكة الخارجية. &lt;/ p&gt; &lt;p&gt; تبحث وحدة VPS عن عناوين IP خارجية مجانية في تجمع "VPS External Network" ، لذلك يجب على مسؤول FuseCP التأكد من وجود عدد كافٍ من عناوين IP غير المخصصة في هذا التجمع. &lt;/ p&gt;</value>
+    <value>&lt;p&gt;يتيح هذا النموذج تخصيص عناوين IP خارجية إضافية لمساحة الاستضافة هذه. تُستخدم عناوين IP هذه لتكوين محول شبكة VPS المتصل بالشبكة الخارجية.&lt;/p&gt;&lt;p&gt;تبحث وحدة VPS عن عناوين IP خارجية شاغرة في تجمع "VPS External Network"، لذا يجب على مسؤول FuseCP التأكد من وجود عدد كافٍ من عناوين IP غير المخصصة في هذا التجمع.&lt;/p&gt;</value>
   </data>
   <data name="locTitle.Text" xml:space="preserve">
     <value>تخصيص عناوين IP</value>

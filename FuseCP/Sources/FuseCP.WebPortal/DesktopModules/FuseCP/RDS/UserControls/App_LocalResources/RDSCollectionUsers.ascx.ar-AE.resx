@@ -118,7 +118,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="btnAdd.Text" xml:space="preserve">
-    <value>إضافة ...</value>
+    <value>إضافة...</value>
   </data>
   <data name="btnAddSelected.Text" xml:space="preserve">
     <value>إضافة حسابات</value>
@@ -127,7 +127,7 @@
     <value>إضافة حسابات</value>
   </data>
   <data name="btnAddText.Text" xml:space="preserve">
-    <value>إضافة ...</value>
+    <value>إضافة...</value>
   </data>
   <data name="btnCancel.Text" xml:space="preserve">
     <value>إلغاء</value>
@@ -148,13 +148,13 @@
     <value>حذف</value>
   </data>
   <data name="ddlSearchColumnDisplayName.Text" xml:space="preserve">
-    <value>عرض الاسم </value>
+    <value>الاسم المعروض</value>
   </data>
   <data name="ddlSearchColumnEmail.Text" xml:space="preserve">
     <value>عنوان البريد الإلكتروني</value>
   </data>
   <data name="gvAccountsDisplayName.HeaderText" xml:space="preserve">
-    <value>عرض الاسم </value>
+    <value>الاسم المعروض</value>
   </data>
   <data name="gvAccountsEmail.HeaderText" xml:space="preserve">
     <value>بريد إلكتروني</value>
@@ -166,13 +166,13 @@
     <value>لم يتم العثور على حسابات.</value>
   </data>
   <data name="gvUsers.EmptyDataText" xml:space="preserve">
-    <value>قائمة المستخدمين فارغة. انقر فوق الزر "إضافة ...".</value>
+    <value>قائمة المستخدمين فارغة. انقر فوق الزر "إضافة...".</value>
   </data>
   <data name="gvUsersAccount.HeaderText" xml:space="preserve">
     <value>المستخدمون</value>
   </data>
   <data name="headerAddAccounts.Text" xml:space="preserve">
-    <value>تمكين المستخدمين</value>
+    <value>المستخدمون الممكَّنون</value>
   </data>
   <data name="headerDeleteWarning.Text" xml:space="preserve">
     <value>تحذير</value>
@@ -181,6 +181,6 @@
     <value>تعليمات الإعداد</value>
   </data>
   <data name="locDeleteWarning.Text" xml:space="preserve">
-    <value>غير قادر على إزالة المستخدم (المستخدمين) التاليين لأنهم مشرفون محليون &lt;br/&gt; أو تم منحهم حق الوصول إلى التطبيقات البعيدة</value>
+    <value>تعذّرت إزالة المستخدمين التالين لأنهم مسؤولون محليون&lt;br/&gt;أو تم منحهم حق الوصول إلى التطبيقات البعيدة</value>
   </data>
 </root>

@@ -136,7 +136,7 @@
     <value>عرض السجلات</value>
   </data>
   <data name="btnExportLog.Text" xml:space="preserve">
-    <value>استخراج السجل</value>
+    <value>تصدير السجل</value>
   </data>
   <data name="ddlSeverityItem.All" xml:space="preserve">
     <value>&lt;الكل&gt;</value>
@@ -169,7 +169,7 @@
     <value>التاريخ</value>
   </data>
   <data name="gvLogStartTime.Header" xml:space="preserve">
-    <value>بدأت</value>
+    <value>البدء</value>
   </data>
   <data name="gvLogTask.Header" xml:space="preserve">
     <value>المهمة</value>
@@ -187,7 +187,7 @@
     <value>سجل التنفيذ:</value>
   </data>
   <data name="lblFinished.Text" xml:space="preserve">
-    <value>منتهي</value>
+    <value>منتهي:</value>
   </data>
   <data name="lblItemName.Text" xml:space="preserve">
     <value>اسم العنصر</value>
@@ -211,7 +211,7 @@
     <value>المصدر:</value>
   </data>
   <data name="lblStarted.Text" xml:space="preserve">
-    <value>بدأت:</value>
+    <value>البدء:</value>
   </data>
   <data name="lblTask.Text" xml:space="preserve">
     <value>المهمة</value>

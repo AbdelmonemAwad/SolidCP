@@ -118,7 +118,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="CompleteSetupButton.Text" xml:space="preserve">
-    <value>الإعداد الكامل</value>
+    <value>إكمال الإعداد</value>
   </data>
   <data name="lblPassword.Text" xml:space="preserve">
     <value>كلمة المرور:</value>
@@ -127,6 +127,6 @@
     <value>اسم المستخدم:</value>
   </data>
   <data name="FcpaProcedureDescription.Text" xml:space="preserve">
-    <value>يرجى إعداد كلمات المرور لحسابات FuseCP "serveradmin" و "admin".&lt;br/&gt;&lt;br/&gt;&lt;b&gt;Serveradmin&lt;/b&gt; هو حساب مسؤول لوحة التحكم. باستخدام هذا الحساب ، يمكنك إدارة جميع الخوادم والخدمات الخاصة بك ، وإنشاء خطط استضافة جديدة وحسابات العملاء ، سواء الموزعين والمستخدمين.&lt;br/&gt;&lt;br/&gt;&lt;b&gt;Admin&lt;/b&gt;هو حساب موزع تم تكوينه مسبقًا بخطة استضافة غير محدودة لإدارة الخادم المحلي حيث يتم تثبيت لوحة التحكم.</value>
+    <value>يرجى إعداد كلمات المرور لحسابَي FuseCP "serveradmin" و"admin".&lt;br/&gt;&lt;br/&gt;&lt;b&gt;Serveradmin&lt;/b&gt; هو حساب مسؤول لوحة التحكم. باستخدام هذا الحساب، يمكنك إدارة جميع الخوادم والخدمات الخاصة بك، وإنشاء خطط استضافة جديدة وحسابات العملاء، سواء الموزعين أو المستخدمين.&lt;br/&gt;&lt;br/&gt;&lt;b&gt;Admin&lt;/b&gt; هو حساب موزع مُعدّ مسبقًا بخطة استضافة غير محدودة لإدارة الخادم المحلي المثبتة عليه لوحة التحكم.</value>
   </data>
 </root>

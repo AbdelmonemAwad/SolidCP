@@ -127,11 +127,7 @@
     <value>التثبيت على الدليل الافتراضي:</value>
   </data>
   <data name="lblLeaveThisFieldBlank.Text" xml:space="preserve">
-    <value>اترك هذا الحقل فارغًا إذا كنت تريد تثبيت التطبيق فيه 
-      جذر موقع الويب (سيكون في متناول http://www.yourdomain.com).&lt;br&gt;
-      خلاف ذلك ، حدد اسم الدليل الافتراضي لتثبيت التطبيق 
-      في (سيكون في متناول http://www.yourdomain.com/directory_name).  
-      يمكنك تحديد اسم الدليل الموجود أيضًا.</value>
+    <value>اترك هذا الحقل فارغًا إذا كنت تريد تثبيت التطبيق في جذر موقع الويب (سيكون متاحًا عبر http://www.yourdomain.com).&lt;br&gt; بخلاف ذلك، حدد اسم الدليل الافتراضي الذي سيُثبَّت فيه التطبيق (سيكون متاحًا عبر http://www.yourdomain.com/directory_name). يمكنك أيضًا تحديد اسم دليل موجود.</value>
   </data>
   <data name="secDatabase.Text" xml:space="preserve">
     <value>قاعدة البيانات</value>
@@ -140,13 +136,13 @@
     <value>لا يتطلب هذا التطبيق أي قاعدة بيانات.</value>
   </data>
   <data name="lblMicrosoftSQLServerDatabase.Text" xml:space="preserve">
-    <value>يتطلب هذا التطبيق &lt;b&gt;Microsoft SQL خادم&lt;/b&gt; قاعدة البيانات.</value>
+    <value>يتطلب هذا التطبيق قاعدة بيانات &lt;b&gt;Microsoft SQL Server&lt;/b&gt;.</value>
   </data>
   <data name="lblMySQLServerDatabase.Text" xml:space="preserve">
-    <value>يتطلب هذا التطبيق &lt;b&gt;MySQL خادم&lt;/b&gt; قاعدة البيانات.</value>
+    <value>يتطلب هذا التطبيق قاعدة بيانات &lt;b&gt;MySQL Server&lt;/b&gt;.</value>
   </data>
   <data name="lblMariaDBDatabase.Text" xml:space="preserve">
-    <value>يتطلب هذا التطبيق &lt;b&gt;MariaDB خادم&lt;/b&gt; قاعدة البيانات.</value>
+    <value>يتطلب هذا التطبيق قاعدة بيانات &lt;b&gt;MariaDB Server&lt;/b&gt;.</value>
   </data>
   <data name="lblDatabase.Text" xml:space="preserve">
     <value>قاعدة البيانات:</value>
@@ -164,7 +160,7 @@
     <value>مستخدم جديد</value>
   </data>
   <data name="lblEnterUserName.Text" xml:space="preserve">
-    <value>ادخل اسم المستخدم:</value>
+    <value>أدخل اسم المستخدم:</value>
   </data>
   <data name="lblSelectUserName.Text" xml:space="preserve">
     <value>حدد اسم المستخدم:</value>

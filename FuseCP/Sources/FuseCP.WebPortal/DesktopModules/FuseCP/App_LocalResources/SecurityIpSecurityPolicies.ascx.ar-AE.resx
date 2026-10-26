@@ -59,25 +59,25 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="chkServerAdminAccess.ToolTip" xml:space="preserve">
-    <value>يسمح لهذا العنوان أو النطاق الفرعي بالوصول إلى صفحات البوابة الخاصة بمسؤول الخادم عند إدراجه في القائمة المسموح بها.</value>
+    <value>يسمح لهذا العنوان أو الشبكة الفرعية بالوصول إلى صفحات البوابة الخاصة بمسؤول الخادم عند إدراجه في القائمة المسموح بها.</value>
   </data>
   <data name="lblServerAdminAccess.Text" xml:space="preserve">
     <value>مسؤول الخادم</value>
   </data>
   <data name="lblServerAdminAccess.ToolTip" xml:space="preserve">
-    <value>يسمح لهذا العنوان أو النطاق الفرعي بالوصول إلى صفحات البوابة الخاصة بمسؤول الخادم عند إدراجه في القائمة المسموح بها.</value>
+    <value>يسمح لهذا العنوان أو الشبكة الفرعية بالوصول إلى صفحات البوابة الخاصة بمسؤول الخادم عند إدراجه في القائمة المسموح بها.</value>
   </data>
   <data name="btnBlock.ToolTip" xml:space="preserve">
-    <value>حظر هذا العنوان أو النطاق الفرعي</value>
+    <value>حظر هذا العنوان أو الشبكة الفرعية</value>
   </data>
   <data name="btnWhitelist.ToolTip" xml:space="preserve">
-    <value>إضافة هذا العنوان أو النطاق الفرعي إلى القائمة المسموح بها</value>
+    <value>إضافة هذا العنوان أو الشبكة الفرعية إلى القائمة المسموح بها</value>
   </data>
   <data name="locBlockButtonText.Text" xml:space="preserve">
     <value>حظر</value>
   </data>
   <data name="locWhitelistButtonText.Text" xml:space="preserve">
-    <value>قائمة السماح</value>
+    <value>إضافة إلى قائمة السماح</value>
   </data>
   <data name="litActionHelp.Text" xml:space="preserve">
     <value>فعّل خيار مسؤول الخادم قبل الإضافة إلى القائمة المسموح بها إذا كان هذا العنوان يجب أن يصل أيضاً إلى صفحات البوابة الخاصة بمسؤول الخادم. ويمكنك تغيير ذلك أو إزالته لاحقاً من القائمة أدناه.</value>
@@ -89,7 +89,7 @@
     <value>تبديل حالة القاعدة</value>
   </data>
   <data name="PolicyType.Whitelist" xml:space="preserve">
-    <value>قائمة السماح</value>
+    <value>إضافة إلى قائمة السماح</value>
   </data>
   <data name="PolicyType.Block" xml:space="preserve">
     <value>حظر</value>
@@ -107,7 +107,7 @@
     <value>تعطيل هذه القاعدة</value>
   </data>
   <data name="ServerAdminAccess.Enabled.ToolTip" xml:space="preserve">
-    <value>يسمح لهذا العنوان أو النطاق الفرعي المدرج في القائمة المسموح بها بالوصول إلى صفحات البوابة الخاصة بمسؤول الخادم فقط.</value>
+    <value>يسمح لهذا العنوان أو الشبكة الفرعية المدرجة في القائمة المسموح بها بالوصول إلى صفحات البوابة الخاصة بمسؤول الخادم فقط.</value>
   </data>
   <data name="ServerAdminAccess.Disabled.ToolTip" xml:space="preserve">
     <value>فعّل قاعدة القائمة المسموح بها أولاً قبل منح الوصول إلى صفحات مسؤول الخادم.</value>

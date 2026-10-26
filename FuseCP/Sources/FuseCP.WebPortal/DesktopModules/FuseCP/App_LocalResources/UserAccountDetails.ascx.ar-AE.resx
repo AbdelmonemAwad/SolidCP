@@ -145,12 +145,12 @@
     <value>دور:</value>
   </data>
   <data name="locUpdated.Text" xml:space="preserve">
-    <value>محدث:</value>
+    <value>آخر تحديث:</value>
   </data>
   <data name="StatusHeader.Text" xml:space="preserve">
     <value>الحالة</value>
   </data>
   <data name="locSubscriberNumber.Text" xml:space="preserve">
-    <value>رقم حساب:</value>
+    <value>رقم الحساب:</value>
   </data>
 </root>

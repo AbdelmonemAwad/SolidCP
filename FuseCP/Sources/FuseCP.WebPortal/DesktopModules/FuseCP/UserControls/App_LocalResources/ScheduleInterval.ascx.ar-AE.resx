@@ -124,9 +124,9 @@
     <value>ساعات</value>
   </data>
   <data name="ddlUnitsItem.Minutes" xml:space="preserve">
-    <value>Minutes</value>
+    <value>دقائق</value>
   </data>
   <data name="ddlUnitsItem.Seconds" xml:space="preserve">
-    <value>ثواني</value>
+    <value>ثوانٍ</value>
   </data>
 </root>

@@ -118,7 +118,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="DomainFormatValidator.ErrorMessage" xml:space="preserve">
-    <value>الرجاء إدخال اسم النطاق الصحيح ، على سبيل المثال "mydomain.com" أو "sub.mydomain.com".</value>
+    <value>الرجاء إدخال اسم نطاق صحيح، على سبيل المثال "mydomain.com" أو "sub.mydomain.com".</value>
   </data>
   <data name="DomainFormatValidator.Text" xml:space="preserve">
     <value>*</value>

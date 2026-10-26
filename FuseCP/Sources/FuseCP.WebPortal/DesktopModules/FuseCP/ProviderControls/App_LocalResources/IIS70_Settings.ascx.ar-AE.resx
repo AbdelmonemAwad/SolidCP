@@ -118,7 +118,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="lblADIntegration.Text" xml:space="preserve">
-    <value>Active Directory تكامل:</value>
+    <value>تكامل Active Directory:</value>
   </data>
   <data name="lblAsp11Pool.Text" xml:space="preserve">
     <value>ASP.NET 1.1:</value>
@@ -145,13 +145,13 @@
     <value>مسار مكتبة ASP:</value>
   </data>
   <data name="lblPhpPath.Text" xml:space="preserve">
-    <value>مسار PHP 5.x القابل للتنفيذ:</value>
+    <value>مسار PHP القابل للتنفيذ (قديم - يوصى باستخدام PHP Manager):</value>
   </data>
   <data name="lblSharedIP.Text" xml:space="preserve">
     <value>عنوان IP المشترك لمواقع الويب:</value>
   </data>
   <data name="lblSharedSslSites.Text" xml:space="preserve">
-    <value>مواقع الويب SSL المشتركة:</value>
+    <value>مواقع الويب ذات SSL المشترك:</value>
   </data>
   <data name="lblWebFarms.Text" xml:space="preserve">
     <value>دعم مزارع الويب:</value>
@@ -163,7 +163,7 @@
     <value>ASP.NET</value>
   </data>
   <data name="secOther.Text" xml:space="preserve">
-    <value>اعدادات اخرى</value>
+    <value>إعدادات أخرى</value>
   </data>
   <data name="secPools.Text" xml:space="preserve">
     <value>تجمعات التطبيقات</value>
@@ -175,13 +175,13 @@
     <value>ملحقات الويب</value>
   </data>
   <data name="lblGalleryFeed.Text" xml:space="preserve">
-    <value>رابط تغذية المعرض :</value>
+    <value>عنوان URL لموجز المعرض:</value>
   </data>
   <data name="lblWebAppGallery.Text" xml:space="preserve">
     <value>معرض تطبيقات الويب</value>
   </data>
   <data name="lclGalleryFeedNote.Text" xml:space="preserve">
-    <value>يمكنك الكتابة فوق موجز ويب ATOM الافتراضي لمعرض تطبيقات الويب الموجود في موقع Microsoft على الويب بنفسك لتوفير تطبيقاتك الخاصة لعملائك. اترك هذا الحقل فارغًا لاستخدام الخلاصة الافتراضية.</value>
+    <value>يمكنك استبدال موجز ATOM الافتراضي لمعرض تطبيقات الويب الموجود على موقع Microsoft بموجز خاص بك لتوفير تطبيقاتك الخاصة لعملائك. اترك هذا الحقل فارغًا لاستخدام الموجز الافتراضي.</value>
   </data>
   <data name="chkAssignIPAutomatically.Text" xml:space="preserve">
     <value>تخصيص عناوين IP "مخصصة" تلقائيًا عند إنشاء المساحة</value>
@@ -202,11 +202,7 @@
     <value>.htaccess</value>
   </data>
   <data name="lclHeliconApeInstallNote.Text" xml:space="preserve">
-    <value>Helicon Ape يوفر .htaccess و .htpasswd تدعم الملفات وتتضمن جميع وحدات اباتشي الرئيسية. 
-   هذه أداة أساسية للضبط الدقيق IIS مواقع الويب ، تحسين الأداء ، الأمان ، 
-    تصنيفات محركات البحث وللتوافق مع العديد من التطبيقات مفتوحة المصدر. 
-    &lt;br/&gt;
-    انقر فوق الارتباط أدناه لتثبيت Helicon Ape على الخادم:</value>
+    <value>يوفر Helicon Ape دعم ملفات .htaccess و.htpasswd ويتضمن جميع وحدات Apache الرئيسية. وهو أداة أساسية للضبط الدقيق لمواقع الويب على IIS، وتحسين الأداء والأمان وترتيب محركات البحث، وللتوافق مع العديد من التطبيقات مفتوحة المصدر. &lt;br/&gt; انقر فوق الارتباط أدناه لتثبيت Helicon Ape على الخادم:</value>
   </data>
   <data name="lblHtaccessAssembly.Text" xml:space="preserve">
     <value>تجميع الوحدة:</value>
@@ -221,13 +217,13 @@
     <value>حدد التطبيقات</value>
   </data>
   <data name="FilterDialogButton.Text" xml:space="preserve">
-    <value>انقر لإنشاء عامل تصفية ...</value>
+    <value>انقر لإنشاء عامل تصفية...</value>
   </data>
   <data name="chkGalleryAppsAlwaysIgnoreDependencies.Text" xml:space="preserve">
-    <value>دائما تجاهل التبعيات</value>
+    <value>تجاهل التبعيات دائمًا</value>
   </data>
   <data name="GalleryFeedFilter.Text" xml:space="preserve">
-    <value>فلتر تغذية المعرض:</value>
+    <value>عامل تصفية موجز المعرض:</value>
   </data>
   <data name="ClassicAspNet40PoolLocalize.Text" xml:space="preserve">
     <value>ASP.NET 4.0 كلاسيكي:</value>
@@ -242,13 +238,13 @@
     <value>ASP.NET 4.0 64-bit:</value>
   </data>
   <data name="lblFlashRemotingDir.Text" xml:space="preserve">
-    <value>دليل فلاش عن بعد:</value>
+    <value>دليل Flash Remoting:</value>
   </data>
   <data name="lblScriptsDirectory.Text" xml:space="preserve">
     <value>دليل البرامج النصية:</value>
   </data>
   <data name="ipAddress.SelectValueText" xml:space="preserve">
-    <value>&lt;جميع غير المعينين&gt;</value>
+    <value>&lt;كل العناوين غير المعيّنة&gt;</value>
   </data>
   <data name="lblWmSvcNETBIOS.Text" xml:space="preserve">
     <value>اسم نطاق NETBIOS:</value>
@@ -260,13 +256,13 @@
     <value>تسجيل وحدة Helicon Ape عالميًا:</value>
   </data>
   <data name="litPHP5Info.Text" xml:space="preserve">
-    <value>في حالة وجود أي معالجات PHP5 FastCGI على الخادم ، فسيتم تجاهل المسار القابل للتنفيذ PHP 5.x الموضح أعلاه ولن يتم استخدامه.</value>
+    <value>في حالة وجود أي معالجات PHP5 FastCGI على الخادم، فسيتم تجاهل المسار القابل للتنفيذ PHP 5.x الموضح أعلاه ولن يتم استخدامه.</value>
   </data>
   <data name="btnCancelText.Text" xml:space="preserve">
     <value>إلغاء</value>
   </data>
   <data name="btnchangefilterText.Text" xml:space="preserve">
-    <value>تغيير فلتر</value>
+    <value>تغيير عامل التصفية</value>
   </data>
   <data name="btnokText.Text" xml:space="preserve">
     <value>تنفيذ</value>

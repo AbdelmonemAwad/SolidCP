@@ -118,10 +118,10 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="btnAddAdditionalGroup.Text" xml:space="preserve">
-    <value>أضف مجموعة جديدة</value>
+    <value>إضافة مجموعة جديدة</value>
   </data>
   <data name="btnAddAdditionalGroupText.Text" xml:space="preserve">
-    <value>أضف مجموعة جديدة</value>
+    <value>إضافة مجموعة جديدة</value>
   </data>
   <data name="btnUpdateAdditionalGroup.Text" xml:space="preserve">
     <value>تحديث المجموعة</value>
@@ -133,16 +133,16 @@
     <value>تمكين السياسة</value>
   </data>
   <data name="gvAdditionalGroup.HeaderText" xml:space="preserve">
-    <value>عرض الاسم </value>
+    <value>الاسم المعروض</value>
   </data>
   <data name="gvAdditionalGroupEdit.HeaderText" xml:space="preserve">
-    <value>اختار</value>
+    <value>تحديد</value>
   </data>
   <data name="gvAdditionalGroups.EmptyDataText" xml:space="preserve">
-    <value>لم يتم إضافة مجموعات حتى الآن. لإضافة مجموعة جديدة انقر فوق الزر "إضافة مجموعة جديدة".</value>
+    <value>لم تتم إضافة أي مجموعات حتى الآن. لإضافة مجموعة جديدة، انقر فوق الزر "أضف مجموعة جديدة".</value>
   </data>
   <data name="lblAdditionalGroupName.Text" xml:space="preserve">
-    <value>عرض الاسم :</value>
+    <value>الاسم المعروض:</value>
   </data>
   <data name="valDuplicateAdditionalGroup" xml:space="preserve">
     <value>*</value>

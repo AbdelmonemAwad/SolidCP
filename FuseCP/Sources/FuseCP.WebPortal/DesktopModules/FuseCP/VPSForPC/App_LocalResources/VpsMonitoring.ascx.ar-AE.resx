@@ -127,10 +127,10 @@
     <value>إظهار المعالج في النافذة</value>
   </data>
   <data name="FormComments.Text" xml:space="preserve">
-    <value>&lt;p&gt; مراقبة الجهاز الافتراضي المحدد. &lt;/ p&gt;</value>
+    <value>&lt;p&gt;مراقبة الجهاز الافتراضي المحدد.&lt;/p&gt;</value>
   </data>
   <data name="lblEndPeriod.Text" xml:space="preserve">
-    <value>نهاية اليوم</value>
+    <value>يوم الانتهاء</value>
   </data>
   <data name="lblStartPeriod.Text" xml:space="preserve">
     <value>يوم البدء</value>

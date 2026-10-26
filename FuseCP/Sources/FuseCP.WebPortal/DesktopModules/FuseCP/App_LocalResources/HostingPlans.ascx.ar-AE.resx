@@ -118,10 +118,10 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="ModuleAction.AddPlan" xml:space="preserve">
-    <value>أضف خطة جديدة</value>
+    <value>إضافة خطة جديدة</value>
   </data>
   <data name="btnAddItem.Text" xml:space="preserve">
-    <value>إنشاء خطة الاستضافة</value>
+    <value>إنشاء خطة استضافة</value>
   </data>
   <data name="gvPlans.Empty" xml:space="preserve">
     <value>لم يتم العثور على خطط استضافة.</value>

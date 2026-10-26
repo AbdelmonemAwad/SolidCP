@@ -118,7 +118,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="btnAddItem.Text" xml:space="preserve">
-    <value>أضف VLAN</value>
+    <value>إضافة VLAN</value>
   </data>
   <data name="btnDeleteSelected.OnClientClick" xml:space="preserve">
     <value>return confirm('هل تريد حذف شبكات VLAN المحددة؟');</value>
@@ -127,13 +127,13 @@
     <value>حذف المحدد</value>
   </data>
   <data name="btnEditSelected.Text" xml:space="preserve">
-    <value>تحرير المحدد ...</value>
+    <value>تحرير المحدد...</value>
   </data>
   <data name="gvVLANs.Empty" xml:space="preserve">
     <value>لم يتم العثور على شبكات VLAN.</value>
   </data>
   <data name="gvVLANsComments.Header" xml:space="preserve">
-    <value>التعليقات:</value>
+    <value>التعليقات</value>
   </data>
   <data name="gvVLANsServer.Header" xml:space="preserve">
     <value>الخادم</value>
@@ -145,7 +145,7 @@
     <value>المستخدم</value>
   </data>
   <data name="gvVLANsVLAN.Header" xml:space="preserve">
-    <value>شبكة محلية افتراضية</value>
+    <value>VLAN</value>
   </data>
   <data name="lblItemsPerPage.Text" xml:space="preserve">
     <value>حجم الصفحة:</value>
@@ -157,7 +157,7 @@
     <value>اسم المستخدم</value>
   </data>
   <data name="liVLAN.Text" xml:space="preserve">
-    <value>شبكة محلية افتراضية</value>
+    <value>VLAN</value>
   </data>
   <data name="hVLANsUser.HeaderText" xml:space="preserve">
     <value>المستخدم</value>

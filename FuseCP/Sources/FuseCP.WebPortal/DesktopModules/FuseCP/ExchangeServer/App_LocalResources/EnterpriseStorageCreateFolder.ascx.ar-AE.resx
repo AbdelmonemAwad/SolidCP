@@ -118,13 +118,13 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="btnCreate.OnClientClick" xml:space="preserve">
-    <value>ShowProgressDialog('جاري إنشاء المجلد ...');</value>
+    <value>ShowProgressDialog('جاري إنشاء المجلد...');</value>
   </data>
   <data name="btnCreate.Text" xml:space="preserve">
-    <value>أنشئ مجلد</value>
+    <value>إنشاء مجلد</value>
   </data>
   <data name="locDisplayName.Text" xml:space="preserve">
-    <value>إسم الملف: *</value>
+    <value>اسم المجلد: *</value>
   </data>
   <data name="Text.PageName" xml:space="preserve">
     <value>المجلدات</value>
@@ -142,7 +142,7 @@
     <value>أضف المجموعة الافتراضية</value>
   </data>
   <data name="locFolderSize" xml:space="preserve">
-    <value>حجم حد المجلد (جيجابايت):</value>
+    <value>الحد الأقصى لحجم المجلد (جيجابايت):</value>
   </data>
   <data name="locQuotaType" xml:space="preserve">
     <value>نوع الحصة:</value>
@@ -151,15 +151,15 @@
     <value>*</value>
   </data>
   <data name="rbtnQuotaHard" xml:space="preserve">
-    <value>القرص الصلب</value>
+    <value>ثابتة</value>
   </data>
   <data name="valRequireFolderSize" xml:space="preserve">
-    <value>تتطلب val حجم المجلد</value>
+    <value>valRequireFolderSize</value>
   </data>
   <data name="valRequireFolderSize.ErrorMessage" xml:space="preserve">
     <value>أدخل حجم المجلد</value>
   </data>
   <data name="btnCreateText.Text" xml:space="preserve">
-    <value>أنشئ مجلد</value>
+    <value>إنشاء مجلد</value>
   </data>
 </root>

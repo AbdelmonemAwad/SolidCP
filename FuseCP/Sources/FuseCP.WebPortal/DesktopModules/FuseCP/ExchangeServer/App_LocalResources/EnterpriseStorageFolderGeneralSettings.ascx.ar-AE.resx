@@ -118,7 +118,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="btnSave.OnClientClick" xml:space="preserve">
-    <value>ShowProgressDialog('جاري تحديث إعدادات المجلد ...');</value>
+    <value>ShowProgressDialog('جاري تحديث إعدادات المجلد...');</value>
   </data>
   <data name="btnSave.Text" xml:space="preserve">
     <value>حفظ التغييرات</value>
@@ -127,7 +127,7 @@
     <value>أذونات</value>
   </data>
   <data name="locNotes.Text" xml:space="preserve">
-    <value>ملاحظات</value>
+    <value>ملاحظات:</value>
   </data>
   <data name="locTitle.Text" xml:space="preserve">
     <value>تحرير المجلد</value>
@@ -142,13 +142,13 @@
     <value>*</value>
   </data>
   <data name="locFolderName.Text" xml:space="preserve">
-    <value>إسم الملف:</value>
+    <value>اسم المجلد:</value>
   </data>
   <data name="locFolderUrl.Text" xml:space="preserve">
     <value>رابط المجلد:</value>
   </data>
   <data name="locFolderSize" xml:space="preserve">
-    <value>حجم حد المجلد (جيجابايت):</value>
+    <value>الحد الأقصى لحجم المجلد (جيجابايت):</value>
   </data>
   <data name="rangeFolderSize" xml:space="preserve">
     <value>*</value>
@@ -163,16 +163,16 @@
     <value>*</value>
   </data>
   <data name="rbtnQuotaHard" xml:space="preserve">
-    <value>القرص الصلب</value>
+    <value>ثابتة</value>
   </data>
   <data name="colFolderGeneralSettings.Text" xml:space="preserve">
-    <value>الاعدادات العامة</value>
+    <value>الإعدادات العامة</value>
   </data>
   <data name="btnMigrate.Text" xml:space="preserve">
-    <value>نقل الي مساحات التخزين</value>
+    <value>نقل إلى مساحات التخزين</value>
   </data>
   <data name="btnMigrate.OnClientClick" xml:space="preserve">
-    <value>if(!confirm('هل أنت متأكد؟')) return false; else ShowProgressDialog('جاري نقل المجلد إلى مساحة التخزين ...');</value>
+    <value>if(!confirm('هل أنت متأكد؟')) return false; else ShowProgressDialog('جاري نقل المجلد إلى مساحة التخزين...');</value>
   </data>
   <data name="locUncPath.Text" xml:space="preserve">
     <value>مسار UNC:</value>
@@ -190,7 +190,7 @@
     <value>نعم</value>
   </data>
   <data name="btnMigrateText.Text" xml:space="preserve">
-    <value>نقل الي مساحات التخزين</value>
+    <value>نقل إلى مساحات التخزين</value>
   </data>
   <data name="btnSaveText.Text" xml:space="preserve">
     <value>حفظ التغييرات</value>

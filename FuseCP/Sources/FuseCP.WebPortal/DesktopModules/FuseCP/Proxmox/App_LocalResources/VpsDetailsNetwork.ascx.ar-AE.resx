@@ -136,7 +136,7 @@
     <value>تعيين كأساسي</value>
   </data>
   <data name="FormComments.Text" xml:space="preserve">
-    <value>&lt;p&gt; يوضح هذا النموذج تكوين شبكة VPS. &lt;/p&gt; &lt;p&gt; لتعيين عناوين IP إضافية لمحول "خارجي" أو "خاص" ، انقر فوق الزر "إضافة" في القسم المناسب. &lt;/ p&gt; &lt;p&gt; عندما حذف عنوان IP الخارجي أو الخاص أو تغيير عنوان IP الأساسي لمحول الشبكة ، يرسل النظام تعليمات تكوين خاصة إلى نظام تشغيل VPS ، لذلك قد يستغرق الأمر بعض الوقت (حتى بضع دقائق) حتى يتم تغيير معلمات محول الشبكة. &lt;/ p&gt;</value>
+    <value>&lt;p&gt;يعرض هذا النموذج تكوين شبكة VPS.&lt;/p&gt;&lt;p&gt;لتعيين عناوين IP إضافية للمحول "الخارجي" أو "الخاص"، انقر فوق الزر "إضافة" في القسم المناسب.&lt;/p&gt;&lt;p&gt;عند حذف عنوان IP خارجي أو خاص، أو تغيير عنوان IP الأساسي لمحول الشبكة، يرسل النظام تعليمات تكوين خاصة إلى نظام تشغيل VPS، لذلك قد يستغرق الأمر بعض الوقت (حتى بضع دقائق) حتى يتم تغيير معلمات محول الشبكة.&lt;/p&gt;</value>
   </data>
   <data name="gvExternalAddresses.Empty" xml:space="preserve">
     <value>لم يتم تعيين عناوين IP لمحول الشبكة الخارجية.</value>
@@ -145,7 +145,7 @@
     <value>عنوان IP</value>
   </data>
   <data name="gvPrimary.HeaderText" xml:space="preserve">
-    <value>الأولية</value>
+    <value>الأساسي</value>
   </data>
   <data name="gvPrivateAddresses.Empty" xml:space="preserve">
     <value>لم يتم تعيين عناوين IP لمحول الشبكة الخاص.</value>
@@ -184,7 +184,7 @@
     <value>شبكة خاصة</value>
   </data>
   <data name="Automatic.Text" xml:space="preserve">
-    <value>العلامة &amp; lt ؛ تلقائي &amp; GT.</value>
+    <value>&amp;lt;تلقائي&amp;gt;</value>
   </data>
   <data name="gvDefaultGateway.HeaderText" xml:space="preserve">
     <value>بوابة</value>

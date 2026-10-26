@@ -121,15 +121,15 @@
     <value>تنفيذ</value>
   </data>
   <data name="ddlWebsiteActionsItem.Actions" xml:space="preserve">
-    <value>- أجراءات -</value>
+    <value>- إجراءات -</value>
   </data>
   <data name="ddlWebsiteActionsItem.RestartAppPool" xml:space="preserve">
     <value>أعد تشغيل "تجمع التطبيقات"</value>
   </data>
   <data name="ddlWebsiteActionsItem.Start" xml:space="preserve">
-    <value>ابدأ</value>
+    <value>بدء</value>
   </data>
   <data name="ddlWebsiteActionsItem.Stop" xml:space="preserve">
-    <value>توقف</value>
+    <value>إيقاف</value>
   </data>
 </root>

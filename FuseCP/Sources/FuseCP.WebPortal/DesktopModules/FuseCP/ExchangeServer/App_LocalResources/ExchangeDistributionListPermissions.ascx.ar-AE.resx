@@ -121,10 +121,10 @@
     <value>امنح هذا الإذن لـ:</value>
   </data>
   <data name="secSendAs.Text" xml:space="preserve">
-    <value>ارسال ك</value>
+    <value>الإرسال باسم</value>
   </data>
   <data name="secSendOnBehalf.Text" xml:space="preserve">
-    <value>أرسل نيابة</value>
+    <value>الإرسال نيابةً عن</value>
   </data>
   <data name="Text.PageName" xml:space="preserve">
     <value>قوائم التوزيع</value>

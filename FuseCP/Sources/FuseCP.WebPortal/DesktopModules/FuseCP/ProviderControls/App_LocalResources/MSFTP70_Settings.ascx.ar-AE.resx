@@ -121,7 +121,7 @@
     <value>نعم</value>
   </data>
   <data name="lblADIntegration.Text" xml:space="preserve">
-    <value>Active Directory تكامل:</value>
+    <value>تكامل Active Directory:</value>
   </data>
   <data name="lblBuildUncFilesPath.Text" xml:space="preserve">
     <value>بناء مسار UNC إلى ملفات المساحة:</value>
@@ -139,6 +139,6 @@
     <value>&lt;تحديد موقع FTP&gt;</value>
   </data>
   <data name="lblAdFtpRoot.Text" xml:space="preserve">
-    <value>مدير جذر FTP:</value>
+    <value>الدليل الجذر لـ FTP:</value>
   </data>
 </root>

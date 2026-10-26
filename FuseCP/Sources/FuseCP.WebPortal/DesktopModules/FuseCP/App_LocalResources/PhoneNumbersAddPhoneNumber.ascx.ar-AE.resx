@@ -121,7 +121,7 @@
     <value>عنوان IP:</value>
   </data>
   <data name="lblInternalIP.Text" xml:space="preserve">
-    <value>عنوان NAT</value>
+    <value>عنوان NAT:</value>
   </data>
   <data name="locServer.Text" xml:space="preserve">
     <value>الخادم:</value>
@@ -130,7 +130,7 @@
     <value>التعليقات:</value>
   </data>
   <data name="btnAdd.Text" xml:space="preserve">
-    <value>أضف</value>
+    <value>إضافة</value>
   </data>
   <data name="btnCancel.Text" xml:space="preserve">
     <value>إلغاء</value>
@@ -154,10 +154,10 @@
     <value>IP العام</value>
   </data>
   <data name="ddlPoolsVpsExternalNetwork.Text" xml:space="preserve">
-    <value>VPS الشبكة الخارجية IP</value>
+    <value>IP الشبكة الخارجية لـ VPS</value>
   </data>
   <data name="ddlPoolsVpsManagementNetwork.Text" xml:space="preserve">
-    <value>إدارة الشبكة VPS IP</value>
+    <value>IP شبكة إدارة VPS</value>
   </data>
   <data name="ddlPoolsWebSites.Text" xml:space="preserve">
     <value>IP مواقع الويب</value>

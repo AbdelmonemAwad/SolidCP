@@ -124,7 +124,7 @@
     <value>الرجاء إدخال خوادم DNS للتحقق.</value>
   </data>
   <data name="lblPause" xml:space="preserve">
-    <value>توقف مؤقتًا بين الاستعلامات (بالمللي ثانية):</value>
+    <value>مدة التوقف بين الاستعلامات (بالمللي ثانية):</value>
   </data>
   <data name="lblServerName" xml:space="preserve">
     <value>اسم الخادم:</value>

@@ -118,7 +118,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="btnChangePassword.OnClientClick" xml:space="preserve">
-    <value>ShowProgressDialog('تغيير كلمة المرور ...', 'PasswordModal');</value>
+    <value>ShowProgressDialog('جارٍ تغيير كلمة المرور...', 'PasswordModal');</value>
   </data>
   <data name="CpuCores.Text" xml:space="preserve">
     <value>{0} نواة</value>
@@ -142,10 +142,10 @@
     <value>تغيير</value>
   </data>
   <data name="btnEdit.Text" xml:space="preserve">
-    <value>تحرير الإعدادات </value>
+    <value>تحرير التكوين</value>
   </data>
   <data name="FormComments.Text" xml:space="preserve">
-    <value>&lt;p&gt; يوضح هذا النموذج تكوين VPS. &lt;/p&gt; &lt;p&gt; لتغيير كلمة مرور حساب مسؤول VPS ، انقر فوق الارتباط "تغيير" في قسم "البرامج". &lt;br/&gt; لتغيير كلمة المرور ، سيتم إرسال تعليمات التكوين الخاصة إلى VPS ، لذلك قد يستغرق الأمر بعض الوقت (حتى بضع دقائق) حتى يتم تغييره. &lt;/ p&gt; &lt;p&gt; لتغيير تكوين VPS (إذا كان مسموحًا به في خطة الاستضافة) ، انقر فوق الزر "تحرير التكوين". &lt;/ p&gt;</value>
+    <value>&lt;p&gt;يعرض هذا النموذج تكوين VPS.&lt;/p&gt;&lt;p&gt;لتغيير كلمة مرور حساب مسؤول VPS، انقر فوق الارتباط "تغيير" في قسم "البرامج".&lt;br/&gt;لتغيير كلمة المرور سيتم إرسال تعليمات تكوين خاصة إلى VPS، لذلك قد يستغرق الأمر بعض الوقت (حتى بضع دقائق) حتى يتم تغييرها.&lt;/p&gt;&lt;p&gt;لتغيير تكوين VPS (إذا كان مسموحًا به في خطة الاستضافة)، انقر فوق الزر "تحرير التكوين".&lt;/p&gt;</value>
   </data>
   <data name="lblCpu.Text" xml:space="preserve">
     <value>وحدة المعالجة المركزية:</value>
@@ -178,7 +178,7 @@
     <value>التمهيد من القرص المضغوط</value>
   </data>
   <data name="optionDvdInstalled.Text" xml:space="preserve">
-    <value>تم تثبيت محرك أقراص رقمية</value>
+    <value>محرك أقراص DVD مثبّت</value>
   </data>
   <data name="optionExternalNetwork.Text" xml:space="preserve">
     <value>تم تمكين الشبكة الخارجية</value>
@@ -187,25 +187,25 @@
     <value>تم تمكين Num Lock</value>
   </data>
   <data name="optionSecureBoot.Text" xml:space="preserve">
-    <value>تمكين التمهيد الآمن</value>
+    <value>تم تمكين التمهيد الآمن</value>
   </data>
   <data name="optionPauseResume.Text" xml:space="preserve">
-    <value>إيقاف ، استئناف</value>
+    <value>إيقاف مؤقت، استئناف</value>
   </data>
   <data name="optionPrivateNetwork.Text" xml:space="preserve">
     <value>تم تمكين الشبكة الخاصة</value>
   </data>
   <data name="optionReboot.Text" xml:space="preserve">
-    <value>اعادة التشغيل</value>
+    <value>إعادة التشغيل</value>
   </data>
   <data name="optionReinstall.Text" xml:space="preserve">
-    <value>أعد التثبيت</value>
+    <value>إعادة التثبيت</value>
   </data>
   <data name="optionReset.Text" xml:space="preserve">
     <value>إعادة تعيين</value>
   </data>
   <data name="optionStartShutdown.Text" xml:space="preserve">
-    <value>بدء ، إيقاف وإغلاق</value>
+    <value>البدء وإيقاف التشغيل والإغلاق</value>
   </data>
   <data name="secActions.Text" xml:space="preserve">
     <value>إجراءات الخادم</value>
@@ -214,7 +214,7 @@
     <value>BIOS</value>
   </data>
   <data name="secDvd.Text" xml:space="preserve">
-    <value>قرص رقمي مضغوط</value>
+    <value>DVD</value>
   </data>
   <data name="secResources.Text" xml:space="preserve">
     <value>موارد</value>
@@ -229,7 +229,7 @@
     <value>تغيير كلمة مرور المسؤول</value>
   </data>
   <data name="btnEditText.Text" xml:space="preserve">
-    <value>تحرير الإعدادات </value>
+    <value>تحرير التكوين</value>
   </data>
   <data name="HddMaxIOPS.Text" xml:space="preserve">
     <value>{0} IOPS</value>

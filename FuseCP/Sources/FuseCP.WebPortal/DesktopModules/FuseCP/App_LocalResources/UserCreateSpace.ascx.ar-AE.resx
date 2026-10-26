@@ -121,13 +121,13 @@
     <value>إلغاء</value>
   </data>
   <data name="btnCreate.OnClientClick" xml:space="preserve">
-    <value>ShowProgressDialog('جاري إنشاء مساحة استضافة ...');</value>
+    <value>ShowProgressDialog('جاري إنشاء مساحة استضافة...');</value>
   </data>
   <data name="btnCreate.Text" xml:space="preserve">
     <value>إنشاء المساحة</value>
   </data>
   <data name="chkCreateFtpAccount.Text" xml:space="preserve">
-    <value>قم بإنشاء حساب FTP</value>
+    <value>إنشاء حساب FTP</value>
   </data>
   <data name="chkCreateMailAccount.Text" xml:space="preserve">
     <value>إنشاء حساب بريد "Catch-All"</value>
@@ -148,13 +148,13 @@
     <value>نشط</value>
   </data>
   <data name="ddlStatusItem.Cancelled" xml:space="preserve">
-    <value>ألغيت</value>
+    <value>ملغى</value>
   </data>
   <data name="ddlStatusItem.New" xml:space="preserve">
     <value>جديد</value>
   </data>
   <data name="ddlStatusItem.Suspended" xml:space="preserve">
-    <value>موقوف عن العمل</value>
+    <value>معلّق</value>
   </data>
   <data name="lblFtpGroup.Text" xml:space="preserve">
     <value>FTP</value>
@@ -166,7 +166,7 @@
     <value>بريد</value>
   </data>
   <data name="lblSpaceName.Text" xml:space="preserve">
-    <value>اسم المساحة</value>
+    <value>اسم المساحة:</value>
   </data>
   <data name="lblStatus.Text" xml:space="preserve">
     <value>حالة مساحة الاستضافة:</value>
@@ -178,10 +178,10 @@
     <value>الويب</value>
   </data>
   <data name="rbDomainTypeItem.External" xml:space="preserve">
-    <value>أضف النطاق الخارجي</value>
+    <value>إضافة نطاق خارجي</value>
   </data>
   <data name="rbDomainTypeItem.Temp" xml:space="preserve">
-    <value>أضف النطاق المؤقت</value>
+    <value>إضافة نطاق مؤقت</value>
   </data>
   <data name="rbFtpAccountNameItem.Custom" xml:space="preserve">
     <value>اسم حساب مخصص</value>
@@ -202,7 +202,7 @@
     <value>*</value>
   </data>
   <data name="DomainFormatValidator.ErrorMessage" xml:space="preserve">
-    <value>الرجاء إدخال اسم النطاق الصحيح ، على سبيل المثال "mydomain.com" أو "sub.mydomain.com".</value>
+    <value>الرجاء إدخال اسم نطاق صحيح، على سبيل المثال "mydomain.com" أو "sub.mydomain.com".</value>
   </data>
   <data name="DomainFormatValidator.Text" xml:space="preserve">
     <value>*</value>

@@ -124,16 +124,16 @@
     <value>الكل</value>
   </data>
   <data name="ddlStatusItem.Cancelled" xml:space="preserve">
-    <value>ألغيت</value>
+    <value>ملغى</value>
   </data>
   <data name="ddlStatusItem.Suspended" xml:space="preserve">
-    <value>موقوف عن العمل</value>
+    <value>معلّق</value>
   </data>
   <data name="gvPackages.Empty" xml:space="preserve">
     <value>لم يتم العثور على المساحات المتداخلة.</value>
   </data>
   <data name="gvPackagesCreationDate.Header" xml:space="preserve">
-    <value>تم إنشاؤه:</value>
+    <value>تم إنشاؤه</value>
   </data>
   <data name="gvPackagesHostingPlan.Header" xml:space="preserve">
     <value>خطة الاستضافة</value>
@@ -160,6 +160,6 @@
     <value>اسم المستخدم</value>
   </data>
   <data name="gvPackagesStatusIDchangeDate.Header" xml:space="preserve">
-    <value>تاريخ تغيير الوضع</value>
+    <value>تاريخ تغيير الحالة</value>
   </data>
 </root>

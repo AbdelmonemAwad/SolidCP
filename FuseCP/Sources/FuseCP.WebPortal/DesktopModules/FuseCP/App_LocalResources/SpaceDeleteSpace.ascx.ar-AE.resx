@@ -127,7 +127,7 @@
     <value>حذف</value>
   </data>
   <data name="chkConfirm.Text" xml:space="preserve">
-    <value>نعم ، أفهم ذلك وأريد حذف مساحة الاستضافة هذه</value>
+    <value>نعم، أفهم ذلك وأريد حذف مساحة الاستضافة هذه</value>
   </data>
   <data name="gvItems.Empty" xml:space="preserve">
     <value>مساحة الاستضافة لا تحتوي على أي عناصر</value>
@@ -142,13 +142,13 @@
     <value>مساحة الاستضافة لا تحتوي على مساحات متداخلة</value>
   </data>
   <data name="gvPackagesPackageName.Header" xml:space="preserve">
-    <value>أسم مساحة الاستضافة</value>
+    <value>اسم مساحة الاستضافة</value>
   </data>
   <data name="lblChildPackages.Text" xml:space="preserve">
     <value>تحتوي المساحة على الحزم الفرعية التالية:</value>
   </data>
   <data name="lblDeleteWarning.Text" xml:space="preserve">
-    <value>يؤدي حذف هذه المساحة أيضًا إلى حذف جميع مسافاتها المتداخلة وجميع عناصر الخدمة مثل مواقع الويب وقواعد البيانات وحسابات المستخدمين وما إلى ذلك.</value>
+    <value>يؤدي حذف هذه المساحة أيضًا إلى حذف جميع مساحاتها المتداخلة وجميع عناصر الخدمة مثل مواقع الويب وقواعد البيانات وحسابات المستخدمين وما إلى ذلك.</value>
   </data>
   <data name="lblServiceItems.Text" xml:space="preserve">
     <value>تحتوي المساحة على عناصر الخدمة التالية:</value>

@@ -133,7 +133,7 @@
     <value>المستخدم</value>
   </data>
   <data name="gvItemsWebSite.Header" xml:space="preserve">
-    <value>إسم الملف</value>
+    <value>اسم المجلد</value>
   </data>
   <data name="lblSharedSSLFolders.Text" xml:space="preserve">
     <value>مجلدات SSL المشتركة:</value>
@@ -142,13 +142,13 @@
     <value>قم بالتبديل إلى هذه المساحة</value>
   </data>
   <data name="selUser.AlternateText" xml:space="preserve">
-    <value>العمل لهذا المستخدم</value>
+    <value>العمل باسم هذا المستخدم</value>
   </data>
   <data name="Text.Email" xml:space="preserve">
     <value>بريد إلكتروني</value>
   </data>
   <data name="Text.FolderName" xml:space="preserve">
-    <value>إسم الملف</value>
+    <value>اسم المجلد</value>
   </data>
   <data name="Text.FullName" xml:space="preserve">
     <value>الاسم الكامل</value>

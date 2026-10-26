@@ -118,13 +118,13 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="chkPasswordEnabled.Text" xml:space="preserve">
-    <value>تمكين</value>
+    <value>مُمكَّن</value>
   </data>
   <data name="chkReplyToList.Text" xml:space="preserve">
     <value>الرد على القائمة</value>
   </data>
   <data name="chkSubjectPrefixEnabled.Text" xml:space="preserve">
-    <value>تمكين</value>
+    <value>مُمكَّن</value>
   </data>
   <data name="ctxValDomain.Text" xml:space="preserve">
     <value>يجب أن يكون المشرف داخل نطاق البريد حيث توجد قائمة البريد</value>
@@ -154,10 +154,10 @@
     <value>وصف القائمة:</value>
   </data>
   <data name="lblListOptions.Text" xml:space="preserve">
-    <value>قائمة خيارات:</value>
+    <value>خيارات القائمة:</value>
   </data>
   <data name="lblMaxMessageSize.Text" xml:space="preserve">
-    <value>أقصى حجم للرسالة ، كيلو بايت:</value>
+    <value>أقصى حجم للرسالة، كيلو بايت:</value>
   </data>
   <data name="lblMaxRecipients.Text" xml:space="preserve">
     <value>الحد الأقصى لعدد المستلمين لكل رسالة:</value>
@@ -166,25 +166,25 @@
     <value>أعضاء القائمة البريدية:</value>
   </data>
   <data name="lblModeratorAddress.Text" xml:space="preserve">
-    <value>قائمة مشرف:</value>
+    <value>مشرف القائمة:</value>
   </data>
   <data name="lblPostingMode.Text" xml:space="preserve">
     <value>من يمكنه النشر:</value>
   </data>
   <data name="lblPostingPassword.Text" xml:space="preserve">
-    <value>قائمة كلمة المرور:</value>
+    <value>كلمة مرور القائمة:</value>
   </data>
   <data name="lblReplyTo.Text" xml:space="preserve">
-    <value>رد المشتركون على:</value>
+    <value>توجيه ردود المشتركين إلى:</value>
   </data>
   <data name="lblSubjectPrefix.Text" xml:space="preserve">
     <value>بادئة الموضوع:</value>
   </data>
   <data name="Text.SelectModerator" xml:space="preserve">
-    <value>&lt;اختر وسيط&gt;</value>
+    <value>&lt;اختر مشرفًا&gt;</value>
   </data>
   <data name="AdditionalOptions.Text" xml:space="preserve">
-    <value>قائمة خيارات إضافية</value>
+    <value>خيارات القائمة الإضافية</value>
   </data>
   <data name="lbAllowUnsubscribe.Text" xml:space="preserve">
     <value>تمكين إلغاء الاشتراك من الموضوع:</value>
@@ -199,13 +199,13 @@
     <value>تمكين أمر الاشتراك:</value>
   </data>
   <data name="lblListFromAddress.Text" xml:space="preserve">
-    <value>قائمة من العناوين:</value>
+    <value>عنوان From للقائمة:</value>
   </data>
   <data name="lblListReplyToAddress.Text" xml:space="preserve">
-    <value>قائمة الرد إلى العنوان:</value>
+    <value>عنوان Reply-To للقائمة:</value>
   </data>
   <data name="lblListToAddress.Text" xml:space="preserve">
-    <value>قائمة إلى عنوان:</value>
+    <value>عنوان To للقائمة:</value>
   </data>
   <data name="lbSendSubscribe.Text" xml:space="preserve">
     <value>إرسال بريد إلكتروني للاشتراك:</value>

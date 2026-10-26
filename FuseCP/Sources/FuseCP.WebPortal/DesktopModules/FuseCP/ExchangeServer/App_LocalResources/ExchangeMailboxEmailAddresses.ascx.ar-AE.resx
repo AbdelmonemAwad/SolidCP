@@ -121,13 +121,13 @@
     <value>إضافة عنوان البريد الإلكتروني</value>
   </data>
   <data name="btnDeleteAddresses.Text" xml:space="preserve">
-    <value>حذف البريد الإلكتروني المحدد</value>
+    <value>حذف عناوين البريد الإلكتروني المحددة</value>
   </data>
   <data name="btnSetAsPrimary.Text" xml:space="preserve">
     <value>تعيين كأساسي</value>
   </data>
   <data name="chkPmmAllowed.Text" xml:space="preserve">
-    <value>اسمح بإدارة هذه الإعدادات من &lt;b&gt; مدير علبة البريد الشخصي &lt;/ b&gt;</value>
+    <value>السماح بإدارة هذه الإعدادات من &lt;b&gt;مدير صندوق البريد الشخصي&lt;/b&gt;</value>
   </data>
   <data name="gvEmailAddress.Header" xml:space="preserve">
     <value>عنوان البريد الإلكتروني</value>
@@ -145,7 +145,7 @@
     <value>عنوان البريد الإلكتروني: *</value>
   </data>
   <data name="locTitle.Text" xml:space="preserve">
-    <value>تحرير علبة البريد</value>
+    <value>تحرير صندوق البريد</value>
   </data>
   <data name="locTotal.Text" xml:space="preserve">
     <value>إجمالي عناوين البريد الإلكتروني:</value>

@@ -118,16 +118,13 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="btnAddMailboxPlan.Text" xml:space="preserve">
-    <value>اضف جديد</value>
+    <value>إضافة جديد</value>
   </data>
   <data name="btnSetDefaultMailboxPlan.Text" xml:space="preserve">
-    <value>قم بتعيين خطة صندوق البريد الافتراضية</value>
+    <value>تعيين خطة صندوق البريد الافتراضية</value>
   </data>
   <data name="chkActiveSync.Text" xml:space="preserve">
-    <value>المزامنة النشطة</value>
-  </data>
-  <data name="chkHideFromAddressBook" xml:space="preserve">
-    <value>إخفاء من دفتر العناوين</value>
+    <value>ActiveSync</value>
   </data>
   <data name="chkIMAP.Text" xml:space="preserve">
     <value>IMAP</value>
@@ -145,13 +142,13 @@
     <value>خطة صندوق البريد الافتراضية</value>
   </data>
   <data name="gvMailboxPlanEdit.Header" xml:space="preserve">
-    <value>اختار</value>
+    <value>تحديد</value>
   </data>
   <data name="gvMailboxPlans.Empty" xml:space="preserve">
-    <value>لم يتم إضافة خطط صندوق البريد حتى الآن. لإضافة خطة صندوق بريد جديدة ، انقر فوق الزر "إضافة خطة صندوق بريد جديد".</value>
+    <value>لم تتم إضافة خطط صندوق بريد حتى الآن. لإضافة خطة صندوق بريد جديدة، انقر فوق الزر "إضافة خطة صندوق بريد جديدة".</value>
   </data>
   <data name="gvMailboxPlanSelect.Header" xml:space="preserve">
-    <value>اختار</value>
+    <value>تحديد</value>
   </data>
   <data name="locDays.Text" xml:space="preserve">
     <value>أيام</value>
@@ -169,28 +166,28 @@
     <value>حجم صندوق البريد (ميجا بايت):</value>
   </data>
   <data name="locMaxReceiveMessageSizeKB.Text" xml:space="preserve">
-    <value>الحد الأقصى لحجم رسالة الاستلام (ك ب)</value>
+    <value>الحد الأقصى لحجم الرسالة المستلمة (كيلوبايت):</value>
   </data>
   <data name="locMaxRecipients.Text" xml:space="preserve">
     <value>الحد الأقصى من المستلمين:</value>
   </data>
   <data name="locMaxSendMessageSizeKB.Text" xml:space="preserve">
-    <value>الحد الأقصى لحجم إرسال الرسالة (كيلو بايت):</value>
+    <value>الحد الأقصى لحجم الرسالة المرسلة (كيلوبايت):</value>
   </data>
   <data name="locProhibitSend.Text" xml:space="preserve">
-    <value>منع الإرسال على:</value>
+    <value>منع الإرسال عند:</value>
   </data>
   <data name="locProhibitSendReceive.Text" xml:space="preserve">
-    <value>منع الإرسال والاستلام على:</value>
+    <value>منع الإرسال والاستلام عند:</value>
   </data>
   <data name="locTitle.Text" xml:space="preserve">
-    <value>أضف خطة صندوق البريد</value>
+    <value>إضافة خطة صندوق بريد</value>
   </data>
   <data name="locWhenSizeExceeds.Text" xml:space="preserve">
     <value>عندما يتجاوز حجم صندوق البريد المقدار المحدد:</value>
   </data>
   <data name="secDeleteRetention.Text" xml:space="preserve">
-    <value>حذف استبقاء العنصر</value>
+    <value>الاحتفاظ بالعناصر المحذوفة</value>
   </data>
   <data name="secMailboxFeatures.Text" xml:space="preserve">
     <value>مميزات صندوق البريد</value>
@@ -205,28 +202,28 @@
     <value>الحصص</value>
   </data>
   <data name="valRequireMailboxPlan.ErrorMessage" xml:space="preserve">
-    <value>الرجاء إدخال مخطط صندوق البريد الصحيح</value>
+    <value>الرجاء إدخال خطة صندوق بريد صحيحة</value>
   </data>
   <data name="valRequireMailboxPlan.Text" xml:space="preserve">
     <value>*</value>
   </data>
   <data name="btnAddMailboxPlanToOrganizations.Text" xml:space="preserve">
-    <value>أضف قالب خطط صندوق البريد لجميع المستأجرين</value>
+    <value>إضافة قالب خطط صناديق البريد إلى جميع المستأجرين</value>
   </data>
   <data name="btnStampUnassigned.Text" xml:space="preserve">
-    <value>ختم صناديق البريد غير المعينة</value>
+    <value>تطبيق الخطة على صناديق البريد غير المعيّنة</value>
   </data>
   <data name="secTools.Text" xml:space="preserve">
     <value>أدوات</value>
   </data>
   <data name="btnStamp.Text" xml:space="preserve">
-    <value>أعد تشكيل علب البريد</value>
+    <value>إعادة تطبيق الخطط على صناديق البريد</value>
   </data>
   <data name="btnUpdateMailboxPlan.Text" xml:space="preserve">
     <value>تحديث</value>
   </data>
   <data name="chkEnableLitigationHold.Text" xml:space="preserve">
-    <value>تفعيل التعليق التقاضي</value>
+    <value>تفعيل الاحتجاز لأغراض التقاضي</value>
   </data>
   <data name="locRecoverableItemsSpace.Text" xml:space="preserve">
     <value>مساحة العناصر القابلة للاسترداد (ميجا بايت):</value>
@@ -235,22 +232,22 @@
     <value>تحذير عند:</value>
   </data>
   <data name="secRetentionPolicy.Text" xml:space="preserve">
-    <value>سياسة الإحتفاظ</value>
+    <value>سياسة الاحتفاظ</value>
   </data>
   <data name="lblDefaultMailboxPlan.Text" xml:space="preserve">
-    <value>الإفتراضي</value>
+    <value>الافتراضي</value>
   </data>
   <data name="btnAddMailboxPlanText.Text" xml:space="preserve">
-    <value>اضف جديد</value>
+    <value>إضافة جديد</value>
   </data>
   <data name="btnSetDefaultMailboxPlanText.Text" xml:space="preserve">
-    <value>قم بتعيين خطة صندوق البريد الافتراضية</value>
+    <value>تعيين خطة صندوق البريد الافتراضية</value>
   </data>
   <data name="btnStampText.Text" xml:space="preserve">
-    <value>أعد تشكيل علب البريد</value>
+    <value>إعادة تطبيق الخطط على صناديق البريد</value>
   </data>
   <data name="btnStampUnassignedText.Text" xml:space="preserve">
-    <value>ختم علب البريد غير المعينة</value>
+    <value>تطبيق الخطة على صناديق البريد غير المعيّنة</value>
   </data>
   <data name="btnUpdateMailboxPlanText.Text" xml:space="preserve">
     <value>تحديث</value>

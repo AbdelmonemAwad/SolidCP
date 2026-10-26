@@ -118,7 +118,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="btnEjectDisk.OnClientClick" xml:space="preserve">
-    <value>ShowProgressDialog('إخراج القرص ...');</value>
+    <value>ShowProgressDialog('جارٍ إخراج القرص...');</value>
   </data>
   <data name="NoDisk.Text" xml:space="preserve">
     <value>&lt;فارغ&gt;</value>
@@ -130,12 +130,12 @@
     <value>إدراج القرص...</value>
   </data>
   <data name="FormComments.Text" xml:space="preserve">
-    <value>&lt;p&gt; يوضح النموذج حالة محرك أقراص DVD. إذا كان هناك &lt;b&gt; &amp; lt؛ blank &amp; gt؛ &lt;/b&gt; ، فلا يوجد قرص في محرك الأقراص. &lt;/ p&gt; &lt;p&gt; انقر فوق الزر &lt;b&gt; "إدراج قرص ..." &lt;/ b&gt; لتصفح مكتبة الوسائط . &lt;/p&gt; &lt;p&gt; انقر فوق الزر &lt;b&gt; "إخراج" &lt;/ b&gt; لإزالة القرص من محرك أقراص DVD. &lt;/p&gt;</value>
+    <value>&lt;p&gt;يعرض النموذج حالة محرك أقراص DVD. إذا ظهر &lt;b&gt;&amp;lt;فارغ&amp;gt;&lt;/b&gt; فلا يوجد قرص في محرك الأقراص.&lt;/p&gt;&lt;p&gt;انقر فوق الزر &lt;b&gt;"إدراج القرص..."&lt;/b&gt; لتصفح مكتبة الوسائط.&lt;/p&gt;&lt;p&gt;انقر فوق الزر &lt;b&gt;"إخراج"&lt;/b&gt; لإزالة القرص من محرك أقراص DVD.&lt;/p&gt;</value>
   </data>
   <data name="locDvdDrive.Text" xml:space="preserve">
-    <value>محرك أقراص رقمية:</value>
+    <value>محرك أقراص DVD:</value>
   </data>
   <data name="locTitle.Text" xml:space="preserve">
-    <value>قرص رقمي مضغوط</value>
+    <value>DVD</value>
   </data>
 </root>

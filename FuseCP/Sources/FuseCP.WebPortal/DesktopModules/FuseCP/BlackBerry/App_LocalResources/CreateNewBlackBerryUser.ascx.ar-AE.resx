@@ -118,18 +118,18 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="btnCreate.OnClientClick" xml:space="preserve">
-    <value>ShowProgressDialog('جاري إنشاء مستخدم بلاك بيري ...');</value>
+    <value>ShowProgressDialog('جاري إنشاء مستخدم BlackBerry...');</value>
   </data>
   <data name="btnCreate.Text" xml:space="preserve">
-    <value>إضافة مستخدم بلاك بيري</value>
+    <value>إضافة مستخدم BlackBerry</value>
   </data>
   <data name="locTitle.Text" xml:space="preserve">
-    <value>إضافة مستخدم بلاك بيري</value>
+    <value>إضافة مستخدم BlackBerry</value>
   </data>
   <data name="Text.PageName" xml:space="preserve">
-    <value>مستخدمين بلاك بيري</value>
+    <value>مستخدمو BlackBerry</value>
   </data>
   <data name="btnCreateText.Text" xml:space="preserve">
-    <value>إضافة مستخدم بلاك بيري</value>
+    <value>إضافة مستخدم BlackBerry</value>
   </data>
 </root>

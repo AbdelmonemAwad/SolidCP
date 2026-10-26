@@ -118,7 +118,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="buttonPanel.OnSaveClientClick" xml:space="preserve">
-    <value>ShowProgressDialog('جارٍ تحديث إعدادات صندوق البريد ...');</value>
+    <value>ShowProgressDialog('جارٍ تحديث إعدادات صندوق البريد...');</value>
   </data>
   <data name="chkDoNotDeleteOnForward.Text" xml:space="preserve">
     <value>تسليم الرسائل إلى كل من عنوان إعادة التوجيه وصندوق البريد</value>
@@ -127,7 +127,7 @@
     <value>تمكين إعادة التوجيه</value>
   </data>
   <data name="chkPmmAllowed.Text" xml:space="preserve">
-    <value>اسمح بإدارة هذه الإعدادات من &lt;b&gt; مدير علبة البريد الشخصي &lt;/ b&gt;</value>
+    <value>السماح بإدارة هذه الإعدادات من &lt;b&gt;مدير صندوق البريد الشخصي&lt;/b&gt;</value>
   </data>
   <data name="chkSendersAuthenticated.Text" xml:space="preserve">
     <value>طلب مصادقة جميع المرسلين</value>
@@ -142,16 +142,16 @@
     <value>كيلو بايت</value>
   </data>
   <data name="locMaxReceivingSize.Text" xml:space="preserve">
-    <value>الحد الأقصى لحجم رسالة الاستلام:</value>
+    <value>الحد الأقصى لحجم الرسائل المستلمة:</value>
   </data>
   <data name="locMaxRecipients.Text" xml:space="preserve">
     <value>الحد الأقصى من المستلمين:</value>
   </data>
   <data name="locMaxSendingSize.Text" xml:space="preserve">
-    <value>الحد الأقصى لحجم إرسال الرسالة:</value>
+    <value>الحد الأقصى لحجم الرسائل المرسلة:</value>
   </data>
   <data name="locTitle.Text" xml:space="preserve">
-    <value>تحرير علبة البريد</value>
+    <value>تحرير صندوق البريد</value>
   </data>
   <data name="secAcceptMessagesFrom.Text" xml:space="preserve">
     <value>قبول الرسائل من</value>
@@ -166,7 +166,7 @@
     <value>رفض الرسائل من</value>
   </data>
   <data name="secSendOnBehalf.Text" xml:space="preserve">
-    <value>أرسل نيابة</value>
+    <value>الإرسال نيابةً عن</value>
   </data>
   <data name="Text.PageName" xml:space="preserve">
     <value>صناديق البريد</value>
@@ -175,6 +175,6 @@
     <value>حفظ العناصر المرسلة</value>
   </data>
   <data name="chkSaveSentItems.Text" xml:space="preserve">
-    <value>نسخ العناصر المرسلة نيابةً عن علبة البريد هذه</value>
+    <value>نسخ العناصر المرسلة باسم صندوق البريد هذا ونيابةً عنه</value>
   </data>
 </root>

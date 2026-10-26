@@ -121,7 +121,7 @@
     <value>إضافة عنوان البريد الإلكتروني</value>
   </data>
   <data name="btnDeleteAddresses.Text" xml:space="preserve">
-    <value>حذف البريد الإلكتروني المحدد</value>
+    <value>حذف عناوين البريد الإلكتروني المحددة</value>
   </data>
   <data name="btnSetAsPrimary.Text" xml:space="preserve">
     <value>تعيين كأساسي</value>

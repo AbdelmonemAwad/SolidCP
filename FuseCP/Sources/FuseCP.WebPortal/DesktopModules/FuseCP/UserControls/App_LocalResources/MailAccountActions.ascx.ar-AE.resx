@@ -124,7 +124,7 @@
     <value>تنفيذ</value>
   </data>
   <data name="ddlMailAccountActionsItem.Actions" xml:space="preserve">
-    <value>- أجراءات -</value>
+    <value>- إجراءات -</value>
   </data>
   <data name="ddlMailAccountActionsItem.Disable" xml:space="preserve">
     <value>تعطيل</value>

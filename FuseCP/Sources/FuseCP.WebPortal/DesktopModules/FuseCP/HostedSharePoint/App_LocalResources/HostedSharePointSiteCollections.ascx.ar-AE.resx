@@ -118,7 +118,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="btnAddItem.Text" xml:space="preserve">
-    <value>أضف مجموعة مواقع شيربوينت</value>
+    <value>إضافة مجموعة مواقع SharePoint</value>
   </data>
   <data name="btnCreateSiteCollection.Text" xml:space="preserve">
     <value>إنشاء مجموعة مواقع جديدة</value>
@@ -127,24 +127,24 @@
     <value>حذف</value>
   </data>
   <data name="FormComments.Text" xml:space="preserve">
-    <value>&lt;p&gt; &lt;b&gt; مجموعة مواقع شيربوينت &lt;/b&gt; عبارة عن مجموعة من المواقع التي تم إنشاؤها على  خدمات مايكروسوفت ويندوز شيربوينت والتي توجد جميعها ضمن موقع المستوى الأعلى. لجعل إدارة المواقع والمحتوى الخاص بها أكثر ملاءمة ، يمكنك تعيين المستخدمين ليكونوا مسئولي مجموعة الموقع أو مالكي جملة المواقع. هذه هي مستويات الأذونات التي يجب منحها للمستخدمين الذين تريد أن يكون لديهم حقوق إدارية كاملة لكافة المواقع والمحتويات ضمن مجموعة مواقع مشتركة. &lt;/ p&gt;</value>
+    <value>&lt;p&gt;&lt;b&gt;مجموعة مواقع SharePoint&lt;/b&gt; هي مجموعة من المواقع المبنية على خدمات Microsoft Windows SharePoint، وتقع جميعها تحت موقع من المستوى الأعلى. ولتسهيل إدارة المواقع ومحتواها، يمكنك تعيين مستخدمين ليكونوا مسؤولي مجموعة المواقع أو مالكيها. وهذه مستويات أذونات تُمنح للمستخدمين الذين تريد أن تكون لديهم حقوق إدارية كاملة على جميع المواقع والمحتويات ضمن مجموعة المواقع.&lt;/p&gt;</value>
   </data>
   <data name="gvOwnerDisplayName.HeaderText" xml:space="preserve">
     <value>المالك</value>
   </data>
   <data name="gvSiteCollection.Empty" xml:space="preserve">
-    <value>لم يتم إنشاء أي مجموعات مواقع في شيربوينت. لإنشاء مجموعة مواقع في شيربوينت ، انقر فوق الزر "إنشاء مجموعة مواقع جديدة".</value>
+    <value>لم يتم إنشاء أي مجموعات مواقع في SharePoint. لإنشاء مجموعة مواقع في SharePoint، انقر فوق الزر "إنشاء مجموعة مواقع جديدة".</value>
   </data>
   <data name="gvSiteCollectionUrl.HeaderText" xml:space="preserve">
-    <value>عنوان Url الخاص بمجموعة الموقع</value>
+    <value>عنوان URL لمجموعة المواقع</value>
   </data>
   <data name="locQuota.Text" xml:space="preserve">
-    <value>إجمالي مجموعات الموقع التي تم إنشاؤها:</value>
+    <value>إجمالي مجموعات المواقع التي تم إنشاؤها:</value>
   </data>
   <data name="locTitle.Text" xml:space="preserve">
-    <value>مجموعات موقع شيربوينت</value>
+    <value>مجموعات مواقع SharePoint</value>
   </data>
   <data name="Text.PageName" xml:space="preserve">
-    <value>مجموعات موقع شيربوينت</value>
+    <value>مجموعات مواقع SharePoint</value>
   </data>
 </root>

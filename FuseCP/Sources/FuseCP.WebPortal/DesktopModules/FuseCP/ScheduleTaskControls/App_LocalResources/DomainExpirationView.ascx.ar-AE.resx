@@ -123,9 +123,6 @@
   <data name="lblEnableNotify.Text" xml:space="preserve">
     <value>تمكين إعلام العميل:</value>
   </data>
-  <data name="lblIncludeNonExistenDomains.Text" xml:space="preserve">
-    <value>تضمين النطاقات غير الموجودة:</value>
-  </data>
   <data name="lblMailTo.Text" xml:space="preserve">
     <value>أرسل بالبريد إلى:</value>
   </data>

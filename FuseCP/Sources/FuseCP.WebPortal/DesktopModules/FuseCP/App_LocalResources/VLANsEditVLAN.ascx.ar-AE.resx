@@ -130,7 +130,7 @@
     <value>الخادم:</value>
   </data>
   <data name="lblVLAN.Text" xml:space="preserve">
-    <value>شبكة محلية افتراضية:</value>
+    <value>VLAN:</value>
   </data>
   <data name="Text.NotAssigned" xml:space="preserve">
     <value>&lt;غير معين&gt;</value>

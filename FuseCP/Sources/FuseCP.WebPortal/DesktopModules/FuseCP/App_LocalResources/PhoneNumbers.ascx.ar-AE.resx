@@ -118,10 +118,10 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="btnAddItem.Text" xml:space="preserve">
-    <value>أضف</value>
+    <value>إضافة</value>
   </data>
   <data name="gvIPAddressesExternalIP.Header" xml:space="preserve">
-    <value>أعداد</value>
+    <value>الأرقام</value>
   </data>
   <data name="gvIPAddressesInternalIP.Header" xml:space="preserve">
     <value>عنوان NAT</value>
@@ -133,13 +133,13 @@
     <value>المستخدم</value>
   </data>
   <data name="gvIPAddressesComments.Header" xml:space="preserve">
-    <value>التعليقات:</value>
+    <value>التعليقات</value>
   </data>
   <data name="gvIPAddresses.Empty" xml:space="preserve">
     <value>لم يتم العثور على أرقام هواتف في المجموعة المحددة.</value>
   </data>
   <data name="SearchField.ExternalIP" xml:space="preserve">
-    <value>أعداد</value>
+    <value>الأرقام</value>
   </data>
   <data name="SearchField.InternalIP" xml:space="preserve">
     <value>عنوان NAT</value>
@@ -154,10 +154,10 @@
     <value>البوابة الافتراضية</value>
   </data>
   <data name="ddlPoolsVpsExternalNetwork.Text" xml:space="preserve">
-    <value>VPS الشبكة الخارجية IP</value>
+    <value>IP الشبكة الخارجية لـ VPS</value>
   </data>
   <data name="ddlPoolsVpsManagementNetwork.Text" xml:space="preserve">
-    <value>إدارة الشبكة VPS IP</value>
+    <value>IP شبكة إدارة VPS</value>
   </data>
   <data name="ddlPoolsWebSites.Text" xml:space="preserve">
     <value>IP مواقع الويب</value>
@@ -178,7 +178,7 @@
     <value>حذف المحدد</value>
   </data>
   <data name="btnEditSelected.Text" xml:space="preserve">
-    <value>تحرير المحدد ...</value>
+    <value>تحرير المحدد...</value>
   </data>
   <data name="gvAddressesItemName.HeaderText" xml:space="preserve">
     <value>العنصر</value>

@@ -121,7 +121,7 @@
     <value>عرض التقرير</value>
   </data>
   <data name="btnExportReport.Text" xml:space="preserve">
-    <value>استخراج التقرير</value>
+    <value>تصدير التقرير</value>
   </data>
   <data name="cmdNextMonth.Text" xml:space="preserve">
     <value>الشهر القادم &gt;&gt;</value>
@@ -133,7 +133,7 @@
     <value>قائمة مساحات الاستضافة فارغة.</value>
   </data>
   <data name="gvReportAllocated.Header" xml:space="preserve">
-    <value>المخصصة ، ميجابايت</value>
+    <value>المخصصة، ميجابايت</value>
   </data>
   <data name="gvReportPackageName.Header" xml:space="preserve">
     <value>مساحة الاستضافة</value>
@@ -145,10 +145,10 @@
     <value>مساحات متداخلة</value>
   </data>
   <data name="gvReportUsage.Header" xml:space="preserve">
-    <value>الاستخدام ،٪</value>
+    <value>الاستخدام، ٪</value>
   </data>
   <data name="gvReportUsed.Header" xml:space="preserve">
-    <value>مستخدمة ، ميجابايت</value>
+    <value>المستخدمة، ميجابايت</value>
   </data>
   <data name="gvReportUser.Header" xml:space="preserve">
     <value>المستخدم</value>
@@ -157,7 +157,7 @@
     <value>من:</value>
   </data>
   <data name="lblTo.Text" xml:space="preserve">
-    <value>الي:</value>
+    <value>إلى:</value>
   </data>
   <data name="lblUser.Text" xml:space="preserve">
     <value>المستخدم:</value>

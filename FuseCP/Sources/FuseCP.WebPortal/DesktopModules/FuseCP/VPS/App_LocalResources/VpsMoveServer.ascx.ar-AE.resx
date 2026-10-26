@@ -121,13 +121,13 @@
     <value>إلغاء</value>
   </data>
   <data name="FormComments.Text" xml:space="preserve">
-    <value>&lt;p&gt; يسمح لك هذا المعالج بتغيير ربط خدمة Hyper-V لعنصر تعريف الجهاز الافتراضي الحالي. &lt;/ p&gt; &lt;p&gt; المعالج &lt;b&gt; لا يؤدي &lt;/ b&gt; ترحيل الجهاز الافتراضي المادي ، ولكن يمكن أن يكون تستخدم لتوجيه لوحة التحكم إلى خدمة Hyper-V الصحيحة بعد نقل الجهاز الافتراضي باستخدام بعض أدوات الإدارة الخارجية مثل Hyper-V manager أو SCVMM. &lt;/p&gt;</value>
+    <value>&lt;p&gt;يتيح لك هذا المعالج تغيير ربط خدمة Hyper-V لعنصر التعريف الخاص بجهاز افتراضي موجود.&lt;/p&gt;&lt;p&gt;المعالج &lt;b&gt;لا يُجري&lt;/b&gt; ترحيلًا فعليًا للجهاز الافتراضي، ولكن يمكن استخدامه لتوجيه لوحة التحكم إلى خدمة Hyper-V الصحيحة بعد نقل الجهاز الافتراضي باستخدام أداة إدارة خارجية مثل Hyper-V Manager أو SCVMM.&lt;/p&gt;</value>
   </data>
   <data name="locTitle.Text" xml:space="preserve">
     <value>انقل VPS</value>
   </data>
   <data name="btnMove.OnClientClick" xml:space="preserve">
-    <value>ShowProgressDialog('جاري نقل الخادم الافتراضي ...');</value>
+    <value>ShowProgressDialog('جاري نقل الخادم الافتراضي...');</value>
   </data>
   <data name="locDestinationService.Text" xml:space="preserve">
     <value>خدمة Hyper-V الوجهة:</value>
@@ -136,7 +136,7 @@
     <value>الرجاء تحديد Hyper-V حيث تم نقل VPS</value>
   </data>
   <data name="locSourceService.Text" xml:space="preserve">
-    <value>خدمة المصدر Hyper-V:</value>
+    <value>خدمة Hyper-V المصدر:</value>
   </data>
   <data name="SelectHyperVService.Text" xml:space="preserve">
     <value>&lt;حدد خدمة Hyper-V&gt;</value>

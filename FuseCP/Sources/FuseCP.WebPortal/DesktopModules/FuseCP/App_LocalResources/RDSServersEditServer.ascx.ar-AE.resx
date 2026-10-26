@@ -148,7 +148,7 @@
     <value>تعليقات الخادم:</value>
   </data>
   <data name="locServerName.Text" xml:space="preserve">
-    <value>اسم النطاق المؤهل للخادم بالكامل:</value>
+    <value>اسم النطاق المؤهل بالكامل (FQDN) للخادم:</value>
   </data>
   <data name="locSize.Text" xml:space="preserve">
     <value>الحجم:</value>
@@ -157,7 +157,7 @@
     <value>الحالة:</value>
   </data>
   <data name="locVolumeName.Text" xml:space="preserve">
-    <value>اسم المجلد:</value>
+    <value>اسم وحدة التخزين:</value>
   </data>
   <data name="secServerInfo.Text" xml:space="preserve">
     <value>معلومات الخادم</value>

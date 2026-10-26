@@ -127,25 +127,25 @@
     <value>لم يتم تعريف معالجات الأخطاء المخصصة</value>
   </data>
   <data name="gvErrorPagesCode.Header" xml:space="preserve">
-    <value>كود</value>
+    <value>الرمز</value>
   </data>
   <data name="gvErrorPagesErrorContent.Header" xml:space="preserve">
     <value>محتوى الخطأ</value>
   </data>
   <data name="gvErrorPagesHandlerType.Header" xml:space="preserve">
-    <value>نوع المعالجة</value>
+    <value>نوع المعالج</value>
   </data>
   <data name="gvErrorPagesSubcode.Header" xml:space="preserve">
-    <value>كود فرعي</value>
+    <value>الرمز الفرعي</value>
   </data>
   <data name="IIS6.Default" xml:space="preserve">
-    <value>الإفتراضي</value>
+    <value>الافتراضي</value>
   </data>
   <data name="IIS6.FILE" xml:space="preserve">
     <value>ملف</value>
   </data>
   <data name="IIS7.ExecuteURL" xml:space="preserve">
-    <value>رابط التنفيذ</value>
+    <value>تنفيذ عنوان URL</value>
   </data>
   <data name="IIS7.File" xml:space="preserve">
     <value>ملف</value>

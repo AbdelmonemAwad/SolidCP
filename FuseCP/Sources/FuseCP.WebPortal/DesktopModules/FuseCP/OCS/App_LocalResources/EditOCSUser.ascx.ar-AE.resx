@@ -124,7 +124,7 @@
     <value>حفظ التغييرات</value>
   </data>
   <data name="cbArchiveFederation.Text" xml:space="preserve">
-    <value>أرشفة محادثات المراسلة الفورية الموحدة</value>
+    <value>أرشفة محادثات المراسلة الفورية الاتحادية</value>
   </data>
   <data name="cbArchiveInternal.Text" xml:space="preserve">
     <value>أرشفة محادثات المراسلة الفورية الداخلية</value>
@@ -133,13 +133,13 @@
     <value>تمكين الاتحاد</value>
   </data>
   <data name="cbEnablePresence.Text" xml:space="preserve">
-    <value>تفعيل التواجد المحسن</value>
+    <value>تمكين الحضور المحسن</value>
   </data>
   <data name="cbEnablePublicConnectivity.Text" xml:space="preserve">
     <value>تمكين اتصال الدردشة العامة</value>
   </data>
   <data name="locDisplayName.Text" xml:space="preserve">
-    <value>عرض الاسم :</value>
+    <value>اسم العرض:</value>
   </data>
   <data name="locEmail.Text" xml:space="preserve">
     <value>اسم تسجيل الدخول:</value>
@@ -157,7 +157,7 @@
     <value>الاتحاد</value>
   </data>
   <data name="secPresence.Text" xml:space="preserve">
-    <value>وجود</value>
+    <value>الحضور</value>
   </data>
   <data name="btnSaveText.Text" xml:space="preserve">
     <value>حفظ التغييرات</value>

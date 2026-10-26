@@ -127,7 +127,7 @@
     <value>جهات الاتصال</value>
   </data>
   <data name="chkIncludeEquipment.Text" xml:space="preserve">
-    <value>ادوات</value>
+    <value>معدات</value>
   </data>
   <data name="chkIncludeLists.Text" xml:space="preserve">
     <value>قوائم التوزيع</value>
@@ -142,13 +142,13 @@
     <value>مسح</value>
   </data>
   <data name="ddlSearchColumnDisplayName.Text" xml:space="preserve">
-    <value>عرض الاسم </value>
+    <value>الاسم المعروض</value>
   </data>
   <data name="ddlSearchColumnEmail.Text" xml:space="preserve">
     <value>عنوان البريد الإلكتروني</value>
   </data>
   <data name="gvAccountsDisplayName.HeaderText" xml:space="preserve">
-    <value>عرض الاسم </value>
+    <value>الاسم المعروض</value>
   </data>
   <data name="gvAccountsEmail.HeaderText" xml:space="preserve">
     <value>عنوان البريد الإلكتروني الرئيسي</value>
@@ -157,15 +157,15 @@
     <value>لم يتم العثور على حسابات.</value>
   </data>
   <data name="headerAddAccounts.Text" xml:space="preserve">
-    <value>Exchange دفتر عناوين</value>
+    <value>دفتر عناوين Exchange</value>
   </data>
   <data name="locIncludeSearch.Text" xml:space="preserve">
     <value>تضمين في البحث:</value>
   </data>
   <data name="UserLookup.Text" xml:space="preserve">
-    <value>&amp;lt;i class='bi bi-folder2-open' aria-hidden='true'&amp;gt;&amp;lt;/i&amp;gt;&amp;nbsp;مستخدم البحث</value>
+    <value>البحث عن مستخدم</value>
   </data>
   <data name="chkIncludeSharedMailbox.Text" xml:space="preserve">
-    <value>علبة بريد مشتركة</value>
+    <value>صندوق بريد مشترك</value>
   </data>
 </root>

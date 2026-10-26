@@ -142,10 +142,10 @@
     <value>تحديد...</value>
   </data>
   <data name="mnuActions.SwitchLogged" xml:space="preserve">
-    <value>قم بالتبديل إلى المستخدم المسجل</value>
+    <value>التبديل إلى المستخدم المسجّل دخوله</value>
   </data>
   <data name="mnuActions.SwitchWorkFor" xml:space="preserve">
-    <value>قم بالتبديل إلى "العمل لدى" المستخدم</value>
+    <value>التبديل إلى المستخدم (العمل نيابةً عنه)</value>
   </data>
   <data name="SearchField.Email" xml:space="preserve">
     <value>بريد إلكتروني</value>

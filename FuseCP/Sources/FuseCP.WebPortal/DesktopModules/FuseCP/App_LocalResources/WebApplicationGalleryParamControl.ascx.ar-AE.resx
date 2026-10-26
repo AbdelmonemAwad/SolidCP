@@ -124,7 +124,7 @@
     <value>تأكيد:</value>
   </data>
   <data name="RegexpValidator.Text" xml:space="preserve">
-    <value>لا يمكن استخدام القيمة المدخلة للمعامل "{0}". يجب أن تتطابق القيمة مع التعبير العادي "{1}".</value>
+    <value>لا يمكن استخدام القيمة المُدخلة للمعلمة "{0}". يجب أن تتطابق القيمة مع التعبير النمطي "{1}".</value>
   </data>
   <data name="requireConfirmPassword.Text" xml:space="preserve">
     <value>تأكيد كلمة المرور</value>

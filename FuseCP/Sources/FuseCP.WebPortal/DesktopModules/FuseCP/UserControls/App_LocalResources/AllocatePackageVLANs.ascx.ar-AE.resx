@@ -118,7 +118,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="btnAdd.Text" xml:space="preserve">
-    <value>أضف</value>
+    <value>إضافة</value>
   </data>
   <data name="btnCancel.Text" xml:space="preserve">
     <value>إلغاء</value>
@@ -133,7 +133,7 @@
     <value>مجموعة شبكات VLAN فارغة. &lt;br/&gt; خصص المزيد من شبكات VLAN على مستوى الموزع.</value>
   </data>
   <data name="locQuotaReached.Text" xml:space="preserve">
-    <value>تم الوصول إلى حصة شبكات محلية افتراضية.</value>
+    <value>تم الوصول إلى حصة شبكات VLAN.</value>
   </data>
   <data name="locTitle.Text" xml:space="preserve">
     <value>تخصيص شبكات VLAN</value>

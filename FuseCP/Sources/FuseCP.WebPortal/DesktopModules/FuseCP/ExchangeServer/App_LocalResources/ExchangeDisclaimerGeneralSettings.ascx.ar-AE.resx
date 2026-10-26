@@ -118,7 +118,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="btnSave.OnClientClick" xml:space="preserve">
-    <value>ShowProgressDialog('تحديث إخلاء المسؤولية ...');</value>
+    <value>ShowProgressDialog('جارٍ تحديث إخلاء المسؤولية...');</value>
   </data>
   <data name="btnSave.Text" xml:space="preserve">
     <value>حفظ التغييرات</value>
@@ -133,7 +133,7 @@
     <value>إخلاء مسؤولية</value>
   </data>
   <data name="valRequireDisplayName.ErrorMessage" xml:space="preserve">
-    <value>أدخل اسم العرض</value>
+    <value>أدخل الاسم المعروض</value>
   </data>
   <data name="valRequireDisplayName.Text" xml:space="preserve">
     <value>*</value>

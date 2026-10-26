@@ -121,13 +121,13 @@
     <value>ملف المساحة:</value>
   </data>
   <data name="lblFilePathHint.Text" xml:space="preserve">
-    <value>([date], [time] المتغيرات مدعومة)</value>
+    <value>(المتغيران [date] و[time] مدعومان)</value>
   </data>
   <data name="lblPassword.Text" xml:space="preserve">
     <value>كلمة مرور FTP:</value>
   </data>
   <data name="lblRemoteFolder.Text" xml:space="preserve">
-    <value>FTP مجلد عن بعد:</value>
+    <value>المجلد البعيد على FTP:</value>
   </data>
   <data name="lblServer.Text" xml:space="preserve">
     <value>خادم FTP:</value>

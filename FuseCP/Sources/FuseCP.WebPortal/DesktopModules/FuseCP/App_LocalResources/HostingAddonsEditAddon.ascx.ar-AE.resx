@@ -151,7 +151,7 @@
     <value>سنة</value>
   </data>
   <data name="lblBillsEvery.Text" xml:space="preserve">
-    <value>فواتير كل</value>
+    <value>الفوترة كل</value>
   </data>
   <data name="lblRecurringPrice.Text" xml:space="preserve">
     <value>السعر المتكرر:</value>

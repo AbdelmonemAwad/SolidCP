@@ -121,7 +121,7 @@
     <value>إنشاء مجموعة RDS جديدة</value>
   </data>
   <data name="cmdDelete.OnClientClick" xml:space="preserve">
-    <value>if(!confirm('هل أنت متأكد أنك تريد إزالة مجموعة rds المختارة؟')) return false; else ShowProgressDialog('جارٍ حذف المجموعة ...');</value>
+    <value>if(!confirm('هل أنت متأكد أنك تريد إزالة مجموعة rds المختارة؟')) return false; else ShowProgressDialog('جارٍ حذف المجموعة...');</value>
   </data>
   <data name="cmdDelete.Text" xml:space="preserve">
     <value>إزالة</value>
@@ -130,13 +130,13 @@
     <value>حذف المجموعة</value>
   </data>
   <data name="gvRDSCollections.Empty" xml:space="preserve">
-    <value>لم يتم إضافة أي مجموعات حتى الآن. لإضافة جديد انقر فوق الزر "إنشاء مجموعة RDS جديدة".</value>
+    <value>لم تتم إضافة أي مجموعات حتى الآن. لإضافة مجموعة جديدة، انقر فوق الزر "إنشاء مجموعة RDS جديدة".</value>
   </data>
   <data name="Text.PageName" xml:space="preserve">
     <value>مجموعات RDS</value>
   </data>
   <data name="gvCollectionName.Header" xml:space="preserve">
-    <value>اسم المجموعة:</value>
+    <value>اسم المجموعة</value>
   </data>
   <data name="locTitle.Text" xml:space="preserve">
     <value>مجموعات RDS</value>

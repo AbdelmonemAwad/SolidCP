@@ -118,10 +118,10 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="lblAccount.Text" xml:space="preserve">
-    <value>أسم الحساب:</value>
+    <value>اسم الحساب:</value>
   </data>
   <data name="lblCatchAll.Text" xml:space="preserve">
-    <value>الالتقاط - كل الحسابات:</value>
+    <value>حساب الالتقاط الشامل (Catch-All):</value>
   </data>
   <data name="lblPassword.Text" xml:space="preserve">
     <value>كلمة مرور الحساب:</value>
@@ -130,7 +130,7 @@
     <value>سياسة حسابات البريد</value>
   </data>
   <data name="secGeneral.Text" xml:space="preserve">
-    <value>الاعدادات العامة</value>
+    <value>الإعدادات العامة</value>
   </data>
   <data name="valRequireCatchAll.Text" xml:space="preserve">
     <value>*</value>

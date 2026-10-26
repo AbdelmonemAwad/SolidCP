@@ -118,7 +118,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="Text.AccountVLanNetwork" xml:space="preserve">
-    <value>الشبكات المحلية الافتراضية المتوفرة</value>
+    <value>شبكات VLAN المتاحة</value>
   </data>
   <data name="Text.AuditLog" xml:space="preserve">
     <value>سجل التدقيق</value>
@@ -127,7 +127,7 @@
     <value>الشبكة الخارجية</value>
   </data>
   <data name="Text.ManagementNetwork" xml:space="preserve">
-    <value>إدارة الشبكة</value>
+    <value>شبكة الإدارة</value>
   </data>
   <data name="Text.PrivateNetwork" xml:space="preserve">
     <value>شبكة خاصة</value>

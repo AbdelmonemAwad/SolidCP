@@ -130,6 +130,6 @@
     <value>إزالة</value>
   </data>
   <data name="gvStorageSpaces.Empty" xml:space="preserve">
-    <value>قائمة مساحات التخزين فارغة.&lt;br&gt;&lt;br&gt; لإضافة مساحة تخزين جديدة أضغط على زر "إضافة مساحة تخزين " ً.</value>
+    <value>قائمة مساحات التخزين فارغة.&lt;br&gt;&lt;br&gt;لإضافة مساحة تخزين جديدة، انقر على الزر "إضافة مساحة التخزين".</value>
   </data>
 </root>

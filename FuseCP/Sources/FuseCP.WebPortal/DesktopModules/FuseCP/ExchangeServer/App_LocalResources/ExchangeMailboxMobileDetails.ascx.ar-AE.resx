@@ -130,7 +130,7 @@
     <value>امسح جميع البيانات من الجهاز</value>
   </data>
   <data name="locDeviceAcnowledgeTime.Text" xml:space="preserve">
-    <value>وقت استلام الجهاز لمسح:</value>
+    <value>وقت إقرار الجهاز بالمسح:</value>
   </data>
   <data name="locDeviceFriendlyName.Text" xml:space="preserve">
     <value>اسم مألوف للجهاز:</value>
@@ -151,7 +151,7 @@
     <value>لغة نظام تشغيل الجهاز:</value>
   </data>
   <data name="locDevicePassword.Text" xml:space="preserve">
-    <value>استعادة كلمة المرور:</value>
+    <value>كلمة مرور الاسترداد:</value>
   </data>
   <data name="locDeviceType.Text" xml:space="preserve">
     <value>نوع الجهاز:</value>
@@ -175,7 +175,7 @@
     <value>الحالة:</value>
   </data>
   <data name="locTitle.Text" xml:space="preserve">
-    <value>تحرير علبة البريد</value>
+    <value>تحرير صندوق البريد</value>
   </data>
   <data name="OK" xml:space="preserve">
     <value>موافق</value>
@@ -184,10 +184,10 @@
     <value>في انتظار المسح</value>
   </data>
   <data name="Text.PageName" xml:space="preserve">
-    <value>تحرير علبة البريد</value>
+    <value>تحرير صندوق البريد</value>
   </data>
   <data name="Unknown" xml:space="preserve">
-    <value>غير محدود</value>
+    <value>غير معروف</value>
   </data>
   <data name="WipeSuccessful" xml:space="preserve">
     <value>تم المسح بنجاح</value>

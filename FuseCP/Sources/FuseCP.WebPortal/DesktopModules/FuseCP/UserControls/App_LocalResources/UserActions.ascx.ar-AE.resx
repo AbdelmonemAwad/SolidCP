@@ -136,7 +136,7 @@
     <value>تنفيذ</value>
   </data>
   <data name="ddlUserActionsItem.Actions" xml:space="preserve">
-    <value>- أجراءات -</value>
+    <value>- إجراءات -</value>
   </data>
   <data name="ddlUserActionsItem.Disable" xml:space="preserve">
     <value>تعطيل</value>
@@ -145,7 +145,7 @@
     <value>تمكين</value>
   </data>
   <data name="ddlUserActionsItem.SetMailboxPlan" xml:space="preserve">
-    <value>قم بتعيين خطة صندوق البريد</value>
+    <value>تعيين خطة صندوق البريد</value>
   </data>
   <data name="ddlUserActionsItem.SetServiceLevel" xml:space="preserve">
     <value>تعيين مستوى الخدمة</value>
@@ -154,7 +154,7 @@
     <value>تعيين VIP</value>
   </data>
   <data name="ddlUserActionsItem.UnsetVIP" xml:space="preserve">
-    <value>غير محدد VIP</value>
+    <value>إلغاء تعيين VIP</value>
   </data>
   <data name="ddlUserActionsItem.SendBySms" xml:space="preserve">
     <value>إرسال رسالة نصية لإعادة تعيين كلمة المرور</value>
@@ -187,7 +187,7 @@
     <value>إلغاء</value>
   </data>
   <data name="litAccountsWithoutPhone.Text" xml:space="preserve">
-    <value>لن يتم إرسال الرسائل القصيرة إلى الحسابات التالية ، لأنه لم يتم تعيين "الهاتف المحمول".</value>
+    <value>لن يتم إرسال الرسائل القصيرة إلى الحسابات التالية، لأنه لم يتم تعيين "الهاتف المحمول".</value>
   </data>
   <data name="btnApplyText.Text" xml:space="preserve">
     <value>تنفيذ</value>

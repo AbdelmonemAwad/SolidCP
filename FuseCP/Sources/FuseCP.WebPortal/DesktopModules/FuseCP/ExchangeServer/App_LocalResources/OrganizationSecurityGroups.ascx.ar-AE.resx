@@ -121,7 +121,7 @@
     <value>إنشاء مجموعة جديدة</value>
   </data>
   <data name="cmdDelete.OnClientClick" xml:space="preserve">
-    <value>if(!confirm('هل أنت متأكد أنك تريد حذف هذه المجموعة؟')) return false; else ShowProgressDialog('جارٍ حذف المجموعة ...');</value>
+    <value>if(!confirm('هل أنت متأكد أنك تريد حذف هذه المجموعة؟')) return false; else ShowProgressDialog('جارٍ حذف المجموعة...');</value>
   </data>
   <data name="cmdDelete.Text" xml:space="preserve">
     <value>حذف</value>
@@ -133,13 +133,13 @@
     <value>البحث</value>
   </data>
   <data name="ddlSearchColumnDisplayName.Text" xml:space="preserve">
-    <value>عرض الاسم </value>
+    <value>الاسم المعروض</value>
   </data>
   <data name="gvGroups.Empty" xml:space="preserve">
     <value>لم يتم إنشاء أي مجموعات. لإنشاء مجموعة جديدة انقر فوق الزر "إنشاء مجموعة جديدة".</value>
   </data>
   <data name="gvGroupsDisplayName.Header" xml:space="preserve">
-    <value>عرض الاسم </value>
+    <value>الاسم المعروض</value>
   </data>
   <data name="locTitle.Text" xml:space="preserve">
     <value>مجموعات</value>

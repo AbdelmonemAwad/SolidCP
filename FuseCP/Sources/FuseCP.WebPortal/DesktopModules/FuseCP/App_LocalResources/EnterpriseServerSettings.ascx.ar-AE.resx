@@ -118,10 +118,10 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="lblEnterpriseServerURL.Text" xml:space="preserve">
-    <value>عنوان رابط لخادم المؤسسة:</value>
+    <value>عنوان URL لخادم المؤسسة:</value>
   </data>
   <data name="lblAuthenticationMode.Text" xml:space="preserve">
-    <value>وضع مصادقة:</value>
+    <value>وضع المصادقة:</value>
   </data>
   <data name="lblMapDotNetNukeAccounts.Text" xml:space="preserve">
     <value>قم بتعيين حسابات DotNetNuke على حسابات FuseCP المناسبة</value>
@@ -139,7 +139,7 @@
     <value>تأكيد كلمة المرور:</value>
   </data>
   <data name="secRoles.Text" xml:space="preserve">
-    <value>تخطيط أدوار FuseCP</value>
+    <value>ربط أدوار FuseCP</value>
   </data>
   <data name="lblFuseCPRole.Text" xml:space="preserve">
     <value>دور FuseCP</value>

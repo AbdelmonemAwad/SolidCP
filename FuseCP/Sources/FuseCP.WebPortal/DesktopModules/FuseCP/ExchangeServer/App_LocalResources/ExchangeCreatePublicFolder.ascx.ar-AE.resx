@@ -118,19 +118,19 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="btnCreate.OnClientClick" xml:space="preserve">
-    <value>ShowProgressDialog('جاري إنشاء المجلد العام ...');</value>
+    <value>ShowProgressDialog('جاري إنشاء المجلد العام...');</value>
   </data>
   <data name="btnCreate.Text" xml:space="preserve">
     <value>إنشاء مجلد عام</value>
   </data>
   <data name="chkMailEnabledFolder.Text" xml:space="preserve">
-    <value>المجلد العام الذي تم تمكينه بواسطة البريد</value>
+    <value>مجلد عام مُمكَّن للبريد</value>
   </data>
   <data name="locEmail.Text" xml:space="preserve">
     <value>عنوان البريد الإلكتروني: *</value>
   </data>
   <data name="locName.Text" xml:space="preserve">
-    <value>إسم الملف: *</value>
+    <value>اسم المجلد: *</value>
   </data>
   <data name="locTitle.Text" xml:space="preserve">
     <value>إنشاء مجلد عام جديد</value>

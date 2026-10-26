@@ -118,13 +118,13 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="btnAllocateVLAN.Text" xml:space="preserve">
-    <value>تخصيص ...</value>
+    <value>تخصيص...</value>
   </data>
   <data name="btnAllocateVLANText.Text" xml:space="preserve">
-    <value>تخصيص ...</value>
+    <value>تخصيص...</value>
   </data>
   <data name="btnDeallocateVLANs.OnClientClick" xml:space="preserve">
-    <value>return confirm('إلغاء تخصيص شبكات محلية افتراضية محددة من مساحة الاستضافة؟');</value>
+    <value>return confirm('هل تريد إلغاء تخصيص شبكات VLAN المحددة من مساحة الاستضافة؟');</value>
   </data>
   <data name="btnDeallocateVLANs.Text" xml:space="preserve">
     <value>إلغاء تخصيص المحدد</value>
@@ -139,6 +139,6 @@
     <value>المستخدم</value>
   </data>
   <data name="gvVLANsVLAN.HeaderText" xml:space="preserve">
-    <value>شبكة محلية افتراضية</value>
+    <value>VLAN</value>
   </data>
 </root>

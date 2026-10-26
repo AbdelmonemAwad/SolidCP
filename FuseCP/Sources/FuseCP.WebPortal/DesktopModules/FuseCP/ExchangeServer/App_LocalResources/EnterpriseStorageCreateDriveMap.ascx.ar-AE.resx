@@ -118,16 +118,16 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="btnCreate.OnClientClick" xml:space="preserve">
-    <value>ShowProgressDialog('إنشاء خريطة محرك ...');</value>
+    <value>ShowProgressDialog('جارٍ إنشاء تعيين محرك الأقراص...');</value>
   </data>
   <data name="btnCreate.Text" xml:space="preserve">
-    <value>إنشاء خريطة محرك</value>
+    <value>إنشاء تعيين محرك أقراص</value>
   </data>
   <data name="locDisplayName.Text" xml:space="preserve">
-    <value>إسم الملف: *</value>
+    <value>اسم المجلد: *</value>
   </data>
   <data name="Text.PageName" xml:space="preserve">
-    <value>خرائط محرك اقراص</value>
+    <value>تعيينات محركات الأقراص</value>
   </data>
   <data name="valRequireFolderName.ErrorMessage" xml:space="preserve">
     <value>أدخل اسم المجلد</value>
@@ -136,7 +136,7 @@
     <value>*</value>
   </data>
   <data name="locTitle" xml:space="preserve">
-    <value>إنشاء خريطة محرك جديد</value>
+    <value>إنشاء تعيين محرك أقراص جديد</value>
   </data>
   <data name="locDriveLabel" xml:space="preserve">
     <value>التسمية باسم:</value>
@@ -148,7 +148,7 @@
     <value>*</value>
   </data>
   <data name="valRequireFolderSize" xml:space="preserve">
-    <value>تتطلب val حجم المجلد</value>
+    <value>valRequireFolderSize</value>
   </data>
   <data name="valRequireFolderSize.ErrorMessage" xml:space="preserve">
     <value>أدخل حجم المجلد</value>
@@ -157,6 +157,6 @@
     <value>حدد حرف محرك الأقراص:</value>
   </data>
   <data name="btnCreateText.Text" xml:space="preserve">
-    <value>إنشاء خريطة محرك</value>
+    <value>إنشاء تعيين محرك أقراص</value>
   </data>
 </root>

@@ -118,13 +118,13 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="btnAddFeed.Text" xml:space="preserve">
-    <value>&amp;lt;i class='bi bi-plus-circle' aria-hidden='true'&amp;gt;&amp;nbsp;&amp;lt;/i&amp;gt;&amp;nbsp;أضافة تغذية</value>
+    <value>&amp;lt;i class='bi bi-plus-circle' aria-hidden='true'&amp;gt;&amp;nbsp;&amp;lt;/i&amp;gt;&amp;nbsp;إضافة تغذية</value>
   </data>
   <data name="cmdDeleteFeed.AlternateText" xml:space="preserve">
     <value>حذف التغذية</value>
   </data>
   <data name="cmdDeleteFeed.OnClientClick" xml:space="preserve">
-    <value>return confirm('حذف العنصر؟');</value>
+    <value>return confirm('هل تريد حذف العنصر؟');</value>
   </data>
   <data name="gvFeeds.Empty" xml:space="preserve">
     <value>القائمة فارغة.</value>
@@ -133,10 +133,10 @@
     <value>خادم الأسماء الإضافي:</value>
   </data>
   <data name="Item0.Text" xml:space="preserve">
-    <value>اسم الخادم الرئيسي:</value>
+    <value>خادم الأسماء الرئيسي:</value>
   </data>
   <data name="Item1.Text" xml:space="preserve">
-    <value>اسم الخادم الثانوي:</value>
+    <value>خادم الأسماء الثانوي:</value>
   </data>
   <data name="cmdDeleteFeed.Text" xml:space="preserve">
     <value>&amp;lt;i class='bi bi-trash' aria-hidden='true'&amp;gt;&amp;nbsp;&amp;lt;/i&amp;gt;&amp;nbsp;حذف التغذية</value>

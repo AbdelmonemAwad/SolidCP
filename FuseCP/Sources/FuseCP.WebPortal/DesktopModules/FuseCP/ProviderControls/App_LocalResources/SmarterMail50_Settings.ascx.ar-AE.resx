@@ -124,13 +124,13 @@
     <value>استيراد مسؤول النظام</value>
   </data>
   <data name="cbInheritDefaultLimits.Text" xml:space="preserve">
-    <value>منح الحدود الافتراضية للنطاق &amp;nbsp; (سيتم تطبيق حدود النطاق الافتراضية على جميع النطاقات الجديدة التي تم إنشاؤها)</value>
+    <value>توريث الحدود الافتراضية للنطاق &amp;nbsp; (سيتم تطبيق الحدود الافتراضية للنطاق على جميع النطاقات التي يتم إنشاؤها حديثًا)</value>
   </data>
   <data name="lblAdminLogin.Text" xml:space="preserve">
     <value>تسجيل دخول المدير:</value>
   </data>
   <data name="lblAdminPassword.Text" xml:space="preserve">
-    <value>كلمة سر المدير:</value>
+    <value>كلمة مرور المدير:</value>
   </data>
   <data name="lblCurrPassword.Text" xml:space="preserve">
     <value>كلمة مرور المسؤول الحالية:</value>

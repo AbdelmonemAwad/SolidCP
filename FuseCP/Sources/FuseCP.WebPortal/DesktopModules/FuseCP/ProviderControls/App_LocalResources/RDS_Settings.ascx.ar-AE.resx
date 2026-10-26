@@ -118,19 +118,19 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="btnAdd.Text" xml:space="preserve">
-    <value>أضف</value>
+    <value>إضافة</value>
   </data>
   <data name="gvGWServers.EmptyDataText" xml:space="preserve">
-    <value>لم يتم إضافة أي بوابة خدمة حتى الآن.</value>
+    <value>لم تتم إضافة أي خوادم بوابة حتى الآن.</value>
   </data>
   <data name="ServerNameColumn.HeaderText" xml:space="preserve">
     <value>اسم الخادم</value>
   </data>
   <data name="lblPFXInstallPassword.Text" xml:space="preserve">
-    <value>كلمة مرور الشهادة</value>
+    <value>كلمة مرور الشهادة:</value>
   </data>
   <data name="secCertificateSettings.Text" xml:space="preserve">
-    <value>شهادة SSL:</value>
+    <value>شهادة SSL</value>
   </data>
   <data name="lblSelectFile.Text" xml:space="preserve">
     <value>حدد الشهادة:</value>
@@ -139,7 +139,7 @@
     <value>تاريخ الانتهاء:</value>
   </data>
   <data name="lblIssuedBy.Text" xml:space="preserve">
-    <value>أصدرت من قبل:</value>
+    <value>جهة الإصدار:</value>
   </data>
   <data name="lblSanName.Text" xml:space="preserve">
     <value>اسم SAN:</value>
@@ -151,6 +151,6 @@
     <value>السماح باستيراد المجموعات:</value>
   </data>
   <data name="btnAddText.Text" xml:space="preserve">
-    <value>أضف</value>
+    <value>إضافة</value>
   </data>
 </root>

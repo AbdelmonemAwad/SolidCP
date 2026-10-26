@@ -121,7 +121,7 @@
     <value>اسم قالب النطاق:</value>
   </data>
   <data name="lblMaxMessageSizeInMB.Text" xml:space="preserve">
-    <value>الحد الأقصى لحجم الرسالة العالمي:</value>
+    <value>الحد الأقصى العام لحجم الرسالة:</value>
   </data>
   <data name="lblPublicIP.Text" xml:space="preserve">
     <value>عنوان IP العام:</value>
@@ -136,6 +136,6 @@
     <value>يمكن تجاوزه على مستوى النطاق إذا قمت بتحديد "تجاوز الحدود العامة"</value>
   </data>
   <data name="txtWarnSizeValidator.ErrorMessage" xml:space="preserve">
-    <value>يجب أن تكون القيمة بين 0 و 99 ، 0 يعني تعطيل</value>
+    <value>يجب أن تكون القيمة بين 0 و 99، 0 يعني تعطيل</value>
   </data>
 </root>

@@ -139,13 +139,13 @@
     <value>المالك</value>
   </data>
   <data name="gvUsersPassword.Header" xml:space="preserve">
-    <value>كلمه المرور</value>
+    <value>كلمة المرور</value>
   </data>
   <data name="gvUsersUsername.Header" xml:space="preserve">
     <value>اسم المستخدم</value>
   </data>
   <data name="lblImportTimeZone.Text" xml:space="preserve">
-    <value>المنطقة الزمنية لواردات السجل:</value>
+    <value>المنطقة الزمنية لاستيراد السجلات:</value>
   </data>
   <data name="lblSiteID.Text" xml:space="preserve">
     <value>معرف الموقع:</value>
@@ -154,12 +154,12 @@
     <value>حالة الموقع:</value>
   </data>
   <data name="lblSiteUsers.Text" xml:space="preserve">
-    <value>مستخدمي الموقع:</value>
+    <value>مستخدمو الموقع:</value>
   </data>
   <data name="Text.Pending" xml:space="preserve">
     <value>&lt;معلق&gt;</value>
   </data>
   <data name="Text.Unknown" xml:space="preserve">
-    <value>غير محدود</value>
+    <value>غير معروف</value>
   </data>
 </root>

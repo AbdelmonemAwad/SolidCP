@@ -127,7 +127,7 @@
     <value>خطاب إعداد صندوق بريد Exchange</value>
   </data>
   <data name="lnkOrganizationUserSummaryLetter.Text" xml:space="preserve">
-    <value>رسالة ملخص مستخدم المنظمة</value>
+    <value>رسالة ملخص مستخدم المؤسسة</value>
   </data>
   <data name="lnkPackageLetter.Text" xml:space="preserve">
     <value>خطاب ملخص مساحة الاستضافة</value>
@@ -145,7 +145,7 @@
     <value>رسالة انتهاء صلاحية النطاق</value>
   </data>
   <data name="lnkDomainLookupLetter.Text" xml:space="preserve">
-    <value>النطاق MX و NS إلكتروني</value>
+    <value>رسالة سجلات MX وNS للنطاق</value>
   </data>
   <data name="lnkRdsSetupLetter.Text" xml:space="preserve">
     <value>خطاب إعداد RDS</value>
@@ -157,7 +157,7 @@
     <value>رسالة إعادة تعيين كلمة مرور مستخدم المؤسسة</value>
   </data>
   <data name="lnkOrganizationUserPasswordResetPincodeLetter.Text" xml:space="preserve">
-    <value>كلمة مرور مستخدم المؤسسة إعادة تعيين الحرف السري</value>
+    <value>رسالة رمز PIN لإعادة تعيين كلمة مرور مستخدم المؤسسة</value>
   </data>
   <data name="lnkOrganizationUserPasswordRequestLetter.Text" xml:space="preserve">
     <value>خطاب طلب كلمة مرور مستخدم المؤسسة</value>

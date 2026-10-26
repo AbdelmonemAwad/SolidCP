@@ -139,7 +139,7 @@
     <value>عرض السجل</value>
   </data>
   <data name="ddlPriorityItem.AboveNormal" xml:space="preserve">
-    <value>فوق المعدل الطبيعي</value>
+    <value>أعلى من العادي</value>
   </data>
   <data name="ddlPriorityItem.BelowNormal" xml:space="preserve">
     <value>أقل من العادي</value>
@@ -154,13 +154,13 @@
     <value>عادي</value>
   </data>
   <data name="ddlScheduleItem.Daily" xml:space="preserve">
-    <value>اليومي</value>
+    <value>يومي</value>
   </data>
   <data name="ddlScheduleItem.Interval" xml:space="preserve">
-    <value>الفاصلة</value>
+    <value>فاصل زمني</value>
   </data>
   <data name="ddlScheduleItem.Monthly" xml:space="preserve">
-    <value>شهريا</value>
+    <value>شهري</value>
   </data>
   <data name="ddlScheduleItem.Once" xml:space="preserve">
     <value>مرة واحدة</value>
@@ -193,7 +193,7 @@
     <value>القيمة</value>
   </data>
   <data name="lblEnabled.Text" xml:space="preserve">
-    <value>تمكين:</value>
+    <value>مُمكَّن:</value>
   </data>
   <data name="lblFrom.Text" xml:space="preserve">
     <value>من:</value>
@@ -202,7 +202,7 @@
     <value>أقصى وقت للتنفيذ:</value>
   </data>
   <data name="lblMonthDay.Text" xml:space="preserve">
-    <value>يوم الأسبوع:</value>
+    <value>يوم الشهر:</value>
   </data>
   <data name="lblPriority.Text" xml:space="preserve">
     <value>الأولوية:</value>
@@ -217,7 +217,7 @@
     <value>تشغيل في:</value>
   </data>
   <data name="lblSchedule.Text" xml:space="preserve">
-    <value>جدول المواعيد</value>
+    <value>جدول المواعيد:</value>
   </data>
   <data name="lblStartTime.Text" xml:space="preserve">
     <value>وقت البدء:</value>
@@ -232,7 +232,7 @@
     <value>نوع المهمة:</value>
   </data>
   <data name="lblTo.Text" xml:space="preserve">
-    <value>الي:</value>
+    <value>إلى:</value>
   </data>
   <data name="lblWeekDay.Text" xml:space="preserve">
     <value>يوم الأسبوع:</value>
@@ -244,10 +244,10 @@
     <value>ناجح</value>
   </data>
   <data name="secHistory.Text" xml:space="preserve">
-    <value>سجل التاريخ</value>
+    <value>سجل المحفوظات</value>
   </data>
   <data name="btnUpdate.OnClientClick" xml:space="preserve">
-    <value>ShowProgressDialog('حفظ المهمة المجدولة ...');</value>
+    <value>ShowProgressDialog('جارٍ حفظ المهمة المجدولة...');</value>
   </data>
   <data name="btnDeleteText.Text" xml:space="preserve">
     <value>حذف</value>

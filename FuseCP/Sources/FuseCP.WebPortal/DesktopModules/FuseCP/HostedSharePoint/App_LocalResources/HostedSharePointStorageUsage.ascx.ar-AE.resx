@@ -121,13 +121,13 @@
     <value>إعادة حساب مساحة القرص</value>
   </data>
   <data name="FormComments.Text" xml:space="preserve">
-    <value>&lt;p&gt; يتم حساب استخدام مساحة قرص شيربوينت في الوقت المناسب (عادة مرة واحدة في اليوم). يمكنك إعادة حسابه الآن بالنقر فوق الزر "إعادة حساب مساحة القرص". &lt;/ p&gt;</value>
+    <value>&lt;p&gt;يتم حساب استخدام مساحة قرص SharePoint بشكل دوري (عادةً مرة واحدة في اليوم). يمكنك إعادة حسابه الآن بالنقر فوق الزر "إعادة حساب مساحة القرص".&lt;/p&gt;</value>
   </data>
   <data name="gvSiteCollectionName.HeaderText" xml:space="preserve">
-    <value>مجموعة الموقع</value>
+    <value>مجموعة المواقع</value>
   </data>
   <data name="gvSiteCollectionSize.HeaderText" xml:space="preserve">
-    <value>الحجم الإجمالي ، ميجا بايت</value>
+    <value>الحجم الإجمالي، ميجا بايت</value>
   </data>
   <data name="gvStorageUsage.EmptyDataText" xml:space="preserve">
     <value>لا توجد مجموعات مواقع</value>
@@ -136,7 +136,7 @@
     <value>استخدام التخزين</value>
   </data>
   <data name="secSiteCollectionsReport.Text" xml:space="preserve">
-    <value>مجموعات الموقع</value>
+    <value>مجموعات المواقع</value>
   </data>
   <data name="Text.PageName" xml:space="preserve">
     <value>استخدام التخزين</value>

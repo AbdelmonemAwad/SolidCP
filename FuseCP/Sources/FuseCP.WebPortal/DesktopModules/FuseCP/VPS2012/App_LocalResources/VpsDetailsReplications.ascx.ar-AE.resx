@@ -118,10 +118,10 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="btnPause.OnClientClick" xml:space="preserve">
-    <value>ShowProgressDialog('يتم الآن إيقاف النسخ المتماثل VM مؤقتًا ...');</value>
+    <value>ShowProgressDialog('يتم الآن إيقاف النسخ المتماثل VM مؤقتًا...');</value>
   </data>
   <data name="btnResume.OnClientClick" xml:space="preserve">
-    <value>ShowProgressDialog('استئناف النسخ المتماثل للجهاز الافتراضي ...');</value>
+    <value>ShowProgressDialog('استئناف النسخ المتماثل للجهاز الافتراضي...');</value>
   </data>
   <data name="locTitle.Text" xml:space="preserve">
     <value>النسخ المتماثل</value>
@@ -130,7 +130,7 @@
     <value>إغلاق</value>
   </data>
   <data name="btnDetailInfo.Text" xml:space="preserve">
-    <value>فصل</value>
+    <value>التفاصيل</value>
   </data>
   <data name="btnPause.Text" xml:space="preserve">
     <value>إيقاف مؤقت</value>
@@ -160,7 +160,7 @@
     <value>متوسط وقت الاستجابة:</value>
   </data>
   <data name="locAverageSize.Text" xml:space="preserve">
-    <value>حجم متوسط:</value>
+    <value>متوسط الحجم:</value>
   </data>
   <data name="locCeritficate.Text" xml:space="preserve">
     <value>شهادة SSL:</value>
@@ -184,7 +184,7 @@
     <value>حالة النسخ المتماثل:</value>
   </data>
   <data name="locErrorsEncountered.Text" xml:space="preserve">
-    <value>مصادفة أخطاء:</value>
+    <value>الأخطاء التي تمت مواجهتها:</value>
   </data>
   <data name="locFrequency.Text" xml:space="preserve">
     <value>تردد النسخ المتماثل</value>
@@ -205,13 +205,13 @@
     <value>الحجم الأقصى:</value>
   </data>
   <data name="locPrimaryServer.Text" xml:space="preserve">
-    <value>الهاتف الرئيسي:</value>
+    <value>الخادم الأساسي:</value>
   </data>
   <data name="locRecoveryPoints.Text" xml:space="preserve">
     <value>نقاط الاسترداد الإضافية:</value>
   </data>
   <data name="locRecoveryPointsAdditional.Text" xml:space="preserve">
-    <value>التغطية المقدمة من خلال نقاط التعافي الإضافية (بالساعات):</value>
+    <value>التغطية التي توفرها نقاط الاسترداد الإضافية (بالساعات):</value>
   </data>
   <data name="locReplicaServer.Text" xml:space="preserve">
     <value>خادم النسخة المتماثلة:</value>
@@ -223,10 +223,10 @@
     <value>دورات النسخ المتماثل الناجحة:</value>
   </data>
   <data name="locToTime.Text" xml:space="preserve">
-    <value>الى وقت:</value>
+    <value>إلى وقت:</value>
   </data>
   <data name="locVHDs.Text" xml:space="preserve">
-    <value>اختر النسخ المتماثل VHDs:</value>
+    <value>اختر أقراص VHD للنسخ المتماثل:</value>
   </data>
   <data name="radRecoveryPointsAdditional.Text" xml:space="preserve">
     <value>قم بإنشاء نقاط استرداد إضافية كل ساعة</value>
@@ -244,7 +244,7 @@
     <value>الصحة</value>
   </data>
   <data name="secStatisticPanel.Text" xml:space="preserve">
-    <value>أحصائيات الماضي</value>
+    <value>إحصائيات الفترة الماضية</value>
   </data>
   <data name="valCeritficateRequire.ErrorMessage" xml:space="preserve">
     <value>مطلوب شهادة SSL</value>
@@ -265,6 +265,6 @@
     <value>الرجاء تحديد VHD واحد على الأقل</value>
   </data>
   <data name="btnUpdate.OnClientClick" xml:space="preserve">
-    <value>ShowProgressDialog('جارٍ تحديث النسخ المتماثل للجهاز الافتراضي ...');</value>
+    <value>ShowProgressDialog('جارٍ تحديث النسخ المتماثل للجهاز الافتراضي...');</value>
   </data>
 </root>

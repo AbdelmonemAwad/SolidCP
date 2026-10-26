@@ -118,7 +118,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="Tab.GeneralSettigns" xml:space="preserve">
-    <value>الاعدادات العامة</value>
+    <value>الإعدادات العامة</value>
   </data>
   <data name="Tab.PasswordSettings" xml:space="preserve">
     <value>إعدادات كلمة المرور</value>

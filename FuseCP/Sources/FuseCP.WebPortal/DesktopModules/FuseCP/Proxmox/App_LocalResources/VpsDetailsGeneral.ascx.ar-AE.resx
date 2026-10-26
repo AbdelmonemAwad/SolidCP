@@ -118,7 +118,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="btnChangeHostname.OnClientClick" xml:space="preserve">
-    <value>ShowProgressDialog('تغيير اسم المضيف ...', 'ChangeHostnameModal');</value>
+    <value>ShowProgressDialog('جارٍ تغيير اسم المضيف...', 'ChangeHostnameModal');</value>
   </data>
   <data name="btnDelete.Text" xml:space="preserve">
     <value>حذف</value>
@@ -127,7 +127,7 @@
     <value>إيقاف مؤقت</value>
   </data>
   <data name="Command.Reboot" xml:space="preserve">
-    <value>اعادة التشغيل</value>
+    <value>إعادة التشغيل</value>
   </data>
   <data name="Command.Reset" xml:space="preserve">
     <value>إعادة تعيين</value>
@@ -136,16 +136,16 @@
     <value>استئناف</value>
   </data>
   <data name="Command.ShutDown" xml:space="preserve">
-    <value>ايقاف&amp;nbsp;تشغيل</value>
+    <value>إيقاف&amp;nbsp;التشغيل</value>
   </data>
   <data name="Command.Snapshot" xml:space="preserve">
-    <value>لقطات</value>
+    <value>أخذ لقطة</value>
   </data>
   <data name="Command.Start" xml:space="preserve">
-    <value>ابدأ</value>
+    <value>بدء</value>
   </data>
   <data name="Command.TurnOff" xml:space="preserve">
-    <value>ايقاف&amp;nbsp;تشغيل</value>
+    <value>فصل&amp;nbsp;الطاقة</value>
   </data>
   <data name="CpuPercentage.Text" xml:space="preserve">
     <value>{0}%</value>
@@ -154,34 +154,34 @@
     <value>{0}%</value>
   </data>
   <data name="MemoryUsage.Text" xml:space="preserve">
-    <value>المستخدمة: {0} ميجابايت ، الإجمالي: {1} ميجابايت</value>
+    <value>المستخدمة: {0} ميجابايت، الإجمالي: {1} ميجابايت</value>
   </data>
   <data name="OnClientClick.Pause" xml:space="preserve">
-    <value>if(!confirm('هل تريد إيقاف VPS مؤقتًا؟')) return false; ShowProgressDialog('جاري الإيقاف مؤقتًا ...');</value>
+    <value>if(!confirm('هل تريد إيقاف VPS مؤقتًا؟')) return false; ShowProgressDialog('جاري الإيقاف مؤقتًا...');</value>
   </data>
   <data name="OnClientClick.Reboot" xml:space="preserve">
-    <value>if(!confirm('هل تريد إعادة تشغيل VPS؟')) return false; ShowProgressDialog('إعادة التشغيل ...');</value>
+    <value>if(!confirm('هل تريد إعادة تشغيل VPS؟')) return false; ShowProgressDialog('جارٍ إعادة التشغيل...');</value>
   </data>
   <data name="OnClientClick.Reset" xml:space="preserve">
-    <value>if(!confirm('إعادة تعيين VPS؟')) return false; ShowProgressDialog('إعادة تعيين ...');</value>
+    <value>if(!confirm('هل تريد إعادة تعيين VPS؟')) return false; ShowProgressDialog('جارٍ إعادة التعيين...');</value>
   </data>
   <data name="OnClientClick.Resume" xml:space="preserve">
-    <value>ShowProgressDialog('جارٍ الاستئناف ...');</value>
+    <value>ShowProgressDialog('جارٍ الاستئناف...');</value>
   </data>
   <data name="OnClientClick.ShutDown" xml:space="preserve">
-    <value>if(!confirm('هل تريد إيقاف تشغيل VPS؟')) return false; ShowProgressDialog('جارٍ الإغلاق ...');</value>
+    <value>if(!confirm('هل تريد إيقاف تشغيل VPS؟')) return false; ShowProgressDialog('جارٍ الإغلاق...');</value>
   </data>
   <data name="OnClientClick.Snapshot" xml:space="preserve">
-    <value>ShowProgressDialog('أخذ لقطة ...');</value>
+    <value>ShowProgressDialog('جارٍ أخذ لقطة...');</value>
   </data>
   <data name="OnClientClick.Start" xml:space="preserve">
-    <value>ShowProgressDialog('جارٍ البدء ...');</value>
+    <value>ShowProgressDialog('جارٍ البدء...');</value>
   </data>
   <data name="OnClientClick.TurnOff" xml:space="preserve">
-    <value>if(!confirm('هل تريد إيقاف تشغيل VPS؟')) return false; ShowProgressDialog('جارٍ الإيقاف ...');</value>
+    <value>if(!confirm('هل تريد فصل الطاقة عن VPS؟')) return false; ShowProgressDialog('جارٍ فصل الطاقة...');</value>
   </data>
   <data name="locHostname.Text" xml:space="preserve">
-    <value>المضيف&amp;nbsp;أسم:</value>
+    <value>اسم&amp;nbsp;المضيف:</value>
   </data>
   <data name="btnCancelHostname.Text" xml:space="preserve">
     <value>إلغاء</value>
@@ -196,13 +196,13 @@
     <value>تحديث اسم شبكة الكمبيوتر</value>
   </data>
   <data name="FormComments.Text" xml:space="preserve">
-    <value>تُظهر &lt;p&gt; &lt;b&gt; الحالة &lt;/ b&gt; الحالة الحالية لـ VPS. تعتمد قائمة أزرار إجراءات VPS المتوفرة على اليمين على الحالة الحالية. &lt;/ p&gt; &lt;p&gt; &lt;b&gt; وقت التشغيل &lt;/ b&gt; هو الوقت منذ بدء آخر VPS. &lt;/p&gt; &lt;b&gt; Heartbeat &lt;/ يعد b&gt; مؤشرًا مفيدًا للغاية لأنه يوضح ما إذا كان نظام تشغيل VPS نشطًا ويستجيب. إذا كان هناك "لا يوجد جهة اتصال" ، فهذا يعني أن النظام لم يبدأ بعد ، ولكن إذا كان هناك "خطأ" ، فهذا يعني أن نظام التشغيل لا يستجيب للجهاز المضيف. &lt;/ p&gt; &lt;p&gt; &lt;b&gt; وحدة المعالجة المركزية &lt;/ يعرض b&gt; meter استخدام معالج VPS. &lt;/p&gt; &lt;p&gt; &lt;b&gt; RAM &lt;/b&gt; و &lt;b&gt; HDD &lt;/b&gt; تعرض مقاييس الوقت الفعلي التي يوفرها نظام تشغيل VPS. &lt;/p&gt;</value>
+    <value>&lt;p&gt;تُظهر &lt;b&gt;الحالة&lt;/b&gt; الحالة الراهنة لـ VPS. وتعتمد قائمة أزرار إجراءات VPS المتاحة على اليمين على الحالة الحالية.&lt;/p&gt;&lt;p&gt;&lt;b&gt;مدة التشغيل&lt;/b&gt; هي الوقت المنقضي منذ آخر بدء تشغيل لـ VPS.&lt;/p&gt;&lt;b&gt;نبض القلب (Heartbeat)&lt;/b&gt; مؤشر مفيد جدًا لأنه يوضح ما إذا كان نظام تشغيل VPS نشطًا ويستجيب. إذا ظهر "لا يوجد اتصال" فهذا يعني أن النظام لم يبدأ بعد، أما إذا ظهر "خطأ" فهذا يعني أن نظام التشغيل لا يستجيب للجهاز المضيف.&lt;/p&gt;&lt;p&gt;يعرض مقياس &lt;b&gt;وحدة المعالجة المركزية&lt;/b&gt; استخدام معالج VPS.&lt;/p&gt;&lt;p&gt;يعرض مقياسا &lt;b&gt;RAM&lt;/b&gt; و&lt;b&gt;HDD&lt;/b&gt; بيانات في الوقت الفعلي يوفرها نظام تشغيل VPS.&lt;/p&gt;</value>
   </data>
   <data name="Heartbeat.Error" xml:space="preserve">
     <value>خطأ</value>
   </data>
   <data name="Heartbeat.LostCommunication" xml:space="preserve">
-    <value>فقد التواصل</value>
+    <value>فُقد الاتصال</value>
   </data>
   <data name="Heartbeat.NoContact" xml:space="preserve">
     <value>لا يوجد اتصال</value>
@@ -217,7 +217,7 @@
     <value>متوقف مؤقتًا</value>
   </data>
   <data name="locChangeHostname.Text" xml:space="preserve">
-    <value>قم بتغيير اسم مضيف VPS</value>
+    <value>تغيير اسم مضيف VPS</value>
   </data>
   <data name="locCpu.Text" xml:space="preserve">
     <value>وحدة المعالجة المركزية:</value>
@@ -226,7 +226,7 @@
     <value>تم إنشاؤه:</value>
   </data>
   <data name="locDomain.Text" xml:space="preserve">
-    <value>النطاقات</value>
+    <value>النطاق:</value>
   </data>
   <data name="locHostname1.Text" xml:space="preserve">
     <value>اسم المضيف:</value>
@@ -247,7 +247,7 @@
     <value>تم الحذف</value>
   </data>
   <data name="State.Migrating" xml:space="preserve">
-    <value>ترحيل</value>
+    <value>جارٍ الترحيل</value>
   </data>
   <data name="State.Off" xml:space="preserve">
     <value>متوقف</value>
@@ -256,45 +256,45 @@
     <value>متوقف مؤقتًا</value>
   </data>
   <data name="State.Pausing" xml:space="preserve">
-    <value>متوقف مؤقتًا</value>
+    <value>جارٍ الإيقاف المؤقت</value>
   </data>
   <data name="State.Saved" xml:space="preserve">
     <value>تم الحفظ</value>
   </data>
   <data name="State.Saving" xml:space="preserve">
-    <value>تم الحفظ</value>
+    <value>جارٍ الحفظ</value>
   </data>
   <data name="State.Snapshotting" xml:space="preserve">
-    <value>أخذ لقطة</value>
+    <value>جارٍ أخذ لقطة</value>
   </data>
   <data name="State.Started" xml:space="preserve">
-    <value>تشغيل</value>
+    <value>قيد التشغيل</value>
   </data>
   <data name="State.Starting" xml:space="preserve">
-    <value>بدء</value>
+    <value>جارٍ البدء</value>
   </data>
   <data name="State.Running" xml:space="preserve">
-    <value>تشغيل</value>
+    <value>قيد التشغيل</value>
   </data>
   <data name="State.Stopping" xml:space="preserve">
-    <value>متوقف</value>
+    <value>جارٍ الإيقاف</value>
   </data>
   <data name="valCorrectHostname.ErrorMessage" xml:space="preserve">
-    <value>أدخل اسم المضيف الصحيح ، على سبيل المثال "vm01"</value>
+    <value>أدخل اسم مضيف صحيحًا، على سبيل المثال "vps01"</value>
   </data>
   <data name="valNewDomainFormat.ErrorMessage" xml:space="preserve">
-    <value>أدخل اسم النطاق الصحيح ، على سبيل المثال "mydomain.com"</value>
+    <value>أدخل اسم النطاق الصحيح، على سبيل المثال "mydomain.com"</value>
   </data>
   <data name="HddPercentage.Text" xml:space="preserve">
     <value>{0}%</value>
   </data>
   <data name="HddUsage.Text" xml:space="preserve">
-    <value>متوفر: {0} جيجابايت ، الإجمالي: {1} جيجابايت على {2} محرك (محركات)</value>
+    <value>متوفر: {0} جيجابايت، الإجمالي: {1} جيجابايت على {2} محرك (محركات)</value>
   </data>
   <data name="locHdd.Text" xml:space="preserve">
     <value>القرص الصلب:</value>
   </data>
   <data name="locDomainTop.Text" xml:space="preserve">
-    <value>النطاقات</value>
+    <value>النطاق:</value>
   </data>
 </root>

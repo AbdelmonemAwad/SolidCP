@@ -124,7 +124,7 @@
     <value>خوادم RDS</value>
   </data>
   <data name="Tab.RdsUsers" xml:space="preserve">
-    <value>مستخدمين RDS</value>
+    <value>مستخدمو RDS</value>
   </data>
   <data name="Tab.Settings" xml:space="preserve">
     <value>الإعدادات</value>
@@ -133,7 +133,7 @@
     <value>جلسات المستخدم</value>
   </data>
   <data name="Tab.LocalAdmins" xml:space="preserve">
-    <value>المسؤولين المحليين</value>
+    <value>المسؤولون المحليون</value>
   </data>
   <data name="Tab.RdsSetupLetter" xml:space="preserve">
     <value>تعليمات الإعداد</value>

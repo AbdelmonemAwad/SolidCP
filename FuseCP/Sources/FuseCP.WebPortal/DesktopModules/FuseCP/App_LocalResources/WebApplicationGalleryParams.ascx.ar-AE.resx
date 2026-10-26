@@ -139,20 +139,16 @@
     <value>أدخل اسم قاعدة البيانات:</value>
   </data>
   <data name="lblEnterUserName.Text" xml:space="preserve">
-    <value>ادخل اسم المستخدم:</value>
+    <value>أدخل اسم المستخدم:</value>
   </data>
   <data name="lblInstallOnDirectory.Text" xml:space="preserve">
     <value>اسم التطبيق</value>
   </data>
   <data name="lblInstallOnWebSite.Text" xml:space="preserve">
-    <value>موقع الكتروني</value>
+    <value>موقع الويب</value>
   </data>
   <data name="lblLeaveThisFieldBlank.Text" xml:space="preserve">
-    <value>اترك هذا الحقل فارغًا إذا كنت تريد تثبيت التطبيق فيه 
-      جذر موقع الويب (سيكون في متناول http://www.yourdomain.com).&lt;br&gt;
-      خلاف ذلك ، حدد اسم الدليل الافتراضي لتثبيت التطبيق 
-      في (سيكون في متناول http://www.yourdomain.com/directory_name).  
-      يمكنك تحديد اسم الدليل الموجود أيضًا.</value>
+    <value>اترك هذا الحقل فارغًا إذا كنت تريد تثبيت التطبيق في جذر موقع الويب (سيكون متاحًا عبر http://www.yourdomain.com).&lt;br&gt; بخلاف ذلك، حدد اسم الدليل الافتراضي الذي سيُثبَّت فيه التطبيق (سيكون متاحًا عبر http://www.yourdomain.com/directory_name). يمكنك أيضًا تحديد اسم دليل موجود.</value>
   </data>
   <data name="lblMicrosoftSQLServerDatabase.Text" xml:space="preserve">
     <value>يتطلب هذا التطبيق قاعدة بيانات &lt;b&gt; خادم Microsoft SQL &lt;/b&gt;.</value>
@@ -215,7 +211,7 @@
     <value>موافق</value>
   </data>
   <data name="DatabaseEngine.FlatFile" xml:space="preserve">
-    <value>ملف ثابت</value>
+    <value>ملف مسطح (Flat File)</value>
   </data>
   <data name="locDatabaseGroup.Text" xml:space="preserve">
     <value>قاعدة البيانات</value>
@@ -242,10 +238,10 @@
     <value>حدد موقع الويب لتثبيت التطبيق</value>
   </data>
   <data name="LaunchApplication.Text" xml:space="preserve">
-    <value>إطلاق {0}</value>
+    <value>تشغيل {0}</value>
   </data>
   <data name="LaunchApplicationTemp.Text" xml:space="preserve">
-    <value>إذا أنشأت موقع الويب هذا مؤخرًا ، فقد لا يزال يتعذر الوصول إليه من خلال عنوان URL الرئيسي الخاص به حتى يتم الانتهاء من نشر DNS تمامًا. لفتح التطبيق المثبت الآن ، يمكنك استخدام عنوان URL المؤقت الذي قدمه مزود الاستضافة: &lt;br/&gt;&lt;a href="{0}" target="_blank"&gt;{0}&lt;/a&gt;</value>
+    <value>إذا أنشأت موقع الويب هذا مؤخرًا، فقد لا يزال يتعذر الوصول إليه من خلال عنوان URL الرئيسي الخاص به حتى يتم الانتهاء من نشر DNS تمامًا. لفتح التطبيق المثبت الآن، يمكنك استخدام عنوان URL المؤقت الذي قدمه مزود الاستضافة: &lt;br/&gt;&lt;a href="{0}" target="_blank"&gt;{0}&lt;/a&gt;</value>
   </data>
   <data name="btnInstallText.Text" xml:space="preserve">
     <value>تثبيت</value>

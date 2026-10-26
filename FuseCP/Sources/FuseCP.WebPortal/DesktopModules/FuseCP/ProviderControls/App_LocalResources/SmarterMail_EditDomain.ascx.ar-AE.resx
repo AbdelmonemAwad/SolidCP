@@ -118,10 +118,10 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="lblAbuse.Text" xml:space="preserve">
-    <value>إساءة استخدام الحساب:</value>
+    <value>حساب الإبلاغ عن إساءة الاستخدام (Abuse):</value>
   </data>
   <data name="lblCatchAll.Text" xml:space="preserve">
-    <value>الالتقاط - كل الحسابات:</value>
+    <value>حساب الالتقاط الشامل (Catch-All):</value>
   </data>
   <data name="lblDomainAliases.Text" xml:space="preserve">
     <value>الأسماء المستعارة للنطاق:</value>
@@ -133,10 +133,10 @@
     <value>القوائم البريدية:</value>
   </data>
   <data name="lblMessageSizeQuota.Text" xml:space="preserve">
-    <value>أقصى حجم للرسالة ، كيلو بايت:</value>
+    <value>أقصى حجم للرسالة، كيلو بايت:</value>
   </data>
   <data name="lblPostmaster.Text" xml:space="preserve">
-    <value>حساب مدير مكتب البريد:</value>
+    <value>حساب مسؤول البريد (Postmaster):</value>
   </data>
   <data name="lblRecipientsPerMessageQuota.Text" xml:space="preserve">
     <value>الحد الأقصى لعدد المستلمين لكل رسالة:</value>

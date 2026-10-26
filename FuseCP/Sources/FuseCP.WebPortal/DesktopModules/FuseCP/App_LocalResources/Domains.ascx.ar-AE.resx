@@ -121,7 +121,7 @@
     <value>إضافة نطاق جديد</value>
   </data>
   <data name="btnAddDomain.Text" xml:space="preserve">
-    <value>أضف نطاق</value>
+    <value>إضافة نطاق</value>
   </data>
   <data name="lblDomains.Text" xml:space="preserve">
     <value>النطاقات:</value>
@@ -130,7 +130,7 @@
     <value>الاسم</value>
   </data>
   <data name="gvDomainsWebSite.Header" xml:space="preserve">
-    <value>موقع الكتروني</value>
+    <value>موقع الويب</value>
   </data>
   <data name="gvDomainsMailDomain.Header" xml:space="preserve">
     <value>نطاق البريد</value>
@@ -145,7 +145,7 @@
     <value>الخادم</value>
   </data>
   <data name="gvDomains.Empty" xml:space="preserve">
-    <value>لم يتم العثور على النطاقات.</value>
+    <value>لم يتم العثور على أي نطاقات.</value>
   </data>
   <data name="SearchField.DomainName" xml:space="preserve">
     <value>اسم النطاق</value>
@@ -166,7 +166,7 @@
     <value>قم بالتبديل إلى هذه المساحة</value>
   </data>
   <data name="selUser.AlternateText" xml:space="preserve">
-    <value>العمل لهذا المستخدم</value>
+    <value>العمل باسم هذا المستخدم</value>
   </data>
   <data name="lblMailDomain.Text" xml:space="preserve">
     <value>نطاق البريد:</value>

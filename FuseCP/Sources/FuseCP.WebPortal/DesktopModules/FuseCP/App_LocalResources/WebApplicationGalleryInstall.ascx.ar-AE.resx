@@ -121,7 +121,7 @@
     <value>إلغاء</value>
   </data>
   <data name="btnInstall.OnClientClick" xml:space="preserve">
-    <value>ShowProgressDialog('جاري تحميل التطبيق ...')</value>
+    <value>ShowProgressDialog('جاري تحميل التطبيق...')</value>
   </data>
   <data name="btnInstall.Text" xml:space="preserve">
     <value>التالي</value>

@@ -118,19 +118,19 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="btnSend.OnClientClick" xml:space="preserve">
-    <value>ShowProgressDialog('إرسال البريد الإلكتروني...');</value>
+    <value>ShowProgressDialog('جارٍ إرسال البريد الإلكتروني...');</value>
   </data>
   <data name="btnSend.Text" xml:space="preserve">
     <value>إرسال</value>
   </data>
   <data name="FormComments.Text" xml:space="preserve">
-    <value>&lt;p&gt; يعرض هذا النموذج معلومات موجزة عن VM أعدها المضيف. &lt;/ p&gt; &lt;p&gt; يمكن إعادة إرسال هذه المعلومات إلى أي عنوان بريد إلكتروني محدد في قسم "إرسال التعليمات بالبريد الإلكتروني". يتم تصغير هذا القسم افتراضيًا. &lt;/ p&gt;</value>
+    <value>&lt;p&gt;يعرض هذا النموذج معلومات ملخص VM التي أعدها المضيف.&lt;/p&gt;&lt;p&gt;يمكن إعادة إرسال هذه المعلومات إلى أي عنوان بريد إلكتروني يُحدَّد في قسم "إرسال التعليمات بالبريد الإلكتروني". هذا القسم مطويّ افتراضيًا.&lt;/p&gt;</value>
   </data>
   <data name="lblBCC.Text" xml:space="preserve">
     <value>BCC:</value>
   </data>
   <data name="lblTo.Text" xml:space="preserve">
-    <value>الي:</value>
+    <value>إلى:</value>
   </data>
   <data name="locTitle.Text" xml:space="preserve">
     <value>مساعدة</value>

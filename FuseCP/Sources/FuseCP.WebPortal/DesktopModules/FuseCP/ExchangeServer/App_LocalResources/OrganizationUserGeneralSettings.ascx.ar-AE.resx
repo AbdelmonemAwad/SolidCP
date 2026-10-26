@@ -118,19 +118,19 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="buttonPanel.OnSaveClientClick" xml:space="preserve">
-    <value>ShowProgressDialog('جارٍ تحديث إعدادات المستخدم ...');</value>
+    <value>ShowProgressDialog('جارٍ تحديث إعدادات المستخدم...');</value>
   </data>
   <data name="chkDisable.Text" xml:space="preserve">
     <value>تعطيل المستخدم</value>
   </data>
   <data name="chkLocked.Text" xml:space="preserve">
-    <value>تم إغلاق الحساب</value>
+    <value>الحساب مقفل</value>
   </data>
   <data name="chkSetPassword.Text" xml:space="preserve">
-    <value>ضبط كلمة السر</value>
+    <value>تعيين كلمة المرور</value>
   </data>
   <data name="locAddress.Text" xml:space="preserve">
-    <value>عنوان</value>
+    <value>العنوان:</value>
   </data>
   <data name="locBusinessPhone.Text" xml:space="preserve">
     <value>هاتف العمل:</value>
@@ -148,7 +148,7 @@
     <value>قسم:</value>
   </data>
   <data name="locDisplayName.Text" xml:space="preserve">
-    <value>عرض الاسم : *</value>
+    <value>الاسم المعروض:</value>
   </data>
   <data name="locExternalEmailAddress.Text" xml:space="preserve">
     <value>البريد الإلكتروني الخارجي:</value>
@@ -157,7 +157,7 @@
     <value>الفاكس:</value>
   </data>
   <data name="locFirstName.Text" xml:space="preserve">
-    <value>الاسم الأول: </value>
+    <value>الاسم الأول:</value>
   </data>
   <data name="locName.Text" xml:space="preserve">
     <value>الاسم:</value>
@@ -166,7 +166,7 @@
     <value>هاتف المنزل:</value>
   </data>
   <data name="locJobTitle.Text" xml:space="preserve">
-    <value>أسم المهمة:</value>
+    <value>المسمى الوظيفي:</value>
   </data>
   <data name="locLastName.Text" xml:space="preserve">
     <value>اسم العائلة:</value>
@@ -178,7 +178,7 @@
     <value>الهاتف المحمول:</value>
   </data>
   <data name="locNotes.Text" xml:space="preserve">
-    <value>ملاحظات</value>
+    <value>ملاحظات:</value>
   </data>
   <data name="locPager.Text" xml:space="preserve">
     <value>جهاز النداء:</value>
@@ -190,7 +190,7 @@
     <value>الولاية / المقاطعة:</value>
   </data>
   <data name="locSubscriberNumber.Text" xml:space="preserve">
-    <value>رقم حساب:</value>
+    <value>رقم الحساب:</value>
   </data>
   <data name="locTitle.Text" xml:space="preserve">
     <value>تحرير المستخدم</value>
@@ -217,7 +217,7 @@
     <value>المستخدم</value>
   </data>
   <data name="valRequireDisplayName.ErrorMessage" xml:space="preserve">
-    <value>أدخل اسم العرض</value>
+    <value>أدخل الاسم المعروض</value>
   </data>
   <data name="valRequireDisplayName.Text" xml:space="preserve">
     <value>*</value>
@@ -226,10 +226,10 @@
     <value>اسم تسجيل الدخول:</value>
   </data>
   <data name="btnSetUserPassword.Text" xml:space="preserve">
-    <value>ضبط كلمة السر</value>
+    <value>تعيين كلمة المرور</value>
   </data>
   <data name="btnSetUserPrincipalName.Text" xml:space="preserve">
-    <value>قم بتعيين اسم تسجيل الدخول</value>
+    <value>تعيين اسم تسجيل الدخول</value>
   </data>
   <data name="chkInherit.Text" xml:space="preserve">
     <value>تحديث الخدمات</value>
@@ -253,10 +253,10 @@
     <value>إعادة تعيين كلمة المرور</value>
   </data>
   <data name="btnSetUserPasswordText.Text" xml:space="preserve">
-    <value>ضبط كلمة السر</value>
+    <value>تعيين كلمة المرور</value>
   </data>
   <data name="btnSetUserPrincipalNameText.Text" xml:space="preserve">
-    <value>قم بتعيين اسم تسجيل الدخول</value>
+    <value>تعيين اسم تسجيل الدخول</value>
   </data>
   <data name="Generalinfo.Text" xml:space="preserve">
     <value>معلومات عامة</value>

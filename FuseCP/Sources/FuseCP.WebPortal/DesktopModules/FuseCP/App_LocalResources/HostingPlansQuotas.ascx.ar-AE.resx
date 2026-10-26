@@ -121,9 +121,9 @@
     <value>حساب مساحة القرص</value>
   </data>
   <data name="chkCountBandwidth.Text" xml:space="preserve">
-    <value>حساب الباندويث</value>
+    <value>حساب عرض النطاق الترددي</value>
   </data>
   <data name="chkQuotaEnabled.Text" xml:space="preserve">
-    <value>تمكين</value>
+    <value>مُمكَّن</value>
   </data>
 </root>

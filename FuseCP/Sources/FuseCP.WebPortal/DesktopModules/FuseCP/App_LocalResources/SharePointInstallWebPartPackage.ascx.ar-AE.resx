@@ -124,7 +124,7 @@
     <value>تثبيت حزمة</value>
   </data>
   <data name="lblAllowedFiles.Text" xml:space="preserve">
-    <value>يُسمح بملفات .ZIP و. BAK</value>
+    <value>يُسمح بملفات .ZIP و.CAB</value>
   </data>
   <data name="lblRestoreFrom.Text" xml:space="preserve">
     <value>استعادة من:</value>
@@ -133,6 +133,6 @@
     <value>ملف مساحة الاستضافة</value>
   </data>
   <data name="radioUpload.Text" xml:space="preserve">
-    <value>تم رفع الملف</value>
+    <value>ملف مرفوع</value>
   </data>
 </root>

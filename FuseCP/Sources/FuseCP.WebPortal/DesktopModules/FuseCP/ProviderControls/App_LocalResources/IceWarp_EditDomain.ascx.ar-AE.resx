@@ -118,13 +118,13 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="lblCatchAll.Text" xml:space="preserve">
-    <value>الالتقاط - كل الحسابات:</value>
+    <value>حساب الالتقاط الشامل (Catch-All):</value>
   </data>
   <data name="lblLimitNumber.Text" xml:space="preserve">
     <value>حد إرسال الرسائل (#/يوم):</value>
   </data>
   <data name="lblLimitVolume.Text" xml:space="preserve">
-    <value>الحد الأقصى لإرسال البيانات يوميًا ، ميجابايت:</value>
+    <value>الحد الأقصى لإرسال البيانات يوميًا، ميجابايت:</value>
   </data>
   <data name="lblMaxDomainDiskSpace.Text" xml:space="preserve">
     <value>مساحة قرص النطاق، ميجا بايت:</value>
@@ -133,28 +133,28 @@
     <value>الحد الأقصى للمستخدمين:</value>
   </data>
   <data name="lblPostMaster.Text" xml:space="preserve">
-    <value>حساب مدير مكتب البريد:</value>
+    <value>حساب مسؤول البريد (Postmaster):</value>
   </data>
   <data name="liNotSelected.Text" xml:space="preserve">
     <value>&lt;غير محدد&gt;</value>
   </data>
   <data name="liRejectUnknown.Text" xml:space="preserve">
-    <value>لا شيء ، رفض البريد للمستخدمين غير المعروفين</value>
+    <value>لا شيء، رفض البريد للمستخدمين غير المعروفين</value>
   </data>
   <data name="lblZeroIsUnlimited.Text" xml:space="preserve">
     <value>0 يعني غير محدود</value>
   </data>
   <data name="lblDefaultUserMaxMessageSizeMegaByte.Text" xml:space="preserve">
-    <value>الحد الأقصى لحجم الرسالة الافتراضي للمستخدم ، ميجابايت:</value>
+    <value>الحد الأقصى لحجم الرسالة الافتراضي للمستخدم، ميجابايت:</value>
   </data>
   <data name="lblDefaultUserMegaByteSendLimit.Text" xml:space="preserve">
-    <value>حد إرسال المستخدم الافتراضي للبيانات يوميًا ، ميجابايت:</value>
+    <value>حد إرسال المستخدم الافتراضي للبيانات يوميًا، ميجابايت:</value>
   </data>
   <data name="lblDefaultUserNumberSendLimit.Text" xml:space="preserve">
     <value>حد إرسال رسائل المستخدم الافتراضي (# / اليوم):</value>
   </data>
   <data name="lblDefaultUserQuotaInMB.Text" xml:space="preserve">
-    <value>حصة المستخدم الافتراضية ، ميجابايت:</value>
+    <value>حصة المستخدم الافتراضية، ميجابايت:</value>
   </data>
   <data name="Limits.Text" xml:space="preserve">
     <value>حدود</value>

@@ -124,22 +124,22 @@
     <value>تبعيات النطاق</value>
   </data>
   <data name="gvObjectsDisplayName.Header" xml:space="preserve">
-    <value>عرض الاسم </value>
+    <value>الاسم المعروض</value>
   </data>
   <data name="TopComments.Text" xml:space="preserve">
-    <value>الكائنات المدرجة أدناه تعتمد على هذا النطاق ويجب إزالتها قبل النطاق</value>
+    <value>الكائنات المدرجة أدناه تعتمد على هذا النطاق ويجب إزالتها قبل حذف النطاق</value>
   </data>
   <data name="Contact.Text" xml:space="preserve">
-    <value>اتصال</value>
+    <value>جهة اتصال</value>
   </data>
   <data name="DefaultSecurityGroup.Text" xml:space="preserve">
-    <value>مجموعة الحماية</value>
+    <value>مجموعة الأمان</value>
   </data>
   <data name="DistributionList.Text" xml:space="preserve">
     <value>قائمة التوزيع</value>
   </data>
   <data name="Equipment.Text" xml:space="preserve">
-    <value>ادوات</value>
+    <value>معدات</value>
   </data>
   <data name="ExchangeAccountEmailAddresses.Text" xml:space="preserve">
     <value>عنوان البريد الإلكتروني</value>
@@ -169,10 +169,10 @@
     <value>غرفة</value>
   </data>
   <data name="SecurityGroup.Text" xml:space="preserve">
-    <value>مجموعة الحماية</value>
+    <value>مجموعة الأمان</value>
   </data>
   <data name="SharedMailbox.Text" xml:space="preserve">
-    <value>علبة بريد مشتركة</value>
+    <value>صندوق بريد مشترك</value>
   </data>
   <data name="User.Text" xml:space="preserve">
     <value>مستخدم المؤسسة</value>
@@ -181,6 +181,6 @@
     <value>مستخدم Lync</value>
   </data>
   <data name="SfBUsers.Text" xml:space="preserve">
-    <value>مستخدم سكايب للأعمال</value>
+    <value>مستخدم Skype for Business</value>
   </data>
 </root>

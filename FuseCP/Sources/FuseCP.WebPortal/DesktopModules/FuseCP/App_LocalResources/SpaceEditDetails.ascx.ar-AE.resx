@@ -118,7 +118,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="btnAddAddon.Text" xml:space="preserve">
-    <value>إضافة وظيفة اضافية</value>
+    <value>إضافة وظيفة إضافية</value>
   </data>
   <data name="btnCancel.Text" xml:space="preserve">
     <value>إلغاء</value>
@@ -127,16 +127,16 @@
     <value>حفظ</value>
   </data>
   <data name="gvAddons.Empty" xml:space="preserve">
-    <value>لا تحتوي الحزمة على أي وظائف اضافية.</value>
+    <value>لا تحتوي الحزمة على أي وظائف إضافية.</value>
   </data>
   <data name="gvAddonsCreationDate.Header" xml:space="preserve">
-    <value>تاريخ الإنشاء:</value>
+    <value>تاريخ الإنشاء</value>
   </data>
   <data name="gvAddonsName.Header" xml:space="preserve">
     <value>الاسم</value>
   </data>
   <data name="gvAddonsPricing.Header" xml:space="preserve">
-    <value>الاسعار</value>
+    <value>الأسعار</value>
   </data>
   <data name="gvAddonsQuantity.Header" xml:space="preserve">
     <value>الكمية</value>
@@ -154,7 +154,7 @@
     <value>خطة الاستضافة:</value>
   </data>
   <data name="lblSpaceName.Text" xml:space="preserve">
-    <value>اسم المساحة</value>
+    <value>اسم المساحة:</value>
   </data>
   <data name="lblTargetServer.Text" xml:space="preserve">
     <value>الخادم المستهدف:</value>
@@ -166,7 +166,7 @@
     <value>استخدم الحصص المحددة على مستوى الخطة</value>
   </data>
   <data name="secAddons.Text" xml:space="preserve">
-    <value>مساحة</value>
+    <value>الوظائف الإضافية للمساحة</value>
   </data>
   <data name="secQuotas.Text" xml:space="preserve">
     <value>حصص المساحة</value>

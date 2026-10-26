@@ -124,13 +124,13 @@
     <value>إنشاء مستخدم OCS</value>
   </data>
   <data name="ddlSearchColumnDisplayName.Text" xml:space="preserve">
-    <value>عرض الاسم </value>
+    <value>اسم العرض</value>
   </data>
   <data name="ddlSearchColumnEmail.Text" xml:space="preserve">
     <value>اسم تسجيل الدخول</value>
   </data>
   <data name="gvUsersDisplayName.HeaderText" xml:space="preserve">
-    <value>عرض الاسم </value>
+    <value>اسم العرض</value>
   </data>
   <data name="gvUsersEmail.HeaderText" xml:space="preserve">
     <value>اسم تسجيل الدخول</value>

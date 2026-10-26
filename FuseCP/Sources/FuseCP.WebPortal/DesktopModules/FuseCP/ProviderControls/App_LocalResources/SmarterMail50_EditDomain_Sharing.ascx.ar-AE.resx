@@ -118,7 +118,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="cbGlobalAddressList.Text" xml:space="preserve">
-    <value>قائمة العناوين العالمية</value>
+    <value>قائمة العناوين العمومية</value>
   </data>
   <data name="cbSharedCalendars.Text" xml:space="preserve">
     <value>التقويمات المشتركة</value>
@@ -127,7 +127,7 @@
     <value>جهات الاتصال المشتركة</value>
   </data>
   <data name="cbSharedFolders.Text" xml:space="preserve">
-    <value>الملفات المشتركة</value>
+    <value>المجلدات المشتركة</value>
   </data>
   <data name="cbSharedNotes.Text" xml:space="preserve">
     <value>ملاحظات مشتركة</value>

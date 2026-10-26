@@ -119,17 +119,17 @@
   </resheader>
   <data name="FirsttimeUserNote" xml:space="preserve">
     <value>&lt;div class = "Normal" style = "text-align: justify؛"&gt;
-قبل المتابعة إلى تكوين خدمة Simple DNS 5 في لوحة التحكم ، يرجى اتباع هذه الإرشادات لنشر Simple DNS Plus API لـ .NET و COM على الخادم &lt;strong&gt; {0} &lt;/strong&gt;. ما لم تفعل ذلك السيطرة
+قبل المتابعة إلى تكوين خدمة Simple DNS 5 في لوحة التحكم، يرجى اتباع هذه الإرشادات لنشر Simple DNS Plus API لـ .NET و COM على الخادم &lt;strong&gt; {0} &lt;/strong&gt;. ما لم تفعل ذلك السيطرة
 لن تتمكن اللوحة من توفير مناطق وسجلات SimpleDNS 5 بالإضافة إلى أن جسر تكامل الخدمة في حالة غير تشغيلية.
 &lt;br /&gt; &lt;br /&gt;
-من فضلك ، تأكد من اتباعك بعناية لجميع الخطوات الموضحة أدناه. &lt;/ div&gt;
+من فضلك، تأكد من اتباعك بعناية لجميع الخطوات الموضحة أدناه. &lt;/div&gt;
 &lt;ul&gt;
 &lt;li&gt; انقر أو افتح الرابط التالي في المتصفح &lt;a href="http://www.simpledns.com/addons.aspx" target="_blank"&gt; http://www.simpledns.com/addons.aspx في المتصفح &lt;/a&gt;؛ &lt;/li&gt;
-&lt;li&gt; تنزيل Simple DNS Plus API للتوزيع .NET و COM (sdnsapi-setup.exe) ؛ &lt;/li&gt;
-&lt;li&gt; قم بتشغيل عملية تثبيت التوزيع الذي تم تنزيله بامتيازات إدارية ؛ &lt;/ li&gt;
-&lt;li&gt; بعد انتهاء التثبيت ، يرجى متابعة تكوين خدمة SimpleDNS 5 ؛ &lt;/li&gt;
+&lt;li&gt; تنزيل Simple DNS Plus API للتوزيع .NET و COM (sdnsapi-setup.exe)؛ &lt;/li&gt;
+&lt;li&gt; قم بتشغيل عملية تثبيت التوزيع الذي تم تنزيله بامتيازات إدارية؛ &lt;/li&gt;
+&lt;li&gt; بعد انتهاء التثبيت، يرجى متابعة تكوين خدمة SimpleDNS 5؛ &lt;/li&gt;
 &lt;/ul&gt;
-&lt;div class = "Normal" style = "text-align: justify؛"&gt; نحن نقدم هذه المعلومات لراحتك ، ومع ذلك ، لا يمكننا تقديم الدعم
+&lt;div class = "Normal" style = "text-align: justify؛"&gt; نحن نقدم هذه المعلومات لراحتك، ومع ذلك، لا يمكننا تقديم الدعم
 لتثبيت Simple DNS Plus API لـ .NET و COM. &lt;/div&gt;</value>
   </data>
   <data name="lblAdminUrl.Text" xml:space="preserve">
@@ -139,7 +139,7 @@
     <value>السماح بتحويلات المنطقة:</value>
   </data>
   <data name="lblCurPass.Text" xml:space="preserve">
-    <value>كلمة السر الحالية:</value>
+    <value>كلمة المرور الحالية:</value>
   </data>
   <data name="lblExpireLimit.Text" xml:space="preserve">
     <value>حد انتهاء الصلاحية:</value>
@@ -148,7 +148,7 @@
     <value>معلومات لمستخدمي لوحة تحكم FuseCP لأول مرة</value>
   </data>
   <data name="lblIPAddresses.Text" xml:space="preserve">
-    <value>الاستماع إلى عناوين IP:</value>
+    <value>عناوين IP للاستماع:</value>
   </data>
   <data name="lblLogin.Text" xml:space="preserve">
     <value>تسجيل دخول المدير:</value>
@@ -157,7 +157,7 @@
     <value>الحد الأدنى من TTL:</value>
   </data>
   <data name="lblNameServers.Text" xml:space="preserve">
-    <value>اسماء الخوادم:</value>
+    <value>خوادم الأسماء:</value>
   </data>
   <data name="lblPassword.Text" xml:space="preserve">
     <value>كلمة المرور:</value>
@@ -166,7 +166,7 @@
     <value>الفاصل الزمني للتحديث:</value>
   </data>
   <data name="lblResponsiblePerson.Text" xml:space="preserve">
-    <value>الشخص المسؤول SOA:</value>
+    <value>الشخص المسؤول في SOA:</value>
   </data>
   <data name="lblRetryInterval.Text" xml:space="preserve">
     <value>الفاصل الزمني لإعادة المحاولة:</value>

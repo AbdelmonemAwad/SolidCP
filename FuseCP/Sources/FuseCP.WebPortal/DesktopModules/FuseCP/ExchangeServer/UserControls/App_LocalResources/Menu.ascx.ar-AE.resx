@@ -118,7 +118,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="Text.ActiveSyncPolicy" xml:space="preserve">
-    <value>سياسة المزامنة النشطة</value>
+    <value>سياسة ActiveSync</value>
   </data>
   <data name="Text.Contacts" xml:space="preserve">
     <value>جهات الاتصال</value>
@@ -136,10 +136,10 @@
     <value>النطاقات المقبولة</value>
   </data>
   <data name="Text.CRMOrganization" xml:space="preserve">
-    <value>منظمة CRM</value>
+    <value>مؤسسة CRM</value>
   </data>
   <data name="Text.CRMUsers" xml:space="preserve">
-    <value>CRM المستخدمين</value>
+    <value>مستخدمو CRM</value>
   </data>
   <data name="Text.ExchangeGroup" xml:space="preserve">
     <value>Exchange</value>
@@ -148,28 +148,28 @@
     <value>صناديق البريد</value>
   </data>
   <data name="Text.OrganizationGroup" xml:space="preserve">
-    <value>منظمة</value>
+    <value>مؤسسة</value>
   </data>
   <data name="Text.CRMGroup" xml:space="preserve">
     <value>CRM</value>
   </data>
   <data name="Text.BlackBerryGroup" xml:space="preserve">
-    <value>بلاك بيري</value>
+    <value>BlackBerry</value>
   </data>
   <data name="Text.BlackBerryUsers" xml:space="preserve">
-    <value>مستخدمو بلاك بيري</value>
+    <value>مستخدمو BlackBerry</value>
   </data>
   <data name="Text.PublicFolders" xml:space="preserve">
     <value>المجلدات العامة</value>
   </data>
   <data name="Text.Setup" xml:space="preserve">
-    <value>اعداد</value>
+    <value>الإعداد</value>
   </data>
   <data name="Text.OCSUsers" xml:space="preserve">
     <value>مستخدمو OCS</value>
   </data>
   <data name="Text.SiteCollections" xml:space="preserve">
-    <value>مجموعات الموقع</value>
+    <value>مجموعات المواقع</value>
   </data>
   <data name="Text.StorageLimits" xml:space="preserve">
     <value>إعدادات التخزين</value>
@@ -184,10 +184,10 @@
     <value>خطط صندوق البريد</value>
   </data>
   <data name="Text.SfBUserPlans" xml:space="preserve">
-    <value>خطط مستخدم سكايب للأعمال</value>
+    <value>خطط مستخدم Skype for Business</value>
   </data>
   <data name="Text.SfBUsers" xml:space="preserve">
-    <value>مستخدمي سكايب للأعمال</value>
+    <value>مستخدمو Skype for Business</value>
   </data>
   <data name="Text.LyncGroup" xml:space="preserve">
     <value>Lync</value>
@@ -208,7 +208,7 @@
     <value>مجلدات السحابة</value>
   </data>
   <data name="Text.EnterpriseStorageFolders" xml:space="preserve">
-    <value>الملفات المشتركة</value>
+    <value>المجلدات المشتركة</value>
   </data>
   <data name="Text.LyncPhoneNumbers" xml:space="preserve">
     <value>أرقام الهواتف</value>
@@ -220,13 +220,13 @@
     <value>CRM 2013</value>
   </data>
   <data name="Text.ArchivingMailboxes" xml:space="preserve">
-    <value>أرشفة علب البريد</value>
+    <value>صناديق بريد الأرشفة</value>
   </data>
   <data name="Text.RetentionPolicy" xml:space="preserve">
-    <value>سياسة الإحتفاظ</value>
+    <value>سياسة الاحتفاظ</value>
   </data>
   <data name="Text.RetentionPolicyTag" xml:space="preserve">
-    <value>علامة سياسة الاستبقاء</value>
+    <value>علامة سياسة الاحتفاظ</value>
   </data>
   <data name="Text.DeletedUsers" xml:space="preserve">
     <value>المستخدمون المحذوفون</value>

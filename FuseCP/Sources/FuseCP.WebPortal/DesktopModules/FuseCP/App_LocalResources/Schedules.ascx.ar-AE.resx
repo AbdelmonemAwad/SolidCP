@@ -121,10 +121,10 @@
     <value>إضافة مهمة مجدولة</value>
   </data>
   <data name="btnRefresh.Text" xml:space="preserve">
-    <value>اعادة تنشيط</value>
+    <value>تحديث</value>
   </data>
   <data name="chkRecursive.Text" xml:space="preserve">
-    <value>عرض متكرر</value>
+    <value>تضمين المساحات المتداخلة</value>
   </data>
   <data name="gvSchedules.Empty" xml:space="preserve">
     <value>لا توجد مهام مجدولة.</value>
@@ -136,10 +136,10 @@
     <value>اسم المهمة</value>
   </data>
   <data name="gvSchedulesNextRun.Header" xml:space="preserve">
-    <value>تشغيل التالي</value>
+    <value>التشغيل التالي</value>
   </data>
   <data name="gvSchedulesResult.Header" xml:space="preserve">
-    <value>اخر نتيجة</value>
+    <value>آخر نتيجة</value>
   </data>
   <data name="gvSchedulesSpace.Header" xml:space="preserve">
     <value>مساحة</value>
@@ -163,7 +163,7 @@
     <value>قم بالتبديل إلى هذه المساحة</value>
   </data>
   <data name="selUser.AlternateText" xml:space="preserve">
-    <value>العمل لهذا المستخدم</value>
+    <value>العمل باسم هذا المستخدم</value>
   </data>
   <data name="Text.Email" xml:space="preserve">
     <value>بريد إلكتروني</value>
@@ -172,7 +172,7 @@
     <value>الاسم الكامل</value>
   </data>
   <data name="Text.ScheduleName" xml:space="preserve">
-    <value>اسم الجدول</value>
+    <value>اسم الجدولة</value>
   </data>
   <data name="Text.Username" xml:space="preserve">
     <value>اسم المستخدم</value>

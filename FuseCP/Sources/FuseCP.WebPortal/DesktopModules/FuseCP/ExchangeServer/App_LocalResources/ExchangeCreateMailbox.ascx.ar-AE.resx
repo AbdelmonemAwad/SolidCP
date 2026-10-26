@@ -118,7 +118,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="btnCreate.OnClientClick" xml:space="preserve">
-    <value>ShowProgressDialog('جاري إنشاء صندوق بريد ...');</value>
+    <value>ShowProgressDialog('جاري إنشاء صندوق بريد...');</value>
   </data>
   <data name="btnCreate.Text" xml:space="preserve">
     <value>إنشاء صندوق بريد</value>
@@ -130,25 +130,25 @@
     <value>إرسال تعليمات الإعداد</value>
   </data>
   <data name="EquipmentMailbox.Text" xml:space="preserve">
-    <value>ادوات صندوق البريد</value>
+    <value>صندوق بريد المعدات</value>
   </data>
   <data name="lbtnCreateNewMailbox.Text" xml:space="preserve">
     <value>إنشاء صندوق بريد للمستخدم الجديد</value>
   </data>
   <data name="lbtnUseExistingUser.Text" xml:space="preserve">
-    <value>إنشاء صندوق بريد للمستخدم الجديد</value>
+    <value>إنشاء صندوق بريد لمستخدم موجود</value>
   </data>
   <data name="locAccount.Text" xml:space="preserve">
     <value>عنوان البريد الإلكتروني: *</value>
   </data>
   <data name="locDisplayName.Text" xml:space="preserve">
-    <value>عرض الاسم : *</value>
+    <value>الاسم المعروض:</value>
   </data>
   <data name="locMailboxType.Text" xml:space="preserve">
     <value>اختر نوع صندوق البريد:</value>
   </data>
   <data name="locPassword.Text" xml:space="preserve">
-    <value>كلمه السر: *</value>
+    <value>كلمة المرور: *</value>
   </data>
   <data name="locSubscriberNumber.Text" xml:space="preserve">
     <value>رقم حساب: *</value>
@@ -175,7 +175,7 @@
     <value>صندوق بريد المستخدم</value>
   </data>
   <data name="valRequireDisplayName.ErrorMessage" xml:space="preserve">
-    <value>أدخل اسم العرض</value>
+    <value>أدخل الاسم المعروض</value>
   </data>
   <data name="valRequireDisplayName.Text" xml:space="preserve">
     <value>*</value>
@@ -187,7 +187,7 @@
     <value>*</value>
   </data>
   <data name="SharedMailbox.Text" xml:space="preserve">
-    <value>علبة بريد مشتركة</value>
+    <value>صندوق بريد مشترك</value>
   </data>
   <data name="chkUserMustChangePassword.Text" xml:space="preserve">
     <value>يجب على المستخدم تغيير كلمة المرور عند تسجيل الدخول التالي</value>

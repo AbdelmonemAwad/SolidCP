@@ -151,16 +151,16 @@
     <value>عناصر النسخ الاحتياطي</value>
   </data>
   <data name="Text.ServerBackupMode" xml:space="preserve">
-    <value>النسخ الاحتياطي "{0}" خادم</value>
+    <value>النسخ الاحتياطي للخادم "{0}"</value>
   </data>
   <data name="Text.ServiceBackupMode" xml:space="preserve">
-    <value>النسخ الاحتياطي "{0}" الخدمة</value>
+    <value>النسخ الاحتياطي للخدمة "{0}"</value>
   </data>
   <data name="Text.SpaceBackupMode" xml:space="preserve">
-    <value>النسخ الاحتياطي "{0}" مساحة الاستضافة</value>
+    <value>النسخ الاحتياطي لمساحة الاستضافة "{0}"</value>
   </data>
   <data name="Text.UserBackupMode" xml:space="preserve">
-    <value>النسخ الاحتياطي "{0}" حساب المستخدم</value>
+    <value>النسخ الاحتياطي لحساب المستخدم "{0}"</value>
   </data>
   <data name="valRequireBackupFileName.Text" xml:space="preserve">
     <value>*</value>

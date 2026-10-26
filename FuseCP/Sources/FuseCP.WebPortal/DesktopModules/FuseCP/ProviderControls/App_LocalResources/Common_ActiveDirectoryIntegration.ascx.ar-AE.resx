@@ -118,10 +118,10 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="lblGroupsOU.Text" xml:space="preserve">
-    <value>مجموعات OU (اختياري):</value>
+    <value>الوحدة التنظيمية (OU) للمجموعات (اختياري):</value>
   </data>
   <data name="lblUsersOU.Text" xml:space="preserve">
-    <value>المستخدمون OU (اختياري):</value>
+    <value>الوحدة التنظيمية (OU) للمستخدمين (اختياري):</value>
   </data>
   <data name="rbUsersCreationModeItem.ADAccounts" xml:space="preserve">
     <value>إنشاء حسابات المستخدمين والمجموعات في Active Directory</value>

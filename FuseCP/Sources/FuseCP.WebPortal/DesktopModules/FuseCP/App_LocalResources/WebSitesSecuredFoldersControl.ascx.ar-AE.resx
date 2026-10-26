@@ -118,16 +118,16 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="btnAddFolder.Text" xml:space="preserve">
-    <value>أضف المجلد</value>
+    <value>إضافة مجلد</value>
   </data>
   <data name="btnAddGroup.Text" xml:space="preserve">
-    <value>أضف مجموعة</value>
+    <value>إضافة مجموعة</value>
   </data>
   <data name="btnAddUser.Text" xml:space="preserve">
     <value>إضافة مستخدم</value>
   </data>
   <data name="cmdDeleteFolder.AlternateText" xml:space="preserve">
-    <value>احذف المجلد</value>
+    <value>حذف المجلد</value>
   </data>
   <data name="cmdDeleteFolder.OnClientClick" xml:space="preserve">
     <value>return confirm('حذف المجلد؟');</value>
@@ -139,7 +139,7 @@
     <value>return confirm('حذف المجموعة؟');</value>
   </data>
   <data name="cmdDeleteUser.AlternateText" xml:space="preserve">
-    <value>مسح المستخدم</value>
+    <value>حذف المستخدم</value>
   </data>
   <data name="cmdDeleteUser.OnClientClick" xml:space="preserve">
     <value>return confirm('حذف المستخدم؟');</value>
@@ -169,6 +169,6 @@
     <value>المستخدمون</value>
   </data>
   <data name="EnableFoldersIIs7Warning.Text" xml:space="preserve">
-    <value>ستعمل هذه الميزة تلقائيًا على تغيير الإعدادات التالية لموقع الويب:\r\n\r\n- Enable Integration Pipeline;\r\n- Disable Integrated Windows Authentication;\r\n\r\nالرجاء النقر فوق الزر "موافق" للمتابعة أو الزر "إلغاء" إذا كنت ترغب في تعديل هذه الإعدادات يدويًا.</value>
+    <value>ستعمل هذه الميزة تلقائيًا على تغيير الإعدادات التالية لموقع الويب:\r\n\r\n- تمكين المسار المتكامل (Integrated Pipeline)؛\r\n- تعطيل مصادقة Windows المتكاملة؛\r\n\r\nالرجاء النقر فوق زر موافق للمتابعة أو زر إلغاء إذا كنت لا ترغب في تعديل الإعدادات تلقائيًا.</value>
   </data>
 </root>

@@ -118,28 +118,28 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="bandwidthCaption.Text" xml:space="preserve">
-    <value>اختر إما إطارًا زمنيًا أو شهرًا لمشاهدة عرض الباندويث الزائد.</value>
+    <value>اختر إما فترة زمنية أو شهرًا لعرض الاستخدام الزائد لعرض النطاق الترددي.</value>
   </data>
   <data name="bandwidthCollapsiblePanel.Text" xml:space="preserve">
-    <value>معايير البحث في الباندويث</value>
+    <value>معايير البحث في عرض النطاق الترددي</value>
   </data>
   <data name="endDateLabel.Text" xml:space="preserve">
-    <value>نهاية&amp;nbsp;تاريخ:</value>
+    <value>تاريخ&amp;nbsp;الانتهاء:</value>
   </data>
   <data name="exportCollapsiblePanel.Text" xml:space="preserve">
-    <value>استخراج</value>
+    <value>تصدير</value>
   </data>
   <data name="HostingSpaceBandwidthOverusageDetails.allocatedLabel" xml:space="preserve">
     <value>المخصص:</value>
   </data>
   <data name="HostingSpaceBandwidthOverusageDetails.bandwidthLabel" xml:space="preserve">
-    <value>عرض الباندويث الزائد من الموارد</value>
+    <value>الاستخدام الزائد لعرض النطاق الترددي حسب الموارد</value>
   </data>
   <data name="HostingSpaceBandwidthOverusageDetails.creationDateLabel" xml:space="preserve">
     <value>تاريخ الإنشاء:</value>
   </data>
   <data name="HostingSpaceBandwidthOverusageDetails.hostingSpaceUrl" xml:space="preserve">
-    <value>انقر هنا للتنقل في هذه الصفحة الرئيسية لمساحة الاستضافة.</value>
+    <value>انقر هنا للانتقال إلى الصفحة الرئيسية لمساحة الاستضافة هذه.</value>
   </data>
   <data name="HostingSpaceBandwidthOverusageDetails.locationLabel" xml:space="preserve">
     <value>الموقع (الخادم):</value>
@@ -148,7 +148,7 @@
     <value>الحالة:</value>
   </data>
   <data name="HostingSpaceBandwidthOverusageDetails.totalLabel" xml:space="preserve">
-    <value>اجمالي الاستخدام المفرط:</value>
+    <value>إجمالي الاستخدام المفرط:</value>
   </data>
   <data name="HostingSpaceBandwidthOverusageDetails.usedLabel" xml:space="preserve">
     <value>المستخدمة:</value>
@@ -163,10 +163,10 @@
     <value>تاريخ الإنشاء:</value>
   </data>
   <data name="HostingSpaceDiskspaceOverusageDetails.DiskspaceOverusageByResourcesLabel" xml:space="preserve">
-    <value>استخدام مساحة القرص بواسطة الموارد</value>
+    <value>استخدام مساحة القرص حسب الموارد</value>
   </data>
   <data name="HostingSpaceDiskspaceOverusageDetails.HostingSpaceLinkLabel" xml:space="preserve">
-    <value>انقر هنا للتنقل في هذه الصفحة الرئيسية لمساحة الاستضافة.</value>
+    <value>انقر هنا للانتقال إلى الصفحة الرئيسية لمساحة الاستضافة هذه.</value>
   </data>
   <data name="HostingSpaceDiskspaceOverusageDetails.LocationLabel" xml:space="preserve">
     <value>الموقع (الخادم):</value>
@@ -175,7 +175,7 @@
     <value>الحالة:</value>
   </data>
   <data name="HostingSpaceDiskspaceOverusageDetails.totalOverusageLabel" xml:space="preserve">
-    <value>اجمالي الاستخدام المفرط:</value>
+    <value>إجمالي الاستخدام المفرط:</value>
   </data>
   <data name="HostingSpaceDiskspaceOverusageDetails.usedLabel" xml:space="preserve">
     <value>المستخدمة:</value>
@@ -184,34 +184,34 @@
     <value>المستخدم:</value>
   </data>
   <data name="HostingSpaceDiskspaceOverusageDetails.UsernameLink" xml:space="preserve">
-    <value>انقر لفتح هذه الصفحة الرئيسية للمستخدم.</value>
+    <value>انقر لفتح الصفحة الرئيسية لهذا المستخدم.</value>
   </data>
   <data name="nextMonthLink.InnerHTML" xml:space="preserve">
-    <value>التالي&amp;nbsp;الشهر&amp;nbsp;&amp;gt;</value>
+    <value>الشهر&amp;nbsp;التالي&amp;nbsp;&amp;gt;</value>
   </data>
   <data name="OverusageReport.BandwidthLabel" xml:space="preserve">
-    <value>تقرير عن عرض الباندويث الزائد</value>
+    <value>تقرير الاستخدام الزائد لعرض النطاق الترددي</value>
   </data>
   <data name="OverusageReport.DiskspaceLabel" xml:space="preserve">
-    <value>تقرير استخدام مساحة القرص</value>
+    <value>تقرير الاستخدام الزائد لمساحة القرص</value>
   </data>
   <data name="OverusageReport.HostingSpaceHeader" xml:space="preserve">
     <value>مساحة الاستضافة</value>
   </data>
   <data name="OverusageReport.OverusageHeader" xml:space="preserve">
-    <value>الإفراط ، ميجابايت</value>
+    <value>الاستخدام الزائد، ميجابايت</value>
   </data>
   <data name="OverusageReport.StatusHeader" xml:space="preserve">
     <value>الحالة</value>
   </data>
   <data name="OverusageReport.totalLabel" xml:space="preserve">
-    <value>الإجمالي :</value>
+    <value>الإجمالي:</value>
   </data>
   <data name="OverusageReport.UsedAllocatedHeader" xml:space="preserve">
-    <value>مخصصة / مستعملة ، ميجا بايت</value>
+    <value>المخصصة / المستخدمة، ميجابايت</value>
   </data>
   <data name="OverusageReport.UsernameHeader" xml:space="preserve">
-    <value>اسم االمستخدم</value>
+    <value>اسم المستخدم</value>
   </data>
   <data name="OverusageReport.UsernameLinkTooltip" xml:space="preserve">
     <value>انقر لتحديد موقع الصفحة الرئيسية للمستخدم.</value>
@@ -220,19 +220,19 @@
     <value>انقر للذهاب إلى تقرير مفصل عن الإفراط في الاستخدام.</value>
   </data>
   <data name="prevMonthLink.InnerHTML" xml:space="preserve">
-    <value>&amp; lt ؛ على &amp; nbsp ؛ الشهر السابق &amp; nbsp ؛</value>
+    <value>&amp;lt;&amp;nbsp;الشهر&amp;nbsp;السابق</value>
   </data>
   <data name="startDateLabel.Text" xml:space="preserve">
-    <value>أبدأ&amp;nbsp;تاريخ:</value>
+    <value>تاريخ&amp;nbsp;البدء:</value>
   </data>
   <data name="refreshButton.Text" xml:space="preserve">
     <value>تحديث التقرير</value>
   </data>
   <data name="exportToExcel.Text" xml:space="preserve">
-    <value>استخراج إلى  Microsoft Excel</value>
+    <value>تصدير إلى Microsoft Excel</value>
   </data>
   <data name="exportToPdf.Text" xml:space="preserve">
-    <value>استخراج إلى Acrobat Reader (PDF)</value>
+    <value>تصدير إلى Acrobat Reader (PDF)</value>
   </data>
   <data name="refreshButtonText.Text" xml:space="preserve">
     <value>تحديث التقرير</value>

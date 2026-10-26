@@ -154,19 +154,19 @@
     <value>إنشاء</value>
   </data>
   <data name="lblCreateFolder.Text" xml:space="preserve">
-    <value>أنشئ مجلد</value>
+    <value>إنشاء مجلد</value>
   </data>
   <data name="lblFolderName.Text" xml:space="preserve">
-    <value>إسم الملف:</value>
+    <value>اسم المجلد:</value>
   </data>
   <data name="lblZipFiles.Text" xml:space="preserve">
-    <value>ملفات مضغوطة</value>
+    <value>ضغط الملفات</value>
   </data>
   <data name="lblZIPArchiveName.Text" xml:space="preserve">
-    <value>اسم أرشيف مضغوط:</value>
+    <value>اسم الأرشيف المضغوط:</value>
   </data>
   <data name="btnZip.Text" xml:space="preserve">
-    <value>ضغط الملف</value>
+    <value>ضغط</value>
   </data>
   <data name="lblEditFile.Text" xml:space="preserve">
     <value>تعديل ملف</value>
@@ -196,7 +196,7 @@
     <value>المجلد فارغ.</value>
   </data>
   <data name="lblDiskSpace.Text" xml:space="preserve">
-    <value>مساحة القرص ، ميجا بايت:</value>
+    <value>مساحة القرص، ميجابايت:</value>
   </data>
   <data name="btnCancelDeleteFiles.Text" xml:space="preserve">
     <value>إلغاء</value>
@@ -208,7 +208,7 @@
     <value>حذف الملفات والمجلدات المحددة</value>
   </data>
   <data name="btnRecalcDiskspace.OnClientClick" xml:space="preserve">
-    <value>return confirm('قد تتطلب إعادة حساب مساحة القرص وقتًا معينًا لإكمالها وسيتم تنفيذ هذه المهمة بشكل غير متزامن. ستتوفر قيمة مساحة القرص الجديدة في غضون بضع دقائق. متابعة حساب مساحة القرص؟');</value>
+    <value>return confirm('قد تستغرق إعادة حساب مساحة القرص بعض الوقت حتى تكتمل، وسيتم تنفيذ هذه المهمة بشكل غير متزامن. ستتوفر قيمة مساحة القرص الجديدة في غضون بضع دقائق. هل تريد متابعة حساب مساحة القرص؟');</value>
   </data>
   <data name="btnRecalcDiskspace.Text" xml:space="preserve">
     <value>احسب مساحة القرص</value>
@@ -223,19 +223,19 @@
     <value>هل تريد حقًا حذف الملفات والمجلدات المحددة؟</value>
   </data>
   <data name="Home.Text" xml:space="preserve">
-    <value>الرئيسيه </value>
+    <value>الرئيسية</value>
   </data>
   <data name="locCopy.Text" xml:space="preserve">
     <value>نسخ</value>
   </data>
   <data name="locCreateAccessDB.Text" xml:space="preserve">
-    <value>قم بإنشاء Access DB</value>
+    <value>إنشاء قاعدة بيانات Access</value>
   </data>
   <data name="locCreateFile.Text" xml:space="preserve">
     <value>إنشاء ملف</value>
   </data>
   <data name="locCreateFolder.Text" xml:space="preserve">
-    <value>أنشئ مجلد</value>
+    <value>إنشاء مجلد</value>
   </data>
   <data name="locDelete.Text" xml:space="preserve">
     <value>حذف</value>
@@ -244,7 +244,7 @@
     <value>اسم الملف</value>
   </data>
   <data name="locModified.Text" xml:space="preserve">
-    <value>تم التعديل</value>
+    <value>تاريخ التعديل</value>
   </data>
   <data name="locMove.Text" xml:space="preserve">
     <value>نقل</value>
@@ -259,7 +259,7 @@
     <value>رفع</value>
   </data>
   <data name="locZip.Text" xml:space="preserve">
-    <value>مضغوط</value>
+    <value>ضغط</value>
   </data>
   <data name="btnCancelPermissions.Text" xml:space="preserve">
     <value>إلغاء</value>
@@ -283,7 +283,7 @@
     <value>الترميز (سيؤدي تغيير الترميز إلى إعادة تحميل محتوى الملف):</value>
   </data>
   <data name="FM_UNZIP_FILES_MESSAGE" xml:space="preserve">
-    <value>فك ضغط الملفات ...</value>
+    <value>جارٍ فك ضغط الملفات...</value>
   </data>
   <data name="btnCancelDeleteFilesText.Text" xml:space="preserve">
     <value>إلغاء</value>
@@ -319,6 +319,6 @@
     <value>رفع</value>
   </data>
   <data name="btnZipText.Text" xml:space="preserve">
-    <value>مضغوط</value>
+    <value>ضغط</value>
   </data>
 </root>

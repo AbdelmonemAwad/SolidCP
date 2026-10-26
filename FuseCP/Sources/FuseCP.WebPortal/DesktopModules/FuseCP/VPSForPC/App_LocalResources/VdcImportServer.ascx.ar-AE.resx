@@ -118,16 +118,16 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="AllowPause.Text" xml:space="preserve">
-    <value>إيقاف ، استئناف</value>
+    <value>إيقاف مؤقت، استئناف</value>
   </data>
   <data name="AllowReboot.Text" xml:space="preserve">
-    <value>اعادة التشغيل</value>
+    <value>إعادة التشغيل</value>
   </data>
   <data name="AllowReset.Text" xml:space="preserve">
     <value>إعادة تعيين</value>
   </data>
   <data name="AllowStartShutdown.Text" xml:space="preserve">
-    <value>بدء ، إيقاف وإغلاق</value>
+    <value>البدء وإيقاف التشغيل والإغلاق</value>
   </data>
   <data name="btnCancelText.Text" xml:space="preserve">
     <value>إلغاء</value>
@@ -139,7 +139,7 @@
     <value>تمكين الاتصال بسطح المكتب البعيد بالويب</value>
   </data>
   <data name="FormComments.Text" xml:space="preserve">
-    <value>&lt;p&gt; يسمح لك هذا المعالج باستيراد جهاز افتراضي موجود إلى قاعدة بيانات لوحة التحكم لتوفير وظائف الخدمة الذاتية لمالكها. &lt;/ p&gt; &lt;p&gt; الاستيراد آمن تمامًا بالنسبة إلى الجهاز الافتراضي أو تكوين الجهاز الافتراضي ، ولا تتغير حالته أثناء العملية. &lt;/ p&gt; &lt;p&gt; لاستيراد الجهاز الافتراضي ، أولاً ، حدد خدمة Hyper-V المسجلة في لوحة التحكم حيث يوجد الجهاز الافتراضي. ثم حدد VM وحدد الإجراءات المسموح بها وحدد روابط محول الشبكة. &lt;/ p&gt; &lt;p&gt; يتم تحديد الشبكات الخارجية وشبكات الإدارة على صفحة خصائص خدمة Hyper-V المناسبة. &lt;/ p&gt; &lt;p&gt; لتمكين اتصالات ويب سطح المكتب البعيد ، يجب توفير كلمة مرور مسؤول نظام تشغيل الضيف الحقيقية (لتسجيل الدخول التلقائي). &lt;/ p&gt;</value>
+    <value>&lt;p&gt;يتيح لك هذا المعالج استيراد جهاز افتراضي موجود إلى قاعدة التعريف الخاصة بلوحة التحكم لتوفير وظائف الخدمة الذاتية لمالكه.&lt;/p&gt;&lt;p&gt;الاستيراد آمن تمامًا للجهاز الافتراضي، إذ لا يتغير تكوينه ولا حالته أثناء العملية.&lt;/p&gt;&lt;p&gt;لاستيراد الجهاز الافتراضي، حدد أولاً خدمة Hyper-V المسجلة في لوحة التحكم التي يوجد عليها الجهاز الافتراضي. ثم حدد الجهاز الافتراضي، وحدد الإجراءات المسموح بها، وحدد ارتباطات محول الشبكة.&lt;/p&gt;&lt;p&gt;يتم تحديد الشبكات الخارجية وشبكات الإدارة في صفحة خصائص خدمة Hyper-V المناسبة.&lt;/p&gt;&lt;p&gt;لتمكين اتصالات ويب سطح المكتب البعيد، يجب توفير كلمة مرور مسؤول نظام التشغيل الضيف الحقيقية (لتسجيل الدخول التلقائي).&lt;/p&gt;</value>
   </data>
   <data name="locAdminPassword.Text" xml:space="preserve">
     <value>كلمة مرور المسؤول:</value>
@@ -148,10 +148,10 @@
     <value>التمهيد من القرص المضغوط</value>
   </data>
   <data name="locCPU.Text" xml:space="preserve">
-    <value>وحدة المعالجة المركزية ، النوى:</value>
+    <value>وحدة المعالجة المركزية، النوى:</value>
   </data>
   <data name="locDvdInstalled.Text" xml:space="preserve">
-    <value>تم تثبيت محرك أقراص رقمية</value>
+    <value>محرك أقراص DVD مثبّت</value>
   </data>
   <data name="locExternalAdapter.Text" xml:space="preserve">
     <value>NIC المتصل:</value>
@@ -160,7 +160,7 @@
     <value>تعيين عناوين IP:</value>
   </data>
   <data name="locHDD.Text" xml:space="preserve">
-    <value>القرص الصلب ، جيجابايت:</value>
+    <value>القرص الصلب، جيجابايت:</value>
   </data>
   <data name="locHyperVService.Text" xml:space="preserve">
     <value>خدمة Hyper-V:</value>
@@ -172,7 +172,7 @@
     <value>تعيين عناوين IP:</value>
   </data>
   <data name="locRAM.Text" xml:space="preserve">
-    <value>ذاكرة الوصول العشوائي ، ميجابايت:</value>
+    <value>ذاكرة الوصول العشوائي، ميجابايت:</value>
   </data>
   <data name="locTitle.Text" xml:space="preserve">
     <value>استيراد VM موجود</value>
@@ -181,7 +181,7 @@
     <value>موقع VHD:</value>
   </data>
   <data name="locVirtualMachine.Text" xml:space="preserve">
-    <value>أجهزة افتراضية:</value>
+    <value>الجهاز الافتراضي:</value>
   </data>
   <data name="secAllowedActions.Text" xml:space="preserve">
     <value>الإجراءات المسموح بها</value>
@@ -193,13 +193,13 @@
     <value>إعدادات</value>
   </data>
   <data name="secDvd.Text" xml:space="preserve">
-    <value>قرص رقمي مضغوط</value>
+    <value>DVD</value>
   </data>
   <data name="secExternalNetwork.Text" xml:space="preserve">
     <value>الشبكة الخارجية</value>
   </data>
   <data name="secManagementNetwork.Text" xml:space="preserve">
-    <value>إدارة الشبكة</value>
+    <value>شبكة الإدارة</value>
   </data>
   <data name="secOsTemplate.Text" xml:space="preserve">
     <value>قالب نظام التشغيل:</value>
@@ -223,7 +223,7 @@
     <value>&lt;حدد قالب نظام التشغيل&gt;</value>
   </data>
   <data name="btnImport.OnClientClick" xml:space="preserve">
-    <value>ShowProgressDialog('استيراد الأجهزة الافتراضية ...');</value>
+    <value>ShowProgressDialog('استيراد الأجهزة الافتراضية...');</value>
   </data>
   <data name="RequiredAdminPassword.ErrorMessage" xml:space="preserve">
     <value>الرجاء إدخال كلمة مرور مسؤول نظام التشغيل الضيف</value>

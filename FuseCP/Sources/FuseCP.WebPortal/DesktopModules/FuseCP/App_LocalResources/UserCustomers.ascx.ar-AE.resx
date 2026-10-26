@@ -124,7 +124,7 @@
     <value>- حسب الدور -</value>
   </data>
   <data name="ddlRoleItem.Resellers" xml:space="preserve">
-    <value>الموزعين</value>
+    <value>الموزعون</value>
   </data>
   <data name="ddlRoleItem.Users" xml:space="preserve">
     <value>المستخدمون</value>
@@ -136,16 +136,16 @@
     <value>- حسب الحالة -</value>
   </data>
   <data name="ddlStatusItem.Cancelled" xml:space="preserve">
-    <value>ألغيت</value>
+    <value>ملغى</value>
   </data>
   <data name="ddlStatusItem.Suspended" xml:space="preserve">
-    <value>موقوف عن العمل</value>
+    <value>معلّق</value>
   </data>
   <data name="gvUsers.Empty" xml:space="preserve">
-    <value>قائمة العملاء فارغة. &lt;br&gt; &lt;br&gt; لإنشاء حساب مستخدم جديد ، انقر فوق الزر "إنشاء مستخدم".</value>
+    <value>قائمة العملاء فارغة. &lt;br&gt; &lt;br&gt; لإنشاء حساب مستخدم جديد، انقر فوق الزر "إنشاء مستخدم".</value>
   </data>
   <data name="gvUsersCompanyName.Header" xml:space="preserve">
-    <value>اسم الشركة:</value>
+    <value>اسم الشركة</value>
   </data>
   <data name="gvUsersEmail.Header" xml:space="preserve">
     <value>بريد إلكتروني</value>
@@ -166,10 +166,10 @@
     <value>الحالة</value>
   </data>
   <data name="gvUsersUsername.Header" xml:space="preserve">
-    <value>اسم االمستخدم</value>
+    <value>اسم المستخدم</value>
   </data>
   <data name="SearchField.CompanyName" xml:space="preserve">
-    <value>اسم الشركة:</value>
+    <value>اسم الشركة</value>
   </data>
   <data name="SearchField.EMail" xml:space="preserve">
     <value>بريد إلكتروني</value>

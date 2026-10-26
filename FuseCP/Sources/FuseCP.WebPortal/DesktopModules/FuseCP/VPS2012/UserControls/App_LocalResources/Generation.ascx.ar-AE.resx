@@ -121,12 +121,12 @@
     <value>الأول</value>
   </data>
   <data name="ddlGenerationItem.2" xml:space="preserve">
-    <value>ثانية</value>
+    <value>الثاني</value>
   </data>
   <data name="locGeneration.Text" xml:space="preserve">
-    <value>توليد:</value>
+    <value>الجيل:</value>
   </data>
   <data name="secGeneration.Text" xml:space="preserve">
-    <value>توليد</value>
+    <value>الجيل</value>
   </data>
 </root>

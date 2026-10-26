@@ -148,7 +148,7 @@
     <value>بريد إلكتروني:</value>
   </data>
   <data name="lblFirstName.Text" xml:space="preserve">
-    <value>الاسم الأول: </value>
+    <value>الاسم الأول:</value>
   </data>
   <data name="lblLastName.Text" xml:space="preserve">
     <value>اسم العائلة:</value>
@@ -172,7 +172,7 @@
     <value>معلومات للتواصل</value>
   </data>
   <data name="Text.Add" xml:space="preserve">
-    <value>أضف</value>
+    <value>إضافة</value>
   </data>
   <data name="btnDelete.OnClientClick" xml:space="preserve">
     <value>return confirm('هل أنت متأكد أنك تريد حذف حساب النظير هذا؟');</value>
@@ -187,12 +187,12 @@
     <value>تحديث</value>
   </data>
   <data name="loginStatus.Disabled" xml:space="preserve">
-    <value>معطل </value>
+    <value>معطل</value>
   </data>
   <data name="loginStatus.Enabled" xml:space="preserve">
-    <value>تمكين</value>
+    <value>مُمكَّن</value>
   </data>
   <data name="loginStatus.LockedOut" xml:space="preserve">
-    <value>اقفل</value>
+    <value>مقفل</value>
   </data>
 </root>

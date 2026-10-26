@@ -127,7 +127,7 @@
     <value>إنشاء CSR</value>
   </data>
   <data name="btnCSRCancelText.Text" xml:space="preserve">
-    <value>إلغاء إنشاء جيل CSR</value>
+    <value>إلغاء إنشاء CSR</value>
   </data>
   <data name="btnCSRText.Text" xml:space="preserve">
     <value>إنشاء CSR</value>
@@ -142,16 +142,16 @@
     <value>حذف</value>
   </data>
   <data name="btnExport.Text" xml:space="preserve">
-    <value>استخراج الشهادة</value>
+    <value>تصدير الشهادة</value>
   </data>
   <data name="btnExportModal.Text" xml:space="preserve">
-    <value>استخراج الشهادة</value>
+    <value>تصدير الشهادة</value>
   </data>
   <data name="btnExportModalText.Text" xml:space="preserve">
-    <value>استخراج</value>
+    <value>تصدير</value>
   </data>
   <data name="btnExportText.Text" xml:space="preserve">
-    <value>استخراج</value>
+    <value>تصدير</value>
   </data>
   <data name="btnImport.Text" xml:space="preserve">
     <value>استيراد الشهادة الحالية</value>
@@ -166,7 +166,7 @@
     <value>تثبيت</value>
   </data>
   <data name="btnInstallConfirm.Text" xml:space="preserve">
-    <value>هل أنت واثق؟ سيتم حذف الشهادة المثبتة الحالية الخاصة بك.</value>
+    <value>هل أنت متأكد؟ سيتم حذف الشهادة المثبتة حاليًا.</value>
   </data>
   <data name="btnInstallPFX.Text" xml:space="preserve">
     <value>تثبيت الشهادة</value>
@@ -181,16 +181,16 @@
     <value>إلغاء</value>
   </data>
   <data name="btnRegenCSR.Text" xml:space="preserve">
-    <value>إنشاء CSR جديدة</value>
+    <value>إنشاء CSR جديد</value>
   </data>
   <data name="btnRegenCSRText.Text" xml:space="preserve">
-    <value>إنشاء CSR جديدة</value>
+    <value>إنشاء CSR جديد</value>
   </data>
   <data name="btnRenCSR.Text" xml:space="preserve">
-    <value>توليد تجديد CSR</value>
+    <value>إنشاء CSR للتجديد</value>
   </data>
   <data name="btnRenCSRText" xml:space="preserve">
-    <value>توليد تجديد CSR</value>
+    <value>إنشاء CSR للتجديد</value>
   </data>
   <data name="btnRenew.Text" xml:space="preserve">
     <value>تجديد الشهادة</value>
@@ -259,7 +259,7 @@
     <value>CSR</value>
   </data>
   <data name="sslDomain.Text" xml:space="preserve">
-    <value>النطاقات</value>
+    <value>النطاق:</value>
   </data>
   <data name="sslExpiry.Text" xml:space="preserve">
     <value>تاريخ انتهاء الصلاحية:</value>
@@ -275,10 +275,10 @@
     <value>تم الكشف عن شهادة حالية</value>
   </data>
   <data name="sslIncludewww.Text" xml:space="preserve">
-    <value>تشمل www.</value>
+    <value>تضمين www.</value>
   </data>
   <data name="SSLInstalledNewDescription.Text" xml:space="preserve">
-    <value>تم تثبيت شهادة بالفعل على هذا الموقع. يمكنك إنشاء طلب جديد أو تحميل شهادة جديدة ، ومع ذلك ستتم إزالة الشهادة الحالية. إذا كنت بحاجة إلى تجديد الشهادة الحالية ، فانقر فوق الزر تجديد في علامة التبويب الشهادة المثبتة.</value>
+    <value>تم تثبيت شهادة بالفعل على هذا الموقع. يمكنك إنشاء طلب جديد أو تحميل شهادة جديدة، ومع ذلك ستتم إزالة الشهادة الحالية. إذا كنت بحاجة إلى تجديد الشهادة الحالية، فانقر فوق الزر تجديد في علامة التبويب الشهادة المثبتة.</value>
   </data>
   <data name="SSLInstalledNewHeading.Text" xml:space="preserve">
     <value>تثبيت شهادة جديدة</value>
@@ -287,19 +287,19 @@
     <value>تثبيت الشهادة العادية</value>
   </data>
   <data name="LENotInstalledHeading.Text" xml:space="preserve">
-    <value>تثبيت (مجاني) يتيح تشفير الشهادة</value>
+    <value>تثبيت شهادة Lets Encrypt (مجانية)</value>
   </data>
   <data name="SSLNotInstalledDescription.Text" xml:space="preserve">
-    <value>قم بتثبيت شهادة موجودة عن طريق تحميل PFX الخاص بك ، أو إنشاء طلب شهادة لتزويده بموفر الشهادة الخاص بك</value>
+    <value>قم بتثبيت شهادة موجودة عن طريق رفع ملف PFX الخاص بك، أو أنشئ طلب شهادة لتقديمه إلى موفر الشهادة.</value>
   </data>
   <data name="LENotInstalledDescription.Text" xml:space="preserve">
-    <value>طلب شهادة Lets Encrypt وتثبيتها تلقائيًا. وظائفها ودعمها هما نفس الشهادة المدفوعة.</value>
+    <value>طلب شهادة Lets Encrypt وتثبيتها تلقائيًا. وظائفها ودعمها مماثلة للشهادة المدفوعة.</value>
   </data>
   <data name="sslOrganization.Text" xml:space="preserve">
-    <value>منظمة:</value>
+    <value>مؤسسة:</value>
   </data>
   <data name="sslOrganizationUnit.Text" xml:space="preserve">
-    <value>وحدة التنظيم:</value>
+    <value>الوحدة المؤسسية:</value>
   </data>
   <data name="SSLSSLStateReq.ErrorMessage" xml:space="preserve">
     <value>*</value>
@@ -323,7 +323,7 @@
     <value>*</value>
   </data>
   <data name="valtxtPFXPassConfirm.ErrorMessage" xml:space="preserve">
-    <value>كلمة المرور غير مطابقة</value>
+    <value>كلمتا المرور غير متطابقتين</value>
   </data>
   <data name="LEInstallText.Text" xml:space="preserve">
     <value>تثبيت الشهادة</value>

@@ -127,10 +127,10 @@
     <value>بريد إلكتروني POP / IMAP</value>
   </data>
   <data name="gvPackages.Empty" xml:space="preserve">
-    <value>تم إنشاء هذا الحساب للتو ولا يحتوي على مساحات استضافة. لإنشاء مواقع ويب و FTP وحسابات بريد وقواعد بيانات وما إلى ذلك ، يجب إنشاء مساحة استضافة جديدة لهذا العميل. &lt;br&gt; &lt;br&gt; لإنشاء مساحة استضافة جديدة ، انقر فوق الزر "إنشاء مساحة استضافة".</value>
+    <value>تم إنشاء هذا الحساب للتو ولا يحتوي على مساحات استضافة. لإنشاء مواقع ويب و FTP وحسابات بريد وقواعد بيانات وما إلى ذلك، يجب إنشاء مساحة استضافة جديدة لهذا العميل. &lt;br&gt; &lt;br&gt; لإنشاء مساحة استضافة جديدة، انقر فوق الزر "إنشاء مساحة استضافة".</value>
   </data>
   <data name="gvPackagesCreationDate.Header" xml:space="preserve">
-    <value>تاريخ الإنشاء:</value>
+    <value>تاريخ الإنشاء</value>
   </data>
   <data name="gvPackagesHostingPlan.Header" xml:space="preserve">
     <value>خطة الاستضافة</value>
@@ -139,7 +139,7 @@
     <value>الاسم</value>
   </data>
   <data name="gvPackagesPricing.Header" xml:space="preserve">
-    <value>الاسعار</value>
+    <value>الأسعار</value>
   </data>
   <data name="gvPackagesServer.Header" xml:space="preserve">
     <value>الخادم</value>
@@ -154,7 +154,7 @@
     <value>النظام</value>
   </data>
   <data name="Web.Text" xml:space="preserve">
-    <value>تطبيقات الويب</value>
+    <value>الويب والتطبيقات</value>
   </data>
   <data name="SpaceStatistics.Text" xml:space="preserve">
     <value>إحصائيات المساحة</value>

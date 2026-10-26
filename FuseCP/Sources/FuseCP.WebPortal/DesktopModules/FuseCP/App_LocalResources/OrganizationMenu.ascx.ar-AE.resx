@@ -118,16 +118,16 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="locMenuTitle.Text" xml:space="preserve">
-    <value>قائمة التنظيم</value>
+    <value>قائمة المؤسسة</value>
   </data>
   <data name="Text.ActiveSyncPolicy" xml:space="preserve">
-    <value>سياسة المزامنة النشطة</value>
+    <value>سياسة ActiveSync</value>
   </data>
   <data name="Text.BlackBerryGroup" xml:space="preserve">
-    <value>بلاك بيري</value>
+    <value>BlackBerry</value>
   </data>
   <data name="Text.BlackBerryUsers" xml:space="preserve">
-    <value>مستخدمو بلاك بيري</value>
+    <value>مستخدمو BlackBerry</value>
   </data>
   <data name="Text.Contacts" xml:space="preserve">
     <value>جهات الاتصال</value>
@@ -136,10 +136,10 @@
     <value>CRM 4/2011</value>
   </data>
   <data name="Text.CRMOrganization" xml:space="preserve">
-    <value>منظمة CRM</value>
+    <value>مؤسسة CRM</value>
   </data>
   <data name="Text.CRMUsers" xml:space="preserve">
-    <value>CRM المستخدمين</value>
+    <value>مستخدمو CRM</value>
   </data>
   <data name="Text.Disclaimers" xml:space="preserve">
     <value>إخلاء المسؤولية</value>
@@ -151,7 +151,7 @@
     <value>النطاقات</value>
   </data>
   <data name="Text.EnterpriseStorageFolders" xml:space="preserve">
-    <value>الملفات المشتركة</value>
+    <value>المجلدات المشتركة</value>
   </data>
   <data name="Text.EnterpriseStorageGroup" xml:space="preserve">
     <value>مجلدات السحابة</value>
@@ -199,7 +199,7 @@
     <value>مستخدمو OCS</value>
   </data>
   <data name="Text.OrganizationGroup" xml:space="preserve">
-    <value>منظمة</value>
+    <value>مؤسسة</value>
   </data>
   <data name="Text.PublicFolders" xml:space="preserve">
     <value>المجلدات العامة</value>
@@ -208,13 +208,13 @@
     <value>مجموعات</value>
   </data>
   <data name="Text.Setup" xml:space="preserve">
-    <value>اعداد</value>
+    <value>الإعداد</value>
   </data>
   <data name="Text.SharePointEnterpriseServerGroup" xml:space="preserve">
-    <value>خادم شيربوينت</value>
+    <value>خادم SharePoint</value>
   </data>
   <data name="Text.SiteCollections" xml:space="preserve">
-    <value>مجموعات الموقع</value>
+    <value>مجموعات المواقع</value>
   </data>
   <data name="Text.StorageLimits" xml:space="preserve">
     <value>إعدادات التخزين</value>
@@ -226,19 +226,19 @@
     <value>المستخدمون</value>
   </data>
   <data name="Text.OrganizationHome" xml:space="preserve">
-    <value>الصفحة الرئيسية للمنظمة</value>
+    <value>الصفحة الرئيسية للمؤسسة</value>
   </data>
   <data name="Text.CRM2013Group" xml:space="preserve">
     <value>CRM 2013/2015</value>
   </data>
   <data name="Text.RetentionPolicy" xml:space="preserve">
-    <value>سياسة الإحتفاظ</value>
+    <value>سياسة الاحتفاظ</value>
   </data>
   <data name="Text.RetentionPolicyTag" xml:space="preserve">
-    <value>علامة سياسة الاستبقاء</value>
+    <value>علامة سياسة الاحتفاظ</value>
   </data>
   <data name="Text.EnterpriseStorageDriveMaps" xml:space="preserve">
-    <value>خرائط محرك اقراص</value>
+    <value>تعيينات محركات الأقراص</value>
   </data>
   <data name="Text.RDSCollections" xml:space="preserve">
     <value>مجموعات RDS</value>

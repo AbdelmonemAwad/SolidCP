@@ -121,13 +121,13 @@
     <value>إلغاء</value>
   </data>
   <data name="FormComments.Text" xml:space="preserve">
-    <value>&lt;p&gt; يسمح لك هذا المعالج بتغيير ربط خدمة DDT للعنصر التعريفي الموجود في الجهاز الافتراضي. &lt;/ p&gt; &lt;p&gt; المعالج &lt;b&gt; لا يؤدي &lt;/ b&gt; ترحيل الجهاز الافتراضي المادي ، ولكن يمكن استخدامه في قم بتوجيه لوحة التحكم إلى خدمة DDT الصحيحة بعد نقل الجهاز الافتراضي باستخدام بعض أدوات الإدارة الخارجية مثل مدير DDT أو SCVMM. &lt;/p&gt;</value>
+    <value>&lt;p&gt;يتيح لك هذا المعالج تغيير ربط خدمة DDT لعنصر التعريف الخاص بالجهاز الافتراضي الموجود.&lt;/p&gt;&lt;p&gt;المعالج &lt;b&gt;لا يُجري&lt;/b&gt; ترحيلًا فعليًا للجهاز الافتراضي، ولكن يمكن استخدامه لتوجيه لوحة التحكم إلى خدمة DDT الصحيحة بعد نقل الجهاز الافتراضي باستخدام أداة إدارة خارجية مثل مدير DDT أو SCVMM.&lt;/p&gt;</value>
   </data>
   <data name="locTitle.Text" xml:space="preserve">
     <value>نقل VM</value>
   </data>
   <data name="btnMove.OnClientClick" xml:space="preserve">
-    <value>ShowProgressDialog('جارٍ نقل الجهاز الافتراضي ...');</value>
+    <value>ShowProgressDialog('جارٍ نقل الجهاز الافتراضي...');</value>
   </data>
   <data name="btnMoveText.Text" xml:space="preserve">
     <value>نقل</value>

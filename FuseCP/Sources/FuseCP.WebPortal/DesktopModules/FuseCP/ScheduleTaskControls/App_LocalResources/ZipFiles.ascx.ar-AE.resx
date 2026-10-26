@@ -121,12 +121,12 @@
     <value>مجلد المساحة:</value>
   </data>
   <data name="lblSpaceFolderHint.Text" xml:space="preserve">
-    <value>([date], [time] المتغيرات مدعومة)</value>
+    <value>(المتغيران [date] و[time] مدعومان)</value>
   </data>
   <data name="lblZipFile.Text" xml:space="preserve">
     <value>ملف مضغوط:</value>
   </data>
   <data name="lblZipFileHint.Text" xml:space="preserve">
-    <value>([date], [time] المتغيرات مدعومة)</value>
+    <value>(المتغيران [date] و[time] مدعومان)</value>
   </data>
 </root>

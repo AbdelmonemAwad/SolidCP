@@ -121,7 +121,7 @@
     <value>نص البريد:</value>
   </data>
   <data name="lblMailBodyHint.Text" xml:space="preserve">
-    <value>([url], [message], [content] المتغيرات مدعومة ل "مهمة التحقق من توفر موقع الويب")</value>
+    <value>(المتغيرات [url] و[message] و[content] مدعومة في "مهمة التحقق من توفر موقع الويب")</value>
   </data>
   <data name="lblMailFrom.Text" xml:space="preserve">
     <value>البريد من:</value>

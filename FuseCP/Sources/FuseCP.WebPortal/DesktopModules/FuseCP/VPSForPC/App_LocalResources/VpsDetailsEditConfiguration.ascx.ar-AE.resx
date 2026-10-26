@@ -121,7 +121,7 @@
     <value>إلغاء</value>
   </data>
   <data name="btnUpdate.OnClientClick" xml:space="preserve">
-    <value>if(!confirm('قبل تطبيق التكوين الجديد سيتم إيقاف VM.\n\nبعد تغيير التكوين ، سيتم تشغيله مرة أخرى تلقائيًا.\n\nهل تريد المتابعة؟')) return false; ShowProgressDialog('جارٍ تحديث التكوين ...');</value>
+    <value>if(!confirm('قبل تطبيق التكوين الجديد سيتم إيقاف VM.\n\nبعد تغيير التكوين، سيتم تشغيله مرة أخرى تلقائيًا.\n\nهل تريد المتابعة؟')) return false; ShowProgressDialog('جارٍ تحديث التكوين...');</value>
   </data>
   <data name="btnUpdateText.Text" xml:space="preserve">
     <value>تحديث</value>
@@ -130,7 +130,7 @@
     <value>التمهيد من القرص المضغوط</value>
   </data>
   <data name="chkDvdInstalled.Text" xml:space="preserve">
-    <value>تم تثبيت محرك أقراص رقمية</value>
+    <value>محرك أقراص DVD مثبّت</value>
   </data>
   <data name="chkExternalNetworkEnabled.Text" xml:space="preserve">
     <value>تم تمكين الشبكة الخارجية</value>
@@ -139,25 +139,25 @@
     <value>تم تمكين Num Lock</value>
   </data>
   <data name="chkPauseResume.Text" xml:space="preserve">
-    <value>إيقاف ، استئناف</value>
+    <value>إيقاف مؤقت، استئناف</value>
   </data>
   <data name="chkPrivateNetworkEnabled.Text" xml:space="preserve">
     <value>تم تمكين الشبكة الخاصة</value>
   </data>
   <data name="chkReboot.Text" xml:space="preserve">
-    <value>اعادة التشغيل</value>
+    <value>إعادة التشغيل</value>
   </data>
   <data name="chkReinstall.Text" xml:space="preserve">
-    <value>أعد التثبيت</value>
+    <value>إعادة التثبيت</value>
   </data>
   <data name="chkReset.Text" xml:space="preserve">
     <value>إعادة تعيين</value>
   </data>
   <data name="chkStartShutdown.Text" xml:space="preserve">
-    <value>بدء ، إيقاف وإغلاق</value>
+    <value>البدء وإيقاف التشغيل والإغلاق</value>
   </data>
   <data name="FormComments.Text" xml:space="preserve">
-    <value>&lt;p&gt; قم بتغيير تكوين VM وانقر فوق الزر "تحديث". &lt;/ p&gt; &lt;p&gt; &lt;b&gt; قبل تطبيق إعدادات التكوين الجديدة ، سيتم إيقاف VM. بعد تطبيق التكوين الجديد سيتم البدء من جديد. &lt;/ b&gt; &lt;/p&gt;</value>
+    <value>&lt;p&gt;غيّر تكوين VM وانقر على الزر "تحديث".&lt;/p&gt;&lt;p&gt;&lt;b&gt;قبل تطبيق إعدادات التكوين الجديدة سيتم إيقاف VM، وبعد تطبيق التكوين الجديد سيُعاد تشغيله.&lt;/b&gt;&lt;/p&gt;</value>
   </data>
   <data name="lblCpu.Text" xml:space="preserve">
     <value>وحدة المعالجة المركزية:</value>
@@ -181,10 +181,10 @@
     <value>عدد اللقطات:</value>
   </data>
   <data name="locSubTitle.Text" xml:space="preserve">
-    <value>تحرير الإعدادات </value>
+    <value>تحرير التكوين</value>
   </data>
   <data name="locTitle.Text" xml:space="preserve">
-    <value>تحرير الإعدادات </value>
+    <value>تحرير التكوين</value>
   </data>
   <data name="RequireHddValidator.ErrorMessage" xml:space="preserve">
     <value>الرجاء تحديد حجم القرص الصلب</value>
@@ -199,7 +199,7 @@
     <value>BIOS</value>
   </data>
   <data name="secDvd.Text" xml:space="preserve">
-    <value>قرص رقمي مضغوط</value>
+    <value>DVD</value>
   </data>
   <data name="secNetwork.Text" xml:space="preserve">
     <value>شبكة الاتصال</value>

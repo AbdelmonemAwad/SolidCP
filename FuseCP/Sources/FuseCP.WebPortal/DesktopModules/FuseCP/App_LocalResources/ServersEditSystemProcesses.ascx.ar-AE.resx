@@ -139,6 +139,6 @@
     <value>PID</value>
   </data>
   <data name="gvProcessesUserName.Header" xml:space="preserve">
-    <value>اسم االمستخدم</value>
+    <value>اسم المستخدم</value>
   </data>
 </root>

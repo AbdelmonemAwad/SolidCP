@@ -136,7 +136,7 @@
     <value>وقت آخر مزامنة</value>
   </data>
   <data name="locTitle.Text" xml:space="preserve">
-    <value>تحرير علبة البريد</value>
+    <value>تحرير صندوق البريد</value>
   </data>
   <data name="OK" xml:space="preserve">
     <value>موافق</value>
@@ -145,10 +145,10 @@
     <value>في انتظار المسح</value>
   </data>
   <data name="Text.PageName" xml:space="preserve">
-    <value>تحرير علبة البريد</value>
+    <value>تحرير صندوق البريد</value>
   </data>
   <data name="Unknown" xml:space="preserve">
-    <value>غير محدود</value>
+    <value>غير معروف</value>
   </data>
   <data name="WipeSuccessful" xml:space="preserve">
     <value>تم المسح بنجاح</value>

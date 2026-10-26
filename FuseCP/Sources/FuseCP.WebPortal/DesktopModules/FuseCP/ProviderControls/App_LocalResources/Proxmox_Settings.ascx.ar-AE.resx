@@ -118,7 +118,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="chkVpsFolderIncludesUsername.Text" xml:space="preserve">
-    <value>اسم االمستخدم</value>
+    <value>اسم المستخدم</value>
   </data>
   <data name="ComparePasswordsValidator.ErrorMessage" xml:space="preserve">
     <value>يجب أن تتطابق كلتا كلمتي مرور حساب المورِّد</value>
@@ -136,7 +136,7 @@
     <value>أدخل نمط اسم المضيف</value>
   </data>
   <data name="locAlternateNameServer.Text" xml:space="preserve">
-    <value>أسم الخادم البديل:</value>
+    <value>خادم الأسماء البديل:</value>
   </data>
   <data name="locDefaultGateway.Text" xml:space="preserve">
     <value>البوابة الافتراضية:</value>
@@ -145,16 +145,16 @@
     <value>نوع القرص:</value>
   </data>
   <data name="locWspResellerAccount.Text" xml:space="preserve">
-    <value>WebsitePanel حساب الموزع</value>
+    <value>حساب موزع WebsitePanel</value>
   </data>
   <data name="locDvdIsoPath.Text" xml:space="preserve">
-    <value>مسار مكتبة القرص الرقمي:</value>
+    <value>مسار مكتبة DVD:</value>
   </data>
   <data name="locExistingPassword.Text" xml:space="preserve">
-    <value>كلمة السر الموجودة حاليا:</value>
+    <value>كلمة المرور الحالية:</value>
   </data>
   <data name="locExportedVpsPath.Text" xml:space="preserve">
-    <value>مسار VPS المستخرج:</value>
+    <value>مسار VPS المُصدَّر:</value>
   </data>
   <data name="locExternalNetwork.Text" xml:space="preserve">
     <value>الشبكة الخارجية</value>
@@ -163,7 +163,7 @@
     <value>الاتصال بالشبكة:</value>
   </data>
   <data name="locGeneralSettings.Text" xml:space="preserve">
-    <value>الاعدادات العامة</value>
+    <value>الإعدادات العامة</value>
   </data>
   <data name="locHostname.Text" xml:space="preserve">
     <value>اسم مضيف VPS</value>
@@ -175,7 +175,7 @@
     <value>تنسيق عناوين IP:</value>
   </data>
   <data name="locMediaLibrary.Text" xml:space="preserve">
-    <value>مكتبة وسائط القرص الرقمي</value>
+    <value>مكتبة وسائط DVD</value>
   </data>
   <data name="locNetworkAdapter.Text" xml:space="preserve">
     <value>محول الشبكة</value>
@@ -184,18 +184,18 @@
     <value>مسار قوالب نظام التشغيل:</value>
   </data>
   <data name="locPatternText.Text" xml:space="preserve">
-    <value>عندما لا يُسمح للمستخدم بتحديد اسم المضيف المخصص الخاص به ، فسيقوم النظام بإنشاء اسم المضيف لخادم VPS الجديد بناءً على هذا النمط. &lt;br/&gt; &lt;br/&gt;
+    <value>عندما لا يُسمح للمستخدم بتحديد اسم المضيف المخصص الخاص به، فسيقوم النظام بإنشاء اسم المضيف لخادم VPS الجديد بناءً على هذا النمط. &lt;br/&gt; &lt;br/&gt;
 يمكن استخدام متغيرات الاستبدال التالية في النمط: &lt;br/&gt;
-[USERNAME] ، [USER_ID] ، [SPACE_ID]</value>
+[USERNAME]، [USER_ID]، [SPACE_ID]</value>
   </data>
   <data name="locPreferredNameServer.Text" xml:space="preserve">
-    <value>أسم الخادم المفضل:</value>
+    <value>خادم الأسماء المفضل:</value>
   </data>
   <data name="locPrivateNetwork.Text" xml:space="preserve">
     <value>شبكة خاصة</value>
   </data>
   <data name="locResellerAccountText.Text" xml:space="preserve">
-    <value>للتوفير التلقائي للوحة التحكم WebsitePanel داخل VPS ، يرجى إدخال تفاصيل حساب موزع WebsitePanel أدناه:</value>
+    <value>للتوفير التلقائي للوحة تحكم FuseCP داخل VPS، يرجى إدخال تفاصيل حساب موزع FuseCP أدناه:</value>
   </data>
   <data name="locResellerConfirmPassword.Text" xml:space="preserve">
     <value>تأكيد كلمة المرور:</value>
@@ -207,13 +207,13 @@
     <value>اسم المستخدم:</value>
   </data>
   <data name="locSeconds.Text" xml:space="preserve">
-    <value>ثواني</value>
+    <value>ثوانٍ</value>
   </data>
   <data name="locStartAction.Text" xml:space="preserve">
-    <value>بدء العمل التلقائي</value>
+    <value>إجراء البدء التلقائي</value>
   </data>
   <data name="locStartOptionsText.Text" xml:space="preserve">
-    <value>ماذا تريد أن تفعل VPS عند بدء تشغيل الكمبيوتر الفعلي؟</value>
+    <value>ماذا تريد أن يفعل خادم VPS عند بدء تشغيل الكمبيوتر الفعلي؟</value>
   </data>
   <data name="locStartupDelay.Text" xml:space="preserve">
     <value>تأخير بدء التشغيل:</value>
@@ -222,10 +222,10 @@
     <value>حدد تأخير بدء التشغيل لتقليل التنازع على الموارد بين الأجهزة الافتراضية.</value>
   </data>
   <data name="locStopAction.Text" xml:space="preserve">
-    <value>بدء العمل التلقائي</value>
+    <value>إجراء الإيقاف التلقائي</value>
   </data>
   <data name="locStopActionText.Text" xml:space="preserve">
-    <value>ماذا تريد أن تفعل VPS عند إيقاف التشغيل الفعلي؟</value>
+    <value>ماذا تريد أن يفعل خادم VPS عند إيقاف تشغيل الكمبيوتر الفعلي؟</value>
   </data>
   <data name="locSubnetMask.Text" xml:space="preserve">
     <value>قناع الشبكة الفرعية:</value>
@@ -252,7 +252,7 @@
     <value>قم دائمًا ببدء VPS تلقائيًا</value>
   </data>
   <data name="radioStartActionNothing.Text" xml:space="preserve">
-    <value>لا شيئ</value>
+    <value>لا شيء</value>
   </data>
   <data name="radioStartActionStart.Text" xml:space="preserve">
     <value>ابدأ تلقائيًا إذا كان يعمل عند توقف الخدمة</value>
@@ -273,10 +273,10 @@
     <value>حجم ثابت</value>
   </data>
   <data name="radioVpsFolderIncludesID.Text" xml:space="preserve">
-    <value>معرّف VPS ، على سبيل المثال "843FA-A0B2-34404"</value>
+    <value>معرّف VPS، على سبيل المثال "843FA-A0B2-34404"</value>
   </data>
   <data name="radioVpsFolderIncludesName.Text" xml:space="preserve">
-    <value>اسم مضيف VPS ، على سبيل المثال "vps1.domain.com"</value>
+    <value>اسم مضيف VPS، على سبيل المثال "vps1.domain.com"</value>
   </data>
   <data name="RootFolderValidator.ErrorMessage" xml:space="preserve">
     <value>أدخل المجلد الجذر VPS</value>
@@ -303,7 +303,7 @@
     <value>حد الجهاز الافتراضي:</value>
   </data>
   <data name="locCpuReserve.Text" xml:space="preserve">
-    <value>احتياطي الجهازالافتراضي:</value>
+    <value>احتياطي الجهاز الافتراضي:</value>
   </data>
   <data name="locCpuWeight.Text" xml:space="preserve">
     <value>الوزن النسبي:</value>
@@ -315,7 +315,7 @@
     <value>إعدادات موارد المعالج</value>
   </data>
   <data name="btnConnect.Text" xml:space="preserve">
-    <value>الاتصال</value>
+    <value>اتصال</value>
   </data>
   <data name="ErrorReadingNetworksList.Text" xml:space="preserve">
     <value>&lt;لا يمكن قراءة قائمة الشبكات&gt;</value>
@@ -333,10 +333,10 @@
     <value>اسم الخادم:</value>
   </data>
   <data name="radioServerLocal.Text" xml:space="preserve">
-    <value>&lt;b&gt; محلي &lt;/ b&gt; - تم تثبيت دور Proxmox على هذا الخادم</value>
+    <value>&lt;b&gt;محلي&lt;/b&gt; - تم تثبيت دور Proxmox على هذا الخادم</value>
   </data>
   <data name="radioServerRemote.Text" xml:space="preserve">
-    <value>&lt;b&gt; بعيد &lt;/ b&gt; - مجموعة خادم Proxmox البعيد</value>
+    <value>&lt;b&gt;بعيد&lt;/b&gt; - مجموعة خوادم Proxmox بعيدة</value>
   </data>
   <data name="ServerNameValidator.ErrorMessage" xml:space="preserve">
     <value>أدخل اسم الخادم</value>
@@ -345,7 +345,7 @@
     <value>&lt;لا تقم بتوصيل VPS بشبكة الإدارة&gt;</value>
   </data>
   <data name="locManagementNetwork.Text" xml:space="preserve">
-    <value>إدارة الشبكة</value>
+    <value>شبكة الإدارة</value>
   </data>
   <data name="locManagementNetworkName.Text" xml:space="preserve">
     <value>الاتصال بالشبكة:</value>
@@ -408,7 +408,7 @@
     <value>تعيين</value>
   </data>
   <data name="CertificateThumbnailValidator.ErrorMessage" xml:space="preserve">
-    <value>أدخل الصورة المصغرة لشهادة SSL</value>
+    <value>أدخل بصمة شهادة SSL</value>
   </data>
   <data name="locCertThumbnail.Text" xml:space="preserve">
     <value>بصمة شهادة SSL:</value>
@@ -417,7 +417,7 @@
     <value>لا يمكن تعيين الخادم كخادم نسخ متماثل باستخدام اسم الخادم الذي تم إدخاله ومسار النسخ المتماثل وشهادة SSL</value>
   </data>
   <data name="locReplicaPath.Text" xml:space="preserve">
-    <value>مسار التكرارات:</value>
+    <value>مسار النسخ المتماثلة:</value>
   </data>
   <data name="locReplication.Text" xml:space="preserve">
     <value>النسخ المتماثل</value>
@@ -435,7 +435,7 @@
     <value>تمكين النسخ المتماثل Hyper-V</value>
   </data>
   <data name="ReplicationModeIsReplicaServer.Text" xml:space="preserve">
-    <value>هذا خادم نسخة طبق الأصل</value>
+    <value>هذا خادم نسخ متماثل</value>
   </data>
   <data name="locEnableReplicaError.Text" xml:space="preserve">
     <value>الرجاء إضافة خادم مع النسخ المتماثل الممكّن وتحديده من القائمة</value>
@@ -447,10 +447,10 @@
     <value>خادم النسخ المتماثل:</value>
   </data>
   <data name="btnAddDvd.Text" xml:space="preserve">
-    <value>أضف DVD</value>
+    <value>إضافة DVD</value>
   </data>
   <data name="btnAddOsTemplate.Text" xml:space="preserve">
-    <value>أضف قالب نظام التشغيل</value>
+    <value>إضافة قالب نظام تشغيل</value>
   </data>
   <data name="btnRemoveDvd.Text" xml:space="preserve">
     <value>إزالة</value>
@@ -468,7 +468,7 @@
     <value>يمكن تعيين عناوين IP</value>
   </data>
   <data name="chkLegacyNetworkAdapter.Text" xml:space="preserve">
-    <value>استخدم المحول القديم</value>
+    <value>استخدام محول الشبكة القديم</value>
   </data>
   <data name="DvdDescriptionValidator.ErrorMessage" xml:space="preserve">
     <value>أدخل وصف DVD</value>
@@ -492,10 +492,10 @@
     <value>الاسم:</value>
   </data>
   <data name="locProcessVolume.Text" xml:space="preserve">
-    <value>فهرس الحجم المطلوب توسيعه:</value>
+    <value>فهرس وحدة التخزين المطلوب توسيعها:</value>
   </data>
   <data name="locSysprep.Text" xml:space="preserve">
-    <value>Sysprep ملفات (مفصولة بـ ';'):</value>
+    <value>ملفات Sysprep (مفصولة بـ ';'):</value>
   </data>
   <data name="locTemplateFileName.Text" xml:space="preserve">
     <value>اسم الملف (بامتداد):</value>
@@ -513,10 +513,10 @@
     <value>أدخل اسم قالب نظام التشغيل</value>
   </data>
   <data name="valProcessVolume.ErrorMessage" xml:space="preserve">
-    <value>أدخل حجم عملية قالب نظام التشغيل</value>
+    <value>أدخل وحدة التخزين المراد معالجتها لقالب نظام التشغيل</value>
   </data>
   <data name="vcmProcessVolume.ErrorMessage" xml:space="preserve">
-    <value>يجب أن يكون حجم العملية عددًا موجبًا</value>
+    <value>يجب أن يكون رقم وحدة التخزين المراد معالجتها عددًا موجبًا</value>
   </data>
   <data name="locProxmoxClusterAdminPass.Text" xml:space="preserve">
     <value>كلمة مرور مشرف Proxmox PAM:</value>
@@ -540,9 +540,6 @@
     <value>معلمات البرنامج النصي لنشر VM:</value>
   </data>
   <data name="locvmdeploytext.Text" xml:space="preserve">
-    <value>يمكن تحديد معلمات برنامج VM Deploy كمتغيرات. &lt;br/&gt; &lt;br/&gt;
-يمكن استخدام متغيرات الاستبدال التالية في النمط: &lt;br/&gt;
-[FQDN] ، [CPUCORES] ، [RAMSIZE] ، [HDDSIZE] ، [OSTEMPLATENAME] ، [OSTEMPLATEFILE] &lt;br/&gt;
-[ADMINPASS] ، [MAC] ، [VLAN] ، [IP] ، [NETMASK] ، [GATEWAY]</value>
+    <value>يمكن تحديد معلمات البرنامج النصي لنشر VM كمتغيرات.&lt;br/&gt;&lt;br/&gt; يمكن استخدام متغيرات الاستبدال التالية في النمط:&lt;br/&gt; [FQDN], [CPUCORES], [RAMSIZE], [HDDSIZE], [OSTEMPLATENAME], [OSTEMPLATEFILE]&lt;br/&gt; [ADMINPASS], [MAC], [VLAN], [IP], [NETMASK], [GATEWAY]</value>
   </data>
 </root>

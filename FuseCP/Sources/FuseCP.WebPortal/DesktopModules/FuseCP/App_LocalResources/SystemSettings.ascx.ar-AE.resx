@@ -127,7 +127,7 @@
     <value>إعدادات مدير الملفات</value>
   </data>
   <data name="HeaderIpRestrictionSettings.Text" xml:space="preserve">
-    <value>إعدادات تقييد عنوان IP</value>
+    <value>إعدادات تقييد عناوين IP للبوابة</value>
   </data>
   <data name="HeaderNew.Text" xml:space="preserve">
     <value>احتياطي</value>
@@ -139,10 +139,10 @@
     <value>احتياطي</value>
   </data>
   <data name="HeaderOrganizationPasswordResetlSettings.Text" xml:space="preserve">
-    <value>وحدة إعادة تعيين كلمة مرور المنظمة</value>
+    <value>وحدة إعادة تعيين كلمة مرور المؤسسة</value>
   </data>
   <data name="HeaderOwaSettings.Text" xml:space="preserve">
-    <value>إعدادات تطبيقات الويب المكتبية</value>
+    <value>إعدادات Office Web Apps</value>
   </data>
   <data name="HeaderRdsSettings.Text" xml:space="preserve">
     <value>إعدادات RDS</value>
@@ -157,7 +157,7 @@
     <value>إعدادات مثبت منصة الويب</value>
   </data>
   <data name="SettingbtnSaveSettings.Text" xml:space="preserve">
-    <value>&amp;lt;span class='bi bi-floppy' aria-hidden='true'&amp;gt;&amp;nbsp;&amp;lt;/span&amp;gt;&amp;nbsp;احفظ التغييرات</value>
+    <value>&amp;lt;span class='bi bi-floppy' aria-hidden='true'&amp;gt;&amp;nbsp;&amp;lt;/span&amp;gt;&amp;nbsp;حفظ الإعدادات</value>
   </data>
   <data name="SettinglblWpiAddCustomFeeds.Text" xml:space="preserve">
     <value>إضافة رابط تغذية مخصص:</value>
@@ -166,13 +166,13 @@
     <value>مسار مجلد النسخ الاحتياطية:</value>
   </data>
   <data name="SettinglblFileManagerEditableExtensions.Text" xml:space="preserve">
-    <value>ملحقات قابلة للتحرير:</value>
+    <value>الامتدادات القابلة للتحرير:</value>
   </data>
   <data name="SettinglblIpAddressRestriction.Text" xml:space="preserve">
     <value>عناوين IP:</value>
   </data>
   <data name="SettinglblRdsController.Text" xml:space="preserve">
-    <value>تحكم RDS الرئيسي:</value>
+    <value>وحدة تحكم RDS الرئيسية:</value>
   </data>
   <data name="SettinglblSmtpEnableSSL.Text" xml:space="preserve">
     <value>SMTP SSL:</value>
@@ -205,19 +205,19 @@
     <value>رابط التغذية الرئيسي:</value>
   </data>
   <data name="SettinglitFileManagerEditableExtensions.Text" xml:space="preserve">
-    <value>(امتداد واحد (1) لكل خط)</value>
+    <value>(امتداد واحد (1) في كل سطر)</value>
   </data>
   <data name="SettingNoteFileManagerEditableExtensions.Text" xml:space="preserve">
-    <value>هذه هي امتدادات الملفات التي ستسمح لمدير الملفات بتحريرها. تخبر امتدادات الملفات النظام بنوع الملف. مثال (.txt = Text File, .sql = Database Script File ).</value>
+    <value>هذه هي امتدادات الملفات التي ستسمح لمدير الملفات بتحريرها. تُخبر امتدادات الملفات النظام بنوع الملف. مثال (.txt = ملف نصي، .sql = ملف برنامج نصي لقاعدة البيانات).</value>
   </data>
   <data name="SettingNoteTwilioAccount.Text" xml:space="preserve">
-    <value>رقم الهاتف هو رقم Twilio الذي ترغب في استخدامه لإرسال الرسائل القصيرة ، ويمكنك أيضًا استخدام أي رقم تملكه طالما أن هذا الرقم مدرج في حساب Twilio الخاص بك كمعرف متصل تم التحقق منه.</value>
+    <value>رقم الهاتف هو رقم Twilio الذي ترغب في استخدامه لإرسال الرسائل القصيرة، ويمكنك أيضًا استخدام أي رقم تملكه طالما أن هذا الرقم مدرج في حساب Twilio الخاص بك كمعرف متصل تم التحقق منه.</value>
   </data>
   <data name="SettingPlcBackupFolderPath.placeholder" xml:space="preserve">
     <value>c:\Backups</value>
   </data>
   <data name="SettingPlcRdsController.placeholder" xml:space="preserve">
-    <value>يرجى تحديد وحدة تحكم RDS الخاصة بك.</value>
+    <value>يرجى تحديد وحدة تحكم RDS الرئيسية الخاصة بك.</value>
   </data>
   <data name="SettingPlcSmtpPort.placeholder" xml:space="preserve">
     <value>587</value>
@@ -229,7 +229,7 @@
     <value>اسم المستخدم أو Email@yourdomain.com</value>
   </data>
   <data name="SettingPlcSmtpUserPassword.placeholder" xml:space="preserve">
-    <value>كلمه المرور</value>
+    <value>كلمة المرور</value>
   </data>
   <data name="SettingPlcWebdavPortalUrl.placeholder" xml:space="preserve">
     <value>localhost:9004</value>
@@ -253,12 +253,12 @@
     <value>5555555555</value>
   </data>
   <data name="SettingTwilioURL.Text" xml:space="preserve">
-    <value>قم بزيارة &amp;lt;a  href='https://www.twilio.com'/&amp;gt;https://www.twilio.com&amp;lt;/a&amp;gt; للحصول على معلومات Twilio الخاصة بك.</value>
+    <value>قم بزيارة &amp;lt;a href='https://www.twilio.com'/&amp;gt;https://www.twilio.com&amp;lt;/a&amp;gt; للحصول على معلومات Twilio الخاصة بك.</value>
   </data>
   <data name="btnTwillioDisable.Text" xml:space="preserve">
     <value>&amp;lt;span class='bi bi-ban' aria-hidden='true'&amp;gt;&amp;nbsp;&amp;lt;/span&amp;gt;&amp;nbsp;تعطيل</value>
   </data>
   <data name="Settingsconfiguremailtemplates.Text" xml:space="preserve">
-    <value>*** من فضلك لا تنسى تكوين قوالب البريد الإلكتروني الخاصة بك (من الاسم / من عنوان البريد الإلكتروني). يمكن تهيئتها على:</value>
+    <value>*** من فضلك لا تنسَ تكوين قوالب البريد الإلكتروني الخاصة بك (اسم المرسل / عنوان البريد الإلكتروني للمرسل). يمكن تكوينها في:</value>
   </data>
 </root>

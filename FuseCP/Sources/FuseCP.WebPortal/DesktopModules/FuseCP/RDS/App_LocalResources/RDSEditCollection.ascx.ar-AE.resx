@@ -130,16 +130,16 @@
     <value>تحرير مجموعة RDS</value>
   </data>
   <data name="locCollectionName.Text" xml:space="preserve">
-    <value>اسم المجموعة:</value>
+    <value>اسم المجموعة</value>
   </data>
   <data name="gvRDSServerName.Header" xml:space="preserve">
     <value>اسم الخادم</value>
   </data>
   <data name="gvRDSServers.Empty" xml:space="preserve">
-    <value>لم يتم إضافة خوادم RDS حتى الآن. لإضافة خوادم RDS جديدة ، انقر فوق الزر "إضافة خادم RDS".</value>
+    <value>لم يتم إضافة خوادم RDS حتى الآن. لإضافة خوادم RDS جديدة، انقر فوق الزر "إضافة خادم RDS".</value>
   </data>
   <data name="btnSaveExit.Text" xml:space="preserve">
-    <value>حفظ التغييرات و الخروج</value>
+    <value>حفظ التغييرات والخروج</value>
   </data>
   <data name="secRdsServers.Text" xml:space="preserve">
     <value>خوادم RDS</value>

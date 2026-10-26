@@ -127,7 +127,7 @@
     <value>حذف</value>
   </data>
   <data name="btnSave.OnClientClick" xml:space="preserve">
-    <value>ShowProgressDialog('جاري حفظ حساب البريد ...');</value>
+    <value>ShowProgressDialog('جاري حفظ حساب البريد...');</value>
   </data>
   <data name="btnSave.Text" xml:space="preserve">
     <value>حفظ</value>
@@ -136,7 +136,7 @@
     <value>الرجاء التأكد من أن القيمة التي أدخلتها هي رقم موجب.</value>
   </data>
   <data name="lblMailboxSizeLimit.Text" xml:space="preserve">
-    <value>حد حجم صندوق البريد ، ميجا بايت:</value>
+    <value>حد حجم صندوق البريد، ميجابايت:</value>
   </data>
   <data name="lblPassword.Text" xml:space="preserve">
     <value>كلمة المرور:</value>

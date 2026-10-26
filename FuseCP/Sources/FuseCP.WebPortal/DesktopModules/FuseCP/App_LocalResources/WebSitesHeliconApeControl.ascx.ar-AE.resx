@@ -118,10 +118,10 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="btnAddHeliconApeFolder.Text" xml:space="preserve">
-    <value>+ أضف .htaccess</value>
+    <value>+ إضافة .htaccess</value>
   </data>
   <data name="cmdDeleteFolder.AlternateText" xml:space="preserve">
-    <value>احذف المجلد</value>
+    <value>حذف المجلد</value>
   </data>
   <data name="cmdDeleteFolder.OnClientClick" xml:space="preserve">
     <value>return confirm('حذف المجلد؟');</value>
@@ -136,7 +136,7 @@
     <value>انقر فوق الزر "إضافة مستخدم .htaccess" لإضافة مستخدم .htaccess</value>
   </data>
   <data name="gvHeliconApeUsersName.Header" xml:space="preserve">
-    <value>مستخدمي .htaccess</value>
+    <value>مستخدمو .htaccess</value>
   </data>
   <data name="gvHeliconApeGroups.Empty" xml:space="preserve">
     <value>انقر فوق الزر "إضافة مجموعة .htaccess" لإضافة مجموعة .htaccess</value>
@@ -154,26 +154,22 @@
     <value>المجلدات التي تحتوي على .htaccess</value>
   </data>
   <data name="EnableFoldersIIs7Warning.Text" xml:space="preserve">
-    <value>ستعمل هذه الميزة تلقائيًا على تغيير الإعدادات التالية لموقع الويب:\r\n\r\n- Enable Integration Pipeline;\r\n- Disable Secured Folders feature (if enabled);\r\n- Disable Integrated Windows Authentication;\r\n\r\nالرجاء النقر فوق الزر "موافق" للمتابعة أو الزر "إلغاء" إذا كنت ترغب في تعديل هذه الإعدادات يدويًا.</value>
+    <value>ستعمل هذه الميزة تلقائيًا على تغيير الإعدادات التالية لموقع الويب:\r\n\r\n- تمكين المسار المتكامل (Integrated Pipeline)؛\r\n- تعطيل ميزة المجلدات الآمنة (إذا كانت ممكّنة)؛\r\n- تعطيل مصادقة Windows المتكاملة؛\r\n\r\nالرجاء النقر فوق زر موافق للمتابعة أو زر إلغاء إذا كنت ترغب في تعديل هذه الإعدادات يدويًا.</value>
   </data>
   <data name="ApeModuleNotes.Text" xml:space="preserve">
-    <value>لم يتم تثبيت Helicon Ape على الخادم.&lt;br /&gt;&lt;br /&gt;
-    يوفر منتج Helicon Ape الدعم لـ.htaccess و .htpasswd ملفات لـ IIS 7+ ويتضمن وحدات أباتشي التالية: 
-    mod_rewrite, mod_proxy, mod_auth, mod_gzip, mod_headers, mod_cache, mod_expires, mod_replace وغيرها.&lt;br /&gt;&lt;br /&gt;
-    يرجى &lt;a href="http://www.helicontech.com/ape/doc/wsp_manual_install.htm" target="_blank"&gt;اقرأ هذه التعليمات&lt;/a&gt; حول كيفية تنزيل برنامج Helicon Ape وتثبيته لفتحه .htaccess دعم لهذا الموقع.</value>
+    <value>لم يتم تثبيت Helicon Ape على الخادم.&lt;br /&gt;&lt;br /&gt; يوفر منتج Helicon Ape الدعم لملفات .htaccess و.htpasswd على IIS 7+ ويتضمن وحدات Apache التالية: mod_rewrite, mod_proxy, mod_auth, mod_gzip, mod_headers, mod_cache, mod_expires, mod_replace وغيرها.&lt;br /&gt;&lt;br /&gt; يرجى &lt;a href="http://www.helicontech.com/ape/doc/wsp_manual_install.htm" target="_blank"&gt;قراءة هذه التعليمات&lt;/a&gt; حول كيفية تنزيل Helicon Ape وتثبيته لتفعيل دعم .htaccess لموقع الويب هذا.</value>
   </data>
   <data name="ApeProductNotes.Text" xml:space="preserve">
-    <value>يوفر منتج Helicon Ape الدعم لـ .htaccess و .htpasswd files for IIS 7+ ويتضمن وحدات أباتشي التالية: 
-    mod_rewrite, mod_proxy, mod_auth, mod_gzip, mod_headers, mod_cache, mod_expires, mod_replace وغيرها.</value>
+    <value>يوفر منتج Helicon Ape الدعم لملفات .htaccess و.htpasswd على IIS 7+ ويتضمن وحدات Apache التالية: mod_rewrite, mod_proxy, mod_auth, mod_gzip, mod_headers, mod_cache, mod_expires, mod_replace وغيرها.</value>
   </data>
   <data name="btnAddHeliconApeGroup.Text" xml:space="preserve">
     <value>+ إضافة مجموعة</value>
   </data>
   <data name="btnInstallHeliconApe.OnClientClick" xml:space="preserve">
-    <value>ShowProgressDialog('تثبيت Helicon Ape.&lt;br /&gt;&lt;br /&gt;&lt;small&gt;قد تأخذ عدة دقائق...&lt;/small&gt;');</value>
+    <value>ShowProgressDialog('جارٍ تثبيت Helicon Ape.&lt;br /&gt;&lt;br /&gt;&lt;small&gt;قد يستغرق ذلك عدة دقائق...&lt;/small&gt;');</value>
   </data>
   <data name="btnInstallHeliconApe.Text" xml:space="preserve">
-    <value>قم بتثبيت Helicon Ape</value>
+    <value>تثبيت Helicon Ape</value>
   </data>
   <data name="btnToggleHeliconApe.Text" xml:space="preserve">
     <value>تفعيل Helicon Ape</value>
@@ -182,7 +178,7 @@
     <value>http://www.helicontech.com/ape/doc/wsp.htm</value>
   </data>
   <data name="ModuleHelpLink.Text" xml:space="preserve">
-    <value>حول الدعم والمساعدة .htaccess</value>
+    <value>حول دعم .htaccess والمساعدة</value>
   </data>
   <data name="labelSelectHtacesEdit.Text" xml:space="preserve">
     <value>حدد .htaccess للتعديل:</value>
@@ -191,7 +187,7 @@
     <value>+ إضافة مستخدم</value>
   </data>
   <data name="HeliconApeUsersHeader.Text" xml:space="preserve">
-    <value>المستخدمين .htpasswd</value>
+    <value>مستخدمو .htpasswd</value>
   </data>
   <data name="HeliconApeGroupsHeader.Text" xml:space="preserve">
     <value>مجموعات .htpasswd</value>

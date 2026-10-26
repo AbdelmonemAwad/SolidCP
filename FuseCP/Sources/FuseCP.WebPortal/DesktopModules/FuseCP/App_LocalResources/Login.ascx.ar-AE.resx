@@ -118,7 +118,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="ErrorMessage.WrongLogin" xml:space="preserve">
-    <value>عذرًا ، اسم المستخدم أو كلمة المرور التي أدخلتها غير صحيحة أو أن حسابك مغلق.</value>
+    <value>عذرًا، اسم المستخدم أو كلمة المرور التي أدخلتها غير صحيحة أو أن حسابك مقفل.</value>
   </data>
   <data name="lblUserName.Text" xml:space="preserve">
     <value>اسم المستخدم:</value>
@@ -127,7 +127,7 @@
     <value>كلمة المرور:</value>
   </data>
   <data name="chkRemember.Text" xml:space="preserve">
-    <value>تذكرنى.</value>
+    <value>تذكرني.</value>
   </data>
   <data name="btnLogin.Text" xml:space="preserve">
     <value>تسجيل الدخول</value>
@@ -145,7 +145,7 @@
     <value>نسيت كلمة المرور؟</value>
   </data>
   <data name="noworries.Text" xml:space="preserve">
-    <value>لا داعى للقلق</value>
+    <value>لا داعي للقلق،</value>
   </data>
   <data name="toresetyourpassword.Text" xml:space="preserve">
     <value>لإعادة تعيين كلمة المرور الخاصة بك</value>

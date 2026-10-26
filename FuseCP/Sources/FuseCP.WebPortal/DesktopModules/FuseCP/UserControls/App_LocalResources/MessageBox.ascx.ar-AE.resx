@@ -130,7 +130,7 @@
     <value>من:</value>
   </data>
   <data name="lblLoggedUser.Text" xml:space="preserve">
-    <value>تسجيل دخول المستخدم:</value>
+    <value>المستخدم الحالي:</value>
   </data>
   <data name="lblPageUrl.Text" xml:space="preserve">
     <value>رابط الصفحة:</value>
@@ -142,10 +142,10 @@
     <value>موضوع:</value>
   </data>
   <data name="lblTo.Text" xml:space="preserve">
-    <value>الي:</value>
+    <value>إلى:</value>
   </data>
   <data name="lblWorkOnBehalf.Text" xml:space="preserve">
-    <value>العمل نيابة:</value>
+    <value>العمل نيابةً عن:</value>
   </data>
   <data name="secSendReport.Text" xml:space="preserve">
     <value>إرسال تقرير إلى المضيف</value>

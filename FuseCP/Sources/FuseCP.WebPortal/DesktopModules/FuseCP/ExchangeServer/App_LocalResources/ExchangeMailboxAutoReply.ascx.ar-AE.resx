@@ -136,7 +136,7 @@
     <value>وقت البدء:</value>
   </data>
   <data name="locTitle.Text" xml:space="preserve">
-    <value>اعداد الردود التلقائية</value>
+    <value>إعداد الردود التلقائية</value>
   </data>
   <data name="rblExtAll.Text" xml:space="preserve">
     <value>أرسل إلى جميع المرسلين الخارجيين</value>
@@ -145,7 +145,7 @@
     <value>فقط للمرسلين في قائمة جهات الاتصال الخاصة بي</value>
   </data>
   <data name="rblSetAutoreplyOff.Text" xml:space="preserve">
-    <value>لا ترسل ردود تلقائية</value>
+    <value>عدم إرسال ردود تلقائية</value>
   </data>
   <data name="rblSetAutoreplyOn.Text" xml:space="preserve">
     <value>إرسال ردود تلقائية</value>

@@ -118,7 +118,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="locTitle.Text" xml:space="preserve">
-    <value>تحرير علبة البريد</value>
+    <value>تحرير صندوق البريد</value>
   </data>
   <data name="secGeneral.Text" xml:space="preserve">
     <value>عام</value>

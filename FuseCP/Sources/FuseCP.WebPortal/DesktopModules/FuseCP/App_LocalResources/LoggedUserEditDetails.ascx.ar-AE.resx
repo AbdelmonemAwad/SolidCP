@@ -130,7 +130,7 @@
     <value>تغيير كلمة المرور</value>
   </data>
   <data name="lblFirstName.Text" xml:space="preserve">
-    <value>الاسم الأول: </value>
+    <value>الاسم الأول:</value>
   </data>
   <data name="lblLastName.Text" xml:space="preserve">
     <value>اسم العائلة:</value>

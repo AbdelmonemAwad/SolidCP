@@ -124,7 +124,7 @@
     <value>تعيين النطاق الافتراضي</value>
   </data>
   <data name="cmdDelete.OnClientClick" xml:space="preserve">
-    <value>if(!confirm('هل أنت متأكد أنك تريد حذف النطاق المحدد؟')) return false; else ShowProgressDialog('جارٍ حذف النطاق ...');</value>
+    <value>if(!confirm('هل أنت متأكد أنك تريد حذف النطاق المحدد؟')) return false; else ShowProgressDialog('جارٍ حذف النطاق...');</value>
   </data>
   <data name="cmdDelete.Text" xml:space="preserve">
     <value>حذف</value>
@@ -136,7 +136,7 @@
     <value>لم يتم إضافة النطاقات حتى الآن. لإضافة نطاق جديد انقر فوق الزر "إضافة نطاق جديد".</value>
   </data>
   <data name="gvDomainsDefault.Header" xml:space="preserve">
-    <value>نطاق إفتراضي</value>
+    <value>النطاق الافتراضي</value>
   </data>
   <data name="gvDomainsName.Header" xml:space="preserve">
     <value>اسم النطاق</value>
@@ -154,7 +154,7 @@
     <value>نوع النطاق</value>
   </data>
   <data name="gvDomainsTypeChange.Header" xml:space="preserve">
-    <value>نوع التغيير</value>
+    <value>تغيير النوع</value>
   </data>
   <data name="btnChangeDomain.Text" xml:space="preserve">
     <value>تغيير</value>

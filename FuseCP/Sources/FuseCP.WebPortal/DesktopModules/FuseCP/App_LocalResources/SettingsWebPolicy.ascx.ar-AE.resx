@@ -127,10 +127,10 @@
     <value>تمكين استعراض الدليل</value>
   </data>
   <data name="chkAllowWrite.Text" xml:space="preserve">
-    <value>تمكين أي أمر</value>
+    <value>تمكين أذونات الكتابة</value>
   </data>
   <data name="chkAsp.Text" xml:space="preserve">
-    <value>تمكين</value>
+    <value>مُمكَّن</value>
   </data>
   <data name="chkAuthAnonymous.Text" xml:space="preserve">
     <value>السماح بالوصول المجهول</value>
@@ -145,7 +145,7 @@
     <value>تم تثبيته</value>
   </data>
   <data name="chkDedicatedPool.Text" xml:space="preserve">
-    <value>تجمعات التطبيقات المخصصة</value>
+    <value>تجمع تطبيقات مخصص</value>
   </data>
   <data name="chkDynamicCompression.Text" xml:space="preserve">
     <value>تفعيل الضغط الديناميكي</value>
@@ -154,13 +154,13 @@
     <value>السماح بالرموز</value>
   </data>
   <data name="chkParentPaths.Text" xml:space="preserve">
-    <value>تمكين المسارات الرئيسية</value>
+    <value>تمكين المسارات الأصل</value>
   </data>
   <data name="chkPerl.Text" xml:space="preserve">
-    <value>تمكين</value>
+    <value>مُمكَّن</value>
   </data>
   <data name="chkPython.Text" xml:space="preserve">
-    <value>تمكين</value>
+    <value>مُمكَّن</value>
   </data>
   <data name="chkStaticCompression.Text" xml:space="preserve">
     <value>تفعيل الضغط الثابت</value>
@@ -211,10 +211,10 @@
     <value>ضغط:</value>
   </data>
   <data name="lblDefaultDocs.Text" xml:space="preserve">
-    <value>Default Documents:</value>
+    <value>المستندات الافتراضية:</value>
   </data>
   <data name="lblFoldersDescription.Text" xml:space="preserve">
-    <value>* جميع المجلدات مرتبطة بالمساحة الرئيسية &lt;br&gt; * المتغيرات المسموح بها هي [DOMAIN_NAME], [HOST] و [DOMAIN]</value>
+    <value>* جميع المجلدات نسبية إلى المجلد الرئيسي للمساحة&lt;br&gt;* المتغيرات المسموح بها هي [DOMAIN_NAME]، [HOST] و[DOMAIN]</value>
   </data>
   <data name="lblFrontPagePassword.Text" xml:space="preserve">
     <value>سياسة كلمة المرور:</value>
@@ -226,7 +226,7 @@
     <value>إعدادات موقع الويب:</value>
   </data>
   <data name="lblGroupName.Text" xml:space="preserve">
-    <value>أسم المجموعة:</value>
+    <value>اسم المجموعة:</value>
   </data>
   <data name="lblHostName.Text" xml:space="preserve">
     <value>اسم المضيف الافتراضي: (فقط عندما يتم تمكين أسماء المضيف)</value>
@@ -244,7 +244,7 @@
     <value>ضغط ديناميكي:</value>
   </data>
   <data name="lblStaticCompression.Text" xml:space="preserve">
-    <value>ضغط ثابت ::</value>
+    <value>ضغط ثابت:</value>
   </data>
   <data name="lblPhp.Text" xml:space="preserve">
     <value>PHP:</value>
@@ -253,7 +253,7 @@
     <value>بايثون:</value>
   </data>
   <data name="lblSecuritySettings.Text" xml:space="preserve">
-    <value>اعدادات الحماية:</value>
+    <value>إعدادات الأمان:</value>
   </data>
   <data name="lblUsername.Text" xml:space="preserve">
     <value>اسم المستخدم:</value>
@@ -268,13 +268,13 @@
     <value>مجلد السجلات:</value>
   </data>
   <data name="lblWebSiteRootFolder.Text" xml:space="preserve">
-    <value>مجلد الجذر</value>
+    <value>مجلد الجذر:</value>
   </data>
   <data name="secAnonymousAccount.Text" xml:space="preserve">
-    <value>سياسة حساب مجهول</value>
+    <value>سياسة الحساب المجهول</value>
   </data>
   <data name="secDefaultDocs.Text" xml:space="preserve">
-    <value>Default Documents</value>
+    <value>المستندات الافتراضية</value>
   </data>
   <data name="secExtensions.Text" xml:space="preserve">
     <value>امتدادات</value>
@@ -283,10 +283,10 @@
     <value>مجلدات موقع الويب</value>
   </data>
   <data name="secFrontPage.Text" xml:space="preserve">
-    <value>سياسة حسابات الصفحة الأمامية</value>
+    <value>سياسة حسابات FrontPage</value>
   </data>
   <data name="secGeneralSettings.Text" xml:space="preserve">
-    <value>الاعدادات العامة</value>
+    <value>الإعدادات العامة</value>
   </data>
   <data name="secHostNamePanel.Text" xml:space="preserve">
     <value>اسم المضيف الافتراضي</value>

@@ -118,10 +118,10 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="lblExecutableParameters.Text" xml:space="preserve">
-    <value>معلمات قابلة للتنفيذ:</value>
+    <value>معلمات الملف التنفيذي:</value>
   </data>
   <data name="lblExecutablePath.Text" xml:space="preserve">
-    <value>مسار قابل للتنفيذ:</value>
+    <value>مسار الملف التنفيذي:</value>
   </data>
   <data name="lblServerName.Text" xml:space="preserve">
     <value>اسم الخادم:</value>

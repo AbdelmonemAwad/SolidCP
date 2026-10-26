@@ -118,7 +118,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="btnAllocateAddress.Text" xml:space="preserve">
-    <value>تخصيص ...</value>
+    <value>تخصيص...</value>
   </data>
   <data name="btnDeallocateAddresses.Text" xml:space="preserve">
     <value>إلغاء تخصيص المحدد</value>
@@ -136,7 +136,7 @@
     <value>اسم العنصر</value>
   </data>
   <data name="gvAddressesPrimary.HeaderText" xml:space="preserve">
-    <value>الأولية</value>
+    <value>الأساسي</value>
   </data>
   <data name="gvAddressesSpace.HeaderText" xml:space="preserve">
     <value>مساحة</value>
@@ -157,12 +157,12 @@
     <value>اسم العنصر</value>
   </data>
   <data name="SearchField.Username" xml:space="preserve">
-    <value>اسم االمستخدم</value>
+    <value>اسم المستخدم</value>
   </data>
   <data name="btnDeallocateAddresses.OnClientClick" xml:space="preserve">
-    <value>return confirm('إلغاء تخصيص أرقام الهواتف المحددة من مساحة الاستضافة؟');</value>
+    <value>return confirm('هل تريد إلغاء تخصيص أرقام الهواتف المحددة من مساحة الاستضافة؟');</value>
   </data>
   <data name="btnAllocateAddressText.Text" xml:space="preserve">
-    <value>تخصيص ...</value>
+    <value>تخصيص...</value>
   </data>
 </root>

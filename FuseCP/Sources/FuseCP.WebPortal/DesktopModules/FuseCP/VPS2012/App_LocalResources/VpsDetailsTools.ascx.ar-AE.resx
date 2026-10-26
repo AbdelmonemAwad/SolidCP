@@ -121,13 +121,13 @@
     <value>حذف VPS</value>
   </data>
   <data name="btnReinstall.Text" xml:space="preserve">
-    <value>أعد تثبيت VPS</value>
+    <value>إعادة تثبيت VPS</value>
   </data>
   <data name="locDelete.Text" xml:space="preserve">
     <value>يزيل بالكامل VPS وجميع بياناته.</value>
   </data>
   <data name="locReinstall.Text" xml:space="preserve">
-    <value>إعادة إنشاء VPS بنفس إعدادات التكوين ونموذج نظام التشغيل. يسمح المعالج بالحفاظ على بيانات القرص الافتراضي الموجودة.</value>
+    <value>إعادة إنشاء VPS بنفس إعدادات التكوين وقالب نظام التشغيل. يسمح المعالج بالحفاظ على بيانات القرص الافتراضي الموجودة.</value>
   </data>
   <data name="locTitle.Text" xml:space="preserve">
     <value>أدوات</value>
@@ -136,6 +136,6 @@
     <value>حذف VPS</value>
   </data>
   <data name="btnReinstallText.Text" xml:space="preserve">
-    <value>أعد تثبيت VPS</value>
+    <value>إعادة تثبيت VPS</value>
   </data>
 </root>

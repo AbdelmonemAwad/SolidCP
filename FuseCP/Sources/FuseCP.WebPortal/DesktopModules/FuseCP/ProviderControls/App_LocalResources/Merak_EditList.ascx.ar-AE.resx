@@ -118,7 +118,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="chkSubjectPrefixEnabled.Text" xml:space="preserve">
-    <value>تمكين</value>
+    <value>مُمكَّن</value>
   </data>
   <data name="ddlPasswordProtection.ClientModerated" xml:space="preserve">
     <value>خاضعة لإشراف العميل</value>
@@ -127,7 +127,7 @@
     <value>لا حماية بكلمة مرور</value>
   </data>
   <data name="ddlPasswordProtection.ServerModerated" xml:space="preserve">
-    <value>خادم مدار</value>
+    <value>خاضعة لإشراف الخادم</value>
   </data>
   <data name="ddlPostingModeItem.Anyone" xml:space="preserve">
     <value>أي أحد</value>
@@ -154,15 +154,15 @@
     <value>البريد الإلكتروني للمشرف:</value>
   </data>
   <data name="lblPasswordProtection.Text" xml:space="preserve">
-    <value>حماية كلمة المرور:</value>
+    <value>الحماية بكلمة مرور:</value>
   </data>
   <data name="lblPostingMode.Text" xml:space="preserve">
     <value>وضع النشر:</value>
   </data>
   <data name="lblPostingPassword.Text" xml:space="preserve">
-    <value>إرسال كلمة المرور:</value>
+    <value>كلمة مرور النشر:</value>
   </data>
   <data name="lblReplyTo.Text" xml:space="preserve">
-    <value>رد المشتركون على:</value>
+    <value>توجيه ردود المشتركين إلى:</value>
   </data>
 </root>

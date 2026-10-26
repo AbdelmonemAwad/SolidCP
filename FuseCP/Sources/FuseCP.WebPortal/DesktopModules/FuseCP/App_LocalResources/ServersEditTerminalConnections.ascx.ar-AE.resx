@@ -121,10 +121,10 @@
     <value>إلغاء</value>
   </data>
   <data name="cmdReset.OnClientClick" xml:space="preserve">
-    <value>if(confirm('جلسة الخروج؟')) ShowProgressDialog('جلسة تسجيل الخروج ...'); else return false;</value>
+    <value>if(confirm('هل تريد تسجيل خروج هذه الجلسة؟')) ShowProgressDialog('جارٍ تسجيل خروج الجلسة...'); else return false;</value>
   </data>
   <data name="cmdReset.ToolTip" xml:space="preserve">
-    <value>جلسة تسجيل الخروج</value>
+    <value>تسجيل خروج الجلسة</value>
   </data>
   <data name="gvSessions.Empty" xml:space="preserve">
     <value>لم يتم العثور على جلسات طرفية نشطة.</value>
@@ -139,6 +139,6 @@
     <value>الحالة</value>
   </data>
   <data name="gvSessionsUserName.Header" xml:space="preserve">
-    <value>اسم االمستخدم</value>
+    <value>اسم المستخدم</value>
   </data>
 </root>

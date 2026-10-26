@@ -121,31 +121,31 @@
     <value>إلغاء</value>
   </data>
   <data name="btnRestore.OnClientClick" xml:space="preserve">
-    <value>ShowProgressDialog('استعادة مجموعة مواقع شيربوينت ...');</value>
+    <value>ShowProgressDialog('جارٍ استعادة مجموعة مواقع SharePoint...');</value>
   </data>
   <data name="btnRestore.Text" xml:space="preserve">
     <value>استعادة</value>
   </data>
   <data name="FormComments.Text" xml:space="preserve">
-    <value>&lt;p&gt; بعد استعادة مجموعة المواقع المشتركة ، سيتم تعيين المسؤول الأساسي لها كما كانت قبل الاستعادة (يتم تجاهل سجل المسؤول الأساسي من النسخة الاحتياطية). &lt;/ p&gt;</value>
+    <value>&lt;p&gt;بعد استعادة مجموعة المواقع، سيبقى المسؤول الأساسي المعيَّن لها كما كان قبل الاستعادة (يتم تجاهل سجل المسؤول الأساسي الموجود في النسخة الاحتياطية).&lt;/p&gt;</value>
   </data>
   <data name="lblAllowedFiles.Text" xml:space="preserve">
-    <value>يُسمح بملفات .ZIP و. BAK</value>
+    <value>يُسمح بملفات .ZIP و .BAK</value>
   </data>
   <data name="lblRestoreFrom.Text" xml:space="preserve">
     <value>استعادة من:</value>
   </data>
   <data name="locTitle.Text" xml:space="preserve">
-    <value>استعادة مجموعة مواقع شيربوينت</value>
+    <value>استعادة مجموعة مواقع SharePoint</value>
   </data>
   <data name="radioFile.Text" xml:space="preserve">
     <value>ملف مساحة الاستضافة</value>
   </data>
   <data name="radioUpload.Text" xml:space="preserve">
-    <value>تم رفع الملف</value>
+    <value>ملف مرفوع</value>
   </data>
   <data name="Text.PageName" xml:space="preserve">
-    <value>استعادة مجموعة مواقع شيربوينت</value>
+    <value>استعادة مجموعة مواقع SharePoint</value>
   </data>
   <data name="btnRestoreText.Text" xml:space="preserve">
     <value>استعادة</value>

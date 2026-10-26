@@ -118,7 +118,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="btnAdd.Text" xml:space="preserve">
-    <value>أضف</value>
+    <value>إضافة</value>
   </data>
   <data name="btnCancel.Text" xml:space="preserve">
     <value>إلغاء</value>
@@ -127,7 +127,7 @@
     <value>أدخل عدد عناوين IP</value>
   </data>
   <data name="FormComments.Text" xml:space="preserve">
-    <value>&lt;p&gt; يسمح هذا النموذج بتعيين عناوين IP جديدة لمحول شبكة VM "خارجي". &lt;/ p&gt; &lt;p&gt; يمكن تعيين عناوين IP إضافية إلى VPS فقط إذا كان هناك عدد كافٍ من عناوين IP الخارجية المجانية (غير المعينة) المخصصة إلى مساحة الاستضافة هذه. &lt;/ p&gt; &lt;p&gt; بعد النقر فوق الزر "إضافة" ، سيتم إرسال تعليمات التكوين الخاصة إلى VM ، لذلك قد يستغرق الأمر بعض الوقت (حتى بضع دقائق) حتى يتم تغيير معلمات محول الشبكة. &lt;/ p&gt;</value>
+    <value>&lt;p&gt;يتيح هذا النموذج تعيين عناوين IP جديدة لمحول الشبكة "الخارجي" في VM.&lt;/p&gt;&lt;p&gt;لا يمكن تعيين عناوين IP إضافية لـ VPS إلا إذا توفر عدد كافٍ من عناوين IP الخارجية الشاغرة (غير المعينة) المخصصة لمساحة الاستضافة هذه.&lt;/p&gt;&lt;p&gt;بعد النقر على الزر "إضافة"، سيتم إرسال تعليمات تكوين خاصة إلى VM، لذا قد يستغرق الأمر بعض الوقت (حتى بضع دقائق) حتى يتم تغيير معلمات محول الشبكة.&lt;/p&gt;</value>
   </data>
   <data name="locExternalAddresses.Text" xml:space="preserve">
     <value>عدد عناوين IP:</value>
@@ -151,6 +151,6 @@
     <value>({0} كحد أقصى)</value>
   </data>
   <data name="locNotEnoughExternalAddresses.Text" xml:space="preserve">
-    <value>مجموعة عناوين IP الخارجية المتاحة فارغة. يتم تخصيص جميع عناوين IP المخصصة لمساحة الاستضافة الحالية للخوادم الافتراضية الحالية. يمكن تخصيص المزيد من عناوين IP الخارجية من قبل المضيف.</value>
+    <value>مجموعة عناوين IP الخارجية المتاحة فارغة. جميع عناوين IP المخصصة لمساحة الاستضافة الحالية معيّنة للخوادم الافتراضية الموجودة. يمكن للمضيف تخصيص المزيد من عناوين IP الخارجية.</value>
   </data>
 </root>

@@ -121,7 +121,7 @@
     <value>سياسة كلمة مرور المستخدم</value>
   </data>
   <data name="secOrg.Text" xml:space="preserve">
-    <value>سياسة معرف المنظمة</value>
+    <value>سياسة معرف المؤسسة</value>
   </data>
   <data name="threeOrg.Text" xml:space="preserve">
     <value>مجموعات الأمان الافتراضية الإضافية</value>

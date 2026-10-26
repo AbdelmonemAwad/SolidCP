@@ -118,7 +118,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="locDisplayName.Text" xml:space="preserve">
-    <value>عرض الاسم :</value>
+    <value>الاسم المعروض:</value>
   </data>
   <data name="locDomainName.Text" xml:space="preserve">
     <value>اسم النطاق:</value>
@@ -138,17 +138,11 @@
   <data name="locTitle.Text" xml:space="preserve">
     <value>أدوار مستخدم CRM</value>
   </data>
-  <data name="btnActivate.Text" xml:space="preserve">
-    <value>تمكين</value>
-  </data>
-  <data name="btnDeactivate.Text" xml:space="preserve">
-    <value>تعطيل</value>
-  </data>
   <data name="locDisabled.Text" xml:space="preserve">
-    <value>معطل </value>
+    <value>معطل</value>
   </data>
   <data name="locEnabled.Text" xml:space="preserve">
-    <value>تمكين</value>
+    <value>مُمكَّن</value>
   </data>
   <data name="locState.Text" xml:space="preserve">
     <value>الحالة:</value>
@@ -157,6 +151,6 @@
     <value>return confirm('ستعمل هذه العملية على تعيين المستخدم المحدد على أنه ممكّن');</value>
   </data>
   <data name="btnDeactivate.OnClientClick" xml:space="preserve">
-    <value>return confirm('سيؤدي هذا الإجراء إلى تغيير حالة سجل المستخدم هذا إلى معطل. قد تفشل جميع مهام سير العمل المنشورة أو وظائف النظام النشطة التي يمتلكها هذا المستخدم عند تعطيل هذا المستخدم. هل أنت متأكد من أنك تريد تعطيل هذا المستخدم؟');</value>
+    <value>return confirm('سيؤدي هذا الإجراء إلى تغيير حالة سجل المستخدم هذا إلى معطل. قد تفشل جميع مهام سير العمل المنشورة أو وظائف النظام النشطة التي يمتلكها هذا المستخدم عند تعطيله. هل أنت متأكد من أنك تريد تعطيل هذا المستخدم؟');</value>
   </data>
 </root>

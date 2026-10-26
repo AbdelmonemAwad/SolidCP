@@ -124,10 +124,10 @@
     <value>الرموز المسموح بها:</value>
   </data>
   <data name="lblDefaultAllowedSymbols.Text" xml:space="preserve">
-    <value>* a-z&amp;nbsp;&amp;nbsp;A-Z&amp;nbsp;&amp;nbsp;0-9&amp;nbsp;&amp;nbsp;.&amp;nbsp;&amp;nbsp;_  افتراضيا المسموح به</value>
+    <value>* a-z&amp;nbsp;&amp;nbsp;A-Z&amp;nbsp;&amp;nbsp;0-9&amp;nbsp;&amp;nbsp;.&amp;nbsp;&amp;nbsp;_ مسموح بها افتراضيًا</value>
   </data>
   <data name="lblMaximumLength.Text" xml:space="preserve">
-    <value>الحد الأقصى لطول:</value>
+    <value>الحد الأقصى للطول:</value>
   </data>
   <data name="lblMinimumLength.Text" xml:space="preserve">
     <value>الحد الأدنى للطول:</value>
@@ -139,7 +139,7 @@
     <value>لاحقة:</value>
   </data>
   <data name="lblSuffixVars.Text" xml:space="preserve">
-    <value>* [USER_NAME], [USER_ID] المتغيرات مسموح بها</value>
+    <value>* يُسمح بالمتغيرين [USER_NAME] و[USER_ID]</value>
   </data>
   <data name="valCorrectMaxLength.Text" xml:space="preserve">
     <value>*</value>

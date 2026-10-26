@@ -118,15 +118,15 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="btnAdd.Text" xml:space="preserve">
-    <value>أضف شبكات VLAN</value>
+    <value>إضافة شبكات VLAN</value>
   </data>
   <data name="gvVLANs.Empty" xml:space="preserve">
     <value>لم يتم العثور على شبكات VLAN.</value>
   </data>
   <data name="gvVLANsComments.Header" xml:space="preserve">
-    <value>التعليقات:</value>
+    <value>التعليقات</value>
   </data>
   <data name="gvVLANsVLAN.Header" xml:space="preserve">
-    <value>شبكة محلية افتراضية</value>
+    <value>VLAN</value>
   </data>
 </root>

@@ -118,7 +118,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="buttonPanel.OnSaveClientClick" xml:space="preserve">
-    <value>ShowProgressDialog('جارٍ تحديث إعدادات صندوق البريد ...');</value>
+    <value>ShowProgressDialog('جارٍ تحديث إعدادات صندوق البريد...');</value>
   </data>
   <data name="chkDisable.Text" xml:space="preserve">
     <value>تعطيل صندوق البريد</value>
@@ -127,7 +127,7 @@
     <value>إخفاء من دفتر العناوين</value>
   </data>
   <data name="chkPmmAllowed.Text" xml:space="preserve">
-    <value>اسمح بإدارة هذه الإعدادات من &lt;b&gt; مدير علبة البريد الشخصي &lt;/ b&gt;</value>
+    <value>السماح بإدارة هذه الإعدادات من &lt;b&gt;مدير صندوق البريد الشخصي&lt;/b&gt;</value>
   </data>
   <data name="locMailboxplanName.Text" xml:space="preserve">
     <value>خطة صندوق البريد:</value>
@@ -136,10 +136,7 @@
     <value>حجم صندوق البريد:</value>
   </data>
   <data name="locTitle.Text" xml:space="preserve">
-    <value>تحرير علبة البريد</value>
-  </data>
-  <data name="secCalendarSettings.Text" xml:space="preserve">
-    <value>إعدادات التقويم</value>
+    <value>تحرير صندوق البريد</value>
   </data>
   <data name="secGeneral.Text" xml:space="preserve">
     <value>عام</value>
@@ -148,16 +145,16 @@
     <value>صناديق البريد</value>
   </data>
   <data name="valRequireDisplayName.ErrorMessage" xml:space="preserve">
-    <value>أدخل اسم العرض</value>
+    <value>أدخل الاسم المعروض</value>
   </data>
   <data name="valRequireDisplayName.Text" xml:space="preserve">
     <value>*</value>
   </data>
   <data name="chkEnableLitigationHold.Text" xml:space="preserve">
-    <value>تفعيل التعليق التقاضي</value>
+    <value>تفعيل الاحتجاز لأغراض التقاضي</value>
   </data>
   <data name="locExchangeGuid.Text" xml:space="preserve">
-    <value>Exchange دليل:</value>
+    <value>معرّف GUID في Exchange:</value>
   </data>
   <data name="secAdvancedInfo.Text" xml:space="preserve">
     <value>معلومات متقدمة</value>

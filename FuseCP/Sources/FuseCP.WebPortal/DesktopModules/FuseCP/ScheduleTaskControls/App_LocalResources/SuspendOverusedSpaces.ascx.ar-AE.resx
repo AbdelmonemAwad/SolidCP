@@ -127,13 +127,13 @@
     <value>تعليق المساحة</value>
   </data>
   <data name="cbxSuspendWhenBandwidthOverused.Text" xml:space="preserve">
-    <value>باندويث</value>
+    <value>عرض النطاق الترددي</value>
   </data>
   <data name="cbxSuspendWhenDiskSpaceOverused.Text" xml:space="preserve">
     <value>مساحة القرص</value>
   </data>
   <data name="clpOverusageDefinitionHeader.Text" xml:space="preserve">
-    <value>مساحة مفرطة عندما</value>
+    <value>تُعد المساحة متجاوزة للحد عندما</value>
   </data>
   <data name="clpSuspensionSettingsHeader.Text" xml:space="preserve">
     <value>تعليق المساحة</value>
@@ -145,13 +145,13 @@
     <value>نص بريد التعليق:</value>
   </data>
   <data name="lblSuspensionMailBodyHint.Text" xml:space="preserve">
-    <value>([threshold], [date], [usage], [space], [customer] المتغيرات مدعومة)</value>
+    <value>(المتغيرات [threshold] و[date] و[usage] و[space] و[customer] مدعومة)</value>
   </data>
   <data name="lblSuspensionThreshold.Text" xml:space="preserve">
     <value>عتبة التعليق:</value>
   </data>
   <data name="lblThreshold.Text" xml:space="preserve">
-    <value>استخدام أكبر من المحدد أدناه الحد الأدنى.</value>
+    <value>الاستخدام أكبر من الحد المعرَّف أدناه.</value>
   </data>
   <data name="lblWarningMailBcc.Text" xml:space="preserve">
     <value>BCC:</value>
@@ -160,7 +160,7 @@
     <value>نص بريد التحذير:</value>
   </data>
   <data name="lblWarningMailBodyHint.Text" xml:space="preserve">
-    <value>([threshold], [date], [usage], [space], [customer] المتغيرات مدعومة)</value>
+    <value>(المتغيرات [threshold] و[date] و[usage] و[space] و[customer] مدعومة)</value>
   </data>
   <data name="lblWarningMailFrom.Text" xml:space="preserve">
     <value>البريد من:</value>

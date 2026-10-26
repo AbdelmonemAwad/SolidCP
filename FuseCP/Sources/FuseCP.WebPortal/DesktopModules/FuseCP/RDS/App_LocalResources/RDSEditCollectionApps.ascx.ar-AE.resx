@@ -136,7 +136,7 @@
     <value>اسم الخادم</value>
   </data>
   <data name="gvRDSServers.Empty" xml:space="preserve">
-    <value>لم يتم إضافة خوادم RDS حتى الآن. لإضافة خوادم RDS جديدة ، انقر فوق الزر "إضافة خادم RDS".</value>
+    <value>لم يتم إضافة خوادم RDS حتى الآن. لإضافة خوادم RDS جديدة، انقر فوق الزر "إضافة خادم RDS".</value>
   </data>
   <data name="secRdsApplications.Text" xml:space="preserve">
     <value>التطبيقات البعيدة</value>

@@ -118,7 +118,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="gvPackagesCreationDate.Header" xml:space="preserve">
-    <value>تاريخ الإنشاء:</value>
+    <value>تاريخ الإنشاء</value>
   </data>
   <data name="gvPackagesHostingPlan.Header" xml:space="preserve">
     <value>خطة الاستضافة</value>
@@ -127,7 +127,7 @@
     <value>الاسم</value>
   </data>
   <data name="gvPackagesPricing.Header" xml:space="preserve">
-    <value>الاسعار</value>
+    <value>الأسعار</value>
   </data>
   <data name="gvPackagesServer.Header" xml:space="preserve">
     <value>الخادم</value>
@@ -139,13 +139,13 @@
     <value>قم بالتبديل إلى هذه المساحة</value>
   </data>
   <data name="Text.ActiveSyncPolicy" xml:space="preserve">
-    <value>سياسة المزامنة النشطة</value>
+    <value>سياسة ActiveSync</value>
   </data>
   <data name="Text.BlackBerryGroup" xml:space="preserve">
-    <value>المنظمة المستضيفة - بلاك بيري</value>
+    <value>المؤسسة المستضافة - BlackBerry</value>
   </data>
   <data name="Text.BlackBerryUsers" xml:space="preserve">
-    <value>مستخدمو بلاك بيري</value>
+    <value>مستخدمو BlackBerry</value>
   </data>
   <data name="Text.Contacts" xml:space="preserve">
     <value>جهات الاتصال</value>
@@ -157,10 +157,10 @@
     <value>CRM 4/2011</value>
   </data>
   <data name="Text.CRMOrganization" xml:space="preserve">
-    <value>منظمة CRM</value>
+    <value>مؤسسة CRM</value>
   </data>
   <data name="Text.CRMUsers" xml:space="preserve">
-    <value>CRM المستخدمين</value>
+    <value>مستخدمو CRM</value>
   </data>
   <data name="Text.Disclaimers" xml:space="preserve">
     <value>إخلاء المسؤولية</value>
@@ -172,25 +172,25 @@
     <value>النطاقات</value>
   </data>
   <data name="Text.EnterpriseStorageDriveMaps" xml:space="preserve">
-    <value>خرائط محرك اقراص</value>
+    <value>تعيينات محركات الأقراص</value>
   </data>
   <data name="Text.EnterpriseStorageFolders" xml:space="preserve">
-    <value>الملفات المشتركة</value>
+    <value>المجلدات المشتركة</value>
   </data>
   <data name="Text.EnterpriseStorageGroup" xml:space="preserve">
-    <value>المنظمة المستضافة - المجلدات السحابية</value>
+    <value>المؤسسة المستضافة - المجلدات السحابية</value>
   </data>
   <data name="Text.ExchangeDomainNames" xml:space="preserve">
     <value>النطاقات المقبولة</value>
   </data>
   <data name="Text.ExchangeGroup" xml:space="preserve">
-    <value>المنظمة المستضيفة - Exchange</value>
+    <value>المؤسسة المستضافة - Exchange</value>
   </data>
   <data name="Text.LyncFederationDomains" xml:space="preserve">
     <value>نطاقات اتحاد Lync</value>
   </data>
   <data name="Text.LyncGroup" xml:space="preserve">
-    <value>المنظمة المستضافة - Lync</value>
+    <value>المؤسسة المستضافة - Lync</value>
   </data>
   <data name="Text.LyncPhoneNumbers" xml:space="preserve">
     <value>أرقام الهواتف</value>
@@ -205,7 +205,7 @@
     <value>نطاقات الاتحاد</value>
   </data>
   <data name="Text.SfBGroup" xml:space="preserve">
-    <value>المنظمة المستضافة - سكايب للأعمال</value>
+    <value>المؤسسة المستضافة - Skype for Business</value>
   </data>
   <data name="Text.SfBPhoneNumbers" xml:space="preserve">
     <value>أرقام الهواتف</value>
@@ -223,40 +223,40 @@
     <value>خطط صندوق البريد</value>
   </data>
   <data name="Text.OCSGroup" xml:space="preserve">
-    <value>المنظمة المستضيفة - OCS</value>
+    <value>المؤسسة المستضافة - OCS</value>
   </data>
   <data name="Text.OCSUsers" xml:space="preserve">
     <value>مستخدمو OCS</value>
   </data>
   <data name="Text.OrganizationGroup" xml:space="preserve">
-    <value>المنظمة المستضيفة</value>
+    <value>المؤسسة المستضافة</value>
   </data>
   <data name="Text.OrganizationHome" xml:space="preserve">
-    <value>إحصائيات المنظمة</value>
+    <value>إحصائيات المؤسسة</value>
   </data>
   <data name="Text.PublicFolders" xml:space="preserve">
     <value>المجلدات العامة</value>
   </data>
   <data name="Text.RetentionPolicy" xml:space="preserve">
-    <value>سياسة الإحتفاظ</value>
+    <value>سياسة الاحتفاظ</value>
   </data>
   <data name="Text.RetentionPolicyTag" xml:space="preserve">
-    <value>علامة سياسة الاستبقاء</value>
+    <value>علامة سياسة الاحتفاظ</value>
   </data>
   <data name="Text.SecurityGroups" xml:space="preserve">
     <value>مجموعات</value>
   </data>
   <data name="Text.Setup" xml:space="preserve">
-    <value>اعداد</value>
+    <value>الإعداد</value>
   </data>
   <data name="Text.SharePointFoundationServerGroup" xml:space="preserve">
-    <value>المنظمة المستضافة - شيربوينت Foundation Server</value>
+    <value>المؤسسة المستضافة - SharePoint Foundation Server</value>
   </data>
   <data name="Text.SharePointEnterpriseServerGroup" xml:space="preserve">
-    <value>المنظمة المستضافة - خادم شيربوينت</value>
+    <value>المؤسسة المستضافة - خادم SharePoint</value>
   </data>
   <data name="Text.SiteCollections" xml:space="preserve">
-    <value>مواقع شيربوينت</value>
+    <value>مواقع SharePoint</value>
   </data>
   <data name="Text.StorageLimits" xml:space="preserve">
     <value>إعدادات التخزين</value>
@@ -265,16 +265,16 @@
     <value>استخدام التخزين</value>
   </data>
   <data name="Text.Users" xml:space="preserve">
-    <value>المستخدمون (منظمة المستخدم)</value>
+    <value>المستخدمون (مؤسسة المستخدم)</value>
   </data>
   <data name="Text.CreateOrganization" xml:space="preserve">
-    <value>أنشئ منظمة</value>
+    <value>إنشاء مؤسسة</value>
   </data>
   <data name="Text.RDSCollections" xml:space="preserve">
     <value>مجموعات RDS</value>
   </data>
   <data name="Text.RDSGroup" xml:space="preserve">
-    <value>المنظمة المستضافة - خدمات سطح المكتب البعيد</value>
+    <value>المؤسسة المستضافة - خدمات سطح المكتب البعيد</value>
   </data>
   <data name="Text.RDSServers" xml:space="preserve">
     <value>خوادم RDS</value>

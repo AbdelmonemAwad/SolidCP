@@ -133,7 +133,7 @@
     <value>معالج إنشاء الحساب</value>
   </data>
   <data name="ModuleTitle.AccountSettings" xml:space="preserve">
-    <value>إعدادت الحساب</value>
+    <value>إعدادات الحساب</value>
   </data>
   <data name="ModuleTitle.AccountsSynchronizationComplete" xml:space="preserve">
     <value>اكتملت مزامنة الحسابات</value>
@@ -142,13 +142,13 @@
     <value>خطاب ملخص الحساب</value>
   </data>
   <data name="ModuleTitle.AddDomain" xml:space="preserve">
-    <value>أضف نطاق</value>
+    <value>إضافة نطاق</value>
   </data>
   <data name="ModuleTitle.AddVLAN" xml:space="preserve">
-    <value>أضف VLAN</value>
+    <value>إضافة VLAN</value>
   </data>
   <data name="ModuleTitle.AddIPAddress" xml:space="preserve">
-    <value>أضف عنوان IP</value>
+    <value>إضافة عنوان IP</value>
   </data>
   <data name="ModuleTitle.AddMailDomainPointer" xml:space="preserve">
     <value>إضافة مؤشر نطاق البريد</value>
@@ -157,7 +157,7 @@
     <value>إضافة نطاق جديد</value>
   </data>
   <data name="ModuleTitle.AddNewService" xml:space="preserve">
-    <value>أضف خدمة جديدة</value>
+    <value>إضافة خدمة جديدة</value>
   </data>
   <data name="ModuleTitle.AddNewVirtualServer" xml:space="preserve">
     <value>إضافة خادم افتراضي جديد</value>
@@ -169,13 +169,13 @@
     <value>إضافة مجلد SSL مشترك</value>
   </data>
   <data name="ModuleTitle.AddAppVirtualDirectory" xml:space="preserve">
-    <value>أضف الدليل الافتراضي</value>
+    <value>إضافة دليل افتراضي</value>
   </data>
   <data name="ModuleTitle.AddVirtualServerServices" xml:space="preserve">
-    <value>أضف خدمات الخادم الافتراضي</value>
+    <value>إضافة خدمات الخادم الافتراضي</value>
   </data>
   <data name="ModuleTitle.AddWebSite" xml:space="preserve">
-    <value>أضف موقع ويب</value>
+    <value>إضافة موقع ويب</value>
   </data>
   <data name="ModuleTitle.AddWebSiteDomainPointer" xml:space="preserve">
     <value>إضافة مؤشر نطاق موقع ويب</value>
@@ -184,7 +184,7 @@
     <value>إحصائيات الويب المتقدمة</value>
   </data>
   <data name="ModuleTitle.AdvancedStatisticsInstallation" xml:space="preserve">
-    <value>تثبيت إحصائيات متقدم</value>
+    <value>تثبيت الإحصائيات المتقدمة</value>
   </data>
   <data name="ModuleTitle.ApplicationsInstaller" xml:space="preserve">
     <value>مثبت التطبيقات</value>
@@ -196,19 +196,19 @@
     <value>سجل التدقيق</value>
   </data>
   <data name="ModuleTitle.BackupSharePointSite" xml:space="preserve">
-    <value>موقع النسخ الاحتياطي شيربوينت</value>
+    <value>نسخ احتياطي لموقع SharePoint</value>
   </data>
   <data name="ModuleTitle.BackupSQLDatabase" xml:space="preserve">
-    <value>قاعدة بيانات SQL النسخ الاحتياطي ل</value>
+    <value>نسخ احتياطي لقاعدة بيانات SQL</value>
   </data>
   <data name="ModuleTitle.BandwidthReport" xml:space="preserve">
-    <value>تقرير الباندويث</value>
+    <value>تقرير عرض النطاق الترددي</value>
   </data>
   <data name="ModuleTitle.CustomerSpaces" xml:space="preserve">
     <value>مساحات العملاء</value>
   </data>
   <data name="ModuleTitle.CustomizeSpaceGlobalDNSRecords" xml:space="preserve">
-    <value>تخصيص سجلات DNS العالمية مساحات</value>
+    <value>تخصيص سجلات DNS العالمية للمساحة</value>
   </data>
   <data name="ModuleTitle.DeleteHostingSpace" xml:space="preserve">
     <value>حذف مساحة الاستضافة</value>
@@ -247,7 +247,7 @@
     <value>تحرير النطاق</value>
   </data>
   <data name="ModuleTitle.EditHostingAddOn" xml:space="preserve">
-    <value>تحرير إضافة الاستضافة</value>
+    <value>تحرير ملحق الاستضافة (Add-On)</value>
   </data>
   <data name="ModuleTitle.EditHostingPlan" xml:space="preserve">
     <value>تحرير خطة الاستضافة</value>
@@ -265,13 +265,13 @@
     <value>تحرير عنوان IP</value>
   </data>
   <data name="ModuleTitle.EditPeerAccount" xml:space="preserve">
-    <value>تحرير الحساب المقترن</value>
+    <value>تحرير الحساب النظير</value>
   </data>
   <data name="ModuleTitle.EditUserDetails" xml:space="preserve">
     <value>تحرير تفاصيل المستخدم</value>
   </data>
   <data name="ModuleTitle.EditVirtualServer" xml:space="preserve">
-    <value>تحرير Virtual Server</value>
+    <value>تحرير الخادم الافتراضي</value>
   </data>
   <data name="ModuleTitle.EnterpriseServer" xml:space="preserve">
     <value>خادم المؤسسة</value>
@@ -289,28 +289,28 @@
     <value>إعدادات حساب الاستضافة</value>
   </data>
   <data name="ModuleTitle.HostingAddons" xml:space="preserve">
-    <value> الوظائف الإضافية للاستضافة</value>
+    <value>الوظائف الإضافية للاستضافة</value>
   </data>
   <data name="ModuleTitle.HostingPlans" xml:space="preserve">
     <value>خطط الاستضافة</value>
   </data>
   <data name="ModuleTitle.HostingSpaceAddOn" xml:space="preserve">
-    <value>إضافة مساحة الاستضافة</value>
+    <value>ملحق مساحة الاستضافة (Add-On)</value>
   </data>
   <data name="ModuleTitle.HostingSpaceBandwidthDetails" xml:space="preserve">
-    <value>تفاصيل مساحة الباندويث للاستضافة</value>
+    <value>تفاصيل عرض النطاق الترددي لمساحة الاستضافة</value>
   </data>
   <data name="ModuleTitle.HostingSpaceDetails" xml:space="preserve">
     <value>تفاصيل مساحة الاستضافة</value>
   </data>
   <data name="ModuleTitle.HostingSpaceDiskSpaceDetails" xml:space="preserve">
-    <value>تفاصيل مساحة القرص للاستضافة</value>
+    <value>تفاصيل مساحة القرص لمساحة الاستضافة</value>
   </data>
   <data name="ModuleTitle.HostingSpaceFiles" xml:space="preserve">
-    <value>مساحة استضافة الملفات </value>
+    <value>ملفات مساحة الاستضافة</value>
   </data>
   <data name="ModuleTitle.HostingSpaceSettings" xml:space="preserve">
-    <value>اعدادت مساحة الاستضافة</value>
+    <value>إعدادات مساحة الاستضافة</value>
   </data>
   <data name="ModuleTitle.HostingSpaceSummaryLetter" xml:space="preserve">
     <value>معلومات ملخص مساحة الاستضافة</value>
@@ -322,10 +322,10 @@
     <value>إعدادات لوحة الرموز</value>
   </data>
   <data name="ModuleTitle.InstalledSharePointWebPartPackages" xml:space="preserve">
-    <value>تثبيت حزم جزء ويب شيربوينت</value>
+    <value>حزم أجزاء ويب SharePoint المثبتة</value>
   </data>
   <data name="ModuleTitle.InstallSharePointWebPartsPackage" xml:space="preserve">
-    <value>قم بتثبيت حزمة أجزاء ويب شيربوينت</value>
+    <value>تثبيت حزمة أجزاء ويب SharePoint</value>
   </data>
   <data name="ModuleTitle.InstallWebApplication" xml:space="preserve">
     <value>تثبيت تطبيق الويب</value>
@@ -382,7 +382,7 @@
     <value>إدارة عمليات نظام الخادم</value>
   </data>
   <data name="ModuleTitle.ManageTerminalConnections" xml:space="preserve">
-    <value>إدارة اتصالات النظام عن بعد</value>
+    <value>إدارة اتصالات سطح المكتب البعيد</value>
   </data>
   <data name="ModuleTitle.ManageWindowsServices" xml:space="preserve">
     <value>إدارة خدمات Windows</value>
@@ -409,13 +409,13 @@
     <value>قواعد بيانات MySQL 4</value>
   </data>
   <data name="ModuleTitle.MySql4Users" xml:space="preserve">
-    <value>مستخدمي MySQL 4</value>
+    <value>مستخدمو MySQL 4</value>
   </data>
   <data name="ModuleTitle.MySql5Databases" xml:space="preserve">
     <value>قواعد بيانات MySQL 5</value>
   </data>
   <data name="ModuleTitle.MySql5Users" xml:space="preserve">
-    <value>مستخدمي MySQL 5</value>
+    <value>مستخدمو MySQL 5</value>
   </data>
   <data name="ModuleTitle.MySql8Databases" xml:space="preserve">
     <value>قواعد بيانات MySQL 8</value>
@@ -433,7 +433,7 @@
     <value>قواعد بيانات MariaDB</value>
   </data>
   <data name="ModuleTitle.MariaDBUsers" xml:space="preserve">
-    <value>مستخدمي MariaDB</value>
+    <value>مستخدمو MariaDB</value>
   </data>
   <data name="ModuleTitle.MyUsers" xml:space="preserve">
     <value>المستخدمون</value>
@@ -448,22 +448,22 @@
     <value>ODBC DSNs</value>
   </data>
   <data name="ModuleTitle.PasswordReminder" xml:space="preserve">
-    <value>تذكير كلمة السر</value>
+    <value>تذكير كلمة المرور</value>
   </data>
   <data name="ModuleTitle.PeerAccounts" xml:space="preserve">
-    <value>حسابات مقترنة</value>
+    <value>حسابات النظراء</value>
   </data>
   <data name="ModuleTitle.RebootServer" xml:space="preserve">
     <value>إعادة تشغيل الخادم</value>
   </data>
   <data name="ModuleTitle.RestoreSharePointSite" xml:space="preserve">
-    <value>استعادة موقع شيربوينت</value>
+    <value>استعادة موقع SharePoint</value>
   </data>
   <data name="ModuleTitle.RestoreSQLDatabase" xml:space="preserve">
     <value>استعادة قاعدة بيانات SQL</value>
   </data>
   <data name="ModuleTitle.ScheduledTaskProperties" xml:space="preserve">
-    <value>خصائص المهام المجدولة</value>
+    <value>خصائص المهمة المجدولة</value>
   </data>
   <data name="ModuleTitle.ScheduledTasks" xml:space="preserve">
     <value>المهام المجدولة</value>
@@ -475,13 +475,13 @@
     <value>خصائص المجموعة الآمنة</value>
   </data>
   <data name="ModuleTitle.SecureUserProperties" xml:space="preserve">
-    <value>خصائص المستخدم الآمنة</value>
+    <value>خصائص المستخدم الآمن</value>
   </data>
   <data name="ModuleTitle.HeliconApeFolderProperties" xml:space="preserve">
     <value>تحرير .htaccess</value>
   </data>
   <data name="ModuleTitle.HeliconApeFolderAuthProperties" xml:space="preserve">
-    <value>.htaccess الخصائص الآمنة</value>
+    <value>الخصائص الآمنة لـ .htaccess</value>
   </data>
   <data name="ModuleTitle.HeliconApeGroupProperties" xml:space="preserve">
     <value>خصائص مجموعة Helicon Ape</value>
@@ -493,7 +493,7 @@
     <value>حدد المستخدم للعمل لديه</value>
   </data>
   <data name="ModuleTitle.ServerEventViewer" xml:space="preserve">
-    <value>عارض الأحداث للخادم</value>
+    <value>عارض أحداث الخادم</value>
   </data>
   <data name="ModuleTitle.ServerProperties" xml:space="preserve">
     <value>خصائص الخادم</value>
@@ -508,64 +508,64 @@
     <value>مجلدات SSL المشتركة</value>
   </data>
   <data name="ModuleTitle.SharedSSLFolderProperties" xml:space="preserve">
-    <value>خصائص مجلد SSL المشتركة</value>
+    <value>خصائص مجلد SSL المشترك</value>
   </data>
   <data name="ModuleTitle.SharedSSLFolders" xml:space="preserve">
     <value>مجلدات SSL المشتركة</value>
   </data>
   <data name="ModuleTitle.SharePointGroup" xml:space="preserve">
-    <value>مجموعة شيربوينت</value>
+    <value>مجموعة SharePoint</value>
   </data>
   <data name="ModuleTitle.SharePointGroups" xml:space="preserve">
-    <value>مجموعات شيربوينت</value>
+    <value>مجموعات SharePoint</value>
   </data>
   <data name="ModuleTitle.SharePointSite" xml:space="preserve">
-    <value>موقع شيربوينت</value>
+    <value>موقع SharePoint</value>
   </data>
   <data name="ModuleTitle.SharePointSites" xml:space="preserve">
-    <value>مواقع شيربوينت</value>
+    <value>مواقع SharePoint</value>
   </data>
   <data name="ModuleTitle.SharePointUserProperties" xml:space="preserve">
-    <value>خصائص مستخدم شيربوينت</value>
+    <value>خصائص مستخدم SharePoint</value>
   </data>
   <data name="ModuleTitle.SharePointUsers" xml:space="preserve">
-    <value>مستخدمين شيربوينت</value>
+    <value>مستخدمو SharePoint</value>
   </data>
   <data name="ModuleTitle.Sql2000Databases" xml:space="preserve">
     <value>قواعد بيانات SQL Server 2000</value>
   </data>
   <data name="ModuleTitle.Sql2000Users" xml:space="preserve">
-    <value>عمليات تسجيل الدخول إلى SQL Server 2000</value>
+    <value>حسابات تسجيل الدخول في SQL Server 2000</value>
   </data>
   <data name="ModuleTitle.Sql2005Databases" xml:space="preserve">
     <value>قواعد بيانات SQL Server 2005</value>
   </data>
   <data name="ModuleTitle.Sql2005Users" xml:space="preserve">
-    <value>عمليات تسجيل الدخول إلى SQL Server 2005</value>
+    <value>حسابات تسجيل الدخول في SQL Server 2005</value>
   </data>
   <data name="ModuleTitle.Sql2008Databases" xml:space="preserve">
     <value>قواعد بيانات SQL Server 2008</value>
   </data>
   <data name="ModuleTitle.Sql2008Users" xml:space="preserve">
-    <value>عمليات تسجيل الدخول إلى SQL Server 2008</value>
+    <value>حسابات تسجيل الدخول في SQL Server 2008</value>
   </data>
   <data name="ModuleTitle.Sql2012Databases" xml:space="preserve">
     <value>قواعد بيانات SQL Server 2012</value>
   </data>
   <data name="ModuleTitle.Sql2012Users" xml:space="preserve">
-    <value>عمليات تسجيل الدخول إلى SQL Server 2012</value>
+    <value>حسابات تسجيل الدخول في SQL Server 2012</value>
   </data>
   <data name="ModuleTitle.Sql2014Databases" xml:space="preserve">
     <value>قواعد بيانات SQL Server 2014</value>
   </data>
   <data name="ModuleTitle.Sql2014Users" xml:space="preserve">
-    <value>عمليات تسجيل الدخول إلى SQL Server 2014</value>
+    <value>حسابات تسجيل الدخول في SQL Server 2014</value>
   </data>
   <data name="ModuleTitle.Sql2016Databases" xml:space="preserve">
     <value>قواعد بيانات SQL Server 2016</value>
   </data>
   <data name="ModuleTitle.Sql2016Users" xml:space="preserve">
-    <value>عمليات تسجيل الدخول إلى SQL Server 2016</value>
+    <value>حسابات تسجيل الدخول في SQL Server 2016</value>
   </data>
   <data name="ModuleTitle.SQLDatabaseProperties" xml:space="preserve">
     <value>خصائص قاعدة بيانات SQL</value>
@@ -595,7 +595,7 @@
     <value>معالج إنشاء المستخدم</value>
   </data>
   <data name="ModuleTitle.AppVirtualDirectoryProperties" xml:space="preserve">
-    <value>خصائص الخوادم الافتراضية</value>
+    <value>خصائص الدليل الافتراضي</value>
   </data>
   <data name="ModuleTitle.VirtualServers" xml:space="preserve">
     <value>الخوادم الافتراضية</value>
@@ -610,7 +610,7 @@
     <value>مواقع الويب</value>
   </data>
   <data name="ModuleTitle.WorkFor" xml:space="preserve">
-    <value>العمل ل</value>
+    <value>العمل لصالح</value>
   </data>
   <data name="ModuleTitle.InstallationComplete" xml:space="preserve">
     <value>اكتمل التثبيت</value>
@@ -655,10 +655,10 @@
     <value>حصص المساحة</value>
   </data>
   <data name="ModuleTitle.SpaceServerUsage" xml:space="preserve">
-    <value>استخدام موارد خادم الفضاء</value>
+    <value>استخدام موارد الخادم المعيّن حاليًا</value>
   </data>
   <data name="ModuleTitle.CreateNewOrganization" xml:space="preserve">
-    <value>إنشاء منظمة جديدة</value>
+    <value>إنشاء مؤسسة جديدة</value>
   </data>
   <data name="ModuleTitle.SpaceSettings" xml:space="preserve">
     <value>إعدادات الموزع</value>
@@ -682,7 +682,7 @@
     <value>معلومات ملخص مساحة الاستضافة</value>
   </data>
   <data name="ModuleTitle.BackupSpace" xml:space="preserve">
-    <value> النسخ الاحتياطي مساحة استضافة</value>
+    <value>نسخ احتياطي لمساحة الاستضافة</value>
   </data>
   <data name="ModuleTitle.BackupUser" xml:space="preserve">
     <value>نسخ احتياطي لمساحات حساب المستخدم</value>
@@ -709,13 +709,13 @@
     <value>حذف المساحة</value>
   </data>
   <data name="ModuleTitle.SpaceEditAddon" xml:space="preserve">
-    <value>إضافة / تحرير مساحة إضافية</value>
+    <value>إضافة/تحرير ملحق المساحة (Add-On)</value>
   </data>
   <data name="ModuleTitle.SpaceEditDetails" xml:space="preserve">
     <value>تفاصيل المساحة</value>
   </data>
   <data name="ModuleTitle.SpaceEditDnsRecords" xml:space="preserve">
-    <value>سجلات مساحة DNS</value>
+    <value>سجلات DNS للمساحة</value>
   </data>
   <data name="ModuleTitle.SpaceSettingsEditor" xml:space="preserve">
     <value>تحرير إعدادات المساحة</value>
@@ -730,7 +730,7 @@
     <value>سياسات حساب المستخدم</value>
   </data>
   <data name="ModuleTitle.UserAccountSettingsEditor" xml:space="preserve">
-    <value>خصائص حساب المستخدم</value>
+    <value>إعدادات حساب المستخدم</value>
   </data>
   <data name="ModuleTitle.UserCreateSpace" xml:space="preserve">
     <value>إنشاء مساحة استضافة</value>
@@ -742,16 +742,16 @@
     <value>حسابات المستخدم للعملاء</value>
   </data>
   <data name="ModuleTitle.UserPeers" xml:space="preserve">
-    <value>حسابات مقترنة</value>
+    <value>حسابات النظراء</value>
   </data>
   <data name="ModuleTitle.SystemSettings" xml:space="preserve">
-    <value>اعدادات النظام</value>
+    <value>إعدادات النظام</value>
   </data>
   <data name="ModuleTitle.SearchSpaces" xml:space="preserve">
     <value>البحث عن مساحات الاستضافة</value>
   </data>
   <data name="ModuleTitle.SearchObject" xml:space="preserve">
-    <value>كائنات البحث</value>
+    <value>البحث عن الكائنات</value>
   </data>
   <data name="ModuleTitle.SearchUsers" xml:space="preserve">
     <value>بحث في حسابات المستخدمين</value>
@@ -763,25 +763,25 @@
     <value>المهام</value>
   </data>
   <data name="ModuleTitle.HostedSharePointSiteCollection" xml:space="preserve">
-    <value>مجموعة مواقع شيربوينت</value>
+    <value>مجموعة مواقع SharePoint</value>
   </data>
   <data name="ModuleTitle.HostedSharePointSiteCollections" xml:space="preserve">
-    <value>مجموعات موقع شيربوينت المستضافة</value>
+    <value>مجموعات مواقع SharePoint المستضافة</value>
   </data>
   <data name="ModuleTitle.HostedSharePointBackupSiteCollection" xml:space="preserve">
-    <value> النسخ الاحتياطي لمجموعة مواقع</value>
+    <value>النسخ الاحتياطي لمجموعة مواقع</value>
   </data>
   <data name="ModuleTitle.HostedSharePointRestoreSiteCollection" xml:space="preserve">
     <value>استعادة مجموعة المواقع</value>
   </data>
   <data name="ModuleTitle.HostedSharePointEnterpriseSiteCollection" xml:space="preserve">
-    <value>مجموعة مواقع مؤسسة شيربوينت</value>
+    <value>مجموعة مواقع SharePoint Enterprise</value>
   </data>
   <data name="ModuleTitle.HostedSharePointEnterpriseSiteCollections" xml:space="preserve">
-    <value>مجموعات مواقع مؤسسة شيربوينت المستضافة</value>
+    <value>مجموعات مواقع مؤسسة SharePoint المستضافة</value>
   </data>
   <data name="ModuleTitle.HostedSharePointEnterpriseBackupSiteCollection" xml:space="preserve">
-    <value> النسخ الاحتياطي لمجموعة مواقع</value>
+    <value>النسخ الاحتياطي لمجموعة مواقع</value>
   </data>
   <data name="ModuleTitle.HostedSharePointEnterpriseRestoreSiteCollection" xml:space="preserve">
     <value>استعادة مجموعة المواقع</value>
@@ -796,31 +796,31 @@
     <value>إضافة نطاق المؤسسة</value>
   </data>
   <data name="ModuleTitle.HostedExchangeCreateOrganization" xml:space="preserve">
-    <value>إنشاء مؤسسة Exchange 2010 الجديدة</value>
+    <value>إنشاء مؤسسة Exchange 2010 جديدة</value>
   </data>
   <data name="ModuleTitle.HostedExchangeDeleteOrganization" xml:space="preserve">
-    <value>حذف المنظمة</value>
+    <value>حذف المؤسسة</value>
   </data>
   <data name="ModuleTitle.HostedExchangeOrganizationDetails" xml:space="preserve">
-    <value>تفاصيل المنظمة</value>
+    <value>تفاصيل المؤسسة</value>
   </data>
   <data name="ModuleTitle.HostedExchangeUpdateOrganizationCatchAll" xml:space="preserve">
-    <value>تحديث المنظمة الشامل</value>
+    <value>تحديث عنوان Catch-All للمؤسسة</value>
   </data>
   <data name="ModuleTitle.HostedExchangeUpdateOrganizationQuotas" xml:space="preserve">
-    <value>تحديث حصص المنظمة</value>
+    <value>تحديث حصص المؤسسة</value>
   </data>
   <data name="ModuleTitle.HostedExchangeUpdateOrganizationServicePlan" xml:space="preserve">
-    <value>تحديث خطة خدمة المنظمة</value>
+    <value>تحديث خطة خدمة المؤسسة</value>
   </data>
   <data name="ModuleTitle.SystemCenterServerAddresses" xml:space="preserve">
-    <value>عناوين خادم مركز النظام</value>
+    <value>عناوين خادم System Center</value>
   </data>
   <data name="ModuleTitle.UserAccountVLanCreate" xml:space="preserve">
-    <value>أضف VLan إلى المستخدم</value>
+    <value>إضافة VLAN إلى المستخدم</value>
   </data>
   <data name="ModuleTitle.SetupControlPanelAccounts" xml:space="preserve">
-    <value>قم بإعداد حسابات FuseCP</value>
+    <value>إعداد حسابات FuseCP</value>
   </data>
   <data name="ModuleTitle.ApplyEnableHardQuotaFeature" xml:space="preserve">
     <value>الحصة الثابتة للنظام</value>
@@ -832,7 +832,7 @@
     <value>أرقام الهواتف</value>
   </data>
   <data name="ModuleTitle.AddPhoneNumber" xml:space="preserve">
-    <value>أضف أرقام الهواتف</value>
+    <value>إضافة أرقام هواتف</value>
   </data>
   <data name="ModuleTitle.EditPhoneNumber" xml:space="preserve">
     <value>تحرير أرقام الهواتف</value>
@@ -841,7 +841,7 @@
     <value>أرقام الهواتف</value>
   </data>
   <data name="ModuleTitle.UserOrganization" xml:space="preserve">
-    <value>المنظمة المستضيفة</value>
+    <value>المؤسسة المستضافة</value>
   </data>
   <data name="ModuleTitle.RDSServers" xml:space="preserve">
     <value>خوادم RDS</value>
@@ -859,7 +859,7 @@
     <value>الخوادم الافتراضية الخاصة</value>
   </data>
   <data name="ModuleTitle.VdcCreateServer" xml:space="preserve">
-    <value>قم بإنشاء خادم VPS جديد</value>
+    <value>إنشاء خادم VPS جديد</value>
   </data>
   <data name="ModuleTitle.VdcImportServer" xml:space="preserve">
     <value>استيراد VPS</value>
@@ -868,7 +868,7 @@
     <value>الشبكة الخارجية</value>
   </data>
   <data name="ModuleTitle.VdcManagementNetwork" xml:space="preserve">
-    <value>إدارة الشبكة</value>
+    <value>شبكة الإدارة</value>
   </data>
   <data name="ModuleTitle.VdcAddPrivateNetworkVLAN" xml:space="preserve">
     <value>تخصيص شبكات VLAN</value>
@@ -895,13 +895,13 @@
     <value>إعدادات</value>
   </data>
   <data name="ModuleTitle.VpsDetailsEditConfiguration" xml:space="preserve">
-    <value>تحرير الإعدادات </value>
+    <value>تحرير التكوين</value>
   </data>
   <data name="ModuleTitle.VpsDetailsDvd" xml:space="preserve">
-    <value>قرص رقمي مضغوط</value>
+    <value>DVD</value>
   </data>
   <data name="ModuleTitle.VpsDetailsInsertDvd" xml:space="preserve">
-    <value>قرص رقمي مضغوط</value>
+    <value>DVD</value>
   </data>
   <data name="ModuleTitle.VpsDetailsSnapshots" xml:space="preserve">
     <value>لقطات</value>
@@ -943,7 +943,7 @@
     <value>مساحات التخزين</value>
   </data>
   <data name="ModuleTitle.AddSpaceStorageLevel" xml:space="preserve">
-    <value>أضف مستوى مساحة التخزين</value>
+    <value>إضافة مستوى مساحة تخزين</value>
   </data>
   <data name="ModuleTitle.EditSpaceStorageLevel" xml:space="preserve">
     <value>تحرير مستوى مساحة التخزين</value>

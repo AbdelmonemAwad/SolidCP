@@ -118,10 +118,10 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="FormComments.Text" xml:space="preserve">
-    <value>&lt;p&gt; يعرض سجل التنبيهات التسلسل الزمني للتنبيهات لجهاز افتراضي محدد. &lt;/ p&gt;</value>
+    <value>&lt;p&gt;يعرض سجل التنبيهات التسلسل الزمني للتنبيهات للجهاز الافتراضي المحدد.&lt;/p&gt;</value>
   </data>
   <data name="gvEntriesCreated.Header" xml:space="preserve">
-    <value>تم إنشاؤه:</value>
+    <value>تم إنشاؤه</value>
   </data>
   <data name="gvEntriesDescription.Header" xml:space="preserve">
     <value>وصف</value>

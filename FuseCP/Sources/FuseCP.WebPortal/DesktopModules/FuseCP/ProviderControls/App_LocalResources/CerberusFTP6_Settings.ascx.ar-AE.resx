@@ -121,7 +121,7 @@
     <value>تسجيل دخول المدير:</value>
   </data>
   <data name="lblAdminPassword.Text" xml:space="preserve">
-    <value>كلمة سر المدير:</value>
+    <value>كلمة مرور المدير:</value>
   </data>
   <data name="lblServiceUrl.Text" xml:space="preserve">
     <value>URL خدمات الويب:</value>

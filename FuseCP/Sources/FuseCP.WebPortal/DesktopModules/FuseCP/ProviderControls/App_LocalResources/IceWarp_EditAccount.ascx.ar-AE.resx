@@ -136,19 +136,19 @@
     <value>معطل (تسجيل الدخول)</value>
   </data>
   <data name="ddlAccountStateDisabledLoginReceive.Text" xml:space="preserve">
-    <value>معطل (تسجيل الدخول ، تلقي)</value>
+    <value>معطل (تسجيل الدخول، تلقي)</value>
   </data>
   <data name="ddlAccountStateDisabledTarpitting.Text" xml:space="preserve">
-    <value>تعطيل (Tarpitting)</value>
+    <value>معطل (Tarpitting)</value>
   </data>
   <data name="ddlAccountStateEnabled.Text" xml:space="preserve">
-    <value>تمكين</value>
+    <value>مُمكَّن</value>
   </data>
   <data name="ddlRespondAlways.Text" xml:space="preserve">
     <value>الاستجابة دائما (يمكن أن يسبب حلقة)</value>
   </data>
   <data name="ddlRespondDisabled.Text" xml:space="preserve">
-    <value>معطل </value>
+    <value>معطل</value>
   </data>
   <data name="ddlRespondOnce.Text" xml:space="preserve">
     <value>قم بالرد مرة واحدة</value>
@@ -166,7 +166,7 @@
     <value>حذف أقدم من (يوم):</value>
   </data>
   <data name="lblForwardOlderDays.Text" xml:space="preserve">
-    <value>أعادة توجيه الأقدم من (أيام):</value>
+    <value>إعادة توجيه الأقدم من (أيام):</value>
   </data>
   <data name="lblForwardOlderTo.Text" xml:space="preserve">
     <value>إعادة توجيه إلى:</value>

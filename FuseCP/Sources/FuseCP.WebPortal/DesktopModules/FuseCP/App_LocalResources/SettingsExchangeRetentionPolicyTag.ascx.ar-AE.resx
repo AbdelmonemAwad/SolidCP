@@ -118,16 +118,16 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="gvPolicy.Header" xml:space="preserve">
-    <value>سياسة الإحتفاظ</value>
+    <value>سياسة الاحتفاظ</value>
   </data>
   <data name="gvPolicyEdit.Header" xml:space="preserve">
-    <value>اختار</value>
+    <value>تحديد</value>
   </data>
   <data name="gvPolicy.Empty" xml:space="preserve">
-    <value>لم يتم إضافة أي علامات سياسة الاحتفاظ حتى الان. لإضافة خطة صندوق بريد جديدة ، انقر فوق الزر "إضافة جديد".</value>
+    <value>لم تتم إضافة أي علامات لسياسة الاحتفاظ حتى الآن. لإضافة خطة صندوق بريد جديدة، انقر فوق الزر "إضافة جديد".</value>
   </data>
   <data name="gvPolicySelect.Header" xml:space="preserve">
-    <value>اختار</value>
+    <value>تحديد</value>
   </data>
   <data name="valRequirePolicy.ErrorMessage" xml:space="preserve">
     <value>الرجاء إدخال علامات سياسة الاحتفاظ الصحيحة</value>
@@ -136,7 +136,7 @@
     <value>*</value>
   </data>
   <data name="btnAddPolicyText.Text" xml:space="preserve">
-    <value>اضف جديد</value>
+    <value>إضافة جديد</value>
   </data>
   <data name="btnUpdatePolicyText.Text" xml:space="preserve">
     <value>تحديث</value>

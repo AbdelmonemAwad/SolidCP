@@ -118,39 +118,39 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="breadcrumb.PageName" xml:space="preserve">
-    <value>مستخدمي سكايب للأعمال</value>
+    <value>مستخدمو Skype for Business</value>
   </data>
   <data name="btnCreateUser.Text" xml:space="preserve">
-    <value>قم بإنشاء مستخدم سكايب للأعمال</value>
+    <value>إنشاء مستخدم Skype for Business</value>
   </data>
   <data name="ddlSearchColumnDisplayName.Text" xml:space="preserve">
-    <value>عرض الاسم </value>
+    <value>اسم العرض</value>
   </data>
   <data name="ddlSearchColumnUserPrincipalName.Text" xml:space="preserve">
     <value>تسجيل الدخول</value>
   </data>
   <data name="gvUsersDisplayName.HeaderText" xml:space="preserve">
-    <value>عرض الاسم </value>
+    <value>اسم العرض</value>
   </data>
   <data name="gvUsersEmail.HeaderText" xml:space="preserve">
     <value>عنوان SIP</value>
   </data>
   <data name="locTitle.Text" xml:space="preserve">
-    <value>مستخدمي سكايب للأعمال</value>
+    <value>مستخدمو Skype for Business</value>
   </data>
   <data name="cmdDelete.OnClientClick" xml:space="preserve">
-    <value>return confirm('هل أنت متأكد من أنك تريد حذف سكايب مستخدم للأعمال ؟');</value>
+    <value>return confirm('هل أنت متأكد من أنك تريد حذف مستخدم Skype for Business؟');</value>
   </data>
   <data name="gvUsers.Empty" xml:space="preserve">
-    <value>لم يتم تمكين سكايب للأعمال لأي مستخدم. لتمكين مستخدم سكايب للأعمال ، انقر فوق الزر "إنشاء مستخدم سكايب للأعمال".</value>
+    <value>لم يتم تمكين Skype for Business لأي مستخدم. لتمكين مستخدم Skype for Business، انقر فوق الزر "إنشاء مستخدم Skype for Business".</value>
   </data>
   <data name="gvUsersLogin.Header" xml:space="preserve">
     <value>تسجيل الدخول</value>
   </data>
   <data name="Text.PageName" xml:space="preserve">
-    <value>مستخدمي سكايب للأعمال</value>
+    <value>مستخدمو Skype for Business</value>
   </data>
   <data name="btnCreateUserText.Text" xml:space="preserve">
-    <value>قم بإنشاء مستخدم سكايب للأعمال</value>
+    <value>إنشاء مستخدم Skype for Business</value>
   </data>
 </root>

@@ -118,16 +118,16 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="btnAdd.Text" xml:space="preserve">
-    <value>أضف</value>
+    <value>إضافة</value>
   </data>
   <data name="gvSfBServers.EmptyDataText" xml:space="preserve">
     <value>تقع على نفس الخادم</value>
   </data>
   <data name="gvSfBServers.Text" xml:space="preserve">
-    <value>سكايب لخوادم الأعمال</value>
+    <value>خوادم Skype for Business</value>
   </data>
   <data name="lblRootOU.Text" xml:space="preserve">
-    <value>الجذر OU:</value>
+    <value>الوحدة التنظيمية الجذر (OU):</value>
   </data>
   <data name="locServerName.Text" xml:space="preserve">
     <value>العنوان:</value>

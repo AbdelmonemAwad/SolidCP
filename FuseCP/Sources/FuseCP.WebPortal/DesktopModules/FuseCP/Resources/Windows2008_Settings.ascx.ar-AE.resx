@@ -121,7 +121,7 @@
     <value>تمكين الحصة الثابتة:</value>
   </data>
   <data name="lblLocationDrive.Text" xml:space="preserve">
-    <value>موقع محرك:</value>
+    <value>محرك أقراص الموقع:</value>
   </data>
   <data name="lblSpacesFolder.Text" xml:space="preserve">
     <value>مجلد مساحات الاستضافة:</value>

@@ -124,7 +124,7 @@
     <value>إنشاء</value>
   </data>
   <data name="locDisplayName.Text" xml:space="preserve">
-    <value>عرض الاسم *:</value>
+    <value>اسم العرض *:</value>
   </data>
   <data name="locTitle.Text" xml:space="preserve">
     <value>إنشاء مستخدم OCS</value>

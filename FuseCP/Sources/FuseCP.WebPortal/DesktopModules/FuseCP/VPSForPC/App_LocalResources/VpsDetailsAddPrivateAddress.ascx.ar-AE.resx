@@ -118,13 +118,13 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="btnAdd.Text" xml:space="preserve">
-    <value>أضف</value>
+    <value>إضافة</value>
   </data>
   <data name="btnCancel.Text" xml:space="preserve">
     <value>إلغاء</value>
   </data>
   <data name="FormComments.Text" xml:space="preserve">
-    <value>&lt;p&gt; يسمح هذا النموذج بتعيين عناوين IP جديدة لمحول شبكة VM "خاص". &lt;/ p&gt; &lt;p&gt; في الشبكة الخاصة ، يمكنك تعيين أي عناوين IP للجهاز الافتراضي ، ولكن إذا قررت ترك هذه الوظيفة لـ FuseCP ، ستنشئ عناوين IP خاصة لك عن طريق الخوارزمية التي تم تعيينها على مستوى الخدمة وتتأكد من عدم تكرار عناوين IP. &lt;/ p&gt; &lt;p&gt; بعد النقر فوق الزر "إضافة" ، سيتم إرسال تعليمات التكوين الخاصة إلى VM ، لذلك قد يستغرق الأمر بعض الوقت (حتى بضع دقائق) حتى يتم تغيير معلمات محول الشبكة. &lt;/ p&gt;</value>
+    <value>&lt;p&gt;يتيح هذا النموذج تعيين عناوين IP جديدة لمحول الشبكة "الخاص" في VM.&lt;/p&gt;&lt;p&gt;في الشبكة الخاصة يمكنك تعيين أي عناوين IP للجهاز الافتراضي، ولكن إذا قررت ترك هذه المهمة لـ FuseCP، فسيُنشئ لك عناوين IP خاصة وفق الخوارزمية المحددة على مستوى الخدمة ويتأكد من عدم تكرارها.&lt;/p&gt;&lt;p&gt;بعد النقر على الزر "إضافة"، سيتم إرسال تعليمات تكوين خاصة إلى VM، لذا قد يستغرق الأمر بعض الوقت (حتى بضع دقائق) حتى يتم تغيير معلمات محول الشبكة.&lt;/p&gt;</value>
   </data>
   <data name="locOnePerLine.Text" xml:space="preserve">
     <value>* اكتب عنوان IP واحدًا في كل سطر</value>

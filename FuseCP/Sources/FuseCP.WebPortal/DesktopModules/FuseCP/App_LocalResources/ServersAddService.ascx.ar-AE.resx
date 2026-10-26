@@ -133,7 +133,7 @@
     <value>مقدم الخدمة:</value>
   </data>
   <data name="SelectProvider.Text" xml:space="preserve">
-    <value>&lt;حدد مزود&gt;</value>
+    <value>&lt;حدد المزود&gt;</value>
   </data>
   <data name="serviceNameValidator.ErrorMessage" xml:space="preserve">
     <value>الرجاء تحديد اسم الخدمة</value>
@@ -142,7 +142,7 @@
     <value>الرجاء تحديد مزود الخدمة</value>
   </data>
   <data name="btnAdd.OnClientClick" xml:space="preserve">
-    <value>ShowProgressDialog('جارٍ إضافة الخدمة ...');</value>
+    <value>ShowProgressDialog('جارٍ إضافة الخدمة...');</value>
   </data>
   <data name="btnAddText.Text" xml:space="preserve">
     <value>إضافة خدمة</value>

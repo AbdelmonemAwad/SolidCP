@@ -118,22 +118,22 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="btnCreate.OnClientClick" xml:space="preserve">
-    <value>ShowProgressDialog('جاري إنشاء المستخدم ...');</value>
+    <value>ShowProgressDialog('جاري إنشاء المستخدم...');</value>
   </data>
   <data name="btnCreate.Text" xml:space="preserve">
     <value>إنشاء مستخدم</value>
   </data>
   <data name="chkSendInstructions.Text" xml:space="preserve">
-    <value>إرسال ملخص رسالة</value>
+    <value>إرسال رسالة الملخص</value>
   </data>
   <data name="locAccount.Text" xml:space="preserve">
     <value>عنوان البريد الإلكتروني: *</value>
   </data>
   <data name="locDisplayName.Text" xml:space="preserve">
-    <value>عرض الاسم : *</value>
+    <value>الاسم المعروض:</value>
   </data>
   <data name="locPassword.Text" xml:space="preserve">
-    <value>كلمه السر: *</value>
+    <value>كلمة المرور: *</value>
   </data>
   <data name="locSubscriberNumber.Text" xml:space="preserve">
     <value>رقم حساب: *</value>
@@ -145,7 +145,7 @@
     <value>المستخدم</value>
   </data>
   <data name="valRequireDisplayName.ErrorMessage" xml:space="preserve">
-    <value>أدخل اسم العرض</value>
+    <value>أدخل الاسم المعروض</value>
   </data>
   <data name="valRequireDisplayName.Text" xml:space="preserve">
     <value>*</value>

@@ -124,19 +124,19 @@
     <value>انقر هنا للاطلاع على التقرير</value>
   </data>
   <data name="lblBandwidth.Text" xml:space="preserve">
-    <value>الباندويث ، ميجابايت:</value>
+    <value>عرض النطاق الترددي، ميجابايت:</value>
   </data>
   <data name="lblBandwidthAllocated.Text" xml:space="preserve">
     <value>المخصص:</value>
   </data>
   <data name="lblBandwidthChart.Text" xml:space="preserve">
-    <value>باندويث</value>
+    <value>عرض النطاق الترددي</value>
   </data>
   <data name="lblBandwidthUsed.Text" xml:space="preserve">
     <value>المستخدمة:</value>
   </data>
   <data name="lblDiskspace.Text" xml:space="preserve">
-    <value>مساحة القرص ، ميجا بايت:</value>
+    <value>مساحة القرص، ميجابايت:</value>
   </data>
   <data name="lblDiskspaceAllocated.Text" xml:space="preserve">
     <value>المخصص:</value>
@@ -172,52 +172,52 @@
     <value>عدد VM:</value>
   </data>
   <data name="lblBlackBerryUsers.Text" xml:space="preserve">
-    <value>مستخدمين بلاك بيري:</value>
+    <value>مستخدمو BlackBerry:</value>
   </data>
   <data name="lblDatabases" xml:space="preserve">
     <value>قواعد بيانات:</value>
   </data>
   <data name="lblOCSUsers.Text" xml:space="preserve">
-    <value>مستخدمينOCS:</value>
+    <value>مستخدمو OCS:</value>
   </data>
   <data name="lblSharepointSites.Text" xml:space="preserve">
-    <value>مواقع مؤسسة شيربوينت:</value>
+    <value>مواقع SharePoint Foundation:</value>
   </data>
   <data name="lblUserAccounts.Text" xml:space="preserve">
     <value>حسابات المستخدمين:</value>
   </data>
   <data name="lblLyncUsers.Text" xml:space="preserve">
-    <value>مستخدمين Lync:</value>
+    <value>مستخدمو Lync:</value>
   </data>
   <data name="lblSfBUsers.Text" xml:space="preserve">
-    <value>مستخدمي سكايب للأعمال:</value>
+    <value>مستخدمو Skype for Business:</value>
   </data>
   <data name="lblExchangeAccounts.Text" xml:space="preserve">
     <value>صناديق بريد Exchange:</value>
   </data>
   <data name="lblExchangeStorage.Text" xml:space="preserve">
-    <value>تخزين Exchange ، ميجابايت:</value>
+    <value>مساحة تخزين Exchange، ميجابايت:</value>
   </data>
   <data name="lblOrganizations.Text" xml:space="preserve">
-    <value>المنظمات:</value>
+    <value>المؤسسات:</value>
   </data>
   <data name="lblLyncPhone.Text" xml:space="preserve">
     <value>أرقام هواتف Lync:</value>
   </data>
   <data name="lblSfBPhone.Text" xml:space="preserve">
-    <value>أرقام هواتف سكايب للأعمال:</value>
+    <value>أرقام هواتف Skype for Business:</value>
   </data>
   <data name="lblFolders.Text" xml:space="preserve">
     <value>المجلدات:</value>
   </data>
   <data name="lblEnterpriseStorage.Text" xml:space="preserve">
-    <value>مجلدات السحابة ، ميجابايت:</value>
+    <value>مجلدات السحابة، ميجابايت:</value>
   </data>
   <data name="lblDeletedUsers.Text" xml:space="preserve">
     <value>المستخدمون المحذوفون:</value>
   </data>
   <data name="lblSharepointEnterpriseSites.Text" xml:space="preserve">
-    <value>مواقع خادم شيربوينت:</value>
+    <value>مواقع خادم SharePoint:</value>
   </data>
   <data name="lblRdsCollections.Text" xml:space="preserve">
     <value>مجموعات RDS:</value>
@@ -226,7 +226,7 @@
     <value>خوادم RDS:</value>
   </data>
   <data name="lblRdsUsers.Text" xml:space="preserve">
-    <value>مستخدمين RDS:</value>
+    <value>مستخدمو RDS:</value>
   </data>
   <data name="btnViewQuotasText.Text" xml:space="preserve">
     <value>عرض جميع الحصص</value>

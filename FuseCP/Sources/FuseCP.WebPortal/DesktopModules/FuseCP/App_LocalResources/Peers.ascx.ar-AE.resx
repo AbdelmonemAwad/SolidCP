@@ -118,13 +118,13 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="btnAddItem.Text" xml:space="preserve">
-    <value>إنشاء حساب مقترن</value>
+    <value>إنشاء حساب نظير</value>
   </data>
   <data name="ModuleAction.AddPeer" xml:space="preserve">
-    <value>إضافة حساب مقترن</value>
+    <value>إضافة حساب نظير</value>
   </data>
   <data name="usersList.Empty" xml:space="preserve">
-    <value>لم يتم العثور على حسابات مقترنة.</value>
+    <value>لم يتم العثور على حسابات نظيرة.</value>
   </data>
   <data name="usersListEmail.Header" xml:space="preserve">
     <value>بريد إلكتروني</value>

@@ -121,7 +121,7 @@
     <value>تمكين استعراض الدليل</value>
   </data>
   <data name="chkAllowWrite.Text" xml:space="preserve">
-    <value>تمكين أي أمر</value>
+    <value>تمكين أذونات الكتابة</value>
   </data>
   <data name="chkAuthAnonymous.Text" xml:space="preserve">
     <value>السماح بالوصول المجهول</value>
@@ -139,22 +139,22 @@
     <value>تمكين مصادقة Windows المتكاملة</value>
   </data>
   <data name="chkDedicatedPool.Text" xml:space="preserve">
-    <value>تجمعات التطبيقات المخصصة</value>
+    <value>تجمع تطبيقات مخصص</value>
   </data>
   <data name="chkParentPaths.Text" xml:space="preserve">
-    <value>تمكين المسارات الرئيسية</value>
+    <value>تمكين المسارات الأصل</value>
   </data>
   <data name="chkRedirectDirectoryBelow.Text" xml:space="preserve">
-    <value>تم إدخال دليل أدناه URL</value>
+    <value>دليل أسفل عنوان URL المُدخل</value>
   </data>
   <data name="chkRedirectDirectoryBelow.TextIIS7" xml:space="preserve">
     <value>إعادة توجيه الطلبات فقط إلى المحتوى في هذا الدليل (وليس الدلائل الفرعية)</value>
   </data>
   <data name="chkRedirectExactUrl.Text" xml:space="preserve">
-    <value>تم إدخال عنوان URL الدقيق أعلاه</value>
+    <value>عنوان URL المُدخل أعلاه بالضبط</value>
   </data>
   <data name="chkRedirectExactUrl.TextIIS7" xml:space="preserve">
-    <value>إعادة توجيه جميع الطلبات إلى الوجهة المحددة (بدلاً من ذات الصلة بالوجهة)</value>
+    <value>إعادة توجيه جميع الطلبات إلى الوجهة المحددة بالضبط (بدلاً من النسبة إلى الوجهة)</value>
   </data>
   <data name="chkRedirectPermanent.Text" xml:space="preserve">
     <value>إعادة توجيه دائمة لهذا المورد</value>
@@ -169,13 +169,13 @@
     <value>ضغط:</value>
   </data>
   <data name="lblDefaultDocuments.Text" xml:space="preserve">
-    <value>Default Documents:</value>
+    <value>المستندات الافتراضية:</value>
   </data>
   <data name="lblSecuritySettings.Text" xml:space="preserve">
-    <value>اعدادات الحماية:</value>
+    <value>إعدادات الأمان:</value>
   </data>
   <data name="lblSitePath.Text" xml:space="preserve">
-    <value>Path:</value>
+    <value>المسار:</value>
   </data>
   <data name="rbLocationFolder.Text" xml:space="preserve">
     <value>مجلد في مساحة الاستضافة الخاصة بك</value>

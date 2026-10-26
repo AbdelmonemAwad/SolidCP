@@ -118,7 +118,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="buttonPanel.OnSaveClientClick" xml:space="preserve">
-    <value>ShowProgressDialog('جاري تحديث أذونات صندوق البريد ...');</value>
+    <value>ShowProgressDialog('جاري تحديث أذونات صندوق البريد...');</value>
   </data>
   <data name="grandPermission.Text" xml:space="preserve">
     <value>امنح هذا الإذن لـ:</value>
@@ -127,13 +127,13 @@
     <value>الوصول الكامل</value>
   </data>
   <data name="secSendAsPermission.Text" xml:space="preserve">
-    <value>ارسال ك</value>
+    <value>الإرسال باسم</value>
   </data>
   <data name="Text.PageName" xml:space="preserve">
     <value>أذونات</value>
   </data>
   <data name="secOnBehalfOf.Text" xml:space="preserve">
-    <value>أرسل نيابة</value>
+    <value>الإرسال نيابةً عن</value>
   </data>
   <data name="secCalendarPermissions.Text" xml:space="preserve">
     <value>الوصول إلى التقويم</value>

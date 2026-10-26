@@ -118,7 +118,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="btnAdd.Text" xml:space="preserve">
-    <value>إضافة ...</value>
+    <value>إضافة...</value>
   </data>
   <data name="btnAddSelected.Text" xml:space="preserve">
     <value>إضافة حسابات</value>
@@ -127,7 +127,7 @@
     <value>إضافة حسابات</value>
   </data>
   <data name="btnAddText.Text" xml:space="preserve">
-    <value>أضف</value>
+    <value>إضافة</value>
   </data>
   <data name="btnCancel.Text" xml:space="preserve">
     <value>إلغاء</value>
@@ -145,7 +145,7 @@
     <value>جهات الاتصال</value>
   </data>
   <data name="chkIncludeEquipment.Text" xml:space="preserve">
-    <value>ادوات</value>
+    <value>معدات</value>
   </data>
   <data name="chkIncludeLists.Text" xml:space="preserve">
     <value>قوائم التوزيع</value>
@@ -157,19 +157,19 @@
     <value>الغرف</value>
   </data>
   <data name="ddlSearchColumnDisplayName.Text" xml:space="preserve">
-    <value>عرض الاسم </value>
+    <value>الاسم المعروض</value>
   </data>
   <data name="ddlSearchColumnEmail.Text" xml:space="preserve">
     <value>عنوان البريد الإلكتروني</value>
   </data>
   <data name="gvAccounts.EmptyDataText" xml:space="preserve">
-    <value>قائمة الحسابات فارغة. انقر فوق الزر "إضافة ..." لإضافة حسابات.</value>
+    <value>قائمة الحسابات فارغة. انقر فوق الزر "إضافة..." لإضافة حسابات.</value>
   </data>
   <data name="gvAccountsAccountType.HeaderText" xml:space="preserve">
     <value>النوع</value>
   </data>
   <data name="gvAccountsDisplayName.HeaderText" xml:space="preserve">
-    <value>عرض الاسم </value>
+    <value>الاسم المعروض</value>
   </data>
   <data name="gvAccountsEmail.HeaderText" xml:space="preserve">
     <value>عنوان البريد الإلكتروني</value>
@@ -178,7 +178,7 @@
     <value>لم يتم العثور على حسابات.</value>
   </data>
   <data name="headerAddAccounts.Text" xml:space="preserve">
-    <value>حسابات المنظمة</value>
+    <value>حسابات المؤسسة</value>
   </data>
   <data name="locIncludeSearch.Text" xml:space="preserve">
     <value>تضمين في البحث:</value>

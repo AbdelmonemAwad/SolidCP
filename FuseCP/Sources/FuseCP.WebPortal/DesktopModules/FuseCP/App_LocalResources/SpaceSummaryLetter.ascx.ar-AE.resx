@@ -121,7 +121,7 @@
     <value>إرسال عبر البريد الإلكتروني</value>
   </data>
   <data name="lblTo.Text" xml:space="preserve">
-    <value>الي:</value>
+    <value>إلى:</value>
   </data>
   <data name="lblCC.Text" xml:space="preserve">
     <value>CC:</value>

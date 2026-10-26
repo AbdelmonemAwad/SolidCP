@@ -118,7 +118,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="btnAddRDSServer.Text" xml:space="preserve">
-    <value>أضف خادم RDS</value>
+    <value>إضافة خادم RDS</value>
   </data>
   <data name="btnServerInfoCancelText.Text" xml:space="preserve">
     <value>إلغاء</value>
@@ -127,10 +127,10 @@
     <value>الحالة</value>
   </data>
   <data name="gvRDSServers.Empty" xml:space="preserve">
-    <value>قائمة خوادم RDS فارغة. &lt;br&gt; &lt;br&gt; لإضافة خادم جديد انقر فوق الزر "إضافة RDS Sever".</value>
+    <value>قائمة خوادم RDS فارغة.&lt;br&gt;&lt;br&gt;لإضافة خادم جديد انقر فوق الزر "إضافة خادم RDS".</value>
   </data>
   <data name="liOrganization.Text" xml:space="preserve">
-    <value>منظمة</value>
+    <value>مؤسسة</value>
   </data>
   <data name="liServerName.Text" xml:space="preserve">
     <value>اسم الخادم</value>

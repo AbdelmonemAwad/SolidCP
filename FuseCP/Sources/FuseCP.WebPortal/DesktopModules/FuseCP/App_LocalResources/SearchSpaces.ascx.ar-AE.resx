@@ -121,10 +121,10 @@
     <value>إنشاء مساحة استضافة</value>
   </data>
   <data name="gvPackages.Empty" xml:space="preserve">
-    <value>لم يتم العثور على خطط استضافة.</value>
+    <value>لم يتم العثور على مساحات استضافة.</value>
   </data>
   <data name="gvPackagesCreationDate.Header" xml:space="preserve">
-    <value>تاريخ الإنشاء:</value>
+    <value>تاريخ الإنشاء</value>
   </data>
   <data name="gvPackagesHostingPlan.Header" xml:space="preserve">
     <value>خطة الاستضافة</value>

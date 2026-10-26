@@ -121,7 +121,7 @@
     <value>إلغاء</value>
   </data>
   <data name="btnSaveAndAddAnother.Text" xml:space="preserve">
-    <value>احفظ وأضف آخر</value>
+    <value>حفظ وإضافة آخر</value>
   </data>
   <data name="btnUpdate.Text" xml:space="preserve">
     <value>تحديث</value>
@@ -130,7 +130,7 @@
     <value>نوع المصادقة</value>
   </data>
   <data name="lblDigestRealm.Text" xml:space="preserve">
-    <value>ملخص عالم</value>
+    <value>نطاق مصادقة Digest (Realm)</value>
   </data>
   <data name="lblEncType.Text" xml:space="preserve">
     <value>نوع التشفير</value>

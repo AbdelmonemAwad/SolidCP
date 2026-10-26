@@ -118,7 +118,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="btnAdd.OnClientClick" xml:space="preserve">
-    <value>ShowProgressDialog('إنشاء موقع ويب ...');</value>
+    <value>ShowProgressDialog('جارٍ إنشاء موقع الويب...');</value>
   </data>
   <data name="btnAdd.Text" xml:space="preserve">
     <value>إنشاء موقع ويب</value>
@@ -142,19 +142,19 @@
     <value>عنوان IP:</value>
   </data>
   <data name="lblIPHelp.Text" xml:space="preserve">
-    <value>إذا كنت تريد الوصول إلى موقع الويب الخاص بك عبر عنوان IP مخصص أو إذا كنت تخطط لتمكين SSL لموقعك ، فيجب عليك اختيار خيار "Dedicated IP" ؛ وإلا اترك هذه الإعدادات بشكل افتراضي. من أجل إنشاء موقع قائم على IP ، تحتاج إلى شراء عنوان IP من مضيفك.</value>
+    <value>إذا كنت تريد إتاحة الوصول إلى موقع الويب الخاص بك عبر عنوان IP مخصص أو كنت تخطط لتمكين SSL لموقعك، فيجب عليك اختيار الخيار "IP مخصص"؛ وإلا فاترك هذا الإعداد على الوضع الافتراضي. لإنشاء موقع قائم على IP، تحتاج إلى شراء عنوان IP من مزود الاستضافة.</value>
   </data>
   <data name="lblIPHelp2.Text" xml:space="preserve">
-    <value>ملاحظة: غالبًا ما يتم تعريف قالب المنطقة A بواسطة مضيفك ويحتوي على مؤشرات موقع ويب إضافية يتم إنشاؤها عند إنشاء موقع ويب جديد. تتعارض تعريفات السجلات الثابتة مثل "www" عند إنشاء موقع ويب إضافي في نفس النطاق.</value>
+    <value>ملاحظة: غالبًا ما يُعرِّف مزود الاستضافة قالب المنطقة، ويحتوي على مؤشرات مواقع ويب إضافية تُنشأ عند إنشاء موقع ويب جديد. تتعارض تعريفات السجلات الثابتة مثل "www" عند إنشاء موقع ويب إضافي في النطاق نفسه.</value>
   </data>
   <data name="lblTheDotInTheMiddle.Text" xml:space="preserve">
     <value>.</value>
   </data>
   <data name="rbDedicatedIP.Text" xml:space="preserve">
-    <value>مخصصة</value>
+    <value>مخصص</value>
   </data>
   <data name="rbSharedIP.Text" xml:space="preserve">
-    <value>المشتركة</value>
+    <value>مشترك</value>
   </data>
   <data name="valRequireIP.Text" xml:space="preserve">
     <value>حدد عنوان IP</value>

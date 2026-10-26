@@ -118,7 +118,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="btnRecalculate.OnClientClick" xml:space="preserve">
-    <value>return confirm('قد تتطلب إعادة حساب مساحة قرص المؤسسة وقتًا معينًا لإكمالها وسيتم تنفيذ هذه المهمة بشكل غير متزامن. ستتوفر قيمة مساحة القرص الجديدة في غضون بضع دقائق. متابعة حساب مساحة القرص؟');</value>
+    <value>return confirm('قد تستغرق إعادة حساب مساحة قرص المؤسسة بعض الوقت، وسيتم تنفيذ هذه المهمة بشكل غير متزامن. ستتوفر قيمة مساحة القرص الجديدة في غضون بضع دقائق. هل تريد متابعة حساب مساحة القرص؟');</value>
   </data>
   <data name="btnRecalculate.Text" xml:space="preserve">
     <value>إعادة حساب مساحة القرص</value>

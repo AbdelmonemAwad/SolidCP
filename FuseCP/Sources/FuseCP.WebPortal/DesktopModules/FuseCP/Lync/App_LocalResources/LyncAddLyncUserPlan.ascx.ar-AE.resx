@@ -130,7 +130,7 @@
     <value>*</value>
   </data>
   <data name="chkIM.Text" xml:space="preserve">
-    <value>رسالة فورية</value>
+    <value>المراسلة الفورية</value>
   </data>
   <data name="chkConferencing.Text" xml:space="preserve">
     <value>المؤتمرات</value>
@@ -142,7 +142,7 @@
     <value>مكالمات الطوارئ</value>
   </data>
   <data name="chkNational.Text" xml:space="preserve">
-    <value>المكالمات المحلية</value>
+    <value>المكالمات الوطنية</value>
   </data>
   <data name="secPlanFeatures.Text" xml:space="preserve">
     <value>مميزات الخطة</value>
@@ -157,7 +157,7 @@
     <value>إعدادات المؤتمرات</value>
   </data>
   <data name="btnAdd" xml:space="preserve">
-    <value>أضف خطة جديدة</value>
+    <value>إضافة خطة جديدة</value>
   </data>
   <data name="chkInternational.Text" xml:space="preserve">
     <value>مكالمات دولية</value>
@@ -178,6 +178,6 @@
     <value>وصول الهاتف المحمول</value>
   </data>
   <data name="btnAddText" xml:space="preserve">
-    <value>أضف خطة جديدة</value>
+    <value>إضافة خطة جديدة</value>
   </data>
 </root>

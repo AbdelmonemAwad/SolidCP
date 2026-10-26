@@ -118,7 +118,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="btnAdd.Text" xml:space="preserve">
-    <value>أضف</value>
+    <value>إضافة</value>
   </data>
   <data name="btnCancel.Text" xml:space="preserve">
     <value>إلغاء</value>
@@ -136,7 +136,7 @@
     <value>* اضغط على مفتاح CTRL لتحديد عناوين متعددة</value>
   </data>
   <data name="locNotEnoughAddresses.Text" xml:space="preserve">
-    <value>مجموعة عناوين IP فارغة. &lt;br/&gt; تخصيص المزيد من عناوين IP على مستوى المورِّد. إذا كانت مساحة الاستضافة الحالية متداخلة ضمن مساحة "النظام" ، فقم بإضافة المزيد من عناوين IP للخادم إلى المجموعة المناسبة في صفحة "التكوين -&gt; عناوين IP".</value>
+    <value>مجموعة عناوين IP فارغة.&lt;br/&gt;خصّص المزيد من عناوين IP على مستوى الموزع. إذا كانت مساحة الاستضافة الحالية متداخلة ضمن مساحة "النظام"، فأضف المزيد من عناوين IP للخادم إلى المجموعة المناسبة في صفحة "التكوين -&gt; عناوين IP".</value>
   </data>
   <data name="locTitle.Text" xml:space="preserve">
     <value>تخصيص عناوين IP</value>

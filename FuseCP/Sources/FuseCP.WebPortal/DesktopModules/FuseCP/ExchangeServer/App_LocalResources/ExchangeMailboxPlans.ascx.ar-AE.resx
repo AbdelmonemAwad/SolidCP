@@ -118,13 +118,13 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="btnAddMailboxPlan.Text" xml:space="preserve">
-    <value>اضف جديد</value>
+    <value>إضافة جديد</value>
   </data>
   <data name="btnSetDefaultMailboxPlan.Text" xml:space="preserve">
-    <value>قم بتعيين خطة صندوق البريد الافتراضية</value>
+    <value>تعيين خطة صندوق البريد الافتراضية</value>
   </data>
   <data name="cmdDelete.OnClientClick" xml:space="preserve">
-    <value>if(!confirm('هل أنت متأكد أنك تريد حذف المحدد؟')) return false; else ShowProgressDialog('جارٍ حذف الخطة ...');</value>
+    <value>if(!confirm('هل أنت متأكد أنك تريد حذف المحدد؟')) return false; else ShowProgressDialog('جارٍ حذف الخطة...');</value>
   </data>
   <data name="cmdDelete.Text" xml:space="preserve">
     <value>حذف</value>
@@ -136,7 +136,7 @@
     <value>الاسم</value>
   </data>
   <data name="gvMailboxPlanDefault.Header" xml:space="preserve">
-    <value>الإفتراضي</value>
+    <value>الافتراضي</value>
   </data>
   <data name="gvMailboxPlans.Empty" xml:space="preserve">
     <value>لم يتم إضافة أي خطط حتى الآن. لإضافة خطة جديدة انقر فوق الزر "إضافة جديد".</value>
@@ -157,9 +157,9 @@
     <value>خطط صندوق البريد</value>
   </data>
   <data name="locTitleRetentionPolicy.Text" xml:space="preserve">
-    <value>سياسة الإحتفاظ</value>
+    <value>سياسة الاحتفاظ</value>
   </data>
   <data name="Text.PageRetentionPolicyName" xml:space="preserve">
-    <value>سياسة الإحتفاظ</value>
+    <value>سياسة الاحتفاظ</value>
   </data>
 </root>

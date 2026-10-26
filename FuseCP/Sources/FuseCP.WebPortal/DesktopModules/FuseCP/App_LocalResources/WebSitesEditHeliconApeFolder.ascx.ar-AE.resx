@@ -127,7 +127,7 @@
     <value>إلغاء</value>
   </data>
   <data name="btnSave.Text" xml:space="preserve">
-    <value>احفظ وتابع التحرير</value>
+    <value>حفظ ومتابعة التحرير</value>
   </data>
   <data name="btnUpdate.Text" xml:space="preserve">
     <value>تحديث</value>
@@ -136,7 +136,7 @@
     <value>مسار .htaccess:</value>
   </data>
   <data name="lblDebuggingPageLink.Text" xml:space="preserve">
-    <value>تصحيح ارتباط الصفحة</value>
+    <value>رابط صفحة التصحيح</value>
   </data>
   <data name="lblCLickLink.Text" xml:space="preserve">
     <value>انقر فوق هذا الارتباط لفتح صفحة التصحيح</value>

@@ -118,7 +118,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="btnAddPointer.Text" xml:space="preserve">
-    <value>أضف المؤشر</value>
+    <value>إضافة مؤشر</value>
   </data>
   <data name="btnCancel.Text" xml:space="preserve">
     <value>إلغاء</value>
@@ -133,7 +133,7 @@
     <value>حذف</value>
   </data>
   <data name="btnUpdate.OnClientClick" xml:space="preserve">
-    <value>ShowProgressDialog('جارٍ تحديث إعدادات المجال ...');</value>
+    <value>ShowProgressDialog('جارٍ تحديث إعدادات النطاق...');</value>
   </data>
   <data name="btnUpdate.Text" xml:space="preserve">
     <value>تحديث</value>

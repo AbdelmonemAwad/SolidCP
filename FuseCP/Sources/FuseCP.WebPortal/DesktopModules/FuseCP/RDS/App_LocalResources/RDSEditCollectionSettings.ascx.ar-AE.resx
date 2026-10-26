@@ -142,16 +142,16 @@
     <value>قطع الاتصال من الجلسة</value>
   </data>
   <data name="chDrives.Text" xml:space="preserve">
-    <value>محركات اقراص</value>
+    <value>محركات الأقراص</value>
   </data>
   <data name="chEasyPrint.Text" xml:space="preserve">
-    <value>استخدم برنامج تشغيل الطباعة السهل للطباعة لسطح المكتب البعيد أولاً</value>
+    <value>استخدم برنامج تشغيل الطباعة Easy Print لسطح المكتب البعيد أولاً</value>
   </data>
   <data name="chEndSession.Text" xml:space="preserve">
     <value>قم بإنهاء الجلسة</value>
   </data>
   <data name="chPlugPlay.Text" xml:space="preserve">
-    <value>توصيل وتشغيل الأجهزة</value>
+    <value>أجهزة التوصيل والتشغيل</value>
   </data>
   <data name="chPrinterRedirection.Text" xml:space="preserve">
     <value>السماح بإعادة توجيه طابعة العميل</value>
@@ -181,7 +181,7 @@
     <value>حد جلسة الخمول:</value>
   </data>
   <data name="locMonitors.Text" xml:space="preserve">
-    <value>المراقبين</value>
+    <value>الشاشات</value>
   </data>
   <data name="locMonitorsNumber.Text" xml:space="preserve">
     <value>الحد الأقصى لعدد الشاشات المعاد توجيهها:</value>
@@ -205,7 +205,7 @@
     <value>إعدادات العميل</value>
   </data>
   <data name="secRdsSecuritySettings.Text" xml:space="preserve">
-    <value>اعدادات الحماية</value>
+    <value>إعدادات الحماية</value>
   </data>
   <data name="secRdsSessionSettings.Text" xml:space="preserve">
     <value>إعدادات الجلسة</value>

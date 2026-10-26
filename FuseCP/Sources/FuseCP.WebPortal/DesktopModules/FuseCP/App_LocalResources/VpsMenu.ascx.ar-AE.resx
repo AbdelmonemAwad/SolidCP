@@ -130,7 +130,7 @@
     <value>الشبكة الخارجية</value>
   </data>
   <data name="Text.ManagementNetwork" xml:space="preserve">
-    <value>إدارة الشبكة</value>
+    <value>شبكة الإدارة</value>
   </data>
   <data name="Text.PrivateNetwork" xml:space="preserve">
     <value>شبكة خاصة</value>

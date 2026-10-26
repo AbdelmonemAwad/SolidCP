@@ -121,7 +121,7 @@
     <value>إلغاء</value>
   </data>
   <data name="btnClearLog.OnClientClick" xml:space="preserve">
-    <value>if(confirm('هل تريد مسح سجل الأحداث الحالي؟')) ShowProgressDialog('جارٍ حذف سجل الأحداث ...'); else return false;</value>
+    <value>if(confirm('هل تريد مسح سجل الأحداث الحالي؟')) ShowProgressDialog('جارٍ حذف سجل الأحداث...'); else return false;</value>
   </data>
   <data name="btnClearLog.Text" xml:space="preserve">
     <value>مسح السجل</value>
@@ -130,13 +130,13 @@
     <value>خطأ</value>
   </data>
   <data name="EventType.FailureAudit" xml:space="preserve">
-    <value>تدوين الفشل</value>
+    <value>تدقيق الفشل</value>
   </data>
   <data name="EventType.Information" xml:space="preserve">
     <value>معلومات</value>
   </data>
   <data name="EventType.SuccessAudit" xml:space="preserve">
-    <value>تدوين النجاح</value>
+    <value>تدقيق النجاح</value>
   </data>
   <data name="EventType.Warning" xml:space="preserve">
     <value>تحذير</value>

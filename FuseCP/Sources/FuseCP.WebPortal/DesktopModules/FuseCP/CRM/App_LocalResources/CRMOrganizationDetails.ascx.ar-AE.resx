@@ -118,19 +118,19 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="btnCreate.OnClientClick" xml:space="preserve">
-    <value>ShowProgressDialog('إنشاء منظمة CRM ...');</value>
+    <value>ShowProgressDialog('جارٍ إنشاء مؤسسة CRM...');</value>
   </data>
   <data name="btnCreate.Text" xml:space="preserve">
     <value>إنشاء</value>
   </data>
   <data name="btnDelete.OnClientClick" xml:space="preserve">
-    <value>return confirm('هل أنت متأكد من أنك تريد حذف مؤسسة إدارة علاقات العملاء؟');</value>
+    <value>return confirm('هل أنت متأكد من أنك تريد حذف مؤسسة CRM؟');</value>
   </data>
   <data name="btnDelete.Text" xml:space="preserve">
     <value>حذف</value>
   </data>
   <data name="Failed" xml:space="preserve">
-    <value>فشلت</value>
+    <value>فشل</value>
   </data>
   <data name="lblAdministrator.Text" xml:space="preserve">
     <value>المسؤول:</value>
@@ -151,7 +151,7 @@
     <value>اسم فريد:</value>
   </data>
   <data name="lblState.Text" xml:space="preserve">
-    <value>ولاية:</value>
+    <value>الحالة:</value>
   </data>
   <data name="Maintenance" xml:space="preserve">
     <value>الصيانة</value>
@@ -160,6 +160,6 @@
     <value>قيد الانتظار</value>
   </data>
   <data name="Text.PageName" xml:space="preserve">
-    <value>منظمة CRM</value>
+    <value>مؤسسة CRM</value>
   </data>
 </root>

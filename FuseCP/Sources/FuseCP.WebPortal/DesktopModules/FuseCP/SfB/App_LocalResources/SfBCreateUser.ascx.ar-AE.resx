@@ -118,16 +118,16 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="breadcrumb.PageName" xml:space="preserve">
-    <value>قم بإنشاء مستخدم سكايب للأعمال</value>
+    <value>إنشاء مستخدم Skype for Business</value>
   </data>
   <data name="btnCreate.Text" xml:space="preserve">
     <value>إنشاء</value>
   </data>
   <data name="locDisplayName.Text" xml:space="preserve">
-    <value>عرض الاسم *:</value>
+    <value>اسم العرض *:</value>
   </data>
   <data name="locTitle.Text" xml:space="preserve">
-    <value>قم بإنشاء مستخدم سكايب للأعمال</value>
+    <value>إنشاء مستخدم Skype for Business</value>
   </data>
   <data name="locPlanName.Text" xml:space="preserve">
     <value>اسم الخطة *:</value>

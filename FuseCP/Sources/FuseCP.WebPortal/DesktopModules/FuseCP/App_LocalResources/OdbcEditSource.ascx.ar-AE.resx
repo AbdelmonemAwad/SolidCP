@@ -130,22 +130,22 @@
     <value>حفظ</value>
   </data>
   <data name="ddlDriverItem.Excel" xml:space="preserve">
-    <value>مايكروسوفت اكسل</value>
+    <value>MS Excel</value>
   </data>
   <data name="ddlDriverItem.Excel2010" xml:space="preserve">
-    <value>مايكروسوفت اكسل</value>
+    <value>MS Excel</value>
   </data>
   <data name="ddlDriverItem.MsAccess" xml:space="preserve">
-    <value>مايكروسوفت اكسس</value>
+    <value>MS Access</value>
   </data>
   <data name="ddlDriverItem.MsAccess2010" xml:space="preserve">
-    <value>مايكروسوفت اكسس</value>
+    <value>MS Access</value>
   </data>
   <data name="ddlDriverItem.MsSql" xml:space="preserve">
-    <value>خادم SQL</value>
+    <value>SQL Server</value>
   </data>
   <data name="ddlDriverItem.MsSqlNative" xml:space="preserve">
-    <value>خادم SQL الأصلي</value>
+    <value>SQL Server الأصلي</value>
   </data>
   <data name="ddlDriverItem.MySql" xml:space="preserve">
     <value>MySQL</value>
@@ -169,7 +169,7 @@
     <value>برنامج تشغيل ODBC:</value>
   </data>
   <data name="lblFile.Text" xml:space="preserve">
-    <value>مجلد/ ملف:</value>
+    <value>ملف/مجلد:</value>
   </data>
   <data name="lblPassword.Text" xml:space="preserve">
     <value>كلمة المرور:</value>

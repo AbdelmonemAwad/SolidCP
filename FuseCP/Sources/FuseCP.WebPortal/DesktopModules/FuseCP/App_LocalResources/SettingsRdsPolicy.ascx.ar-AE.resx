@@ -118,7 +118,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="cbAdministrators.Text" xml:space="preserve">
-    <value>المسؤول:</value>
+    <value>المسؤولون</value>
   </data>
   <data name="cbAllowImport.Text" xml:space="preserve">
     <value>السماح</value>
@@ -133,13 +133,13 @@
     <value>تغيير سطح المكتب معطل</value>
   </data>
   <data name="secControlSession.Text" xml:space="preserve">
-    <value>التحكم في جلسة RDP بدون إذن المستخدمين</value>
+    <value>التحكم في جلسة RDS بدون إذن المستخدم</value>
   </data>
   <data name="secDisableCmd.Text" xml:space="preserve">
     <value>تعطيل موجه الأوامر</value>
   </data>
   <data name="secDriveSpace.Text" xml:space="preserve">
-    <value>عتبة مساحة محرك اقراص</value>
+    <value>حد مساحة محرك الأقراص</value>
   </data>
   <data name="secHideCDrive.Text" xml:space="preserve">
     <value>إخفاء محركات الأقراص المحددة هذه في "جهاز الكمبيوتر"</value>
@@ -163,6 +163,6 @@
     <value>مهلة قفل الشاشة (ثانية)</value>
   </data>
   <data name="secViewSession.Text" xml:space="preserve">
-    <value>عرض جلسة RDS بدون إذن المستخدمين</value>
+    <value>عرض جلسة RDS بدون إذن المستخدم</value>
   </data>
 </root>

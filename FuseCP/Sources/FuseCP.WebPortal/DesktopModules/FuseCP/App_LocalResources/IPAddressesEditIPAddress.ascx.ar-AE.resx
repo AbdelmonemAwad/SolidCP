@@ -142,10 +142,10 @@
     <value>عام</value>
   </data>
   <data name="ddlPoolsVpsExternalNetwork.Text" xml:space="preserve">
-    <value>الشبكة الخارجية VPS</value>
+    <value>الشبكة الخارجية لـ VPS</value>
   </data>
   <data name="ddlPoolsVpsManagementNetwork.Text" xml:space="preserve">
-    <value>إدارة الشبكة VPS</value>
+    <value>شبكة إدارة VPS</value>
   </data>
   <data name="ddlPoolsWebSites.Text" xml:space="preserve">
     <value>مواقع الويب</value>
@@ -154,6 +154,6 @@
     <value>عنوان IP:</value>
   </data>
   <data name="lblInternalIP.Text" xml:space="preserve">
-    <value>عنوان NAT</value>
+    <value>عنوان NAT:</value>
   </data>
 </root>

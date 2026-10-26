@@ -121,13 +121,13 @@
     <value>إنشاء مستخدم جديد</value>
   </data>
   <data name="cmdDelete1.OnClientClick" xml:space="preserve">
-    <value>if(!confirm('هل أنت متأكد أنك تريد حذف هذا المستخدم؟')) return false; else ShowProgressDialog('جارٍ حذف المستخدم ...');</value>
+    <value>if(!confirm('هل أنت متأكد أنك تريد حذف هذا المستخدم؟')) return false; else ShowProgressDialog('جارٍ حذف المستخدم...');</value>
   </data>
   <data name="cmdDelete.Text" xml:space="preserve">
     <value>حذف</value>
   </data>
   <data name="cmdDelete.ToolTip" xml:space="preserve">
-    <value>مسح المستخدم</value>
+    <value>حذف المستخدم</value>
   </data>
   <data name="cmdSearch.AlternateText" xml:space="preserve">
     <value>البحث</value>
@@ -136,7 +136,7 @@
     <value>حساب النطاق</value>
   </data>
   <data name="ddlSearchColumnDisplayName.Text" xml:space="preserve">
-    <value>عرض الاسم </value>
+    <value>الاسم المعروض</value>
   </data>
   <data name="ddlSearchColumnEmail.Text" xml:space="preserve">
     <value>عنوان البريد الإلكتروني</value>
@@ -148,10 +148,10 @@
     <value>مشترك</value>
   </data>
   <data name="gvUsers.Empty" xml:space="preserve">
-    <value>لم يتم إنشاء مستخدمين. لإنشاء مستخدم جديد ، انقر فوق الزر "إنشاء مستخدمين جدد".</value>
+    <value>لم يتم إنشاء مستخدمين. لإنشاء مستخدم جديد، انقر فوق الزر "إنشاء مستخدمين جدد".</value>
   </data>
   <data name="gvUsersDisplayName.Header" xml:space="preserve">
-    <value>عرض الاسم </value>
+    <value>الاسم المعروض</value>
   </data>
   <data name="gvUsersEmail.Header" xml:space="preserve">
     <value>عنوان البريد الإلكتروني الرئيسي</value>
@@ -184,16 +184,16 @@
     <value>إلغاء</value>
   </data>
   <data name="btnDelete.OnClientClick" xml:space="preserve">
-    <value>ShowProgressDialog('جارٍ حذف المستخدم ...');</value>
+    <value>ShowProgressDialog('جارٍ حذف المستخدم...');</value>
   </data>
   <data name="btnDelete.Text" xml:space="preserve">
     <value>حذف</value>
   </data>
   <data name="chkEnableForceArchiveMailbox.Text" xml:space="preserve">
-    <value>أرشفة علب البريد</value>
+    <value>أرشفة صناديق البريد</value>
   </data>
   <data name="headerDeleteUser.Text" xml:space="preserve">
-    <value>مسح المستخدم</value>
+    <value>حذف المستخدم</value>
   </data>
   <data name="litDeleteUser.text" xml:space="preserve">
     <value>هل أنت متأكد أنك تريد حذف هذا المستخدم؟</value>

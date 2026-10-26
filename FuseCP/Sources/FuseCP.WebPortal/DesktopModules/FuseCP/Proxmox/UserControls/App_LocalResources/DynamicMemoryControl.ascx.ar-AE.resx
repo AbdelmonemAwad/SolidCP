@@ -118,7 +118,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="locMinimum.Text" xml:space="preserve">
-    <value>الحد الأدنى لذاكرة الوصول العشوائي ، ميجابايت:</value>
+    <value>الحد الأدنى لذاكرة الوصول العشوائي، ميجابايت:</value>
   </data>
   <data name="MinimumCompareValidator.ErrorMessage" xml:space="preserve">
     <value>يجب أن يكون الحد الأدنى للذاكرة عددًا صحيحًا</value>
@@ -145,10 +145,10 @@
     <value>أدخل المخزن المؤقت</value>
   </data>
   <data name="locBuffer.Text" xml:space="preserve">
-    <value>التخزين المؤقت ،٪:</value>
+    <value>المخزن المؤقت، %:</value>
   </data>
   <data name="locMaximum.Text" xml:space="preserve">
-    <value>الحد الأقصى لذاكرة الوصول العشوائي ، ميجابايت:</value>
+    <value>الحد الأقصى لذاكرة الوصول العشوائي، ميجابايت:</value>
   </data>
   <data name="locPriority.Text" xml:space="preserve">
     <value>الوزن (الأولوية):</value>
@@ -163,6 +163,6 @@
     <value>يجب أن يكون الوزن (الأولوية) عددًا صحيحًا بين 0 و 100</value>
   </data>
   <data name="PriorityRequireValidator.ErrorMessage" xml:space="preserve">
-    <value>أدخل الحجم (الأولوية)</value>
+    <value>أدخل الوزن (الأولوية)</value>
   </data>
 </root>

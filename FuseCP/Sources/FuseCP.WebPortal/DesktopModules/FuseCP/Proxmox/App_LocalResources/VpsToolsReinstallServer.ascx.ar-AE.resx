@@ -121,13 +121,13 @@
     <value>إلغاء</value>
   </data>
   <data name="btnReinstall.Text" xml:space="preserve">
-    <value>أعد التثبيت</value>
+    <value>إعادة التثبيت</value>
   </data>
   <data name="chkConfirmReinstall.Text" xml:space="preserve">
-    <value>نعم ، أؤكد إعادة تثبيت VPS هذا</value>
+    <value>نعم، أؤكد إعادة تثبيت VPS هذا</value>
   </data>
   <data name="chkExport.Text" xml:space="preserve">
-    <value>قم باستخراج VPS قبل إعادة التثبيت إلى المجلد التالي:</value>
+    <value>قم بتصدير VPS قبل إعادة التثبيت إلى المجلد التالي:</value>
   </data>
   <data name="chkPreserveExistingFiles.Text" xml:space="preserve">
     <value>احفظ ملفات محرك الأقراص الثابتة VPS الموجودة</value>
@@ -136,7 +136,7 @@
     <value>لا تحذف ملف محرك الأقراص الثابتة الافتراضي VPS</value>
   </data>
   <data name="ExportPathValidator.ErrorMessage" xml:space="preserve">
-    <value>أدخل مسار الاستخراج</value>
+    <value>أدخل مسار التصدير</value>
   </data>
   <data name="locDescription.Text" xml:space="preserve">
     <value>سيقوم هذا المعالج بإعادة إنشاء VPS بنفس إعدادات التكوين من البداية ثم تطبيق قالب نظام التشغيل الحالي.</value>
@@ -145,7 +145,7 @@
     <value>كلمة مرور المسؤول الجديدة:</value>
   </data>
   <data name="locPreserveHelp.Text" xml:space="preserve">
-    <value>سيتم نسخ جميع الملفات من القرص الصلب الموجود إلى &amp; quot؛ old &amp; quot؛ مجلد القرص على القرص الصلب من VPS الجديد.</value>
+    <value>سيتم نسخ جميع الملفات من القرص الصلب الحالي إلى مجلد &amp;quot;old&amp;quot; على القرص الصلب لـ VPS الجديد.</value>
   </data>
   <data name="locSubTitle.Text" xml:space="preserve">
     <value>أعد تثبيت خادم VPS</value>

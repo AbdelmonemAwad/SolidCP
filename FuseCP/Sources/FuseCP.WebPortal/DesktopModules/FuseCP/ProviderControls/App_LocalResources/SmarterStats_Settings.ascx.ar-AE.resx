@@ -127,7 +127,7 @@
     <value>(0 - لا تحذف أبدًا)</value>
   </data>
   <data name="lblLogAutoDeletion.Text" xml:space="preserve">
-    <value>حذف سجلات موقع الويب بعد الأيام:</value>
+    <value>حذف سجلات موقع الويب بعد (أيام):</value>
   </data>
   <data name="lblLogFormat.Text" xml:space="preserve">
     <value>تنسيق السجلات:</value>
@@ -136,16 +136,16 @@
     <value>سجل Wildcard:</value>
   </data>
   <data name="lblPassword.Text" xml:space="preserve">
-    <value>كلمة سر المدير:</value>
+    <value>كلمة مرور المدير:</value>
   </data>
   <data name="lblServer.Text" xml:space="preserve">
     <value>خادم SmarterStats:</value>
   </data>
   <data name="lblSmarterLogAutoDeletion.Text" xml:space="preserve">
-    <value>حذف السجلات الأكثر ذكاءً بعد ، أشهر:</value>
+    <value>حذف سجلات Smarter Logs بعد (أشهر):</value>
   </data>
   <data name="lblSmarterLogs.Text" xml:space="preserve">
-    <value>موقع سجلات أذكى:</value>
+    <value>موقع Smarter Logs:</value>
   </data>
   <data name="lblSmarterUrl.Text" xml:space="preserve">
     <value>عنوان URL لخدمات الويب SmarterStats:</value>
@@ -157,6 +157,6 @@
     <value>المنطقة الزمنية لاستيراد السجل:</value>
   </data>
   <data name="lblUsername.Text" xml:space="preserve">
-    <value>كلمة سر المدير:</value>
+    <value>اسم مستخدم المدير:</value>
   </data>
 </root>

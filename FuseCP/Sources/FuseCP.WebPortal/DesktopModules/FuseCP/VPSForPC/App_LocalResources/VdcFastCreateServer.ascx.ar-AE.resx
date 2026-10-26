@@ -121,13 +121,13 @@
     <value>إلغاء</value>
   </data>
   <data name="btnCreate.OnClientClick" xml:space="preserve">
-    <value>ShowProgressDialog('جاري إنشاء جهاز افتراضي ...');</value>
+    <value>ShowProgressDialog('جاري إنشاء جهاز افتراضي...');</value>
   </data>
   <data name="btnCreateText.Text" xml:space="preserve">
     <value>إنشاء</value>
   </data>
   <data name="FormComments.Text" xml:space="preserve">
-    <value>&lt;p&gt; يسمح هذا النموذج بإنشاء VM استنادًا إلى VM الموجود. &lt;/ p&gt;</value>
+    <value>&lt;p&gt;يتيح هذا النموذج إنشاء VM استنادًا إلى VM موجود.&lt;/p&gt;</value>
   </data>
   <data name="locDescription.Text" xml:space="preserve">
     <value>سيقوم هذا المعالج بإنشاء جهاز افتراضي جديد.</value>
@@ -139,7 +139,7 @@
     <value>إنشاء VM</value>
   </data>
   <data name="locOperatingSystem.Text" xml:space="preserve">
-    <value>أجهزة افتراضية:</value>
+    <value>الجهاز الافتراضي:</value>
   </data>
   <data name="OperatingSystemValidator" xml:space="preserve">
     <value>يرجى تحديد VM</value>
@@ -154,6 +154,6 @@
     <value>الرجاء إدخال اسم VM الجديد</value>
   </data>
   <data name="locWarningCloning.Text" xml:space="preserve">
-    <value>سيتم إيقاف VM قبل الاستنساخ ، هل أنت موافق على هذا؟</value>
+    <value>سيتم إيقاف VM قبل الاستنساخ، هل أنت موافق على هذا؟</value>
   </data>
 </root>

@@ -121,21 +121,21 @@
     <value>إلغاء</value>
   </data>
   <data name="btnCreate.OnClientClick" xml:space="preserve">
-    <value>ShowProgressDialog('جارٍ تمكين البريد في المجلد العام ...');</value>
+    <value>ShowProgressDialog('جارٍ تمكين البريد في المجلد العام...');</value>
   </data>
   <data name="btnCreate.Text" xml:space="preserve">
-    <value>تمكين المجلد العام للبريد</value>
+    <value>تمكين البريد للمجلد العام</value>
   </data>
   <data name="locEmail.Text" xml:space="preserve">
     <value>عنوان البريد الإلكتروني: *</value>
   </data>
   <data name="locTitle.Text" xml:space="preserve">
-    <value>تمكين المجلد العام للبريد</value>
+    <value>تمكين البريد للمجلد العام</value>
   </data>
   <data name="Text.PageName" xml:space="preserve">
     <value>المجلدات العامة</value>
   </data>
   <data name="btnCreateText.Text" xml:space="preserve">
-    <value>تمكين المجلد العام للبريد</value>
+    <value>تمكين البريد للمجلد العام</value>
   </data>
 </root>

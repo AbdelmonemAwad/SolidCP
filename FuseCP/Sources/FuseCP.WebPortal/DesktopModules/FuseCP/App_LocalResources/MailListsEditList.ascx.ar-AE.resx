@@ -127,7 +127,7 @@
     <value>حذف</value>
   </data>
   <data name="btnSave.onClientClick" xml:space="preserve">
-    <value>ShowProgressDialog('جاري حفظ قائمة البريد ...');</value>
+    <value>ShowProgressDialog('جاري حفظ قائمة البريد...');</value>
   </data>
   <data name="btnSave.Text" xml:space="preserve">
     <value>حفظ</value>

@@ -118,7 +118,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="btnSave.OnClientClick" xml:space="preserve">
-    <value>ShowProgressDialog('جاري تحديث إعدادات المجلد العام ...');</value>
+    <value>ShowProgressDialog('جاري تحديث إعدادات المجلد العام...');</value>
   </data>
   <data name="btnSave.Text" xml:space="preserve">
     <value>حفظ التغييرات</value>
@@ -127,13 +127,13 @@
     <value>إخفاء من دفتر العناوين</value>
   </data>
   <data name="chkMailEnabledFolder.Text" xml:space="preserve">
-    <value>المجلد العام الذي تم تمكينه بواسطة البريد</value>
+    <value>مجلد عام مُمكَّن للبريد</value>
   </data>
   <data name="locAuthors.Text" xml:space="preserve">
-    <value>مؤلف:</value>
+    <value>المؤلفون:</value>
   </data>
   <data name="locNotes.Text" xml:space="preserve">
-    <value>ملاحظات</value>
+    <value>ملاحظات:</value>
   </data>
   <data name="locTitle.Text" xml:space="preserve">
     <value>تحرير المجلد العام</value>
@@ -148,10 +148,10 @@
     <value>*</value>
   </data>
   <data name="btnMailDisable.Text" xml:space="preserve">
-    <value>مجلد تعطيل البريد</value>
+    <value>تعطيل البريد للمجلد</value>
   </data>
   <data name="btnMailEnable.Text" xml:space="preserve">
-    <value>مجلد تمكين البريد</value>
+    <value>تمكين البريد للمجلد</value>
   </data>
   <data name="btnSaveText.Text" xml:space="preserve">
     <value>حفظ التغييرات</value>
@@ -160,6 +160,6 @@
     <value>حسابات:</value>
   </data>
   <data name="locName.Text" xml:space="preserve">
-    <value>إسم الملف: *</value>
+    <value>اسم المجلد: *</value>
   </data>
 </root>

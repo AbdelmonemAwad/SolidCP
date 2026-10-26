@@ -121,13 +121,13 @@
     <value>متغيرات تعليمات الإعداد</value>
   </data>
   <data name="locActiveSyncServer.Text" xml:space="preserve">
-    <value>خادم المزامنة النشط:</value>
+    <value>خادم ActiveSync:</value>
   </data>
   <data name="locAutodiscoverDomain.Text" xml:space="preserve">
-    <value>الاكتشاف التلقائي لإعادة توجيه خادم FQDN:</value>
+    <value>FQDN لخادم إعادة توجيه الاكتشاف التلقائي:</value>
   </data>
   <data name="locAutodiscoverIP.Text" xml:space="preserve">
-    <value>الاكتشاف التلقائي لعنوان IP الخاص بخادم إعادة التوجيه:</value>
+    <value>عنوان IP لخادم إعادة توجيه الاكتشاف التلقائي:</value>
   </data>
   <data name="locClientAccess.Text" xml:space="preserve">
     <value>خدمة وصول العميل:</value>
@@ -136,7 +136,7 @@
     <value>خدمة النقل المحورية:</value>
   </data>
   <data name="locKeepDeletedItems.Text" xml:space="preserve">
-    <value>الاحتفاظ بالعناصر المحذوفة (أيام)</value>
+    <value>الاحتفاظ بالعناصر المحذوفة (أيام):</value>
   </data>
   <data name="locKeepDeletedMailboxes.Text" xml:space="preserve">
     <value>الاحتفاظ بصناديق البريد المحذوفة (أيام):</value>
@@ -145,13 +145,13 @@
     <value>خادم صندوق البريد المجمع:</value>
   </data>
   <data name="locMailboxDatabase.Text" xml:space="preserve">
-    <value>اسم قاعدة بيانات علبة البريد:</value>
+    <value>اسم قاعدة بيانات صندوق البريد:</value>
   </data>
   <data name="locPrimaryDomainController.Text" xml:space="preserve">
     <value>وحدة تحكم النطاق المفضلة (FQDN):</value>
   </data>
   <data name="locRootOU.Text" xml:space="preserve">
-    <value>الجذر OU:</value>
+    <value>الوحدة التنظيمية الجذر (OU):</value>
   </data>
   <data name="locSmtpComments.Text" xml:space="preserve">
     <value>* سجل خادم SMTP واحد لكل سطر</value>
@@ -169,7 +169,7 @@
     <value>&lt;موجود على نفس الخادم&gt;</value>
   </data>
   <data name="btnAdd.Text" xml:space="preserve">
-    <value>أضف</value>
+    <value>إضافة</value>
   </data>
   <data name="gvClientAccess.EmptyDataText" xml:space="preserve">
     <value>تقع على نفس الخادم</value>
@@ -190,13 +190,13 @@
     <value>على سبيل المثال http://server.domain.com/PowerShell</value>
   </data>
   <data name="locPowerShellUrl.Text" xml:space="preserve">
-    <value>Powershell URL:</value>
+    <value>عنوان URL لـ PowerShell:</value>
   </data>
   <data name="btnAddText.Text" xml:space="preserve">
-    <value>أضف</value>
+    <value>إضافة</value>
   </data>
   <data name="bntAddSEDestination.Text" xml:space="preserve">
-    <value>أضف</value>
+    <value>إضافة</value>
   </data>
   <data name="chkEx2016CU6orhigher.Text" xml:space="preserve">
     <value>Exchange 2016 CU6 أو أعلى</value>

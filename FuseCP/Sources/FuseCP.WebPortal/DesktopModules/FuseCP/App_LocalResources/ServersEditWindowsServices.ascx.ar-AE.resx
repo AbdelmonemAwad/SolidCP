@@ -121,16 +121,16 @@
     <value>إلغاء</value>
   </data>
   <data name="cmdContinue.Text" xml:space="preserve">
-    <value>استمر</value>
+    <value>متابعة</value>
   </data>
   <data name="cmdPause.Text" xml:space="preserve">
     <value>إيقاف مؤقت</value>
   </data>
   <data name="cmdStart.Text" xml:space="preserve">
-    <value>ابدأ</value>
+    <value>بدء</value>
   </data>
   <data name="cmdStop.Text" xml:space="preserve">
-    <value>توقف</value>
+    <value>إيقاف</value>
   </data>
   <data name="gvServices.Empty" xml:space="preserve">
     <value>لم يتم العثور على خدمات Windows.</value>
@@ -145,24 +145,24 @@
     <value>الحالة</value>
   </data>
   <data name="Status.ContinuePending" xml:space="preserve">
-    <value>استمرار</value>
+    <value>جارٍ المتابعة</value>
   </data>
   <data name="Status.Paused" xml:space="preserve">
     <value>متوقف مؤقتًا</value>
   </data>
   <data name="Status.PausePending" xml:space="preserve">
-    <value>متوقف مؤقتًا</value>
+    <value>جارٍ الإيقاف المؤقت</value>
   </data>
   <data name="Status.Running" xml:space="preserve">
-    <value>تشغيل</value>
+    <value>قيد التشغيل</value>
   </data>
   <data name="Status.StartPending" xml:space="preserve">
-    <value>بدء</value>
+    <value>جارٍ البدء</value>
   </data>
   <data name="Status.Stopped" xml:space="preserve">
     <value>متوقف</value>
   </data>
   <data name="Status.StopPending" xml:space="preserve">
-    <value>متوقف</value>
+    <value>جارٍ الإيقاف</value>
   </data>
 </root>

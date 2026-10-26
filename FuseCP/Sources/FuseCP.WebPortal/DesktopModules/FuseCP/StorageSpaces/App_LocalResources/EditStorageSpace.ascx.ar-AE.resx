@@ -142,7 +142,7 @@
     <value>حجم حد التخزين (جيجابايت):</value>
   </data>
   <data name="rbtnQuotaHard.Text" xml:space="preserve">
-    <value>القرص الصلب</value>
+    <value>ثابتة</value>
   </data>
   <data name="locQuotaType.Text" xml:space="preserve">
     <value>نوع الحصة:</value>

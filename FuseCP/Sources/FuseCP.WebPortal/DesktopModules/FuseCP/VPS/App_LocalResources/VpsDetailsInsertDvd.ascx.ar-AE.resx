@@ -121,13 +121,13 @@
     <value>إلغاء</value>
   </data>
   <data name="btnInsert.OnClientClick" xml:space="preserve">
-    <value>ShowProgressDialog('جاري إدخال القرص ...');</value>
+    <value>ShowProgressDialog('جاري إدخال القرص...');</value>
   </data>
   <data name="btnInsert.Text" xml:space="preserve">
     <value>إدراج</value>
   </data>
   <data name="FormComments.Text" xml:space="preserve">
-    <value>&lt;p&gt; تصفح مكتبة الوسائط وانقر فوق الزر &lt;b&gt; "إدراج" &lt;/ b&gt; في الصف الذي يحتوي على قرص DVD الذي تريد إدراجه في محرك الأقراص. &lt;/ p&gt; &lt;p&gt; انقر فوق الزر &lt;b&gt; "إلغاء" &lt;/ b&gt; للعودة إلى شاشة خصائص محرك أقراص DVD. &lt;/p&gt;</value>
+    <value>&lt;p&gt;تصفح مكتبة الوسائط وانقر فوق الزر &lt;b&gt;"إدراج"&lt;/b&gt; في الصف الذي يحتوي على قرص DVD الذي تريد إدراجه في محرك الأقراص.&lt;/p&gt;&lt;p&gt;انقر فوق الزر &lt;b&gt;"إلغاء"&lt;/b&gt; للعودة إلى شاشة خصائص محرك أقراص DVD.&lt;/p&gt;</value>
   </data>
   <data name="gvDisks.Empty" xml:space="preserve">
     <value>لم يتم العثور على أقراص في مكتبة الوسائط.</value>
@@ -139,7 +139,7 @@
     <value>تصفح مكتبة الوسائط</value>
   </data>
   <data name="locTitle.Text" xml:space="preserve">
-    <value>قرص رقمي مضغوط</value>
+    <value>DVD</value>
   </data>
   <data name="btnInsertText.Text" xml:space="preserve">
     <value>إدراج</value>

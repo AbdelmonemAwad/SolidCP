@@ -124,13 +124,13 @@
     <value>تنفيذ</value>
   </data>
   <data name="ddlDomainActionsItem.Actions" xml:space="preserve">
-    <value>- أجراءات -</value>
+    <value>- إجراءات -</value>
   </data>
   <data name="ddlDomainActionsItem.CreatePreviewDomain" xml:space="preserve">
-    <value>إنشاء معاينة النطاق</value>
+    <value>إنشاء نطاق معاينة</value>
   </data>
   <data name="ddlDomainActionsItem.DeletePreviewDomain" xml:space="preserve">
-    <value>حذف معاينة النطاق</value>
+    <value>حذف نطاق المعاينة</value>
   </data>
   <data name="ddlDomainActionsItem.DisableDns" xml:space="preserve">
     <value>تعطيل DNS</value>

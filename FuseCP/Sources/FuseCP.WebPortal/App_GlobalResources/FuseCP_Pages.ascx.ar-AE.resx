@@ -124,7 +124,7 @@
     <value>تسجيل الدخول</value>
   </data>
   <data name="PageName.LoggedUserDetails" xml:space="preserve">
-    <value>حسابي </value>
+    <value>حسابي</value>
   </data>
   <data name="PageTitle.LoggedUserDetails" xml:space="preserve">
     <value>{user} - تحرير حسابك</value>
@@ -142,10 +142,10 @@
     <value>{user} - بحث في مساحات الاستضافة</value>
   </data>
   <data name="PageName.SearchObject" xml:space="preserve">
-    <value>كائنات البحث</value>
+    <value>البحث عن الكائنات</value>
   </data>
   <data name="PageTitle.SearchObject" xml:space="preserve">
-    <value>{user} - كائنات البحث</value>
+    <value>{user} - البحث عن الكائنات</value>
   </data>
   <data name="PageName.Home" xml:space="preserve">
     <value>الصفحة الرئيسية للحساب</value>
@@ -166,7 +166,7 @@
     <value>{user} - مساحات المستخدم</value>
   </data>
   <data name="PageName.UserPeers" xml:space="preserve">
-    <value>الاقتران</value>
+    <value>النظراء</value>
   </data>
   <data name="PageTitle.UserPeers" xml:space="preserve">
     <value>{user} - نظراء المستخدم</value>
@@ -178,16 +178,16 @@
     <value>{user} - خطط الاستضافة</value>
   </data>
   <data name="PageName.HostingAddons" xml:space="preserve">
-    <value> الوظائف الإضافية للاستضافة</value>
+    <value>الوظائف الإضافية للاستضافة</value>
   </data>
   <data name="PageTitle.HostingAddons" xml:space="preserve">
-    <value>{user} - خصائص الاستضافة الاضافية</value>
+    <value>{user} - الوظائف الإضافية للاستضافة</value>
   </data>
   <data name="PageName.UserTasks" xml:space="preserve">
-    <value>مهام التشغيل</value>
+    <value>المهام قيد التشغيل</value>
   </data>
   <data name="PageTitle.UserTasks" xml:space="preserve">
-    <value>{user} - تشغيل المهام</value>
+    <value>{user} - المهام قيد التشغيل</value>
   </data>
   <data name="PageName.AuditLog" xml:space="preserve">
     <value>سجل التدقيق</value>
@@ -196,10 +196,10 @@
     <value>{user} - سجل التدقيق</value>
   </data>
   <data name="PageName.SpaceHome" xml:space="preserve">
-    <value>المساحة الرئيسية</value>
+    <value>الصفحة الرئيسية للمساحة</value>
   </data>
   <data name="PageTitle.SpaceHome" xml:space="preserve">
-    <value>{user} - {space} - المساحة الرئيسية</value>
+    <value>{user} - {space} - الصفحة الرئيسية للمساحة</value>
   </data>
   <data name="PageName.NestedSpaces" xml:space="preserve">
     <value>مساحات متداخلة</value>
@@ -214,10 +214,10 @@
     <value>{user} - {space} - النطاقات</value>
   </data>
   <data name="PageName.SpaceOrganization" xml:space="preserve">
-    <value>المنظمات</value>
+    <value>المؤسسات</value>
   </data>
   <data name="PageTitle.SpaceOrganization" xml:space="preserve">
-    <value>{user} - {space} - المنظمات</value>
+    <value>{user} - {space} - المؤسسات</value>
   </data>
   <data name="PageName.SpaceWebSites" xml:space="preserve">
     <value>مواقع الويب</value>
@@ -274,52 +274,52 @@
     <value>[غير مضبوط]</value>
   </data>
   <data name="PageName.SpaceMsSql2000" xml:space="preserve">
-    <value>خادم SQL 2000</value>
+    <value>SQL Server 2000</value>
   </data>
   <data name="PageTitle.SpaceMsSql2000" xml:space="preserve">
     <value>{user} - {space} - SQL Server 2000</value>
   </data>
   <data name="PageName.SpaceMsSql2005" xml:space="preserve">
-    <value>خادم SQL 2005</value>
+    <value>SQL Server 2005</value>
   </data>
   <data name="PageName.SpaceMsSql2008" xml:space="preserve">
-    <value>خادم SQL 2008</value>
+    <value>SQL Server 2008</value>
   </data>
   <data name="PageTitle.SpaceMsSql2008" xml:space="preserve">
     <value>{user} - {space} - SQL Server 2008</value>
   </data>
   <data name="PageName.SpaceMsSql2012" xml:space="preserve">
-    <value>خادم SQL 2012</value>
+    <value>SQL Server 2012</value>
   </data>
   <data name="PageTitle.SpaceMsSql2012" xml:space="preserve">
     <value>{user} - {space} - SQL Server 2012</value>
   </data>
   <data name="PageName.SpaceMsSql2014" xml:space="preserve">
-    <value>خادم SQL 2014</value>
+    <value>SQL Server 2014</value>
   </data>
   <data name="PageTitle.SpaceMsSql2014" xml:space="preserve">
     <value>{user} - {space} - SQL Server 2014</value>
   </data>
   <data name="PageName.SpaceMsSql2016" xml:space="preserve">
-    <value>خادم SQL 2016</value>
+    <value>SQL Server 2016</value>
   </data>
   <data name="PageTitle.SpaceMsSql2016" xml:space="preserve">
     <value>{user} - {space} - SQL Server 2016</value>
   </data>
   <data name="PageName.SpaceMsSql2019" xml:space="preserve">
-    <value>خادم SQL 2019</value>
+    <value>SQL Server 2019</value>
   </data>
   <data name="PageTitle.SpaceMsSql2019" xml:space="preserve">
     <value>{user} - {space} - SQL Server 2019</value>
   </data>
   <data name="PageName.SpaceMsSql2022" xml:space="preserve">
-    <value>خادم SQL 2022</value>
+    <value>SQL Server 2022</value>
   </data>
   <data name="PageTitle.SpaceMsSql2022" xml:space="preserve">
     <value>{user} - {space} - SQL Server 2022</value>
   </data>
   <data name="PageName.SpaceMsSql2017" xml:space="preserve">
-    <value>خادم SQL 2017</value>
+    <value>SQL Server 2017</value>
   </data>
   <data name="PageTitle.SpaceMsSql2017" xml:space="preserve">
     <value>{user} - {space} - SQL Server 2017</value>
@@ -340,13 +340,13 @@
     <value>{user} - {space} - MySQL 5.x</value>
   </data>
   <data name="PageName.SpaceMySql8" xml:space="preserve">
-    <value>إصدار MySQL 8.x.</value>
+    <value>MySQL 8.x</value>
   </data>
   <data name="PageTitle.SpaceMySql8" xml:space="preserve">
     <value>{user} - {space} - MySQL 8.x</value>
   </data>
   <data name="PageName.SpaceMySql9" xml:space="preserve">
-    <value>إصدار MySQL 9.x.</value>
+    <value>MySQL 9.x</value>
   </data>
   <data name="PageTitle.SpaceMySql9" xml:space="preserve">
     <value>{user} - {space} - MySQL 9.x</value>
@@ -397,22 +397,22 @@
     <value>{user} - {space} - مثبت التطبيقات</value>
   </data>
   <data name="PageName.SpaceSharePoint" xml:space="preserve">
-    <value>شيربوينت</value>
+    <value>SharePoint</value>
   </data>
   <data name="PageTitle.SpaceSharePoint" xml:space="preserve">
     <value>[غير مضبوط]</value>
   </data>
   <data name="PageName.SpaceSharePointSites" xml:space="preserve">
-    <value>مواقع شيربوينت</value>
+    <value>مواقع SharePoint</value>
   </data>
   <data name="PageTitle.SpaceSharePointSites" xml:space="preserve">
-    <value>{user} - {space} - مواقع شيربوينت</value>
+    <value>{user} - {space} - مواقع SharePoint</value>
   </data>
   <data name="PageName.SpaceSharePointUsers" xml:space="preserve">
-    <value>مستخدمين شيربوينت</value>
+    <value>مستخدمو SharePoint</value>
   </data>
   <data name="PageTitle.SpaceSharePointUsers" xml:space="preserve">
-    <value>{user} - {space} - مستخدمي ومجموعات شيربوينت</value>
+    <value>{user} - {space} - مستخدمي ومجموعات SharePoint</value>
   </data>
   <data name="PageName.Backup" xml:space="preserve">
     <value>[غير مضبوط]</value>
@@ -430,7 +430,7 @@
     <value>تقرير مساحة القرص</value>
   </data>
   <data name="PageName.OverusageReport" xml:space="preserve">
-    <value>تقرير الإفراط</value>
+    <value>تقرير الاستخدام الزائد</value>
   </data>
   <data name="PageTitle.DiskspaceReport" xml:space="preserve">
     <value>{user} - تقرير مساحة القرص</value>
@@ -439,10 +439,10 @@
     <value>{user} - تقرير الاستخدام الزائد</value>
   </data>
   <data name="PageName.BandwidthReport" xml:space="preserve">
-    <value>تقرير الباندويث</value>
+    <value>تقرير عرض النطاق الترددي</value>
   </data>
   <data name="PageTitle.BandwidthReport" xml:space="preserve">
-    <value>{user} - تقرير الباندويث</value>
+    <value>{user} - تقرير عرض النطاق الترددي</value>
   </data>
   <data name="PageName.Configuration" xml:space="preserve">
     <value>إعدادات</value>
@@ -469,22 +469,22 @@
     <value>عناوين IP</value>
   </data>
   <data name="PageName.SystemSettings" xml:space="preserve">
-    <value>اعدادات النظام</value>
+    <value>إعدادات النظام</value>
   </data>
   <data name="PageTitle.SystemSettings" xml:space="preserve">
-    <value>اعدادات النظام</value>
+    <value>إعدادات النظام</value>
   </data>
   <data name="PageName.SpaceExchangeServer" xml:space="preserve">
-    <value>تنظيمات الاستضافة</value>
+    <value>المؤسسات المستضافة</value>
   </data>
   <data name="PageTitle.SpaceExchangeServer" xml:space="preserve">
-    <value>{user} - {space} - تنظيمات الاستضافة</value>
+    <value>{user} - {space} - المؤسسات المستضافة</value>
   </data>
   <data name="PageName.SpaceOrganizationHostedSharePoint" xml:space="preserve">
-    <value>استضافة شيربوينت</value>
+    <value>استضافة SharePoint</value>
   </data>
   <data name="PageTitle.SpaceOrganizationHostedSharePoint" xml:space="preserve">
-    <value>{user} - {space} - استضافة شيربوينت</value>
+    <value>{user} - {space} - استضافة SharePoint</value>
   </data>
   <data name="PageName.SpaceVPS" xml:space="preserve">
     <value>الخوادم الافتراضية الخاصة</value>
@@ -499,10 +499,10 @@
     <value>{user} - {space} - HyperV</value>
   </data>
   <data name="PageName.SpaceProxmox" xml:space="preserve">
-    <value>Proxmox الخوادم الافتراضية</value>
+    <value>خوادم Proxmox الافتراضية</value>
   </data>
   <data name="PageTitle.SpaceProxmox" xml:space="preserve">
-    <value>{user} - {space} - Proxmox للخوادم الافتراضية</value>
+    <value>{user} - {space} - خوادم Proxmox الافتراضية</value>
   </data>
   <data name="PageName.SpaceWebIPAddresses" xml:space="preserve">
     <value>عناوين IP</value>

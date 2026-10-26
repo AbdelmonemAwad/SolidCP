@@ -121,13 +121,13 @@
     <value>إنشاء</value>
   </data>
   <data name="btnNext.Text" xml:space="preserve">
-    <value>التالي&gt;</value>
+    <value>التالي &gt;</value>
   </data>
   <data name="btnPrevious.Text" xml:space="preserve">
-    <value>&lt;السابق</value>
+    <value>&lt; السابق</value>
   </data>
   <data name="FormComments.Text" xml:space="preserve">
-    <value>&lt;p&gt; &lt;b&gt; مرحبًا بك في معالج إنشاء VPS! &lt;/b&gt; &lt;/p&gt; &lt;p&gt; يسمح المعالج بتحديد معلمات VPS الجديدة مثل اسم المضيف ، قالب نظام التشغيل ، كلمة مرور المسؤول ، الخارجية والخاصة (إذا كان مسموحًا بذلك في خطة الاستضافة) معلمات الشبكة. &lt;/ p&gt; &lt;p&gt; إذا تم تحديد عنوان البريد الإلكتروني في "إرسال خطاب ملخص إلى" ، فسيتم إرسال معلومات ملخص VPS على هذا البريد الإلكتروني عند اكتمال عملية التوفير. &lt;/ p&gt; &lt; p&gt; بعد النقر فوق الزر "إنشاء" في الخطوة الأخيرة من المعالج ، ستبدأ عملية توفير خادم VPS جديد. العملية غير متزامنة ، لذلك ليس من الضروري الانتظار حتى تنتهي. &lt;/ p&gt;</value>
+    <value>&lt;p&gt;&lt;b&gt;مرحبًا بك في معالج إنشاء VPS!&lt;/b&gt;&lt;/p&gt;&lt;p&gt;يتيح المعالج تحديد معلمات VPS الجديد مثل اسم المضيف، وقالب نظام التشغيل، وكلمة مرور المسؤول، ومعلمات الشبكة الخارجية والخاصة (إذا كان ذلك مسموحًا به في خطة الاستضافة).&lt;/p&gt;&lt;p&gt;إذا تم تحديد عنوان بريد إلكتروني في "إرسال خطاب ملخص إلى"، فسيتم إرسال معلومات ملخص VPS إلى هذا البريد الإلكتروني عند اكتمال عملية التوفير.&lt;/p&gt;&lt;p&gt;بعد النقر فوق الزر "إنشاء" في الخطوة الأخيرة من المعالج، ستبدأ عملية توفير خادم VPS جديد. العملية غير متزامنة، لذا ليس من الضروري الانتظار حتى تنتهي.&lt;/p&gt;</value>
   </data>
   <data name="stepConfig.Title" xml:space="preserve">
     <value>إعدادات</value>
@@ -172,7 +172,7 @@
     <value>التمهيد من القرص المضغوط</value>
   </data>
   <data name="chkDvdInstalled.Text" xml:space="preserve">
-    <value>تم تثبيت محرك أقراص رقمية</value>
+    <value>محرك أقراص DVD مثبّت</value>
   </data>
   <data name="chkExternalNetworkEnabled.Text" xml:space="preserve">
     <value>تم تمكين الشبكة الخارجية</value>
@@ -181,16 +181,16 @@
     <value>تم تمكين "Num Lock"</value>
   </data>
   <data name="chkPauseResume.Text" xml:space="preserve">
-    <value>إيقاف ، استئناف</value>
+    <value>إيقاف مؤقت، استئناف</value>
   </data>
   <data name="chkPrivateNetworkEnabled.Text" xml:space="preserve">
     <value>تم تمكين الشبكة الخاصة</value>
   </data>
   <data name="chkReboot.Text" xml:space="preserve">
-    <value>اعادة التشغيل</value>
+    <value>إعادة التشغيل</value>
   </data>
   <data name="chkReinstall.Text" xml:space="preserve">
-    <value>أعد التثبيت</value>
+    <value>إعادة التثبيت</value>
   </data>
   <data name="chkReset.Text" xml:space="preserve">
     <value>إعادة تعيين</value>
@@ -199,7 +199,7 @@
     <value>إرسال ملخص عبر البريد الإلكتروني إلى:</value>
   </data>
   <data name="chkStartShutdown.Text" xml:space="preserve">
-    <value>بدء ، إيقاف وإغلاق</value>
+    <value>البدء وإيقاف التشغيل والإغلاق</value>
   </data>
   <data name="lblCpu.Text" xml:space="preserve">
     <value>وحدة المعالجة المركزية:</value>
@@ -226,7 +226,7 @@
     <value>أنوية وحدة المعالجة المركزية:</value>
   </data>
   <data name="locDvdInstalled.Text" xml:space="preserve">
-    <value>تم تثبيت محرك أقراص رقمية:</value>
+    <value>محرك أقراص DVD مثبّت:</value>
   </data>
   <data name="locExternalAddresses.Text" xml:space="preserve">
     <value>عدد عناوين IP:</value>
@@ -241,13 +241,13 @@
     <value>الشبكة الخارجية</value>
   </data>
   <data name="locExternalNetworkEnabled.Text" xml:space="preserve">
-    <value>تم تمكين الشبكة الخارجية</value>
+    <value>تم تمكين الشبكة الخارجية:</value>
   </data>
   <data name="locGB.Text" xml:space="preserve">
     <value>جيجابايت</value>
   </data>
   <data name="locHdd.Text" xml:space="preserve">
-    <value>حجم القرص الصلب ، جيجابايت:</value>
+    <value>حجم القرص الصلب، جيجابايت:</value>
   </data>
   <data name="locHoldCtrl.Text" xml:space="preserve">
     <value>* اضغط على مفتاح CTRL لتحديد عناوين متعددة</value>
@@ -262,7 +262,7 @@
     <value>الاسم ونظام التشغيل</value>
   </data>
   <data name="locNumLock.Text" xml:space="preserve">
-    <value>تم تمكين "Num Lock"</value>
+    <value>تم تمكين "Num Lock":</value>
   </data>
   <data name="locOnePerLine.Text" xml:space="preserve">
     <value>* اكتب عنوان IP واحدًا في كل سطر</value>
@@ -271,7 +271,7 @@
     <value>نظام التشغيل:</value>
   </data>
   <data name="locPauseResumeAllowed.Text" xml:space="preserve">
-    <value>إيقاف ، استئناف مسموح به:</value>
+    <value>الإيقاف المؤقت والاستئناف مسموح بهما:</value>
   </data>
   <data name="locPrivateAddresses.Text" xml:space="preserve">
     <value>عدد عناوين IP:</value>
@@ -295,7 +295,7 @@
     <value>قناع الشبكة الفرعية:</value>
   </data>
   <data name="locRam.Text" xml:space="preserve">
-    <value>ذاكرة الوصول العشوائي ، ميجابايت:</value>
+    <value>ذاكرة الوصول العشوائي، ميجابايت:</value>
   </data>
   <data name="locRebootAllowed.Text" xml:space="preserve">
     <value>إعادة التشغيل مسموح بها:</value>
@@ -310,13 +310,13 @@
     <value>عدد اللقطات:</value>
   </data>
   <data name="locStartShutdownAllowed.Text" xml:space="preserve">
-    <value>البدء والإيقاف والإغلاق المسموح به:</value>
+    <value>البدء وإيقاف التشغيل والإغلاق مسموح بها:</value>
   </data>
   <data name="locSummary.Text" xml:space="preserve">
     <value>ملخص</value>
   </data>
   <data name="locTitle.Text" xml:space="preserve">
-    <value>قم بإنشاء خادم VPS جديد</value>
+    <value>إنشاء خادم VPS جديد</value>
   </data>
   <data name="radioExternalRandom.Text" xml:space="preserve">
     <value>حدد عناوين IP بشكل عشوائي من التجمع</value>
@@ -337,7 +337,7 @@
     <value>BIOS</value>
   </data>
   <data name="secDvd.Text" xml:space="preserve">
-    <value>قرص رقمي مضغوط</value>
+    <value>DVD</value>
   </data>
   <data name="secResources.Text" xml:space="preserve">
     <value>موارد</value>
@@ -352,7 +352,7 @@
     <value>&lt;حدد قالب نظام التشغيل&gt;</value>
   </data>
   <data name="btnFinish.OnClientClick" xml:space="preserve">
-    <value>ShowProgressDialog('جاري إنشاء خادم افتراضي ...');</value>
+    <value>ShowProgressDialog('جاري إنشاء خادم افتراضي...');</value>
   </data>
   <data name="litMaxExternalAddresses.Text" xml:space="preserve">
     <value>({0} كحد أقصى)</value>
@@ -361,24 +361,24 @@
     <value>({0} كحد أقصى)</value>
   </data>
   <data name="locNotEnoughExternalAddresses.Text" xml:space="preserve">
-    <value>مجموعة عناوين IP الخارجية المتاحة فارغة. يتم تخصيص جميع عناوين IP المخصصة لمساحة الاستضافة الحالية للخوادم الافتراضية الحالية. يمكن تخصيص المزيد من عناوين IP الخارجية من قبل المضيف.</value>
+    <value>مجموعة عناوين IP الخارجية المتاحة فارغة. جميع عناوين IP المخصصة لمساحة الاستضافة الحالية معيّنة للخوادم الافتراضية الموجودة. يمكن للمضيف تخصيص المزيد من عناوين IP الخارجية.</value>
   </data>
   <data name="valCorrectHostname.ErrorMessage" xml:space="preserve">
-    <value>أدخل اسم المضيف الصحيح ، على سبيل المثال "vm01"</value>
+    <value>أدخل اسم مضيف صحيحًا، على سبيل المثال "vps01"</value>
   </data>
   <data name="valNewDomainFormat.ErrorMessage" xml:space="preserve">
-    <value>أدخل اسم النطاق الصحيح ، على سبيل المثال "mydomain.com"</value>
+    <value>أدخل اسم النطاق الصحيح، على سبيل المثال "mydomain.com"</value>
   </data>
   <data name="locGeneration.Text" xml:space="preserve">
-    <value>توليد:</value>
+    <value>الجيل:</value>
   </data>
   <data name="btnFinishText.Text" xml:space="preserve">
-    <value>انتهاء</value>
+    <value>إنهاء</value>
   </data>
   <data name="btnNextText.Text" xml:space="preserve">
-    <value>التالي&gt;</value>
+    <value>التالي &gt;</value>
   </data>
   <data name="btnPreviousText.Text" xml:space="preserve">
-    <value>&lt;السابق</value>
+    <value>&lt; السابق</value>
   </data>
 </root>

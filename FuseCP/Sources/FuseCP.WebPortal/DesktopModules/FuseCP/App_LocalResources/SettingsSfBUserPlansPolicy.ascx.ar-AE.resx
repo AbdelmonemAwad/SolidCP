@@ -118,7 +118,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="btnAddPlan.Text" xml:space="preserve">
-    <value>أضف خطة جديدة</value>
+    <value>إضافة خطة جديدة</value>
   </data>
   <data name="btnSetDefaultPlan.Text" xml:space="preserve">
     <value>تعيين الخطة الافتراضية</value>
@@ -136,7 +136,7 @@
     <value>الاتحاد</value>
   </data>
   <data name="chkIM.Text" xml:space="preserve">
-    <value>رسالة فورية</value>
+    <value>المراسلة الفورية</value>
   </data>
   <data name="chkInternational.Text" xml:space="preserve">
     <value>مكالمات دولية</value>
@@ -148,7 +148,7 @@
     <value>وصول الهاتف المحمول</value>
   </data>
   <data name="chkNational.Text" xml:space="preserve">
-    <value>المكالمات المحلية</value>
+    <value>المكالمات الوطنية</value>
   </data>
   <data name="chkNone.Text" xml:space="preserve">
     <value>لا شيء</value>
@@ -160,13 +160,13 @@
     <value>الخطة الافتراضية</value>
   </data>
   <data name="gvPlanEdit.Header" xml:space="preserve">
-    <value>اختار</value>
+    <value>تحديد</value>
   </data>
   <data name="gvPlans.Empty" xml:space="preserve">
     <value>لم يتم إضافة أي خطط حتى الآن. لإضافة خطة جديدة انقر فوق الزر "إضافة خطة جديدة".</value>
   </data>
   <data name="gvPlanSelect.Header" xml:space="preserve">
-    <value>اختار</value>
+    <value>تحديد</value>
   </data>
   <data name="locConferencingSize.Text" xml:space="preserve">
     <value>الحد الأقصى لحجم المؤتمر</value>
@@ -178,7 +178,7 @@
     <value>سياسة صوت المؤسسة</value>
   </data>
   <data name="secPlan.Text" xml:space="preserve">
-    <value>خطة مستخدم سكايب للأعمال</value>
+    <value>خطة مستخدم Skype for Business</value>
   </data>
   <data name="secPlanFeatures.Text" xml:space="preserve">
     <value>مميزات الخطة</value>
@@ -190,10 +190,10 @@
     <value>*</value>
   </data>
   <data name="btnAddPlanText.Text" xml:space="preserve">
-    <value>أضف خطة جديدة</value>
+    <value>إضافة خطة جديدة</value>
   </data>
   <data name="btnStampText.Text" xml:space="preserve">
-    <value>أعد تثبيت جميع مستخدمي سكايب للأعمال بهذه الخطة</value>
+    <value>إعادة تطبيق هذه الخطة على جميع مستخدمي Skype for Business</value>
   </data>
   <data name="btnUpdatePlanText.Text" xml:space="preserve">
     <value>تحديث الخطة</value>

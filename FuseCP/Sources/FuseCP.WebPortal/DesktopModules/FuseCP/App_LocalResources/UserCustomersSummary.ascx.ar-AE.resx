@@ -124,7 +124,7 @@
     <value>كل العملاء</value>
   </data>
   <data name="btnCreate.Text" xml:space="preserve">
-    <value>إنشاء العميل</value>
+    <value>إنشاء عميل</value>
   </data>
   <data name="ByRolePanel.Text" xml:space="preserve">
     <value>حسب الدور</value>
@@ -142,6 +142,6 @@
     <value>اسم المستخدم</value>
   </data>
   <data name="ddlFilterColumnItem.CompanyName" xml:space="preserve">
-    <value>اسم الشركة:</value>
+    <value>اسم الشركة</value>
   </data>
 </root>

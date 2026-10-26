@@ -124,7 +124,7 @@
     <value>حذف</value>
   </data>
   <data name="chkConfirm.Text" xml:space="preserve">
-    <value>نعم ، أفهم ذلك وأريد حذف حساب المستخدم هذا</value>
+    <value>نعم، أفهم ذلك وأريد حذف حساب المستخدم هذا</value>
   </data>
   <data name="gvPackages.Empty" xml:space="preserve">
     <value>ليس لدى المستخدم أي مساحات استضافة.</value>

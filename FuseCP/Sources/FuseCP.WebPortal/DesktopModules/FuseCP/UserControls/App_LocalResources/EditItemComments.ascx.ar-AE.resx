@@ -118,13 +118,13 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="btnAdd.Text" xml:space="preserve">
-    <value>أضف ملاحظات</value>
+    <value>إضافة ملاحظات</value>
   </data>
   <data name="btnDelete.AlternateText" xml:space="preserve">
     <value>حذف الملاحظة</value>
   </data>
   <data name="btnDelete.OnClientClick" xml:space="preserve">
-    <value>return confirm('حذف الملاحظة؟');</value>
+    <value>return confirm('هل تريد حذف الملاحظة؟');</value>
   </data>
   <data name="ddlSeverityItem.High" xml:space="preserve">
     <value>عالي</value>
@@ -139,10 +139,10 @@
     <value>لا توجد ملاحظات مضافة</value>
   </data>
   <data name="lblCommented.Text" xml:space="preserve">
-    <value>على</value>
+    <value>في</value>
   </data>
   <data name="lblComments.Text" xml:space="preserve">
-    <value>ملاحظات</value>
+    <value>ملاحظات:</value>
   </data>
   <data name="lblSeverity.Text" xml:space="preserve">
     <value>الشدة:</value>

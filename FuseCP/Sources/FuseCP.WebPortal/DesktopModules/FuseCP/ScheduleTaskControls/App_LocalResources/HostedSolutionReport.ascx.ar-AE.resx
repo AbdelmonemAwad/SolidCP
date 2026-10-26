@@ -121,19 +121,19 @@
     <value>تقرير CRM</value>
   </data>
   <data name="cbExchange.Text" xml:space="preserve">
-    <value>Exchange تقرير</value>
+    <value>تقرير Exchange</value>
   </data>
   <data name="cbLync.Text" xml:space="preserve">
     <value>تقرير Lync</value>
   </data>
   <data name="cbSfB.Text" xml:space="preserve">
-    <value>تقرير سكايب للأعمال</value>
+    <value>تقرير Skype for Business</value>
   </data>
   <data name="cbOrganization.Text" xml:space="preserve">
-    <value>تقرير المنظمة</value>
+    <value>تقرير المؤسسة</value>
   </data>
   <data name="cbSharePoint.Text" xml:space="preserve">
-    <value>تقرير شيربوينت</value>
+    <value>تقرير SharePoint</value>
   </data>
   <data name="lblMail.Text" xml:space="preserve">
     <value>بريد إلكتروني:</value>

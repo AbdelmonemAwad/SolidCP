@@ -121,6 +121,6 @@
     <value>اسم النطاق المؤقت:</value>
   </data>
   <data name="secTempDomain.Text" xml:space="preserve">
-    <value>اسم نطاق التبادل المؤقت</value>
+    <value>اسم نطاق Exchange المؤقت</value>
   </data>
 </root>

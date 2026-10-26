@@ -136,10 +136,10 @@
     <value>تحديث</value>
   </data>
   <data name="chkEnableAdSupport.Text" xml:space="preserve">
-    <value>تمكين</value>
+    <value>مُمكَّن</value>
   </data>
   <data name="ConnectionHeader.Text" xml:space="preserve">
-    <value>إعدادات الإتصال</value>
+    <value>إعدادات الاتصال</value>
   </data>
   <data name="ddlAdAuthTypeItem.Anonymous" xml:space="preserve">
     <value>مجهول</value>
@@ -157,7 +157,7 @@
     <value>قالب سجلات DNS</value>
   </data>
   <data name="PreviewDomainHeader.Text" xml:space="preserve">
-    <value>معاينة النطاق</value>
+    <value>نطاق المعاينة</value>
   </data>
   <data name="IPAddressesHeader.Text" xml:space="preserve">
     <value>عناوين IP</value>
@@ -172,7 +172,7 @@
     <value>كلمة المرور:</value>
   </data>
   <data name="lblAdSupport.Text" xml:space="preserve">
-    <value>AD الدعم:</value>
+    <value>دعم AD:</value>
   </data>
   <data name="lblAdUsername.Text" xml:space="preserve">
     <value>اسم المستخدم:</value>
@@ -181,10 +181,10 @@
     <value>نوع المصادقة:</value>
   </data>
   <data name="lblPreviewDomain.Text" xml:space="preserve">
-    <value>معاينة النطاق</value>
+    <value>نطاق المعاينة</value>
   </data>
   <data name="lblNewPassword.Text" xml:space="preserve">
-    <value>كلمة السر الجديدة:</value>
+    <value>كلمة المرور الجديدة:</value>
   </data>
   <data name="lblRecoveryTools.Text" xml:space="preserve">
     <value>استعادة الخادم</value>
@@ -202,7 +202,7 @@
     <value>أدوات الخادم</value>
   </data>
   <data name="lblServerUrl.Text" xml:space="preserve">
-    <value>URL الخادم:</value>
+    <value>عنوان URL للخادم:</value>
   </data>
   <data name="lnkBackup.Text" xml:space="preserve">
     <value>النسخ الاحتياطي</value>
@@ -223,7 +223,7 @@
     <value>عمليات النظام</value>
   </data>
   <data name="lnkWindowsServices.Text" xml:space="preserve">
-    <value>خدمات الويندوز</value>
+    <value>خدمات Windows</value>
   </data>
   <data name="rbUsersCreationModeItem.ADAccounts" xml:space="preserve">
     <value>استخدم حسابات Active Directory</value>
@@ -238,13 +238,13 @@
     <value>return confirm('هل أنت متأكد أنك تريد حذف هذا الخادم؟');</value>
   </data>
   <data name="btnUpdate.OnClientClick" xml:space="preserve">
-    <value>ShowProgressDialog('جارٍ تحديث الخادم ...');</value>
+    <value>ShowProgressDialog('جارٍ تحديث الخادم...');</value>
   </data>
   <data name="lblServerVersion.Text" xml:space="preserve">
     <value>إصدار خادم FuseCP</value>
   </data>
   <data name="DomainFormatValidator.ErrorMessage" xml:space="preserve">
-    <value>الرجاء إدخال اسم النطاق الصحيح ، على سبيل المثال "mydomain.com" أو "sub.mydomain.com".</value>
+    <value>الرجاء إدخال اسم نطاق صحيح، على سبيل المثال "mydomain.com" أو "sub.mydomain.com".</value>
   </data>
   <data name="DomainFormatValidator.Text" xml:space="preserve">
     <value>*</value>
@@ -265,10 +265,10 @@
     <value>تحديث</value>
   </data>
   <data name="lblAdUseParentDomain.text" xml:space="preserve">
-    <value>النطاق الأصلي البديل:</value>
+    <value>النطاق الأصل البديل:</value>
   </data>
   <data name="lblAdParentDomain.text" xml:space="preserve">
-    <value>النطاق الأصلي:</value>
+    <value>النطاق الأصل:</value>
   </data>
   <data name="lblAdParentDomainController.text" xml:space="preserve">
     <value>وحدة تحكم النطاق الأصل:</value>

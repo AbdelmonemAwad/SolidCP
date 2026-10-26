@@ -127,22 +127,22 @@
     <value>حالة الاستجابة تساوي</value>
   </data>
   <data name="clpMessageHeader.Text" xml:space="preserve">
-    <value>قم باعداد الموقع المستهدف والرسالة بتنسيق</value>
+    <value>إعداد الموقع المستهدف والرسالة كما يلي</value>
   </data>
   <data name="clpSendMessageIfHeader.Text" xml:space="preserve">
     <value>أرسل رسالة إذا</value>
   </data>
   <data name="lblAccessPassword.Text" xml:space="preserve">
-    <value>الوصول إلى كلمة المرور:</value>
+    <value>كلمة مرور الوصول:</value>
   </data>
   <data name="lblAccessUsername.Text" xml:space="preserve">
-    <value>الوصول إلى اسم المستخدم:</value>
+    <value>اسم مستخدم الوصول:</value>
   </data>
   <data name="lblMailBody.Text" xml:space="preserve">
     <value>نص البريد:</value>
   </data>
   <data name="lblMailBodyHint.Text" xml:space="preserve">
-    <value>([url], [message], [content] المتغيرات مدعومة ل "مهمة التحقق من توفر موقع الويب")</value>
+    <value>(المتغيرات [url] و[message] و[content] مدعومة في "مهمة التحقق من توفر موقع الويب")</value>
   </data>
   <data name="lblMailFrom.Text" xml:space="preserve">
     <value>البريد من:</value>

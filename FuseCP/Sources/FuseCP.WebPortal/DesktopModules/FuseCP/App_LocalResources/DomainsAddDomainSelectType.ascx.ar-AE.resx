@@ -127,7 +127,7 @@
     <value>نطاق</value>
   </data>
   <data name="DomainPointerDescription.Text" xml:space="preserve">
-    <value>قم بإنشاء نطاق المستوى الأعلى (TLD) أو النطاق الفرعي الذي يمكنه الإشارة إلى موقع الويب الحالي فقط.</value>
+    <value>أنشئ نطاقًا من المستوى الأعلى (TLD) أو نطاقًا فرعيًا يمكنه الإشارة إلى موقع ويب موجود فقط.</value>
   </data>
   <data name="DomainPointerLink.Text" xml:space="preserve">
     <value>اسم النطاق المستعار</value>

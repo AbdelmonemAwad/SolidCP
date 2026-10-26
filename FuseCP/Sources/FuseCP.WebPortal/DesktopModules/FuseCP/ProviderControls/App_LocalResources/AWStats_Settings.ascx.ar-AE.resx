@@ -121,7 +121,7 @@
     <value>نعم</value>
   </data>
   <data name="lblBatchFileName.Text" xml:space="preserve">
-    <value>دفعة اسم الملف:</value>
+    <value>اسم الملف الدفعي:</value>
   </data>
   <data name="lblBuildUncLogsPath.Text" xml:space="preserve">
     <value>إنشاء مسار UNC لسجلات الويب:</value>
@@ -130,16 +130,16 @@
     <value>موقع مجلد AWStats CGI-BIN:</value>
   </data>
   <data name="lblConfigFileName.Text" xml:space="preserve">
-    <value>اسم ملف الاعدادات</value>
+    <value>اسم ملف الإعدادات:</value>
   </data>
   <data name="lblFileTemplate.Text" xml:space="preserve">
-    <value>قالب ملف الاعدادات</value>
+    <value>قالب ملف الإعدادات:</value>
   </data>
   <data name="lblFileTemplatePath.Text" xml:space="preserve">
-    <value>مسار قالب الاعدادات</value>
+    <value>مسار قالب الإعدادات:</value>
   </data>
   <data name="lblLineTemplate.Text" xml:space="preserve">
-    <value>دفعة ملف قالب الخط:</value>
+    <value>قالب سطر الملف الدفعي:</value>
   </data>
   <data name="lblStatsUrl.Text" xml:space="preserve">
     <value>رابط تعليمات الإحصائيات:</value>

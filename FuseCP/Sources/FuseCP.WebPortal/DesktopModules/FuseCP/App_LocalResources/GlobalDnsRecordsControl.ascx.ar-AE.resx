@@ -139,7 +139,7 @@
     <value>اسم السجل:</value>
   </data>
   <data name="lblRecordData.Text" xml:space="preserve">
-    <value>بيانات سجل:</value>
+    <value>بيانات السجل:</value>
   </data>
   <data name="lblMXPriority.Text" xml:space="preserve">
     <value>أولوية MX:</value>

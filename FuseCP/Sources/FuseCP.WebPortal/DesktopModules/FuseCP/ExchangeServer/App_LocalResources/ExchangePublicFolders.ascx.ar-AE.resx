@@ -121,7 +121,7 @@
     <value>إنشاء مجلد عام جديد</value>
   </data>
   <data name="btnDeleteFolders.OnClientClick" xml:space="preserve">
-    <value>if(!confirm('هل أنت متأكد أنك تريد حذف المجلدات العامة المحددة؟')) return false; else ShowProgressDialog('جارٍ حذف المجلدات العامة ...');</value>
+    <value>if(!confirm('هل أنت متأكد أنك تريد حذف المجلدات العامة المحددة؟')) return false; else ShowProgressDialog('جارٍ حذف المجلدات العامة...');</value>
   </data>
   <data name="btnDeleteFolders.Text" xml:space="preserve">
     <value>حذف المجلدات المحددة</value>

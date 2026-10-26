@@ -124,7 +124,7 @@
     <value>استعادة لقطة</value>
   </data>
   <data name="FormComments.Text" xml:space="preserve">
-    <value>&lt;p&gt; لقطات من آلة افتراضية محددة. &lt;/ p&gt;</value>
+    <value>&lt;p&gt;لقطات الجهاز الافتراضي المحدد.&lt;/p&gt;</value>
   </data>
   <data name="locTitle.Text" xml:space="preserve">
     <value>لقطات</value>

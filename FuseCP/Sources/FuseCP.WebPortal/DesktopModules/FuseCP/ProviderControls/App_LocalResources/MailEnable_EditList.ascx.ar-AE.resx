@@ -169,7 +169,7 @@
     <value>وضع النشر:</value>
   </data>
   <data name="lblPostingPassword.Text" xml:space="preserve">
-    <value>إرسال كلمة المرور:</value>
+    <value>كلمة مرور النشر:</value>
   </data>
   <data name="lblPrefix.Text" xml:space="preserve">
     <value>بادئة:</value>
@@ -178,7 +178,7 @@
     <value>خيارات بادئة الموضوع:</value>
   </data>
   <data name="lblReplyTo.Text" xml:space="preserve">
-    <value>رد المشتركون على:</value>
+    <value>توجيه ردود المشتركين إلى:</value>
   </data>
   <data name="HeaderFooterSection.Text" xml:space="preserve">
     <value>قسم الرأس والتذييل</value>

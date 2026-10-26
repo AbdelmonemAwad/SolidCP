@@ -121,6 +121,6 @@
     <value>إضافة خادم</value>
   </data>
   <data name="lblEmptyList.Text" xml:space="preserve">
-    <value>قائمة الخوادم فارغة. أضغط على "أضف الخادم" لتسجيل خادم جديد يتم التحكم فيه.</value>
+    <value>قائمة الخوادم فارغة. انقر فوق الزر "إضافة خادم" لتسجيل خادم جديد للتحكم فيه.</value>
   </data>
 </root>

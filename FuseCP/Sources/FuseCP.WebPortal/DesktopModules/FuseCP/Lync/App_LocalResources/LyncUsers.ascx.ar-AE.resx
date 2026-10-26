@@ -121,16 +121,16 @@
     <value>مستخدمو Lync</value>
   </data>
   <data name="btnCreateUser.Text" xml:space="preserve">
-    <value>قم بإنشاء مستخدم Lync</value>
+    <value>إنشاء مستخدم Lync</value>
   </data>
   <data name="ddlSearchColumnDisplayName.Text" xml:space="preserve">
-    <value>عرض الاسم </value>
+    <value>اسم العرض</value>
   </data>
   <data name="ddlSearchColumnUserPrincipalName.Text" xml:space="preserve">
     <value>تسجيل الدخول</value>
   </data>
   <data name="gvUsersDisplayName.HeaderText" xml:space="preserve">
-    <value>عرض الاسم </value>
+    <value>اسم العرض</value>
   </data>
   <data name="gvUsersEmail.HeaderText" xml:space="preserve">
     <value>عنوان SIP</value>
@@ -145,7 +145,7 @@
     <value>خطة مستخدم Lync</value>
   </data>
   <data name="gvUsers.Empty" xml:space="preserve">
-    <value>لم يتم تمكين Lync لأي مستخدم. لتمكين مستخدم في Lync ، انقر فوق الزر "إنشاء مستخدم Lync".</value>
+    <value>لم يتم تمكين Lync لأي مستخدم. لتمكين مستخدم في Lync، انقر فوق الزر "إنشاء مستخدم Lync".</value>
   </data>
   <data name="gvUsersLogin.Header" xml:space="preserve">
     <value>تسجيل الدخول</value>
@@ -154,6 +154,6 @@
     <value>مستخدمو Lync</value>
   </data>
   <data name="btnCreateUserText.Text" xml:space="preserve">
-    <value>قم بإنشاء مستخدم Lync</value>
+    <value>إنشاء مستخدم Lync</value>
   </data>
 </root>

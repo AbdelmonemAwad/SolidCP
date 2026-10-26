@@ -121,12 +121,12 @@
     <value>إزالة</value>
   </data>
   <data name="btnAddSsLevel.Text" xml:space="preserve">
-    <value>أضف مستوى مساحة التخزين</value>
+    <value>إضافة مستوى مساحة تخزين</value>
   </data>
   <data name="gvRDSServers.Empty" xml:space="preserve">
-    <value>قائمة مستويات مساحة التخزين فارغة.&lt;br&gt;&lt;br&gt;لإضافة مستوى مساحة تخزين جديد اضغط على زر "أضف مستوى مساحة التخزين" ً </value>
+    <value>قائمة مستويات مساحة التخزين فارغة.&lt;br&gt;&lt;br&gt;لإضافة مستوى مساحة تخزين جديد، انقر على الزر "أضف مستوى مساحة التخزين".</value>
   </data>
   <data name="cmdDelete.OnClientClick" xml:space="preserve">
-    <value>if(confirm('هل أنت متأكد أنك تريد حذف مستوى مساحة التخزين المحددة ؟؟')) ShowProgressDialog('جاري إزالة مستوى مساحة التخزين ...'); else return false;</value>
+    <value>if(confirm('هل أنت متأكد أنك تريد حذف مستوى مساحة التخزين المحدد؟')) ShowProgressDialog('جاري إزالة مستوى مساحة التخزين...'); else return false;</value>
   </data>
 </root>

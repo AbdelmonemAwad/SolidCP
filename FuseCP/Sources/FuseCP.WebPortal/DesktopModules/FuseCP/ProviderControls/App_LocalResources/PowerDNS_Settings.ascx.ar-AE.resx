@@ -118,26 +118,13 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="FirsttimeUserNote" xml:space="preserve">
-    <value>&lt;div class = "Normal" style = "text-align: justify؛"&gt;
-قبل المتابعة إلى تكوين خدمة PowerDNS في لوحة التحكم ، يرجى اتباع هذه الإرشادات لنشر برنامج تشغيل ADO.NET لـ MySQL (المعروف أيضًا باسم MySQL Connector / Net) على الخادم &lt;strong&gt; {0} &lt;/strong&gt;. ما لم تفعل ذلك السيطرة
-لن تكون اللوحة قادرة على توفير مناطق وسجلات DNS بالإضافة إلى أن جسر تكامل الخدمة في حالة غير تشغيلية.
-&lt;br /&gt; &lt;br /&gt;
-من فضلك ، تأكد من اتباعك بعناية لجميع الخطوات الموضحة أدناه. &lt;/ div&gt;
-&lt;ul class = "عادي"&gt;
-&lt;li&gt; انقر أو افتح الرابط التالي في المتصفح &lt;a href="http://dev.mysql.com/downloads/connector/net/" target="_blank"&gt; http://dev.mysql.com/ في المتصفح التنزيلات / الموصل / net / &lt;/a&gt;؛ &lt;/li&gt;
-&lt;li&gt; تنزيل حزمة Windows Binaries (zipped MSI installer) ؛ &lt;/li&gt;
-&lt;li&gt; قم بتشغيل عملية تثبيت التوزيع الذي تم تنزيله بامتيازات إدارية ؛ &lt;/ li&gt;
-&lt;li&gt; اختر سيناريو نموذجي لمتابعة الإعدادات الموصى بها ؛ &lt;/ li&gt;
-&lt;li&gt; بعد انتهاء التثبيت ، يرجى متابعة تكوين خدمة PowerDNS ؛ &lt;/li&gt;
-&lt;/ul&gt;
-&lt;div class = "Normal" style = "text-align: justify؛"&gt; نحن نقدم هذه المعلومات لراحتك ، ومع ذلك ، لا يمكننا تقديم الدعم
-لتثبيت ADO.NET Driver for MySQL (المعروف أيضًا باسم MySQL Connector / Net). &lt;/div&gt;</value>
+    <value>&lt;div class="Normal" style="text-align: justify;"&gt; قبل المتابعة إلى تكوين خدمة PowerDNS في لوحة التحكم، يرجى اتباع هذه الإرشادات لنشر ADO.NET Driver for MySQL (المعروف أيضًا باسم MySQL Connector/Net) على الخادم &lt;strong&gt;{0}&lt;/strong&gt;. ما لم تفعل ذلك، لن تتمكن لوحة التحكم من توفير مناطق DNS وسجلاتها، كما سيبقى جسر تكامل الخدمة في حالة غير تشغيلية. &lt;br /&gt;&lt;br /&gt; يرجى التأكد من اتباع جميع الخطوات الموضحة أدناه بعناية.&lt;/div&gt; &lt;ul class="Normal"&gt; &lt;li&gt;انقر أو افتح الرابط التالي في المتصفح &lt;a href="http://dev.mysql.com/downloads/connector/net/" target="_blank"&gt;http://dev.mysql.com/downloads/connector/net/&lt;/a&gt;؛&lt;/li&gt; &lt;li&gt;نزّل حزمة Windows Binaries (zipped MSI installer)؛&lt;/li&gt; &lt;li&gt;شغّل عملية تثبيت الحزمة التي تم تنزيلها بامتيازات إدارية؛&lt;/li&gt; &lt;li&gt;اختر السيناريو النموذجي (Typical) للمتابعة بالإعدادات الموصى بها؛&lt;/li&gt; &lt;li&gt;بعد انتهاء التثبيت، يرجى المتابعة إلى تكوين خدمة PowerDNS؛&lt;/li&gt; &lt;/ul&gt; &lt;div class="Normal" style="text-align: justify;"&gt;نقدم هذه المعلومات لراحتك، إلا أننا لا نستطيع تقديم الدعم لتثبيتك لـ ADO.NET Driver for MySQL (المعروف أيضًا باسم MySQL Connector/Net).&lt;/div&gt;</value>
   </data>
   <data name="lblConfirmPassword.Text" xml:space="preserve">
     <value>تأكيد كلمة المرور:</value>
   </data>
   <data name="lblCurrentPassword.Text" xml:space="preserve">
-    <value>كلمة السر الحالية:</value>
+    <value>كلمة المرور الحالية:</value>
   </data>
   <data name="lblCurrentPasswordText.Text" xml:space="preserve">
     <value>*****</value>
@@ -152,13 +139,13 @@
     <value>معلومات لمستخدمي لوحة تحكم FuseCP لأول مرة</value>
   </data>
   <data name="lblIPAddresses.Text" xml:space="preserve">
-    <value>الاستماع إلى عناوين IP:</value>
+    <value>عناوين IP للاستماع:</value>
   </data>
   <data name="lblMinimumTtl.Text" xml:space="preserve">
     <value>الحد الأدنى من TTL:</value>
   </data>
   <data name="lblNameServers.Text" xml:space="preserve">
-    <value>اسماء الخوادم:</value>
+    <value>خوادم الأسماء:</value>
   </data>
   <data name="lblPassword.Text" xml:space="preserve">
     <value>كلمة المرور:</value>
@@ -167,7 +154,7 @@
     <value>الفاصل الزمني للتحديث:</value>
   </data>
   <data name="lblResponsiblePerson.Text" xml:space="preserve">
-    <value>الشخص المسؤول SOA:</value>
+    <value>الشخص المسؤول في SOA:</value>
   </data>
   <data name="lblRetryInterval.Text" xml:space="preserve">
     <value>الفاصل الزمني لإعادة المحاولة:</value>

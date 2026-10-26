@@ -118,10 +118,10 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="lblChildSpacesFolder.Text" xml:space="preserve">
-    <value>Path:</value>
+    <value>المسار:</value>
   </data>
   <data name="lblRelative.Text" xml:space="preserve">
-    <value>* يجب أن يكون المسار متناسبًا مع جذر هذه المساحة</value>
+    <value>* يجب أن يكون المسار نسبيًا إلى جذر هذه المساحة</value>
   </data>
   <data name="secSpacesFolder.Text" xml:space="preserve">
     <value>مجلد مواقع المساحات الفرعية</value>

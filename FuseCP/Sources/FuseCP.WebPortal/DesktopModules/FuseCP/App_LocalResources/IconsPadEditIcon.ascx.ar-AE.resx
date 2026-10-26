@@ -139,7 +139,7 @@
     <value>رابط الصورة:</value>
   </data>
   <data name="lblLinkUrl.Text" xml:space="preserve">
-    <value>URL رابط:</value>
+    <value>عنوان URL للرابط:</value>
   </data>
   <data name="lblQuotaName.Text" xml:space="preserve">
     <value>اسم الحصة:</value>
@@ -148,6 +148,6 @@
     <value>العنوان:</value>
   </data>
   <data name="lblViewOrder.Text" xml:space="preserve">
-    <value>عرض الطلب:</value>
+    <value>ترتيب العرض:</value>
   </data>
 </root>

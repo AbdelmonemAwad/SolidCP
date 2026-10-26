@@ -136,10 +136,10 @@
     <value>خيارات النطاق</value>
   </data>
   <data name="chkEnablePreviewDomain.Text" xml:space="preserve">
-    <value>تفعيل معاينة النطاق</value>
+    <value>تفعيل نطاق المعاينة</value>
   </data>
   <data name="chkEnableCustomDomains.Text" xml:space="preserve">
-    <value>تمكين النطاقات المستخدم</value>
+    <value>تمكين نطاقات المستخدم</value>
   </data>
   <data name="chkEnableHostDomains.Text" xml:space="preserve">
     <value>تمكين النطاقات الفرعية للمضيف</value>

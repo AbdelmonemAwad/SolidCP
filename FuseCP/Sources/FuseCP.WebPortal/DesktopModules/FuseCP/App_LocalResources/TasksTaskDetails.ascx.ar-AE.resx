@@ -127,10 +127,10 @@
     <value>return confirm('هل تريد حقًا إنهاء هذه المهمة؟');</value>
   </data>
   <data name="btnStop.Text" xml:space="preserve">
-    <value>ايقاف</value>
+    <value>إيقاف</value>
   </data>
   <data name="btnStopText.Text" xml:space="preserve">
-    <value>توقف</value>
+    <value>إيقاف</value>
   </data>
   <data name="lblExecutionLog.Text" xml:space="preserve">
     <value>سجل التنفيذ:</value>
@@ -139,6 +139,6 @@
     <value>المدة:</value>
   </data>
   <data name="locStarted.Text" xml:space="preserve">
-    <value>بدأت:</value>
+    <value>البدء:</value>
   </data>
 </root>

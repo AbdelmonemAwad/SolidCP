@@ -130,19 +130,19 @@
     <value>حد انتهاء الصلاحية:</value>
   </data>
   <data name="lblIPAddresses.Text" xml:space="preserve">
-    <value>الاستماع إلى عناوين IP:</value>
+    <value>عناوين IP للاستماع:</value>
   </data>
   <data name="lblMinimumTtl.Text" xml:space="preserve">
     <value>الحد الأدنى من TTL:</value>
   </data>
   <data name="lblNameServers.Text" xml:space="preserve">
-    <value>اسماء الخوادم:</value>
+    <value>خوادم الأسماء:</value>
   </data>
   <data name="lblRefreshInterval.Text" xml:space="preserve">
     <value>الفاصل الزمني للتحديث:</value>
   </data>
   <data name="lblResponsiblePerson.Text" xml:space="preserve">
-    <value>الشخص المسؤول SOA:</value>
+    <value>الشخص المسؤول في SOA:</value>
   </data>
   <data name="lblRetryInterval.Text" xml:space="preserve">
     <value>الفاصل الزمني لإعادة المحاولة:</value>

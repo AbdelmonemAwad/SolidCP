@@ -118,22 +118,22 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="chkLocalHostFile" xml:space="preserve">
-    <value>توفير ملف المضيفين المحليين</value>
+    <value>تهيئة ملف hosts المحلي</value>
   </data>
   <data name="lblBackupTempFolder.Text" xml:space="preserve">
-    <value>المجلد المؤقت للنسخ الاحتياطي في شيربوينت:</value>
+    <value>المجلد المؤقت للنسخ الاحتياطي في SharePoint:</value>
   </data>
   <data name="lblRootWebApplication.Text" xml:space="preserve">
-    <value>عنوان URL لتطبيق شيربوينت على الويب:</value>
+    <value>عنوان URL لتطبيق SharePoint على الويب:</value>
   </data>
   <data name="lblRootWebApplicationIpAddress.Text" xml:space="preserve">
-    <value>عنوان IP لتطبيق ويب شيربوينت:</value>
+    <value>عنوان IP لتطبيق ويب SharePoint:</value>
   </data>
   <data name="lblSharedSSLRoot.Text" xml:space="preserve">
     <value>جذر SSL مشترك:</value>
   </data>
   <data name="lblSharePointBackup.Text" xml:space="preserve">
-    <value>النسخ الاحتياطي لـ شيربوينت</value>
+    <value>النسخ الاحتياطي لـ SharePoint</value>
   </data>
   <data name="lblWildCardRoot.Text" xml:space="preserve">
     <value>جذر شهادة Wildcard</value>

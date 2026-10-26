@@ -121,13 +121,13 @@
     <value>السماح بالنطاقات الفرعية للعملاء</value>
   </data>
   <data name="btnAdd.Text" xml:space="preserve">
-    <value>أضف نطاق</value>
+    <value>إضافة نطاق</value>
   </data>
   <data name="btnCancel.Text" xml:space="preserve">
     <value>إلغاء</value>
   </data>
   <data name="CreatePreviewDomain.Text" xml:space="preserve">
-    <value>إنشاء معاينة النطاق</value>
+    <value>إنشاء نطاق معاينة</value>
   </data>
   <data name="CreateWebSite.Text" xml:space="preserve">
     <value>إنشاء موقع ويب</value>
@@ -136,7 +136,7 @@
     <value>حدد هذا الخيار إذا كنت ترغب في تقديم هذا النطاق لعملائك لإنشاء النطاقات الفرعية المجانية الخاصة بهم.</value>
   </data>
   <data name="DescribeCreatePreviewDomain.Text" xml:space="preserve">
-    <value>حدد مربع الاختيار هذا إذا كنت بحاجة إلى الوصول إلى موقع الويب الخاص بك أو صناديق البريد قبل نشر DNS. انتشار DNS هو الوقت المطلوب لنشر المعلومات حول منطقة DNS في جميع أنحاء الإنترنت. قد يستغرق الأمر ما يصل إلى 72 ساعة.</value>
+    <value>حدد مربع الاختيار هذا إذا كنت بحاجة إلى الوصول إلى موقع الويب الخاص بك أو صناديق البريد قبل اكتمال انتشار DNS. انتشار DNS هو الوقت اللازم لنشر معلومات منطقة DNS في جميع أنحاء الإنترنت، وقد يستغرق ما يصل إلى 72 ساعة.</value>
   </data>
   <data name="DescribeCreateWebSite.Text" xml:space="preserve">
     <value>إنشاء موقع ويب جديد.</value>
@@ -151,7 +151,7 @@
     <value>خيارات التزويد</value>
   </data>
   <data name="PointMailDomain.Text" xml:space="preserve">
-    <value>التعيين إلى نطاق البريد الحالي</value>
+    <value>التعيين إلى نطاق بريد موجود</value>
   </data>
   <data name="PointWebSite.Text" xml:space="preserve">
     <value>تعيين إلى موقع ويب موجود</value>
@@ -160,6 +160,6 @@
     <value>اسم المضيف:</value>
   </data>
   <data name="btnAddText.Text" xml:space="preserve">
-    <value>أضف نطاق</value>
+    <value>إضافة نطاق</value>
   </data>
 </root>

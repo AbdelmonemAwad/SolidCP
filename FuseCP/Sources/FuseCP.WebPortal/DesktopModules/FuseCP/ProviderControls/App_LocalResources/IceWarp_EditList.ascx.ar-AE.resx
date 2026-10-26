@@ -118,10 +118,10 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="AdditionalOptions.Text" xml:space="preserve">
-    <value>قائمة خيارات إضافية</value>
+    <value>خيارات القائمة الإضافية</value>
   </data>
   <data name="chkCommandInSubject.Text" xml:space="preserve">
-    <value>السماح بالاوامر في الموضوع</value>
+    <value>السماح بالأوامر في الموضوع</value>
   </data>
   <data name="chkDigestMailingList.Text" xml:space="preserve">
     <value>ملخص القائمة البريدية</value>
@@ -136,19 +136,19 @@
     <value>تفعيل أمر الانضمام (اشتراك)</value>
   </data>
   <data name="chkEnableUnsubscribe.Text" xml:space="preserve">
-    <value>تفعيل أمر الإجازة (إلغاء الاشتراك)</value>
+    <value>تفعيل أمر المغادرة (إلغاء الاشتراك)</value>
   </data>
   <data name="chkEnableVacation.Text" xml:space="preserve">
     <value>تفعيل أمر الإجازة / بلا إجازة</value>
   </data>
   <data name="chkEnableWhich.Text" xml:space="preserve">
-    <value>تمكين أي أمر</value>
+    <value>تمكين أمر WHICH</value>
   </data>
   <data name="chkModerated.Text" xml:space="preserve">
-    <value>قائمة خادم خاضع للإشراف</value>
+    <value>خادم قوائم خاضع للإشراف</value>
   </data>
   <data name="chkPasswordEnabled.Text" xml:space="preserve">
-    <value>تمكين</value>
+    <value>مُمكَّن</value>
   </data>
   <data name="chkReplyToList.Text" xml:space="preserve">
     <value>الرد على القائمة</value>
@@ -163,22 +163,22 @@
     <value>أبلغ المالك بالمغادرة</value>
   </data>
   <data name="chkSetRecipientToToHeader.Text" xml:space="preserve">
-    <value>تعيين المستلم إلى رأس</value>
+    <value>تعيين المستلم في رأس To</value>
   </data>
   <data name="chkSubjectPrefixEnabled.Text" xml:space="preserve">
-    <value>تمكين</value>
+    <value>مُمكَّن</value>
   </data>
   <data name="chkSuppressCommandResponses.Text" xml:space="preserve">
-    <value>كبح استجابات الأمر</value>
+    <value>منع ردود الأوامر</value>
   </data>
   <data name="ConfirmSubscriptionNone.Text" xml:space="preserve">
     <value>لا يوجد تأكيد</value>
   </data>
   <data name="ConfirmSubscriptionOwner.Text" xml:space="preserve">
-    <value>أكد المالك</value>
+    <value>بتأكيد من المالك</value>
   </data>
   <data name="ConfirmSubscriptionUser.Text" xml:space="preserve">
-    <value>تم تأكيد المستخدم</value>
+    <value>بتأكيد من المستخدم</value>
   </data>
   <data name="ctxValDomain.Text" xml:space="preserve">
     <value>يجب أن يكون المشرف داخل نطاق البريد حيث توجد قائمة البريد</value>
@@ -199,16 +199,16 @@
     <value>المرسل</value>
   </data>
   <data name="DefaultRightsDigestReceive.Text" xml:space="preserve">
-    <value>استوعب واستقبل</value>
+    <value>الملخص والاستلام</value>
   </data>
   <data name="DefaultRightsDigestReceivePost.Text" xml:space="preserve">
-    <value>استوعب واستلم وأرسل</value>
+    <value>الملخص والاستلام والنشر</value>
   </data>
   <data name="DefaultRightsPost.Text" xml:space="preserve">
     <value>نشر فقط</value>
   </data>
   <data name="DefaultRightsReceive.Text" xml:space="preserve">
-    <value>استلم فقط</value>
+    <value>الاستلام فقط</value>
   </data>
   <data name="DefaultRightsReceivePost.Text" xml:space="preserve">
     <value>الاستلام والنشر</value>
@@ -247,31 +247,31 @@
     <value>وصف القائمة:</value>
   </data>
   <data name="lblFromHeader.Text" xml:space="preserve">
-    <value>من رأس:</value>
+    <value>رأس From:</value>
   </data>
   <data name="lblFromHeaderValue.Text" xml:space="preserve">
-    <value>من قيمة الرأس:</value>
+    <value>قيمة رأس From:</value>
   </data>
   <data name="lblListFromAddress.Text" xml:space="preserve">
-    <value>قائمة من العناوين:</value>
+    <value>عنوان From للقائمة:</value>
   </data>
   <data name="lblListOptions.Text" xml:space="preserve">
-    <value>قائمة خيارات:</value>
+    <value>خيارات القائمة:</value>
   </data>
   <data name="lblListReplyToAddress.Text" xml:space="preserve">
-    <value>قائمة الرد إلى العنوان:</value>
+    <value>عنوان Reply-To للقائمة:</value>
   </data>
   <data name="lblListToAddress.Text" xml:space="preserve">
-    <value>قائمة إلى عنوان:</value>
+    <value>عنوان To للقائمة:</value>
   </data>
   <data name="lblMaxMembers.Text" xml:space="preserve">
-    <value>عدد الأعضاء الأقصى:</value>
+    <value>الحد الأقصى لعدد الأعضاء:</value>
   </data>
   <data name="lblMaxMessageSize.Text" xml:space="preserve">
-    <value>أقصى حجم للرسالة ، كيلو بايت:</value>
+    <value>أقصى حجم للرسالة، كيلو بايت:</value>
   </data>
   <data name="lblMaxMessagesPerMinute.Text" xml:space="preserve">
-    <value>الحد الأقصى #  للرسائل المراد إرسالها في دقيقة واحدة:</value>
+    <value>الحد الأقصى لعدد الرسائل المرسلة في دقيقة واحدة:</value>
   </data>
   <data name="lblMaxRecipients.Text" xml:space="preserve">
     <value>الحد الأقصى لعدد المستلمين لكل رسالة:</value>
@@ -283,28 +283,28 @@
     <value>مصدر الأعضاء:</value>
   </data>
   <data name="lblModeratorAddress.Text" xml:space="preserve">
-    <value>قائمة مشرف:</value>
+    <value>مشرف القائمة:</value>
   </data>
   <data name="lblOriginator.Text" xml:space="preserve">
     <value>المنشئ:</value>
   </data>
   <data name="lblPasswordProtection.Text" xml:space="preserve">
-    <value>حماية كلمة المرور:</value>
+    <value>الحماية بكلمة مرور:</value>
   </data>
   <data name="lblPostingMode.Text" xml:space="preserve">
     <value>وضع النشر:</value>
   </data>
   <data name="lblPostingPassword.Text" xml:space="preserve">
-    <value>إرسال كلمة المرور:</value>
+    <value>كلمة مرور النشر:</value>
   </data>
   <data name="lblReplyTo.Text" xml:space="preserve">
-    <value>رد المشتركون على:</value>
+    <value>توجيه ردود المشتركين إلى:</value>
   </data>
   <data name="lblReplyToHeader.Text" xml:space="preserve">
-    <value>الرد على القائمة</value>
+    <value>رأس Reply-To:</value>
   </data>
   <data name="lblReplyToHeaderValue.Text" xml:space="preserve">
-    <value>الرد على القائمة</value>
+    <value>قيمة رأس Reply-To:</value>
   </data>
   <data name="lblSubjectPrefix.Text" xml:space="preserve">
     <value>بادئة الموضوع:</value>
@@ -331,10 +331,10 @@
     <value>غير محمي بكلمة مرور</value>
   </data>
   <data name="PasswordProtectionServerModerated.Text" xml:space="preserve">
-    <value>خادم مدار</value>
+    <value>خاضعة لإشراف الخادم</value>
   </data>
   <data name="Text.SelectModerator" xml:space="preserve">
-    <value>&lt;اختر وسيط&gt;</value>
+    <value>&lt;اختر مشرفًا&gt;</value>
   </data>
   <data name="ddlMembersSourceAllDomainAdmins.Text" xml:space="preserve">
     <value>جميع مديري النطاق</value>
@@ -355,7 +355,7 @@
     <value>خيارات</value>
   </data>
   <data name="Security.Text" xml:space="preserve">
-    <value>حماية</value>
+    <value>الأمان</value>
   </data>
   <data name="txtMaxMembersValidator.ErrorMessage" xml:space="preserve">
     <value>يجب أن تكون القيمة صفرًا أو أكبر</value>

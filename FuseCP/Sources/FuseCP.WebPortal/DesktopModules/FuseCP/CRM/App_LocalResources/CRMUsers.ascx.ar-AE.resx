@@ -121,7 +121,7 @@
     <value>إنشاء مستخدم CRM جديد</value>
   </data>
   <data name="ddlSearchColumnDisplayName.Text" xml:space="preserve">
-    <value>عرض الاسم </value>
+    <value>الاسم المعروض</value>
   </data>
   <data name="ddlSearchColumnEmail.Text" xml:space="preserve">
     <value>بريد إلكتروني</value>
@@ -133,13 +133,13 @@
     <value>التراخيص الكاملة:</value>
   </data>
   <data name="locTitle.Text" xml:space="preserve">
-    <value>CRM المستخدمين</value>
+    <value>مستخدمو CRM</value>
   </data>
   <data name="Text.PageName" xml:space="preserve">
-    <value>CRM المستخدمين</value>
+    <value>مستخدمو CRM</value>
   </data>
   <data name="gvUsersDisplayName.Header" xml:space="preserve">
-    <value>عرض الاسم </value>
+    <value>الاسم المعروض</value>
   </data>
   <data name="gvUsersEmail.Header" xml:space="preserve">
     <value>عنوان البريد الإلكتروني الرئيسي</value>

@@ -124,19 +124,19 @@
     <value>معرّف المؤسسة:</value>
   </data>
   <data name="lblOrganizationName.Text" xml:space="preserve">
-    <value>اسم المنظمة:</value>
+    <value>اسم المؤسسة:</value>
   </data>
   <data name="litTotalUserDiskSpace.Text" xml:space="preserve">
-    <value>إجمالي مساحة القرص المستخدمة ، ميجا بايت:</value>
+    <value>إجمالي مساحة القرص المستخدمة، ميجا بايت:</value>
   </data>
   <data name="litUsedDiskSpace.Text" xml:space="preserve">
-    <value>مساحة القرص المستخدمة ، ميجا بايت:</value>
+    <value>مساحة القرص المستخدمة، ميجا بايت:</value>
   </data>
   <data name="lnkAllocatedDiskspace.Text" xml:space="preserve">
     <value>مساحة القرص المخصصة (ميجا بايت)</value>
   </data>
   <data name="lnkBESUsers.Text" xml:space="preserve">
-    <value>مستخدمين بلاك بيري:</value>
+    <value>مستخدمو BlackBerry:</value>
   </data>
   <data name="lnkContacts.Text" xml:space="preserve">
     <value>جهات الاتصال:</value>
@@ -166,10 +166,10 @@
     <value>صناديق البريد:</value>
   </data>
   <data name="lnkOCSUsers.Text" xml:space="preserve">
-    <value>مستخدمينOCS:</value>
+    <value>مستخدمو OCS:</value>
   </data>
   <data name="lnkSiteCollections.Text" xml:space="preserve">
-    <value>مجموعات الموقع</value>
+    <value>مجموعات المواقع:</value>
   </data>
   <data name="lnkUsedDiskspace.Text" xml:space="preserve">
     <value>مساحة القرص المستخدمة (ميجا بايت)</value>
@@ -178,7 +178,7 @@
     <value>المستخدمون:</value>
   </data>
   <data name="locBESStatistics.Text" xml:space="preserve">
-    <value>بلاك بيري</value>
+    <value>BlackBerry</value>
   </data>
   <data name="locCRM.Text" xml:space="preserve">
     <value>CRM 4/2011</value>
@@ -187,16 +187,16 @@
     <value>Exchange</value>
   </data>
   <data name="locHeadStatistics.Text" xml:space="preserve">
-    <value>منظمة</value>
+    <value>مؤسسة</value>
   </data>
   <data name="locLyncStatistics.Text" xml:space="preserve">
     <value>Lync</value>
   </data>
   <data name="locTitle.Text" xml:space="preserve">
-    <value>الرئيسيه </value>
+    <value>الرئيسية</value>
   </data>
   <data name="Text.PageName" xml:space="preserve">
-    <value>الرئيسيه </value>
+    <value>الرئيسية</value>
   </data>
   <data name="Unlimited.Text" xml:space="preserve">
     <value>غير محدود</value>
@@ -226,15 +226,15 @@
     <value>مجموعات RDS</value>
   </data>
   <data name="lnkRdsUsers.Text" xml:space="preserve">
-    <value>مستخدمين RDS</value>
+    <value>مستخدمو RDS</value>
   </data>
   <data name="locSharePointEnterprise.Text" xml:space="preserve">
-    <value>خادم شيربوينت</value>
+    <value>خادم SharePoint</value>
   </data>
   <data name="lnkEditOrganizationSettings.Text" xml:space="preserve">
     <value>تحرير</value>
   </data>
   <data name="OrganizationSettings.Text" xml:space="preserve">
-    <value>إعدادات المنظمة:</value>
+    <value>إعدادات المؤسسة:</value>
   </data>
 </root>

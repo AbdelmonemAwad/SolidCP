@@ -118,16 +118,16 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="btnDelete.OnClientClick" xml:space="preserve">
-    <value>if (confirm('هل أنت متأكد أنك تريد حذف المستخدم؟')){ShowProgressDialog('جارٍ حذف مستخدم بلاك بيري ...');return true;} else {return false};</value>
+    <value>if (confirm('هل أنت متأكد أنك تريد حذف المستخدم؟')){ShowProgressDialog('جارٍ حذف مستخدم BlackBerry...');return true;} else {return false};</value>
   </data>
   <data name="btnDelete.Text" xml:space="preserve">
-    <value>مسح المستخدم</value>
+    <value>حذف المستخدم</value>
   </data>
   <data name="Text.PageName" xml:space="preserve">
-    <value>مستخدمو بلاك بيري</value>
+    <value>مستخدمو BlackBerry</value>
   </data>
   <data name="rbGeneratePassword.Text" xml:space="preserve">
-    <value>قم بتعيين كلمة مرور التنشيط العشوائي وإرسالها بالبريد الإلكتروني مع وقت انتهاء الصلاحية الافتراضي 48 ساعة</value>
+    <value>تعيين كلمة مرور تنشيط عشوائية وإرسالها بالبريد الإلكتروني مع مدة انتهاء صلاحية افتراضية 48 ساعة</value>
   </data>
   <data name="rbSpecifyPassword.Text" xml:space="preserve">
     <value>قم بتعيين كلمة مرور التنشيط مع وقت انتهاء الصلاحية من 1 إلى 720 ساعة</value>
@@ -139,7 +139,7 @@
     <value>الوقت:</value>
   </data>
   <data name="btnSetPassword.Text" xml:space="preserve">
-    <value>ضبط كلمة السر</value>
+    <value>تعيين كلمة المرور</value>
   </data>
   <data name="secPassowrd.Text" xml:space="preserve">
     <value>تعيين كلمة مرور التنشيط</value>
@@ -148,24 +148,24 @@
     <value>إحصائيات</value>
   </data>
   <data name="btnDeleteData.OnClientClick" xml:space="preserve">
-    <value>return confirm('سيرسل هذا رسالة إلى الجهاز لإخبار الجهاز بتعطيل نفسه. سيتم أيضًا حذف المعلومات المخزنة مسبقًا على الجهاز. \ n \ n هل أنت متأكد من أنك تريد القيام بذلك؟');</value>
+    <value>return confirm('سيرسل هذا رسالة إلى الجهاز تطلب منه تعطيل نفسه. وسيتم أيضًا حذف المعلومات المخزنة مسبقًا على الجهاز.\n\nهل أنت متأكد من أنك تريد القيام بذلك؟');</value>
   </data>
   <data name="btnDeleteData.Text" xml:space="preserve">
-    <value>احذف البيانات من جهاز بلاك بيري</value>
+    <value>حذف البيانات من جهاز BlackBerry</value>
   </data>
   <data name="locTitle.Text" xml:space="preserve">
-    <value>مستخدم بلاك بيري</value>
+    <value>مستخدم BlackBerry</value>
   </data>
   <data name="btnDeleteDataText.Text" xml:space="preserve">
-    <value>احذف البيانات من جهاز بلاك بيري</value>
+    <value>حذف البيانات من جهاز BlackBerry</value>
   </data>
   <data name="btnDeleteText.Text" xml:space="preserve">
-    <value>مسح المستخدم</value>
+    <value>حذف المستخدم</value>
   </data>
   <data name="btnSaveExit.Text" xml:space="preserve">
-    <value>حفظ التغييرات و الخروج</value>
+    <value>حفظ التغييرات والخروج</value>
   </data>
   <data name="btnSaveExitText.Text" xml:space="preserve">
-    <value>حفظ التغييرات و الخروج</value>
+    <value>حفظ التغييرات والخروج</value>
   </data>
 </root>

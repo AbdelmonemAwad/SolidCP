@@ -118,13 +118,13 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="btnAddPlan.Text" xml:space="preserve">
-    <value>أضف خطة جديدة</value>
+    <value>إضافة خطة جديدة</value>
   </data>
   <data name="btnSetDefaultPlan.Text" xml:space="preserve">
     <value>تعيين الخطة الافتراضية</value>
   </data>
   <data name="cmdDelete.OnClientClick" xml:space="preserve">
-    <value>if(!confirm('هل أنت متأكد أنك تريد حذف الخطة المحددة؟')) return false; else ShowProgressDialog('جارٍ حذف الخطة ...');</value>
+    <value>if(!confirm('هل أنت متأكد أنك تريد حذف الخطة المحددة؟')) return false; else ShowProgressDialog('جارٍ حذف الخطة...');</value>
   </data>
   <data name="cmdDelete.Text" xml:space="preserve">
     <value>حذف</value>
@@ -148,19 +148,19 @@
     <value>الخطة المستهدفة:</value>
   </data>
   <data name="locTitle.Text" xml:space="preserve">
-    <value>خطط مستخدم سكايب للأعمال</value>
+    <value>خطط مستخدم Skype for Business</value>
   </data>
   <data name="secMainTools.Text" xml:space="preserve">
-    <value>صيانة خطة مستخدم سكايب للأعمال</value>
+    <value>صيانة خطة مستخدم Skype for Business</value>
   </data>
   <data name="Text.PageName" xml:space="preserve">
-    <value>خطط مستخدم سكايب للأعمال</value>
+    <value>خطط مستخدم Skype for Business</value>
   </data>
   <data name="btnAddPlanText.Text" xml:space="preserve">
-    <value>أضف خطة جديدة</value>
+    <value>إضافة خطة جديدة</value>
   </data>
   <data name="btnSaveText.Text" xml:space="preserve">
-    <value>ختم مستخدمي SfB</value>
+    <value>تطبيق الخطة على مستخدمي SfB</value>
   </data>
   <data name="btnSetDefaultPlanText.Text" xml:space="preserve">
     <value>تعيين الخطة الافتراضية</value>

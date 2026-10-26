@@ -133,10 +133,10 @@
     <value>قواعد بيانات MariaDB</value>
   </data>
   <data name="clpOverusageDefinitionHeader.Text" xml:space="preserve">
-    <value>إشعار  عن</value>
+    <value>إشعار عن</value>
   </data>
   <data name="clpOverusedSettingsHeader.Text" xml:space="preserve">
-    <value>مشكلة مفرطة الاستخدام</value>
+    <value>إصدار إشعار التجاوز</value>
   </data>
   <data name="clpWarningSettingsHeader.Text" xml:space="preserve">
     <value>إصدار تحذير</value>
@@ -145,13 +145,13 @@
     <value>نص بريد التعليق:</value>
   </data>
   <data name="lblOverusedMailBodyHint.Text" xml:space="preserve">
-    <value>([threshold], [date], [usage], [space], [customer] المتغيرات مدعومة)</value>
+    <value>(المتغيرات [threshold] و[date] و[usage] و[space] و[customer] مدعومة)</value>
   </data>
   <data name="lblOverusedThreshold.Text" xml:space="preserve">
     <value>عتبة التعليق:</value>
   </data>
   <data name="lblThreshold.Text" xml:space="preserve">
-    <value>استخدام أكبر من المحدد أدناه الحد الأدنى.</value>
+    <value>الاستخدام أكبر من الحد المعرَّف أدناه.</value>
   </data>
   <data name="lblWarningMailBcc.Text" xml:space="preserve">
     <value>BCC:</value>
@@ -160,7 +160,7 @@
     <value>نص بريد التحذير:</value>
   </data>
   <data name="lblWarningMailBodyHint.Text" xml:space="preserve">
-    <value>([threshold], [date], [usage], [space], [customer] المتغيرات مدعومة)</value>
+    <value>(المتغيرات [threshold] و[date] و[usage] و[space] و[customer] مدعومة)</value>
   </data>
   <data name="lblWarningMailFrom.Text" xml:space="preserve">
     <value>البريد من:</value>

@@ -121,7 +121,7 @@
     <value>نطاق جذر تطبيق AD</value>
   </data>
   <data name="lblCrmDomainName.Text" xml:space="preserve">
-    <value>النطاق لجذر لتطبيق ويب IFD</value>
+    <value>نطاق الجذر لتطبيق ويب IFD</value>
   </data>
   <data name="lblCrmIP.Text" xml:space="preserve">
     <value>IP موقع الويب الخاص بـ CRM</value>
@@ -136,7 +136,7 @@
     <value>URL التقارير</value>
   </data>
   <data name="lblSchema.Text" xml:space="preserve">
-    <value>مخطط النطاق للجذر IFD</value>
+    <value>مخطط نطاق الجذر لـ IFD</value>
   </data>
   <data name="lblSqlServer.Text" xml:space="preserve">
     <value>خادم SQL</value>

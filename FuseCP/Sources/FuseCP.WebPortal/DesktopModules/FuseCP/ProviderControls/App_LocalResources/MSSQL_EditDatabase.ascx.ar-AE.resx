@@ -136,7 +136,7 @@
     <value>ملف البيانات</value>
   </data>
   <data name="lblLogFile.Text" xml:space="preserve">
-    <value>ملف تسجيل</value>
+    <value>ملف السجل</value>
   </data>
   <data name="lblLogicalName.Text" xml:space="preserve">
     <value>الاسم المنطقي:</value>
@@ -145,13 +145,13 @@
     <value>المسار الفعلي:</value>
   </data>
   <data name="lblSize.Text" xml:space="preserve">
-    <value>الحجم ، كيلو بايت:</value>
+    <value>الحجم، كيلو بايت:</value>
   </data>
   <data name="secDataFiles.Text" xml:space="preserve">
     <value>ملفات قاعدة البيانات</value>
   </data>
   <data name="secHousekeepingTools.Text" xml:space="preserve">
-    <value>ادوات الحفظ الرئيسية</value>
+    <value>أدوات الصيانة الدورية</value>
   </data>
   <data name="secMainTools.Text" xml:space="preserve">
     <value>أدوات الصيانة</value>

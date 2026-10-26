@@ -121,22 +121,22 @@
     <value>موافق</value>
   </data>
   <data name="gvFolders.Empty" xml:space="preserve">
-    <value>لا توجد مجلدات عامة في المنظمة.</value>
+    <value>لا توجد مجلدات عامة في المؤسسة.</value>
   </data>
   <data name="gvFoldersItems.Header" xml:space="preserve">
     <value>إجمالي العناصر</value>
   </data>
   <data name="gvFoldersLastAccess.Header" xml:space="preserve">
-    <value>آخر وصول </value>
+    <value>آخر وصول</value>
   </data>
   <data name="gvFoldersLastModification.Header" xml:space="preserve">
     <value>آخر تعديل</value>
   </data>
   <data name="gvFoldersName.Header" xml:space="preserve">
-    <value>إسم الملف</value>
+    <value>اسم المجلد</value>
   </data>
   <data name="gvFoldersSize.Header" xml:space="preserve">
-    <value>الحجم الإجمالي ، ميجا بايت</value>
+    <value>الحجم الإجمالي، ميجا بايت</value>
   </data>
   <data name="gvMailboxes.Empty" xml:space="preserve">
     <value>لا توجد إحصاءات صناديق البريد في الوقت الحالي.</value>
@@ -148,13 +148,13 @@
     <value>إجمالي العناصر</value>
   </data>
   <data name="gvMailboxesLastLogoff.Header" xml:space="preserve">
-    <value>آخر وقت لتسجيل الخروج</value>
+    <value>وقت آخر تسجيل خروج</value>
   </data>
   <data name="gvMailboxesLastLogon.Header" xml:space="preserve">
-    <value>آخر وقت لتسجيل الدخول</value>
+    <value>وقت آخر تسجيل دخول</value>
   </data>
   <data name="gvMailboxesSize.Header" xml:space="preserve">
-    <value>الحجم الإجمالي ، ميجا بايت</value>
+    <value>الحجم الإجمالي، ميجا بايت</value>
   </data>
   <data name="locMB.Text" xml:space="preserve">
     <value>ميجا بايت</value>
@@ -169,7 +169,7 @@
     <value>إجمالي حجم المجلدات (ميجا بايت):</value>
   </data>
   <data name="locTotalMailboxesSize.Text" xml:space="preserve">
-    <value>إجمالي حجم علب البريد (ميجا بايت):</value>
+    <value>إجمالي حجم صناديق البريد (ميجا بايت):</value>
   </data>
   <data name="locTotalMailboxItems.Text" xml:space="preserve">
     <value>إجمالي عناصر صندوق البريد:</value>
@@ -184,9 +184,9 @@
     <value>استخدام التخزين</value>
   </data>
   <data name="locAverageMailboxSize.Text" xml:space="preserve">
-    <value>متوسط. حجم صندوق البريد (ميجا بايت):</value>
+    <value>متوسط حجم صندوق البريد (ميجا بايت):</value>
   </data>
   <data name="locTotalMailboxes.Text" xml:space="preserve">
-    <value>إجمالي علب البريد:</value>
+    <value>إجمالي صناديق البريد:</value>
   </data>
 </root>

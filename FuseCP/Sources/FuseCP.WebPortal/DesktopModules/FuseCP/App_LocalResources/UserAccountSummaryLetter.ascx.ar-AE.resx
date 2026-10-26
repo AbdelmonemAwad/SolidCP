@@ -121,7 +121,7 @@
     <value>إرسال عبر البريد الإلكتروني</value>
   </data>
   <data name="lblTo.Text" xml:space="preserve">
-    <value>الي:</value>
+    <value>إلى:</value>
   </data>
   <data name="lblCC.Text" xml:space="preserve">
     <value>CC:</value>
@@ -136,7 +136,7 @@
     <value>* أدخل البريد الإلكتروني</value>
   </data>
   <data name="NotSetup.Text" xml:space="preserve">
-    <value>لم يقم المورِّد بإعداد خطاب ملخص الحساب</value>
+    <value>لم يقم الموزع الخاص بك بإعداد خطاب ملخص الحساب</value>
   </data>
   <data name="btnReturnText.Text" xml:space="preserve">
     <value>إلغاء</value>

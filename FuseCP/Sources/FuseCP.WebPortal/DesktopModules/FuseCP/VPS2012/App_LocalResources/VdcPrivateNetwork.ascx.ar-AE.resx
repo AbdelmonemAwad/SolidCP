@@ -118,7 +118,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="FormComments.Text" xml:space="preserve">
-    <value>&lt;p&gt; إذا كان هذا النموذج متاحًا في مساحة الاستضافة ، فهذا يعني أن جميع VPS في مساحة الاستضافة هذه متصلة بشبكة خاصة مخصصة متاحة فقط لمساحة الاستضافة هذه. &lt;/ p&gt; &lt;p&gt; تعد الشبكة الخاصة آلية قوية جدًا يسمح بزيادة إضافية لأمن الشبكة. على سبيل المثال ، قد يكون لديك خادم أمامي واحد فقط (على سبيل المثال خادم مثبت عليه أدوار Exchange CAS و HUB) متصل بشبكة خارجية وجميع الخوادم المتبقية متصلة بشبكة خاصة (داخلية) فقط (على سبيل المثال ، خادم واحد له دور Exchange MB و الثانية مع DC). &lt;/p&gt; &lt;p&gt; تعرض الحصة الموجودة في الجزء السفلي من النموذج الحد الأقصى لعدد عناوين IP الخاصة التي يمكن تخصيصها لكل خادم VPS. &lt;/p&gt;</value>
+    <value>&lt;p&gt;إذا كان هذا النموذج متاحًا في مساحة الاستضافة، فهذا يعني أن جميع خوادم VPS في مساحة الاستضافة هذه متصلة بشبكة خاصة مخصصة متاحة لمساحة الاستضافة هذه فقط.&lt;/p&gt; &lt;p&gt;الشبكة الخاصة آلية قوية جدًا تتيح زيادة إضافية في أمان الشبكة. على سبيل المثال، قد يكون لديك خادم أمامي واحد فقط (مثل خادم مثبت عليه دورا Exchange CAS وHUB) متصل بالشبكة الخارجية، وجميع الخوادم الأخرى متصلة بالشبكة الخاصة (الداخلية) فقط (مثل خادم عليه دور Exchange MB وآخر يعمل كوحدة تحكم بالنطاق DC).&lt;/p&gt;&lt;p&gt;تعرض الحصة الموجودة أسفل النموذج الحد الأقصى لعدد عناوين IP الخاصة التي يمكن تعيينها لكل خادم VPS.&lt;/p&gt;</value>
   </data>
   <data name="gvAddresses.Empty" xml:space="preserve">
     <value>لم يتم استخدام عناوين IP خاصة في مساحة الاستضافة هذه.</value>
@@ -133,7 +133,7 @@
     <value>IP</value>
   </data>
   <data name="gvAddressesPrimary.HeaderText" xml:space="preserve">
-    <value>الأولية</value>
+    <value>الأساسي</value>
   </data>
   <data name="locTitle.Text" xml:space="preserve">
     <value>شبكة خاصة</value>
@@ -145,9 +145,9 @@
     <value>الحصص</value>
   </data>
   <data name="secVLAN.Text" xml:space="preserve">
-    <value>شبكة محلية افتراضية</value>
+    <value>VLAN</value>
   </data>
   <data name="locVLANsQuota.Text" xml:space="preserve">
-    <value>الشبكة الخاصة - شبكات VLAN</value>
+    <value>شبكات VLAN للشبكة الخاصة:</value>
   </data>
 </root>

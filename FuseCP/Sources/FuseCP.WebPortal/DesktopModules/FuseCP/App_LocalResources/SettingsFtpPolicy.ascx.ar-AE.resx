@@ -121,7 +121,7 @@
     <value>كلمة المرور:</value>
   </data>
   <data name="lblUsername.Text" xml:space="preserve">
-    <value>أسم الحساب:</value>
+    <value>اسم الحساب:</value>
   </data>
   <data name="secAccountPolicy.Text" xml:space="preserve">
     <value>سياسة حسابات FTP</value>

@@ -118,9 +118,9 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="FormComments.Text" xml:space="preserve">
-    <value>&lt;p&gt; &lt;b&gt; هذا النموذج مرئي للمسؤولين فقط. &lt;/ b&gt; &lt;/p&gt; &lt;p&gt; شبكة الإدارة غير متاحة للبائعين والمستخدمين وتتم إدارتها بواسطة FuseCP نيابة عنهم. &lt;/ p&gt; &lt;p &gt; شبكة الإدارة هي شبكة شركة خلفية يستخدمها مسؤولو النظام لإدارة الخادم الافتراضي الخاص للعملاء. يتم استخدام هذه الشبكة أيضًا بواسطة VPS للوصول إلى موارد وخدمات الأداة المساعدة المختلفة مثل DNS و KMS والنسخ الاحتياطية وما إلى ذلك. &lt;/ p&gt; &lt;p&gt; إذا تم تمكين شبكة الإدارة على خصائص خدمة Hyper-V ، فسيتم تعيين واحد لكل خادم VPS تم إنشاؤه عنوان IP من تجمع "VPS Management Network" ، لذلك يجب على مسؤول FuseCP التأكد من وجود عدد كافٍ من عناوين IP في هذا التجمع. &lt;/ p&gt;</value>
+    <value>&lt;p&gt;&lt;b&gt;هذا النموذج مرئي للمسؤولين فقط.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;شبكة الإدارة غير متاحة للموزعين والمستخدمين، ويديرها FuseCP نيابةً عنهم.&lt;/p&gt;&lt;p&gt;شبكة الإدارة هي شبكة خلفية للشركة يستخدمها مسؤولو النظام لإدارة خوادم VPS الخاصة بالعملاء. كما تستخدم خوادم VPS هذه الشبكة للوصول إلى موارد وخدمات مساعدة متنوعة مثل DNS وKMS والنسخ الاحتياطية وغيرها.&lt;/p&gt;&lt;p&gt;إذا تم تمكين شبكة الإدارة في خصائص خدمة Hyper-V، فسيُعيَّن لكل VPS يتم إنشاؤه عنوان IP واحد من تجمع "VPS Management Network"، لذا يجب على مسؤول FuseCP التأكد من وجود عدد كافٍ من عناوين IP في هذا التجمع.&lt;/p&gt;</value>
   </data>
   <data name="locTitle.Text" xml:space="preserve">
-    <value>إدارة الشبكة</value>
+    <value>شبكة الإدارة</value>
   </data>
 </root>
