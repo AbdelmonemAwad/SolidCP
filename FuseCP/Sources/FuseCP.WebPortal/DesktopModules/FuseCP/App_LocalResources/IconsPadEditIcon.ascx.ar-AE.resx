@@ -121,7 +121,7 @@
     <value>إلغاء</value>
   </data>
   <data name="btnDelete.OnClientClick" xml:space="preserve">
-    <value>إعادة تأكيد ("حذف الرمز؟") ؛</value>
+    <value>return confirm('حذف الرمز؟');</value>
   </data>
   <data name="btnDelete.Text" xml:space="preserve">
     <value>حذف</value>

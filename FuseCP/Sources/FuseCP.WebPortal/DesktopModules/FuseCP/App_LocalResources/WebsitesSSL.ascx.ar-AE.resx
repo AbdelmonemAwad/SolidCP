@@ -133,7 +133,7 @@
     <value>إنشاء CSR</value>
   </data>
   <data name="btnDelete.OnClientClick" xml:space="preserve">
-    <value>تأكيد الإرجاع ("هل تريد إزالة SSL من موقع الويب هذا؟") ؛</value>
+    <value>return confirm('هل تريد إزالة SSL من موقع الويب هذا؟');</value>
   </data>
   <data name="btnDelete.Text" xml:space="preserve">
     <value>حذف الشهادة</value>
@@ -199,7 +199,7 @@
     <value>تجديد</value>
   </data>
   <data name="btnRenew.OnClientClick" xml:space="preserve">
-    <value>تأكيد الإرجاع ("تجديد SSL لموقع الويب هذا؟") ؛</value>
+    <value>return confirm('تجديد SSL لموقع الويب هذا؟');</value>
   </data>
   <data name="btnShowpnlCSR.Text" xml:space="preserve">
     <value>إنشاء CSR</value>

@@ -124,7 +124,7 @@
     <value>تخصيص ...</value>
   </data>
   <data name="btnDeallocateVLANs.OnClientClick" xml:space="preserve">
-    <value>تأكيد الإرجاع ("إلغاء تخصيص شبكات محلية افتراضية محددة من مساحة الاستضافة؟") ؛</value>
+    <value>return confirm('إلغاء تخصيص شبكات محلية افتراضية محددة من مساحة الاستضافة؟');</value>
   </data>
   <data name="btnDeallocateVLANs.Text" xml:space="preserve">
     <value>إلغاء تخصيص المحدد</value>

@@ -124,7 +124,7 @@
     <value>إضافة ...</value>
   </data>
   <data name="btnAddSelected.OnClientClick" xml:space="preserve">
-    <value>إغلاق حوار التقدم();</value>
+    <value>CloseProgressDialog();</value>
   </data>
   <data name="btnAddSelected.Text" xml:space="preserve">
     <value>أضف تطبيقات</value>
@@ -136,7 +136,7 @@
     <value>إضافة ...</value>
   </data>
   <data name="btnCancel.OnClientClick" xml:space="preserve">
-    <value>إغلاق حوار التقدم();</value>
+    <value>CloseProgressDialog();</value>
   </data>
   <data name="btnCancel.Text" xml:space="preserve">
     <value>إلغاء</value>

@@ -121,7 +121,7 @@
     <value>إلغاء</value>
   </data>
   <data name="btnReboot.OnClientClick" xml:space="preserve">
-    <value>تأكيد الإرجاع ("هل تريد متابعة إعادة تشغيل الخادم؟") ؛</value>
+    <value>return confirm('هل تريد متابعة إعادة تشغيل الخادم؟');</value>
   </data>
   <data name="btnReboot.Text" xml:space="preserve">
     <value>إعادة تشغيل الخادم</value>

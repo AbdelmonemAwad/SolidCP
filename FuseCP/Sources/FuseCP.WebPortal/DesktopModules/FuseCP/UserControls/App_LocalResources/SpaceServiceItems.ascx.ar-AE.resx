@@ -121,7 +121,7 @@
     <value>إظهار عناصر المساحات المتداخلة</value>
   </data>
   <data name="cmdDetach.OnClientClick" xml:space="preserve">
-    <value>تأكيد الإرجاع ("هل تريد إزالة عنصر الخدمة هذا من قاعدة التعريف؟") ؛</value>
+    <value>return confirm('هل تريد إزالة عنصر الخدمة هذا من قاعدة التعريف؟');</value>
   </data>
   <data name="cmdDetach.Text" xml:space="preserve">
     <value>فصل</value>

@@ -121,7 +121,7 @@
     <value>&lt;الكل&gt;</value>
   </data>
   <data name="btnClearLog.OnClientClick" xml:space="preserve">
-    <value>تأكيد الإرجاع ("مسح سجل التدقيق؟") ؛</value>
+    <value>return confirm('مسح سجل التدقيق؟');</value>
   </data>
   <data name="btnClearLog.Text" xml:space="preserve">
     <value>مسح السجل</value>

@@ -124,7 +124,7 @@
     <value>حذف الملاحظة</value>
   </data>
   <data name="btnDelete.OnClientClick" xml:space="preserve">
-    <value>تأكيد الإرجاع ("حذف الملاحظة؟") ؛</value>
+    <value>return confirm('حذف الملاحظة؟');</value>
   </data>
   <data name="ddlSeverityItem.High" xml:space="preserve">
     <value>عالي</value>

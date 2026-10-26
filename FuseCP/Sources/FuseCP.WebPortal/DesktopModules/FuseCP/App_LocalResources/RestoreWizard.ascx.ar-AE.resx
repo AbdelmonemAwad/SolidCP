@@ -121,7 +121,7 @@
     <value>إلغاء</value>
   </data>
   <data name="btnRestore.OnClientClick" xml:space="preserve">
-    <value>تأكيد الإرجاع ("هل تريد استعادة النسخة الاحتياطية من الملف المحدد؟") ؛</value>
+    <value>return confirm('هل تريد استعادة النسخة الاحتياطية من الملف المحدد؟');</value>
   </data>
   <data name="btnRestore.Text" xml:space="preserve">
     <value>استعادة</value>

@@ -124,7 +124,7 @@
     <value>حذف التغذية</value>
   </data>
   <data name="cmdDeleteFeed.OnClientClick" xml:space="preserve">
-    <value>تأكيد الإرجاع ("حذف العنصر؟") ؛</value>
+    <value>return confirm('حذف العنصر؟');</value>
   </data>
   <data name="gvFeeds.Empty" xml:space="preserve">
     <value>القائمة فارغة.</value>

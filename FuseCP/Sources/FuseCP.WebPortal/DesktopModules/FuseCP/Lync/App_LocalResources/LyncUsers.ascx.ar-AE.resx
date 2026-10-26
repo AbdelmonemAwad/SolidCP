@@ -139,7 +139,7 @@
     <value>مستخدمو Lync</value>
   </data>
   <data name="cmdDelete.OnClientClick" xml:space="preserve">
-    <value>تأكيد الإرجاع ("هل أنت متأكد من أنك تريد حذف مستخدم Lync؟") ؛</value>
+    <value>return confirm('هل أنت متأكد من أنك تريد حذف مستخدم Lync؟');</value>
   </data>
   <data name="gvLyncUserPlan.HeaderText" xml:space="preserve">
     <value>خطة مستخدم Lync</value>

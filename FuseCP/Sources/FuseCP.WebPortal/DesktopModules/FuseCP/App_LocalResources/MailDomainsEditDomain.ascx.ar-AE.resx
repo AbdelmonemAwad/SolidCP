@@ -124,7 +124,7 @@
     <value>إلغاء</value>
   </data>
   <data name="btnDelete.OnClientClick" xml:space="preserve">
-    <value>تأكيد العودة ();</value>
+    <value>return confirmation();</value>
   </data>
   <data name="btnDelete.Text" xml:space="preserve">
     <value>حذف</value>
@@ -145,7 +145,7 @@
     <value>إزالة المؤشر</value>
   </data>
   <data name="cmdDeletePointer.OnClientClick" xml:space="preserve">
-    <value>تأكيد الإرجاع ("هل أنت متأكد أنك تريد إزالة المؤشر؟") ؛</value>
+    <value>return confirm('هل أنت متأكد أنك تريد إزالة المؤشر؟');</value>
   </data>
   <data name="gvPointers.Empty" xml:space="preserve">
     <value>لا توجد مؤشرات نطاق البريد</value>

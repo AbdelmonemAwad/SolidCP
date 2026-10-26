@@ -139,7 +139,7 @@
     <value>مستخدمي سكايب للأعمال</value>
   </data>
   <data name="cmdDelete.OnClientClick" xml:space="preserve">
-    <value>تأكيد الإرجاع ("هل أنت متأكد من أنك تريد حذف سكايب مستخدم للأعمال ؟") ؛</value>
+    <value>return confirm('هل أنت متأكد من أنك تريد حذف سكايب مستخدم للأعمال ؟');</value>
   </data>
   <data name="gvUsers.Empty" xml:space="preserve">
     <value>لم يتم تمكين سكايب للأعمال لأي مستخدم. لتمكين مستخدم سكايب للأعمال ، انقر فوق الزر "إنشاء مستخدم سكايب للأعمال".</value>

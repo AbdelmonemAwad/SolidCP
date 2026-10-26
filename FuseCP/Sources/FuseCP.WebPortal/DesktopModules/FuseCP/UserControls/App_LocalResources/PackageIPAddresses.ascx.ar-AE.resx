@@ -166,7 +166,7 @@
     <value>اسم االمستخدم</value>
   </data>
   <data name="btnDeallocateAddresses.OnClientClick" xml:space="preserve">
-    <value>تأكيد الإرجاع ("هل تريد إلغاء تخصيص عناوين IP المحددة من مساحة الاستضافة؟") ؛</value>
+    <value>return confirm('هل تريد إلغاء تخصيص عناوين IP المحددة من مساحة الاستضافة؟');</value>
   </data>
   <data name="btnAllocateAddressText.Text" xml:space="preserve">
     <value>تخصيص ...</value>

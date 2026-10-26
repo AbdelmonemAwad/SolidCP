@@ -124,7 +124,7 @@
     <value>إنشاء</value>
   </data>
   <data name="btnDelete.OnClientClick" xml:space="preserve">
-    <value>تأكيد الإرجاع ("هل أنت متأكد من أنك تريد حذف مؤسسة إدارة علاقات العملاء؟") ؛</value>
+    <value>return confirm('هل أنت متأكد من أنك تريد حذف مؤسسة إدارة علاقات العملاء؟');</value>
   </data>
   <data name="btnDelete.Text" xml:space="preserve">
     <value>حذف</value>

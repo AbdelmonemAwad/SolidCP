@@ -121,7 +121,7 @@
     <value>إلغاء</value>
   </data>
   <data name="cmdTerminate.OnClientClick" xml:space="preserve">
-    <value>تأكيد الإرجاع ("إنهاء العملية؟") ؛</value>
+    <value>return confirm('إنهاء العملية؟');</value>
   </data>
   <data name="cmdTerminate.Text" xml:space="preserve">
     <value>إنهاء العملية</value>

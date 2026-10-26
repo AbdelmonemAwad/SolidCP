@@ -136,7 +136,7 @@
     <value>حفظ</value>
   </data>
   <data name="cmdDelete.OnClientClick" xml:space="preserve">
-    <value>عودة تأكيد ("هل أنت متأكد أنك تريد حذف هذا السجل؟") ؛</value>
+    <value>return confirm('هل أنت متأكد أنك تريد حذف هذا السجل؟');</value>
   </data>
   <data name="gvRecords.Empty" xml:space="preserve">
     <value>لم يتم تحديد سجلات DNS.</value>

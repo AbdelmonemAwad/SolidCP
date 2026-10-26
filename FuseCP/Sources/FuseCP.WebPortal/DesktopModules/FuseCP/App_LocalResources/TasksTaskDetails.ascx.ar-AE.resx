@@ -124,7 +124,7 @@
     <value>عودة</value>
   </data>
   <data name="btnStop.OnClientClick" xml:space="preserve">
-    <value>تأكيد الإرجاع ("هل تريد حقًا إنهاء هذه المهمة؟") ؛</value>
+    <value>return confirm('هل تريد حقًا إنهاء هذه المهمة؟');</value>
   </data>
   <data name="btnStop.Text" xml:space="preserve">
     <value>ايقاف</value>

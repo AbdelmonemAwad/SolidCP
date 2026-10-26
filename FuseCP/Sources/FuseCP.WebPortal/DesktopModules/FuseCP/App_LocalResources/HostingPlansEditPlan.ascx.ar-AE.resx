@@ -157,7 +157,7 @@
     <value>هدف الخطة</value>
   </data>
   <data name="btnDelete.OnClientClick" xml:space="preserve">
-    <value>تأكيد الإرجاع ("هل أنت متأكد أنك تريد حذف خطة الاستضافة؟") ؛</value>
+    <value>return confirm('هل أنت متأكد أنك تريد حذف خطة الاستضافة؟');</value>
   </data>
   <data name="btnDeleteText.Text" xml:space="preserve">
     <value>حذف</value>

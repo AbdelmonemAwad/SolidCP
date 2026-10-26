@@ -130,19 +130,19 @@
     <value>احذف المجلد</value>
   </data>
   <data name="cmdDeleteFolder.OnClientClick" xml:space="preserve">
-    <value>إعادة تأكيد ("حذف المجلد؟") ؛</value>
+    <value>return confirm('حذف المجلد؟');</value>
   </data>
   <data name="cmdDeleteGroup.AlternateText" xml:space="preserve">
     <value>حذف المجموعة</value>
   </data>
   <data name="cmdDeleteGroup.OnClientClick" xml:space="preserve">
-    <value>تأكيد الإرجاع ("حذف المجموعة؟") ؛</value>
+    <value>return confirm('حذف المجموعة؟');</value>
   </data>
   <data name="cmdDeleteUser.AlternateText" xml:space="preserve">
     <value>مسح المستخدم</value>
   </data>
   <data name="cmdDeleteUser.OnClientClick" xml:space="preserve">
-    <value>إعادة تأكيد ("حذف المستخدم؟") ؛</value>
+    <value>return confirm('حذف المستخدم؟');</value>
   </data>
   <data name="DisableFolders.Text" xml:space="preserve">
     <value>تعطيل المجلدات الآمنة</value>

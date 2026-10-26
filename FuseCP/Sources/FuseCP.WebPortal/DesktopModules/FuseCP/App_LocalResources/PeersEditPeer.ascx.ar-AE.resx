@@ -175,7 +175,7 @@
     <value>أضف</value>
   </data>
   <data name="btnDelete.OnClientClick" xml:space="preserve">
-    <value>تأكيد الإرجاع ("هل أنت متأكد أنك تريد حذف حساب النظير هذا؟") ؛</value>
+    <value>return confirm('هل أنت متأكد أنك تريد حذف حساب النظير هذا؟');</value>
   </data>
   <data name="lblRole.Text" xml:space="preserve">
     <value>دور</value>

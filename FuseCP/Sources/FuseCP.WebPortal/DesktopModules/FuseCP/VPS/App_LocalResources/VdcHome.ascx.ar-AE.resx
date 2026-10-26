@@ -175,7 +175,7 @@
     <value>استيراد VPS</value>
   </data>
   <data name="cmdDetach.OnClientClick" xml:space="preserve">
-    <value>عودة تأكيد ('إزالة VM هذا من قاعدة التعريف؟') ؛</value>
+    <value>return confirm('إزالة VM هذا من قاعدة التعريف؟');</value>
   </data>
   <data name="cmdDetach.Text" xml:space="preserve">
     <value>فصل</value>

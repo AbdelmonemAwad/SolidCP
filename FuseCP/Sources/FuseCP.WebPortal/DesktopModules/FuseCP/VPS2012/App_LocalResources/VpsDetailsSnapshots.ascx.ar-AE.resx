@@ -118,7 +118,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="btnApply.OnClientClick" xml:space="preserve">
-    <value>if(this.disabled) return false;if(!confirm('هل تريد تطبيق اللقطة المختارة على VPS؟)) return false;ShowProgressDialog('يتم الآن تطبيق اللقطة ...');</value>
+    <value>if(this.disabled) return false;if(!confirm('هل تريد تطبيق اللقطة المحددة على VPS؟')) return false;ShowProgressDialog('جارٍ تطبيق اللقطة...');</value>
   </data>
   <data name="btnDelete.OnClientClick" xml:space="preserve">
     <value>if(this.disabled) return false;if(!confirm('هل تريد حذف اللقطة المختارة بالكامل؟')) return false;ShowProgressDialog('جارٍ حذف اللقطة ...');</value>

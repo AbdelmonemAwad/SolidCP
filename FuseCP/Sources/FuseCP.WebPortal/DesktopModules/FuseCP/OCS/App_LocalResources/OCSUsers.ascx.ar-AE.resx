@@ -139,7 +139,7 @@
     <value>مستخدمو OCS</value>
   </data>
   <data name="cmdDelete.OnClientClick" xml:space="preserve">
-    <value>تأكيد الإرجاع ("هل أنت متأكد أنك تريد حذف مستخدم OCS؟") ؛</value>
+    <value>return confirm('هل أنت متأكد أنك تريد حذف مستخدم OCS؟');</value>
   </data>
   <data name="btnCreateUserText.Text" xml:space="preserve">
     <value>إنشاء مستخدم OCS</value>

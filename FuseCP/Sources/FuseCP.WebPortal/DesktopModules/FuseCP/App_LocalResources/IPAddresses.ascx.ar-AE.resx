@@ -172,7 +172,7 @@
     <value>تجمع:</value>
   </data>
   <data name="btnDeleteSelected.OnClientClick" xml:space="preserve">
-    <value>تأكيد العودة ("هل تريد حذف عناوين IP المحددة؟") ؛</value>
+    <value>return confirm('هل تريد حذف عناوين IP المحددة؟');</value>
   </data>
   <data name="btnDeleteSelected.Text" xml:space="preserve">
     <value>حذف المحدد</value>

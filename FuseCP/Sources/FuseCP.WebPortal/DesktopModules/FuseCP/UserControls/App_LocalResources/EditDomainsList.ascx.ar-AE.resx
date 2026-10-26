@@ -124,7 +124,7 @@
     <value>حذف</value>
   </data>
   <data name="cmdDeleteDomain.OnClientClick" xml:space="preserve">
-    <value>تأكيد الإرجاع ("حذف العنصر؟") ؛</value>
+    <value>return confirm('حذف العنصر؟');</value>
   </data>
   <data name="gvDomains.Empty" xml:space="preserve">
     <value>القائمة فارغة.</value>

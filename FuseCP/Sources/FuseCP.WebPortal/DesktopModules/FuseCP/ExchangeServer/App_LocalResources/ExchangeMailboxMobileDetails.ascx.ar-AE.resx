@@ -124,7 +124,7 @@
     <value>إلغاء طلب المسح قيد الانتظار</value>
   </data>
   <data name="btnWipeAllData.OnClientClick" xml:space="preserve">
-    <value>تأكيد الإرجاع ("هل أنت متأكد أنك تريد مسح كافة البيانات من جهازك؟") ؛</value>
+    <value>return confirm('هل أنت متأكد أنك تريد مسح كافة البيانات من جهازك؟');</value>
   </data>
   <data name="btnWipeAllData.Text" xml:space="preserve">
     <value>امسح جميع البيانات من الجهاز</value>

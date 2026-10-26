@@ -148,7 +148,7 @@
     <value>إحصائيات</value>
   </data>
   <data name="btnDeleteData.OnClientClick" xml:space="preserve">
-    <value>تأكيد الإرجاع ("سيرسل هذا رسالة إلى الجهاز لإخبار الجهاز بتعطيل نفسه. سيتم أيضًا حذف المعلومات المخزنة مسبقًا على الجهاز. \ n \ n هل أنت متأكد من أنك تريد القيام بذلك؟")؛</value>
+    <value>return confirm('سيرسل هذا رسالة إلى الجهاز لإخبار الجهاز بتعطيل نفسه. سيتم أيضًا حذف المعلومات المخزنة مسبقًا على الجهاز. \ n \ n هل أنت متأكد من أنك تريد القيام بذلك؟');</value>
   </data>
   <data name="btnDeleteData.Text" xml:space="preserve">
     <value>احذف البيانات من جهاز بلاك بيري</value>

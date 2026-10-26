@@ -118,7 +118,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="cmdDelete.OnClientClick" xml:space="preserve">
-    <value>تأكيد الإرجاع ("هل أنت متأكد من أنك تريد إزالة شراكة الجهاز؟") ؛</value>
+    <value>return confirm('هل أنت متأكد من أنك تريد إزالة شراكة الجهاز؟');</value>
   </data>
   <data name="deviceStatus.HeaderText" xml:space="preserve">
     <value>الحالة</value>

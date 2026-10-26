@@ -121,7 +121,7 @@
     <value>إلغاء</value>
   </data>
   <data name="btnImport.OnClientClick" xml:space="preserve">
-    <value>تأكيد الإرجاع ("استيراد الموارد المحددة؟") ؛</value>
+    <value>return confirm('استيراد الموارد المحددة؟');</value>
   </data>
   <data name="btnImport.Text" xml:space="preserve">
     <value>استيراد الموارد</value>

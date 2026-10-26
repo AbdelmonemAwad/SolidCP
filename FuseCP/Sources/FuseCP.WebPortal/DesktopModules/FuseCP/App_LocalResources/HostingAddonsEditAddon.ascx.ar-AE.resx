@@ -163,7 +163,7 @@
     <value>السعر</value>
   </data>
   <data name="btnDelete.OnClientClick" xml:space="preserve">
-    <value>تأكيد الإرجاع ("هل أنت متأكد أنك تريد حذف الوظيفة الإضافية؟") ؛</value>
+    <value>return confirm('هل أنت متأكد أنك تريد حذف الوظيفة الإضافية؟');</value>
   </data>
   <data name="btnCancelText.Text" xml:space="preserve">
     <value>إلغاء</value>

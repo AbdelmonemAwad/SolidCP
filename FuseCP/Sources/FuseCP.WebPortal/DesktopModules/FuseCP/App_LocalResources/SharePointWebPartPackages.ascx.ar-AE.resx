@@ -124,7 +124,7 @@
     <value>تثبيت حزمة</value>
   </data>
   <data name="btnUninstall.OnClientClick" xml:space="preserve">
-    <value>تأكيد الإرجاع ("إلغاء تثبيت الحزمة؟") ؛</value>
+    <value>return confirm('إلغاء تثبيت الحزمة؟');</value>
   </data>
   <data name="btnUninstall.Text" xml:space="preserve">
     <value>الغاء التثبيت</value>

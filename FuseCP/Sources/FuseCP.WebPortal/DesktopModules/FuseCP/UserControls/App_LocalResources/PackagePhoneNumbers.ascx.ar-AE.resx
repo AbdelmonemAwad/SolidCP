@@ -160,7 +160,7 @@
     <value>اسم االمستخدم</value>
   </data>
   <data name="btnDeallocateAddresses.OnClientClick" xml:space="preserve">
-    <value>تأكيد الإرجاع ("إلغاء تخصيص أرقام الهواتف المحددة من مساحة الاستضافة؟") ؛</value>
+    <value>return confirm('إلغاء تخصيص أرقام الهواتف المحددة من مساحة الاستضافة؟');</value>
   </data>
   <data name="btnAllocateAddressText.Text" xml:space="preserve">
     <value>تخصيص ...</value>

@@ -124,7 +124,7 @@
     <value>احذف المجلد</value>
   </data>
   <data name="cmdDeleteFolder.OnClientClick" xml:space="preserve">
-    <value>إعادة تأكيد ("حذف المجلد؟") ؛</value>
+    <value>return confirm('حذف المجلد؟');</value>
   </data>
   <data name="DisableHeliconApe.Text" xml:space="preserve">
     <value>تعطيل Helicon Ape</value>

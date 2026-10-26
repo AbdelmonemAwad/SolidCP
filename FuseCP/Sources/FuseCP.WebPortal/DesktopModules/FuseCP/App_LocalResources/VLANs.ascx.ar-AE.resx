@@ -121,7 +121,7 @@
     <value>أضف VLAN</value>
   </data>
   <data name="btnDeleteSelected.OnClientClick" xml:space="preserve">
-    <value>تأكيد الإرجاع ("هل تريد حذف شبكات VLAN المحددة؟") ؛</value>
+    <value>return confirm('هل تريد حذف شبكات VLAN المحددة؟');</value>
   </data>
   <data name="btnDeleteSelected.Text" xml:space="preserve">
     <value>حذف المحدد</value>

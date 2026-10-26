@@ -175,7 +175,7 @@
     <value>موقع ويب:</value>
   </data>
   <data name="cmdDetach.OnClientClick" xml:space="preserve">
-    <value>تأكيد الإرجاع ("هل تريد إزالة هذا النطاق من قاعدة التعريف؟") ؛</value>
+    <value>return confirm('هل تريد إزالة هذا النطاق من قاعدة التعريف؟');</value>
   </data>
   <data name="cmdDetachText.Text" xml:space="preserve">
     <value>فصل</value>

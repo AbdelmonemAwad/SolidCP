@@ -136,7 +136,7 @@
     <value>تغيير كلمة المرور</value>
   </data>
   <data name="btnDelete.OnClientClick" xml:space="preserve">
-    <value>تأكيد العودة الموقع ();</value>
+    <value>return confirmationSITE();</value>
   </data>
   <data name="btnDelete.Text" xml:space="preserve">
     <value>حذف</value>
@@ -157,25 +157,25 @@
     <value>احذف المجلد</value>
   </data>
   <data name="cmdDeleteFolder.OnClientClick" xml:space="preserve">
-    <value>تأكيد الإرجاع ("هل أنت متأكد أنك تريد حذف المجلد؟") ؛</value>
+    <value>return confirm('هل أنت متأكد أنك تريد حذف المجلد؟');</value>
   </data>
   <data name="cmdDeleteGroup.AlternateText" xml:space="preserve">
     <value>حذف المجموعة</value>
   </data>
   <data name="cmdDeleteGroup.OnClientClick" xml:space="preserve">
-    <value>تأكيد الإرجاع ("هل أنت متأكد أنك تريد حذف المجموعة؟") ؛</value>
+    <value>return confirm('هل أنت متأكد أنك تريد حذف المجموعة؟');</value>
   </data>
   <data name="cmdDeletePointer.AlternateText" xml:space="preserve">
     <value>إزالة المؤشر</value>
   </data>
   <data name="cmdDeletePointer.OnClientClick" xml:space="preserve">
-    <value>تأكيد الإرجاع ("هل أنت متأكد من أنك تريد إزالة المؤشر؟") ؛</value>
+    <value>return confirm('هل أنت متأكد من أنك تريد إزالة المؤشر؟');</value>
   </data>
   <data name="cmdDeleteUser.AlternateText" xml:space="preserve">
     <value>مسح المستخدم</value>
   </data>
   <data name="cmdDeleteUser.OnClientClick" xml:space="preserve">
-    <value>تأكيد الإرجاع ("هل أنت متأكد أنك تريد حذف المستخدم؟") ؛</value>
+    <value>return confirm('هل أنت متأكد أنك تريد حذف المستخدم؟');</value>
   </data>
   <data name="cmdPause.AlternateText" xml:space="preserve">
     <value>إيقاف موقع الويب مؤقتًا</value>
