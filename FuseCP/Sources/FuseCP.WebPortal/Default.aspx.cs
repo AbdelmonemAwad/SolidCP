@@ -45,6 +45,8 @@ namespace FuseCP.WebPortal
         private const string THEME_BUTTONS_DARK_COOKIE = "UserThemeButtonsDark";
         private const string THEME_MODE_COOKIE = "UserThemeMode";
 
+        private CultureInfo requestCulture;
+
         private static readonly string[] LightPaletteCssVars = new[]
         {
             "--fcp-bg",
@@ -616,6 +618,7 @@ namespace FuseCP.WebPortal
                     // Setting up culture
                     System.Threading.Thread.CurrentThread.CurrentCulture = ci;
                     System.Threading.Thread.CurrentThread.CurrentUICulture = ci;
+                    requestCulture = ci;
 
                     if (ci.TextInfo.IsRightToLeft)
                     {
@@ -635,6 +638,19 @@ namespace FuseCP.WebPortal
             }
 
             base.InitializeCulture();
+        }
+
+        protected override void Render(HtmlTextWriter writer)
+        {
+            // The page can render outside the async scope in which InitializeCulture ran,
+            // so restore the request culture for content localized while rendering.
+            if (requestCulture != null)
+            {
+                System.Threading.Thread.CurrentThread.CurrentCulture = requestCulture;
+                System.Threading.Thread.CurrentThread.CurrentUICulture = requestCulture;
+            }
+
+            base.Render(writer);
         }
 
         private void ShowError(Control placeholder, string message)
