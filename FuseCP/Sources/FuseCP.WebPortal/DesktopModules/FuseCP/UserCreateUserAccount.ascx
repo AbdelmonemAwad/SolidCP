@@ -18,7 +18,7 @@
                 <div class="col-sm-10">
                     <div class="input-group">
                         <asp:TextBox ID="txtUsername" runat="server" CssClass="form-control"></asp:TextBox>
-                        <span class="input-group-text" title="Required"><i class="bi bi-asterisk" aria-hidden="true"></i></span>
+                        <span class="input-group-text" runat="server" title="<%$ Resources:FuseCP_SharedResources.ascx, Text.Required %>"><i class="bi bi-asterisk" aria-hidden="true"></i></span>
                         <asp:RequiredFieldValidator ID="usernameValidator" runat="server" ErrorMessage="*"
                             ControlToValidate="txtUsername" Display="Dynamic"></asp:RequiredFieldValidator>
                     </div>

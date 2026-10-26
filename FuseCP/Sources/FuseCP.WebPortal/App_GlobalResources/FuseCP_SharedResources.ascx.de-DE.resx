@@ -7077,6 +7077,24 @@
   <data name="Quota.PROXMOX.StartShutdownAllowed" xml:space="preserve">
     <value>Erlaube VPS zu Starten, Auszuschalten und Herunterzufahren</value>
   </data>
+  <data name="Skin.MainMenu" xml:space="preserve">
+    <value>Hauptmenü</value>
+  </data>
+  <data name="Skin.CollapseMenu" xml:space="preserve">
+    <value>Menü einklappen</value>
+  </data>
+  <data name="Skin.ExpandMenu" xml:space="preserve">
+    <value>Menü ausklappen</value>
+  </data>
+  <data name="Text.ExpandCollapse" xml:space="preserve">
+    <value>Ein-/Ausklappen</value>
+  </data>
+  <data name="Text.Remove" xml:space="preserve">
+    <value>Entfernen</value>
+  </data>
+  <data name="Text.Required" xml:space="preserve">
+    <value>Erforderlich</value>
+  </data>
   <data name="Error.VPS_LOAD_PVEVM_ITEM" xml:space="preserve">
     <value>Fehler beim Laden der virtellen Maschineninformationen</value>
   </data>

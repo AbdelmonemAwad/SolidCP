@@ -7194,4 +7194,22 @@
   <data name="Quota.PROXMOX.StartShutdownAllowed" xml:space="preserve">
     <value>السماح للمستخدم بتشغيل VPS وفصل طاقته وإيقاف تشغيله</value>
   </data>
+  <data name="Skin.MainMenu" xml:space="preserve">
+    <value>القائمة الرئيسية</value>
+  </data>
+  <data name="Skin.CollapseMenu" xml:space="preserve">
+    <value>طي القائمة</value>
+  </data>
+  <data name="Skin.ExpandMenu" xml:space="preserve">
+    <value>توسيع القائمة</value>
+  </data>
+  <data name="Text.ExpandCollapse" xml:space="preserve">
+    <value>توسيع/طي</value>
+  </data>
+  <data name="Text.Remove" xml:space="preserve">
+    <value>إزالة</value>
+  </data>
+  <data name="Text.Required" xml:space="preserve">
+    <value>مطلوب</value>
+  </data>
 </root>

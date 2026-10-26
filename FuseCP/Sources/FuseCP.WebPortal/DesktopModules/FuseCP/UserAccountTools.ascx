@@ -3,8 +3,8 @@
 							<div class="widget-header clearfix">
 								<h3><i class="bi bi-person"></i> <span><asp:Localize id="ToolsHeader" runat="server" meta:resourcekey="ToolsHeader" Text="Account Tools"></asp:Localize></span></h3>
 								<div class="btn-group widget-header-toolbar">
-									<a href="#" title="Expand/Collapse" class="btn btn-link btn-toggle-expand"><i class="bi bi-chevron-up"></i></a>
-									<a href="#" title="Remove" class="btn btn-link btn-remove"><i class="bi bi-x-lg"></i></a>
+									<a href="#" runat="server" title="<%$ Resources:FuseCP_SharedResources.ascx, Text.ExpandCollapse %>" class="btn btn-link btn-toggle-expand"><i class="bi bi-chevron-up"></i></a>
+									<a href="#" runat="server" title="<%$ Resources:FuseCP_SharedResources.ascx, Text.Remove %>" class="btn btn-link btn-remove"><i class="bi bi-x-lg"></i></a>
 								</div>
 							</div>
 							<div class="widget-content">

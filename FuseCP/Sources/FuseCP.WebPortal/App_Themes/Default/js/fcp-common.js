@@ -494,10 +494,12 @@ $(document).ready(function () {
 
     function refreshSidebarToggleIcon() {
         var isMinified = $('.wrapper').hasClass('main-nav-minified');
+        var $toggle = $('.btn-nav-sidebar-minified');
+        var label = isMinified ? $toggle.data('labelExpand') : $toggle.data('labelCollapse');
 
-        $('.btn-nav-sidebar-minified')
-            .attr('title', isMinified ? 'Expand menu' : 'Collapse menu')
-            .attr('aria-label', isMinified ? 'Expand menu' : 'Collapse menu');
+        $toggle
+            .attr('title', label)
+            .attr('aria-label', label);
         $('.btn-nav-sidebar-minified i')
             .removeClass('bi-chevron-bar-left bi-chevron-bar-right')
             .addClass(isMinified ? 'bi-chevron-bar-right' : 'bi-chevron-bar-left');

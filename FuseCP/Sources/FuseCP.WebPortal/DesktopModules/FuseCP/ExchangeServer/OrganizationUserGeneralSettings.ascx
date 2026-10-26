@@ -52,7 +52,7 @@
                                     <div class="col-sm-10">
                                         <div class="input-group">
                                             <asp:TextBox ID="txtDisplayName" runat="server" CssClass="form-control" MaxLength="64"></asp:TextBox>
-                                            <span class="input-group-text" title="Required"><i class="bi bi-asterisk" aria-hidden="true"></i></span>
+                                            <span class="input-group-text" runat="server" title="<%$ Resources:FuseCP_SharedResources.ascx, Text.Required %>"><i class="bi bi-asterisk" aria-hidden="true"></i></span>
                                 <asp:RequiredFieldValidator ID="valRequireDisplayName" runat="server" meta:resourcekey="valRequireDisplayName" ControlToValidate="txtDisplayName"
                                     ErrorMessage="Enter Display Name" ValidationGroup="EditMailbox" Display="Dynamic" Text="*" SetFocusOnError="True"></asp:RequiredFieldValidator>
                                 <asp:RegularExpressionValidator ID="valDisplayName" runat="server" ErrorMessage="Enter valid name" ControlToValidate="txtDisplayName" meta:resourcekey="valRequireCorrectName" 
@@ -93,7 +93,7 @@
                                     <div class="col-sm-4">
                                         <div class="input-group">
                                             <asp:TextBox ID="txtFirstName" runat="server" CssClass="form-control" placeholder="First Name" MaxLength="64"></asp:TextBox>
-                                            <span class="input-group-text" title="Required"><i class="bi bi-asterisk" aria-hidden="true"></i></span>
+                                            <span class="input-group-text" runat="server" title="<%$ Resources:FuseCP_SharedResources.ascx, Text.Required %>"><i class="bi bi-asterisk" aria-hidden="true"></i></span>
                                         </div>
                                     </div>
                                     <div class="col-sm-2">
@@ -102,7 +102,7 @@
                                     <div class="col-sm-4">
                                         <div class="input-group">
                                             <asp:TextBox ID="txtLastName" runat="server" CssClass="form-control" onKeyUp="buildDisplayName();" placeholder="Last Name" MaxLength="64"></asp:TextBox>
-                                            <span class="input-group-text" title="Required"><i class="bi bi-asterisk" aria-hidden="true"></i></span>
+                                            <span class="input-group-text" runat="server" title="<%$ Resources:FuseCP_SharedResources.ascx, Text.Required %>"><i class="bi bi-asterisk" aria-hidden="true"></i></span>
                                         </div>
                                     </div>
                                 </div>

@@ -1,4 +1,5 @@
 <%@ Control AutoEventWireup="true" %>
+<%@ Import Namespace="FuseCP.Portal" %>
 <%@ Register TagPrefix="fcp" TagName="SiteFooter" Src="~/DesktopModules/FuseCP/SkinControls/SiteFooter.ascx" %>
 <%@ Register TagPrefix="fcp" TagName="TopMenu" Src="~/DesktopModules/FuseCP/SkinControls/TopMenu.ascx" %>
 <%@ Register  TagPrefix="fcp" TagName="Logo" Src="~/DesktopModules/FuseCP/SkinControls/Logo.ascx" %>
@@ -35,9 +36,8 @@
 	<div id="col-left" class="col-left">
 		<div class="main-nav-wrapper">
 			<nav id="main-nav" class="main-nav">
-                <a href="#" id="btn-nav-sidebar-minified" class="btn btn-link btn-nav-sidebar-minified" title="Collapse menu" aria-label="Toggle menu compact mode"><i class="bi bi-chevron-bar-left"></i></a>
-                <h3>
-                Main Menu</h3>
+                <a href="#" id="btn-nav-sidebar-minified" class="btn btn-link btn-nav-sidebar-minified" title='<%: PortalUtils.GetSharedLocalizedString(Utils.ModuleName, "Skin.CollapseMenu") %>' aria-label='<%: PortalUtils.GetSharedLocalizedString(Utils.ModuleName, "Skin.CollapseMenu") %>' data-label-collapse='<%: PortalUtils.GetSharedLocalizedString(Utils.ModuleName, "Skin.CollapseMenu") %>' data-label-expand='<%: PortalUtils.GetSharedLocalizedString(Utils.ModuleName, "Skin.ExpandMenu") %>'><i class="bi bi-chevron-bar-left"></i></a>
+                <h3><%: PortalUtils.GetSharedLocalizedString(Utils.ModuleName, "Skin.MainMenu") %></h3>
                 <fcp:TopMenu ID="leftMenu" runat="server" MenuAlignment="left" />
                 <asp:PlaceHolder ID="LeftPane" runat="server"></asp:PlaceHolder>
                 <fcp:TopMenu ID="rightMenu" runat="server" MenuAlignment="right" />

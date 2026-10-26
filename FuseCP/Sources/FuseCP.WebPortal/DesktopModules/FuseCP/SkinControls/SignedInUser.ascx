@@ -15,9 +15,9 @@
             </asp:HyperLink>
         </li>
         <li>
-            <asp:LinkButton ID="cmdSignOut" runat="server" CausesValidation="false" OnClick="cmdSignOut_Click" ToolTip="Sign Out">
+            <asp:LinkButton ID="cmdSignOut" runat="server" CausesValidation="false" OnClick="cmdSignOut_Click" ToolTip="<%$ Resources:cmdSignOut.Text %>">
                 <i class="bi bi-box-arrow-right fs-4" aria-hidden="true"></i>
-                <span class="visually-hidden">Sign Out</span>
+                <span class="visually-hidden"><asp:Localize runat="server" Text="<%$ Resources:cmdSignOut.Text %>" /></span>
             </asp:LinkButton>
         </li>
     </ul>

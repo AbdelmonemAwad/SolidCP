@@ -7195,4 +7195,22 @@
   <data name="Quota.PROXMOX.StartShutdownAllowed" xml:space="preserve">
     <value>Allow user to Start, Turn off and Shutdown VPS</value>
   </data>
+  <data name="Skin.MainMenu" xml:space="preserve">
+    <value>Main Menu</value>
+  </data>
+  <data name="Skin.CollapseMenu" xml:space="preserve">
+    <value>Collapse menu</value>
+  </data>
+  <data name="Skin.ExpandMenu" xml:space="preserve">
+    <value>Expand menu</value>
+  </data>
+  <data name="Text.ExpandCollapse" xml:space="preserve">
+    <value>Expand/Collapse</value>
+  </data>
+  <data name="Text.Remove" xml:space="preserve">
+    <value>Remove</value>
+  </data>
+  <data name="Text.Required" xml:space="preserve">
+    <value>Required</value>
+  </data>
 </root>

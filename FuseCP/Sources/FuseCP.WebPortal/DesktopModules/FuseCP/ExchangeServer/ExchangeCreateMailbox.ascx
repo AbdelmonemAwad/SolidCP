@@ -58,7 +58,7 @@
                                             <asp:TextBox ID="txtFirstName" runat="server" CssClass="form-control" onKeyUp="FuseCPExchangeCreateMailbox.buildDisplayName('<%= txtDisplayName.ClientID %>','<%= txtFirstName.ClientID %>','<%= txtInitials.ClientID %>','<%= txtLastName.ClientID %>');" placeholder="First Name" MaxLength="64"></asp:TextBox>
                                             <asp:RegularExpressionValidator ID="valFirstName" runat="server" ErrorMessage="Enter valid name" ControlToValidate="txtFirstName" meta:resourcekey="valRequireCorrectName" 
                                                 ValidationExpression="^[^'&quot;]+$" SetFocusOnError="True" ValidationGroup="CreateMailbox" Display="Dynamic" Text="*"></asp:RegularExpressionValidator>
-                                            <span class="input-group-text" title="Required"><i class="bi bi-asterisk" aria-hidden="true"></i></span>
+                                            <span class="input-group-text" runat="server" title="<%$ Resources:FuseCP_SharedResources.ascx, Text.Required %>"><i class="bi bi-asterisk" aria-hidden="true"></i></span>
                                         </div>
                                     </div>
                                     <div class="col-sm-2">
@@ -71,7 +71,7 @@
                                             <asp:TextBox ID="txtLastName" runat="server" CssClass="form-control" onKeyUp="FuseCPExchangeCreateMailbox.buildDisplayName('<%= txtDisplayName.ClientID %>','<%= txtFirstName.ClientID %>','<%= txtInitials.ClientID %>','<%= txtLastName.ClientID %>');" placeholder="Last Name" MaxLength="64"></asp:TextBox>
                                             <asp:RegularExpressionValidator ID="valLastName" runat="server" ErrorMessage="Enter valid name" ControlToValidate="txtLastName" meta:resourcekey="valRequireCorrectName" 
                                                 ValidationExpression="^[^'&quot;]+$" SetFocusOnError="True" ValidationGroup="CreateMailbox" Display="Dynamic" Text="*"></asp:RegularExpressionValidator>
-                                            <span class="input-group-text" title="Required"><i class="bi bi-asterisk" aria-hidden="true"></i></span>
+                                            <span class="input-group-text" runat="server" title="<%$ Resources:FuseCP_SharedResources.ascx, Text.Required %>"><i class="bi bi-asterisk" aria-hidden="true"></i></span>
                                         </div>
                                     </div>
                                 </div>
@@ -82,7 +82,7 @@
                                     <div class="col-sm-10">
                                         <div class="input-group">
                                             <asp:TextBox ID="txtDisplayName" runat="server" CssClass="form-control" MaxLength="64"></asp:TextBox>
-                                            <span class="input-group-text" title="Required"><i class="bi bi-asterisk" aria-hidden="true"></i></span>
+                                            <span class="input-group-text" runat="server" title="<%$ Resources:FuseCP_SharedResources.ascx, Text.Required %>"><i class="bi bi-asterisk" aria-hidden="true"></i></span>
                                         </div>
                                         <asp:RequiredFieldValidator ID="valRequireDisplayName" runat="server" meta:resourcekey="valRequireDisplayName" ControlToValidate="txtDisplayName"
                                             ErrorMessage="Enter Display Name" ValidationGroup="CreateMailbox" Display="Dynamic" Text="*" SetFocusOnError="True"></asp:RequiredFieldValidator>

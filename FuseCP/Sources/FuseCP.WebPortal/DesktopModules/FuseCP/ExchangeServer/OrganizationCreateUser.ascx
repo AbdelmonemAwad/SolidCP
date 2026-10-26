@@ -34,7 +34,7 @@
                                     <div class="col-sm-4">
                                         <div class="input-group">
                                             <asp:TextBox ID="txtFirstName" runat="server" CssClass="form-control" onKeyUp="FuseCPOrganizationCreateUser.buildDisplayName();" placeholder="First Name"></asp:TextBox>
-                                            <span class="input-group-text" title="Required"><i class="bi bi-asterisk" aria-hidden="true"></i></span>
+                                            <span class="input-group-text" runat="server" title="<%$ Resources:FuseCP_SharedResources.ascx, Text.Required %>"><i class="bi bi-asterisk" aria-hidden="true"></i></span>
                                         </div>
                                     </div>
                                     <div class="col-sm-2">
@@ -43,7 +43,7 @@
                                     <div class="col-sm-4">
                                         <div class="input-group">
                                             <asp:TextBox ID="txtLastName" runat="server" CssClass="form-control" onKeyUp="FuseCPOrganizationCreateUser.buildDisplayName();" placeholder="Last Name"></asp:TextBox>
-                                            <span class="input-group-text" title="Required"><i class="bi bi-asterisk" aria-hidden="true"></i></span>
+                                            <span class="input-group-text" runat="server" title="<%$ Resources:FuseCP_SharedResources.ascx, Text.Required %>"><i class="bi bi-asterisk" aria-hidden="true"></i></span>
                                         </div>
                                     </div>
                                 </div>
@@ -54,7 +54,7 @@
                                     <div class="col-sm-10">
                                         <div class="input-group">
                                             <asp:TextBox ID="txtDisplayName" runat="server" CssClass="form-control"></asp:TextBox>
-                                            <span class="input-group-text" title="Required"><i class="bi bi-asterisk" aria-hidden="true"></i></span>
+                                            <span class="input-group-text" runat="server" title="<%$ Resources:FuseCP_SharedResources.ascx, Text.Required %>"><i class="bi bi-asterisk" aria-hidden="true"></i></span>
                                         </div>
                                         <asp:RequiredFieldValidator ID="valRequireDisplayName" runat="server" meta:resourcekey="valRequireDisplayName" ControlToValidate="txtDisplayName"
                                             ErrorMessage="Enter Display Name" ValidationGroup="CreateMailbox" Display="Dynamic" Text="*" SetFocusOnError="True"></asp:RequiredFieldValidator>
