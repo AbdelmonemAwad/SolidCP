@@ -141,6 +141,9 @@
   <data name="locStorageSize.Text" xml:space="preserve">
     <value>حجم حد التخزين (جيجابايت):</value>
   </data>
+  <data name="rbtnQuotaSoft.Text" xml:space="preserve">
+    <value>مرنة</value>
+  </data>
   <data name="rbtnQuotaHard.Text" xml:space="preserve">
     <value>ثابتة</value>
   </data>

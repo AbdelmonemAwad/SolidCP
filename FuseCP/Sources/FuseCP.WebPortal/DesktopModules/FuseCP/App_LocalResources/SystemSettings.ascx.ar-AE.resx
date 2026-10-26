@@ -165,11 +165,17 @@
   <data name="SettinglblBackupFolderPath.Text" xml:space="preserve">
     <value>مسار مجلد النسخ الاحتياطية:</value>
   </data>
+  <data name="SettinglblEnableOwa.Text" xml:space="preserve">
+    <value>OWA:</value>
+  </data>
   <data name="SettinglblFileManagerEditableExtensions.Text" xml:space="preserve">
     <value>الامتدادات القابلة للتحرير:</value>
   </data>
   <data name="SettinglblIpAddressRestriction.Text" xml:space="preserve">
     <value>عناوين IP:</value>
+  </data>
+  <data name="SettinglblOwaUrl.Text" xml:space="preserve">
+    <value>عنوان URL لـ OWA:</value>
   </data>
   <data name="SettinglblRdsController.Text" xml:space="preserve">
     <value>وحدة تحكم RDS الرئيسية:</value>
@@ -216,6 +222,9 @@
   <data name="SettingPlcBackupFolderPath.placeholder" xml:space="preserve">
     <value>c:\Backups</value>
   </data>
+  <data name="SettingPlcOwaUrl.placeholder" xml:space="preserve">
+    <value>عنوان URL لـ OWA</value>
+  </data>
   <data name="SettingPlcRdsController.placeholder" xml:space="preserve">
     <value>يرجى تحديد وحدة تحكم RDS الرئيسية الخاصة بك.</value>
   </data>
@@ -260,5 +269,11 @@
   </data>
   <data name="Settingsconfiguremailtemplates.Text" xml:space="preserve">
     <value>*** من فضلك لا تنسَ تكوين قوالب البريد الإلكتروني الخاصة بك (اسم المرسل / عنوان البريد الإلكتروني للمرسل). يمكن تكوينها في:</value>
+  </data>
+  <data name="HeaderDebugSettings.Text" xml:space="preserve">
+    <value>إعدادات تصحيح الأخطاء</value>
+  </data>
+  <data name="SettingchkAlwaysUseEntityFramework.Text" xml:space="preserve">
+    <value>استخدام Entity Framework للوصول إلى قاعدة البيانات</value>
   </data>
 </root>

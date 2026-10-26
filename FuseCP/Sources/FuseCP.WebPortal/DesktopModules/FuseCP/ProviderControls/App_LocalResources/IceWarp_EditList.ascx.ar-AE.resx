@@ -282,6 +282,9 @@
   <data name="lblMembersSource.Text" xml:space="preserve">
     <value>مصدر الأعضاء:</value>
   </data>
+  <data name="lblModerationEnabled.Text" xml:space="preserve">
+    <value>الإشراف ممكَّن:</value>
+  </data>
   <data name="lblModeratorAddress.Text" xml:space="preserve">
     <value>مشرف القائمة:</value>
   </data>

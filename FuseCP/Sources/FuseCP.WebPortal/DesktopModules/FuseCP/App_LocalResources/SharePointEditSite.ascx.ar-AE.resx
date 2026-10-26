@@ -120,6 +120,9 @@
   <data name="btnBackup.Text" xml:space="preserve">
     <value>النسخ الاحتياطي للموقع</value>
   </data>
+  <data name="btnCancelText.Text" xml:space="preserve">
+    <value>إلغاء</value>
+  </data>
   <data name="btnDelete.OnClientClick" xml:space="preserve">
     <value>if(!confirm('هل تريد حذف موقع SharePoint هذا؟')) return false; else ShowProgressDialog('جاري حذف موقع SharePoint...');</value>
   </data>
@@ -182,5 +185,8 @@
   </data>
   <data name="btnDeleteText.Text" xml:space="preserve">
     <value>حذف</value>
+  </data>
+  <data name="btnUpdateText.Text" xml:space="preserve">
+    <value>تحديث</value>
   </data>
 </root>

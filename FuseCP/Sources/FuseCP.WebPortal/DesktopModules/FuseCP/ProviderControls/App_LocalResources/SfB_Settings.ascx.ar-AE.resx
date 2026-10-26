@@ -129,6 +129,9 @@
   <data name="lblRootOU.Text" xml:space="preserve">
     <value>الوحدة التنظيمية الجذر (OU):</value>
   </data>
+  <data name="locLynServers.Text" xml:space="preserve">
+    <value>خوادم Front End وDirector في Skype for Business</value>
+  </data>
   <data name="locServerName.Text" xml:space="preserve">
     <value>تجمع المؤسسة أو &lt;br/&gt;اسم خادم الإصدار القياسي:</value>
   </data>

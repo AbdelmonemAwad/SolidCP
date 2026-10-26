@@ -117,6 +117,9 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="chkUseEntityFramework.Text" xml:space="preserve">
+    <value>استخدام EntityFramework للوصول إلى قاعدة البيانات</value>
+  </data>
   <data name="locPoweredBy.Text" xml:space="preserve">
     <value>مدعوم من &lt;a href="https://fusecp.com" target="_blank"&gt;FuseCP&lt;/a&gt;.</value>
   </data>

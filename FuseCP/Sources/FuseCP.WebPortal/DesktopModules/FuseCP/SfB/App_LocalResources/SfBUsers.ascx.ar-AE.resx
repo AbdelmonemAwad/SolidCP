@@ -141,6 +141,9 @@
   <data name="cmdDelete.OnClientClick" xml:space="preserve">
     <value>return confirm('هل أنت متأكد من أنك تريد حذف مستخدم Skype for Business؟');</value>
   </data>
+  <data name="gvSfBUserPlan.HeaderText" xml:space="preserve">
+    <value>خطة مستخدم Skype for Business</value>
+  </data>
   <data name="gvUsers.Empty" xml:space="preserve">
     <value>لم يتم تمكين Skype for Business لأي مستخدم. لتمكين مستخدم Skype for Business، انقر فوق الزر "إنشاء مستخدم Skype for Business".</value>
   </data>

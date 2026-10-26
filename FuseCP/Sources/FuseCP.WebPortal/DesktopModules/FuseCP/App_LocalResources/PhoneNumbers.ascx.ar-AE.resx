@@ -150,6 +150,9 @@
   <data name="SearchField.Username" xml:space="preserve">
     <value>اسم المستخدم</value>
   </data>
+  <data name="gvIPAddressesIsVps.Header" xml:space="preserve">
+    <value>VPS</value>
+  </data>
   <data name="gvIPAddressesGateway.Header" xml:space="preserve">
     <value>البوابة الافتراضية</value>
   </data>

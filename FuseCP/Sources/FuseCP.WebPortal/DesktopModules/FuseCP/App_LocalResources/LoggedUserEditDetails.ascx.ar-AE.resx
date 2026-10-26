@@ -180,6 +180,18 @@
   <data name="valRequireGridItems.Text" xml:space="preserve">
     <value>*</value>
   </data>
+  <data name="btnActivateQRCode.Text" xml:space="preserve">
+    <value>التحقق من رمز PIN للتفعيل</value>
+  </data>
+  <data name="btnGetQRCodeData.Text" xml:space="preserve">
+    <value>عرض رمز QR</value>
+  </data>
+  <data name="lblMfaEnabled.Text" xml:space="preserve">
+    <value>عند تسجيل الدخول، يُرسل رمز تحقق إلى عنوان البريد الإلكتروني الأساسي. يؤدي تمكين تطبيق المصادقة إلى إيقاف إرسال رمز التحقق عبر البريد الإلكتروني.</value>
+  </data>
+  <data name="lblUseMfa.Text" xml:space="preserve">
+    <value>تمكين المصادقة متعددة العوامل (MFA):</value>
+  </data>
   <data name="lblPaletteColor.Text" xml:space="preserve">
     <value>اللون</value>
   </data>

@@ -120,6 +120,9 @@
   <data name="chkEnableHardQuota.Text" xml:space="preserve">
     <value>تمكين الحصة الثابتة:</value>
   </data>
+  <data name="lblFileServiceInfo" xml:space="preserve">
+    <value>يلزم تثبيت دور خدمات الملفات (File Services) على خادم الملفات لتمكين خانة الاختيار</value>
+  </data>
   <data name="lblLocationDrive.Text" xml:space="preserve">
     <value>محرك أقراص الموقع:</value>
   </data>

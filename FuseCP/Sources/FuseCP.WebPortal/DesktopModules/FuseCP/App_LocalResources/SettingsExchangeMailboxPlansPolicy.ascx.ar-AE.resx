@@ -126,11 +126,17 @@
   <data name="chkActiveSync.Text" xml:space="preserve">
     <value>ActiveSync</value>
   </data>
+  <data name="chkHideFromAddressBook.Text" xml:space="preserve">
+    <value>إخفاء من دفتر العناوين</value>
+  </data>
   <data name="chkIMAP.Text" xml:space="preserve">
     <value>IMAP</value>
   </data>
   <data name="chkMAPI.Text" xml:space="preserve">
     <value>MAPI</value>
+  </data>
+  <data name="chkOWA.Text" xml:space="preserve">
+    <value>OWA/HTTP</value>
   </data>
   <data name="chkPOP3.Text" xml:space="preserve">
     <value>POP3</value>
@@ -231,6 +237,15 @@
   <data name="locRecoverableItemsWarning.Text" xml:space="preserve">
     <value>تحذير عند:</value>
   </data>
+  <data name="secLitigationHold.Text" xml:space="preserve">
+    <value>الاحتجاز لأغراض التقاضي</value>
+  </data>
+  <data name="lblLitigationHoldMsg.Text" xml:space="preserve">
+    <value>رسالة الاحتجاز لأغراض التقاضي:</value>
+  </data>
+  <data name="lblLitigationHoldUrl.Text" xml:space="preserve">
+    <value>عنوان URL للاحتجاز لأغراض التقاضي:</value>
+  </data>
   <data name="secRetentionPolicy.Text" xml:space="preserve">
     <value>سياسة الاحتفاظ</value>
   </data>
@@ -254,5 +269,8 @@
   </data>
   <data name="locAutoReplyEnabled.Text" xml:space="preserve">
     <value>الردود التلقائية عبر FuseCP</value>
+  </data>
+  <data name="chkIsForJournaling.Text" xml:space="preserve">
+    <value>لصناديق بريد دفتر اليومية فقط</value>
   </data>
 </root>

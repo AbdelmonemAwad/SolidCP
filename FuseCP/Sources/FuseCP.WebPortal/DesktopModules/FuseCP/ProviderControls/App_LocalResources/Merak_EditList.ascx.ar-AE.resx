@@ -150,6 +150,9 @@
   <data name="lblMembers.Text" xml:space="preserve">
     <value>أعضاء القائمة البريدية:</value>
   </data>
+  <data name="lblModerationEnabled.Text" xml:space="preserve">
+    <value>الإشراف ممكَّن:</value>
+  </data>
   <data name="lblModeratorAddress.Text" xml:space="preserve">
     <value>البريد الإلكتروني للمشرف:</value>
   </data>

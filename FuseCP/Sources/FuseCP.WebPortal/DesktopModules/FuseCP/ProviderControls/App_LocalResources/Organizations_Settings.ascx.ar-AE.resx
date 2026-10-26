@@ -135,6 +135,9 @@
   <data name="listItemAppendOrgId.Text" xml:space="preserve">
     <value>إلحاق معرف المؤسسة</value>
   </data>
+  <data name="listItemAppendCounterIfNeeded.Text" xml:space="preserve">
+    <value>إلحاق عدّاد عند الحاجة</value>
+  </data>
   <data name="lblArchiveStorageSpace.Text" xml:space="preserve">
     <value>مسار تخزين الأرشيف:</value>
   </data>

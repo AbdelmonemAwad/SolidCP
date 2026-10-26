@@ -165,6 +165,9 @@
   <data name="rbtnQuotaHard" xml:space="preserve">
     <value>ثابتة</value>
   </data>
+  <data name="rbtnQuotaSoft" xml:space="preserve">
+    <value>مرنة</value>
+  </data>
   <data name="colFolderGeneralSettings.Text" xml:space="preserve">
     <value>الإعدادات العامة</value>
   </data>

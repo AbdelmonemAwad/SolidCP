@@ -171,6 +171,9 @@
   <data name="locManagementAddresses.Text" xml:space="preserve">
     <value>تعيين عناوين IP:</value>
   </data>
+  <data name="locNumLockEnabled.Text" xml:space="preserve">
+    <value>Num Lock</value>
+  </data>
   <data name="locRAM.Text" xml:space="preserve">
     <value>ذاكرة الوصول العشوائي، ميجابايت:</value>
   </data>
@@ -242,5 +245,8 @@
   </data>
   <data name="AllowReinstall.Text" xml:space="preserve">
     <value>إعادة التثبيت</value>
+  </data>
+  <data name="SnapshotsValidator.ErrorMessage" xml:space="preserve">
+    <value>أدخل الحد الأقصى لعدد اللقطات</value>
   </data>
 </root>

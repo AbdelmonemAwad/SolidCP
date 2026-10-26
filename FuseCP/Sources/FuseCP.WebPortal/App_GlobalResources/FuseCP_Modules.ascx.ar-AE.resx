@@ -348,6 +348,12 @@
   <data name="ModuleTitle.SignIn" xml:space="preserve">
     <value>سجّل الدخول إلى لوحة التحكم</value>
   </data>
+  <data name="ModuleTitle.MailAccess" xml:space="preserve">
+    <value>التحكم في الوصول إلى البريد</value>
+  </data>
+  <data name="ModuleTitle.MailAccessProperties" xml:space="preserve">
+    <value>خصائص التحكم في الوصول إلى البريد</value>
+  </data>
   <data name="ModuleTitle.MailAccountProperties" xml:space="preserve">
     <value>خصائص حساب البريد</value>
   </data>
@@ -401,6 +407,9 @@
   </data>
   <data name="ModuleTitle.MyMail" xml:space="preserve">
     <value>بريدي</value>
+  </data>
+  <data name="ModuleTitle.MyPeers" xml:space="preserve">
+    <value>نظرائي</value>
   </data>
   <data name="ModuleTitle.MySpaces" xml:space="preserve">
     <value>مساحاتي</value>
@@ -825,6 +834,9 @@
   <data name="ModuleTitle.ApplyEnableHardQuotaFeature" xml:space="preserve">
     <value>الحصة الثابتة للنظام</value>
   </data>
+  <data name="ModuleTitle.HeliconZoo" xml:space="preserve">
+    <value>Helicon Zoo</value>
+  </data>
   <data name="ModuleTitle.LyncPhoneNumbers" xml:space="preserve">
     <value>أرقام الهواتف</value>
   </data>
@@ -881,6 +893,9 @@
   </data>
   <data name="ModuleTitle.VdcPrivateNetwork" xml:space="preserve">
     <value>شبكة خاصة</value>
+  </data>
+  <data name="ModuleTitle.VdcDmzNetwork" xml:space="preserve">
+    <value>شبكة DMZ</value>
   </data>
   <data name="ModuleTitle.VdcPermissions" xml:space="preserve">
     <value>أذونات المستخدم</value>

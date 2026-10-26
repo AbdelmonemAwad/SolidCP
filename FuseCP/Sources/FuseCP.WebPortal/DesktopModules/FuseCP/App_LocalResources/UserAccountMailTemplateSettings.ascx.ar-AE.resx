@@ -162,4 +162,7 @@
   <data name="lnkOrganizationUserPasswordRequestLetter.Text" xml:space="preserve">
     <value>خطاب طلب كلمة مرور مستخدم المؤسسة</value>
   </data>
+  <data name="lnkVerificationCode.Text" xml:space="preserve">
+    <value>خطاب رمز التحقق للمستخدم</value>
+  </data>
 </root>

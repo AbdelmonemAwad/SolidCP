@@ -126,6 +126,9 @@
   <data name="cmdDelete.Text" xml:space="preserve">
     <value>حذف</value>
   </data>
+  <data name="ddlSearchColumnUrl.Text" xml:space="preserve">
+    <value>عنوان URL</value>
+  </data>
   <data name="FormComments.Text" xml:space="preserve">
     <value>&lt;p&gt;&lt;b&gt;مجموعة مواقع SharePoint&lt;/b&gt; هي مجموعة من المواقع المبنية على خدمات Microsoft Windows SharePoint، وتقع جميعها تحت موقع من المستوى الأعلى. ولتسهيل إدارة المواقع ومحتواها، يمكنك تعيين مستخدمين ليكونوا مسؤولي مجموعة المواقع أو مالكيها. وهذه مستويات أذونات تُمنح للمستخدمين الذين تريد أن تكون لديهم حقوق إدارية كاملة على جميع المواقع والمحتويات ضمن مجموعة المواقع.&lt;/p&gt;</value>
   </data>

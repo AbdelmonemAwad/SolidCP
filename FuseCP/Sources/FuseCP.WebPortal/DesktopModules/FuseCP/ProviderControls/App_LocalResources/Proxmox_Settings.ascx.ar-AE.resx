@@ -518,8 +518,26 @@
   <data name="vcmProcessVolume.ErrorMessage" xml:space="preserve">
     <value>يجب أن يكون رقم وحدة التخزين المراد معالجتها عددًا موجبًا</value>
   </data>
+  <data name="locProxmoxClusterServerHost.Text" xml:space="preserve">
+    <value>مضيف خادم مجموعة Proxmox:</value>
+  </data>
+  <data name="locProxmoxClusterServerURL.Text" xml:space="preserve">
+    <value>عنوان URL لخادم مجموعة Proxmox:</value>
+  </data>
+  <data name="locProxmoxClusterServerPort.Text" xml:space="preserve">
+    <value>منفذ خادم مجموعة Proxmox:</value>
+  </data>
+  <data name="locProxmoxClusterAdminUser.Text" xml:space="preserve">
+    <value>مستخدم مسؤول Proxmox:</value>
+  </data>
   <data name="locProxmoxClusterAdminPass.Text" xml:space="preserve">
     <value>كلمة مرور مشرف Proxmox PAM:</value>
+  </data>
+  <data name="locProxmoxClusterNode.Text" xml:space="preserve">
+    <value>عقدة خادم Proxmox:</value>
+  </data>
+  <data name="locDeploySSH.Text" xml:space="preserve">
+    <value>نشر الأجهزة الافتراضية في Proxmox:</value>
   </data>
   <data name="locDeploySSHServerHost.Text" xml:space="preserve">
     <value>مضيف خادم SSH:</value>
@@ -541,5 +559,17 @@
   </data>
   <data name="locvmdeploytext.Text" xml:space="preserve">
     <value>يمكن تحديد معلمات البرنامج النصي لنشر VM كمتغيرات.&lt;br/&gt;&lt;br/&gt; يمكن استخدام متغيرات الاستبدال التالية في النمط:&lt;br/&gt; [FQDN], [CPUCORES], [RAMSIZE], [HDDSIZE], [OSTEMPLATENAME], [OSTEMPLATEFILE]&lt;br/&gt; [ADMINPASS], [MAC], [VLAN], [IP], [NETMASK], [GATEWAY]</value>
+  </data>
+  <data name="locProxmoxTrustServerCertificate.Text" xml:space="preserve">
+    <value>الوثوق دائمًا بشهادة خادم Proxmox:</value>
+  </data>
+  <data name="lstProxmoxClusterRealmPAM.Text" xml:space="preserve">
+    <value>مصادقة Linux PAM القياسية</value>
+  </data>
+  <data name="lstProxmoxClusterRealmPVE.Text" xml:space="preserve">
+    <value>خادم مصادقة Proxmox VE</value>
+  </data>
+  <data name="chkDeployScript.Text" xml:space="preserve">
+    <value>استخدام البرنامج النصي للنشر</value>
   </data>
 </root>

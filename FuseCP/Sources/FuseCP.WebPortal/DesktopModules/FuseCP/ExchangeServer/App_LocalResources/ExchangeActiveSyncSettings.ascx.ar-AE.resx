@@ -186,6 +186,9 @@
   <data name="secPassword.Text" xml:space="preserve">
     <value>كلمة المرور</value>
   </data>
+  <data name="secWSS.Text" xml:space="preserve">
+    <value>WSS/UNC</value>
+  </data>
   <data name="Text.PageName" xml:space="preserve">
     <value>سياسة صندوق بريد ActiveSync</value>
   </data>

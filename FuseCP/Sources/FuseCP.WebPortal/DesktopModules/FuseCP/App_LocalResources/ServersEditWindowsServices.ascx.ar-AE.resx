@@ -123,17 +123,32 @@
   <data name="cmdContinue.Text" xml:space="preserve">
     <value>متابعة</value>
   </data>
+  <data name="cmdContinue.ToolTip" xml:space="preserve">
+    <value>متابعة</value>
+  </data>
   <data name="cmdPause.Text" xml:space="preserve">
+    <value>إيقاف مؤقت</value>
+  </data>
+  <data name="cmdPause.ToolTip" xml:space="preserve">
     <value>إيقاف مؤقت</value>
   </data>
   <data name="cmdStart.Text" xml:space="preserve">
     <value>بدء</value>
   </data>
+  <data name="cmdStart.ToolTip" xml:space="preserve">
+    <value>بدء</value>
+  </data>
   <data name="cmdStop.Text" xml:space="preserve">
+    <value>إيقاف</value>
+  </data>
+  <data name="cmdStop.ToolTip" xml:space="preserve">
     <value>إيقاف</value>
   </data>
   <data name="gvServices.Empty" xml:space="preserve">
     <value>لم يتم العثور على خدمات Windows.</value>
+  </data>
+  <data name="gvServicesDescription.Header" xml:space="preserve">
+    <value>الوصف</value>
   </data>
   <data name="gvServicesId.Header" xml:space="preserve">
     <value>المعرف</value>

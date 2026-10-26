@@ -138,6 +138,12 @@
   <data name="locTitle.Text" xml:space="preserve">
     <value>أدوار مستخدم CRM</value>
   </data>
+  <data name="locBtnActivate.Text" xml:space="preserve">
+    <value>تمكين</value>
+  </data>
+  <data name="locBtnDeactivate.Text" xml:space="preserve">
+    <value>تعطيل</value>
+  </data>
   <data name="locDisabled.Text" xml:space="preserve">
     <value>معطل</value>
   </data>

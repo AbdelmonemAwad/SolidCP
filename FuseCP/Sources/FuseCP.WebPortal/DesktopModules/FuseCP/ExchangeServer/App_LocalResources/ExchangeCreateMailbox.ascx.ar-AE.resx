@@ -192,4 +192,7 @@
   <data name="chkUserMustChangePassword.Text" xml:space="preserve">
     <value>يجب على المستخدم تغيير كلمة المرور عند تسجيل الدخول التالي</value>
   </data>
+  <data name="valRequireCorrectName.ErrorMessage" xml:space="preserve">
+    <value>أدخل اسمًا صالحًا</value>
+  </data>
 </root>

@@ -1365,6 +1365,9 @@
   <data name="Error.STATS_UPDATE_STAT" xml:space="preserve">
     <value>خطأ في تحديث موقع الإحصائيات المتقدمة</value>
   </data>
+  <data name="Error.SERVER_DISCOVER_SERVICES" xml:space="preserve">
+    <value>خطأ في البحث عن البرامج</value>
+  </data>
   <data name="Error.109" xml:space="preserve">
     <value>لم يتم العثور على المستخدم باسم المستخدم المحدد</value>
   </data>
@@ -1593,6 +1596,9 @@
   <data name="Quota.DNS.Editor" xml:space="preserve">
     <value>محرر DNS</value>
   </data>
+  <data name="Quota.DNS.EditTTL" xml:space="preserve">
+    <value>تعديل TTL في DNS (يتطلب تمكين محرر DNS)</value>
+  </data>
   <data name="Quota.FTP.Accounts" xml:space="preserve">
     <value>حسابات FTP</value>
   </data>
@@ -1709,6 +1715,9 @@
   </data>
   <data name="Quota.Web.Mime" xml:space="preserve">
     <value>أنواع MIME المخصصة</value>
+  </data>
+  <data name="Quota.Web.Perl" xml:space="preserve">
+    <value>Perl</value>
   </data>
   <data name="Quota.Web.Php4" xml:space="preserve">
     <value>PHP 4.x</value>
@@ -1995,6 +2004,24 @@
 	<data name="Quota.MsSQL2022.Users" xml:space="preserve">
     <value>المستخدمون</value>
   </data>
+  <data name="Quota.MsSQL2025.Backup" xml:space="preserve">
+    <value>النسخ الاحتياطي لقاعدة البيانات</value>
+  </data>
+  <data name="Quota.MsSQL2025.Databases" xml:space="preserve">
+    <value>قواعد البيانات</value>
+  </data>
+  <data name="Quota.MsSQL2025.MaxDatabaseSize" xml:space="preserve">
+    <value>الحد الأقصى لحجم قاعدة البيانات، ميجابايت</value>
+  </data>
+  <data name="Quota.MsSQL2025.Restore" xml:space="preserve">
+    <value>استعادة قاعدة البيانات</value>
+  </data>
+  <data name="Quota.MsSQL2025.Truncate" xml:space="preserve">
+    <value>اقتطاع قاعدة البيانات</value>
+  </data>
+  <data name="Quota.MsSQL2025.Users" xml:space="preserve">
+    <value>المستخدمون</value>
+  </data>
   <data name="Quota.MySQL5.Backup" xml:space="preserve">
     <value>النسخ الاحتياطي لقاعدة البيانات</value>
   </data>
@@ -2127,6 +2154,9 @@
 	<data name="ResourceGroup.MsSQL2022" xml:space="preserve">
     <value>SQL Server 2022</value>
   </data>
+  <data name="ResourceGroup.MsSQL2025" xml:space="preserve">
+    <value>SQL Server 2025</value>
+  </data>
   <data name="ResourceGroup.MailFilters" xml:space="preserve">
     <value>فلترات البريد</value>
   </data>
@@ -2159,6 +2189,12 @@
   </data>
   <data name="SchedulerTask.SCHEDULE_TASK_SEND_MAIL" xml:space="preserve">
     <value>إرسال إشعار بالبريد الإلكتروني</value>
+  </data>
+  <data name="SchedulerTask.SCHEDULE_TASK_AUDIT_LOG_REPORT" xml:space="preserve">
+    <value>إرسال تقرير سجل التدقيق</value>
+  </data>
+  <data name="SchedulerTask.SCHEDULE_TASK_CHECK_WEBSITES_SSL" xml:space="preserve">
+    <value>التحقق من شهادات SSL لمواقع الويب</value>
   </data>
   <data name="SchedulerTask.SCHEDULE_TASK_SUSPEND_PACKAGES" xml:space="preserve">
     <value>تعليق مساحات الاستضافة المفرطة الاستخدام</value>
@@ -2234,6 +2270,9 @@
   </data>
   <data name="SchedulerTaskParameter.RESPONSE_STATUS" xml:space="preserve">
     <value>إرسال رسالة &lt;br&gt;إذا كانت حالة الاستجابة:</value>
+  </data>
+  <data name="SchedulerTaskParameter.URL" xml:space="preserve">
+    <value>عنوان URL:</value>
   </data>
   <data name="SchedulerTaskParameter.USERNAME" xml:space="preserve">
     <value>اسم مستخدم الوصول:</value>
@@ -2355,6 +2394,12 @@
 	<data name="ServiceItemType.MsSQL2022User" xml:space="preserve">
     <value>مستخدم MS SQL 2022</value>
   </data>
+  <data name="ServiceItemType.MsSQL2025Database" xml:space="preserve">
+    <value>قاعدة بيانات MS SQL 2025</value>
+  </data>
+  <data name="ServiceItemType.MsSQL2025User" xml:space="preserve">
+    <value>مستخدم MS SQL 2025</value>
+  </data>
   <data name="ServiceItemType.MySQL4Database" xml:space="preserve">
     <value>قاعدة بيانات MySQL 4</value>
   </data>
@@ -2381,6 +2426,9 @@
   </data>
   <data name="ServiceItemType.MariaDBDatabase" xml:space="preserve">
     <value>قاعدة بيانات MariaDB</value>
+  </data>
+  <data name="ServiceItemType.ODBCDSN" xml:space="preserve">
+    <value>ODBC DSN</value>
   </data>
   <data name="ServiceItemType.SharedSSLFolder" xml:space="preserve">
     <value>مجلد SSL مشترك</value>
@@ -2439,6 +2487,9 @@
   <data name="AuditLogSource.MAIL_LIST" xml:space="preserve">
     <value>قائمة البريد</value>
   </data>
+  <data name="AuditLogSource.ODBC_DSN" xml:space="preserve">
+    <value>ODBC DSN</value>
+  </data>
   <data name="AuditLogSource.SERVER" xml:space="preserve">
     <value>الخادم</value>
   </data>
@@ -2468,6 +2519,9 @@
   </data>
   <data name="AuditLogSource.REMOTE_DESKTOP_SERVICES" xml:space="preserve">
     <value>خدمات سطح المكتب البعيد</value>
+  </data>
+  <data name="AuditLogSource.OCS" xml:space="preserve">
+    <value>OCS</value>
   </data>
   <data name="AuditLogSource.ORGANIZATION" xml:space="preserve">
     <value>مؤسسة</value>
@@ -3300,6 +3354,12 @@
   <data name="AuditLogTask.GET_ORG_STATS" xml:space="preserve">
     <value>الحصول على إحصائيات المؤسسة</value>
   </data>
+  <data name="AuditLogTask.EXCHANGE_GET_RESOURCE_MAILBOX" xml:space="preserve">
+    <value>الحصول على إعدادات صندوق بريد الموارد</value>
+  </data>
+  <data name="AuditLogTask.EXCHANGE_UPDATE_RESOURCE_MAILBOX" xml:space="preserve">
+    <value>تحديث إعدادات صندوق بريد الموارد</value>
+  </data>
   <data name="AuditLogTask.GET_EXCHANGE_MAILBOXPLANS" xml:space="preserve">
     <value>الحصول على خطط صندوق بريد Exchange</value>
   </data>
@@ -3450,6 +3510,9 @@
   <data name="Error.EXCHANGE_CREATE_MAILBOX" xml:space="preserve">
     <value>خطأ في إنشاء صندوق البريد. انظر سجل التدقيق لمزيد من التفاصيل.</value>
   </data>
+  <data name="Error.EXCHANGE_CREATE_JOURNALING_MAILBOX" xml:space="preserve">
+    <value>خطأ في إنشاء صندوق بريد دفتر اليومية. راجع سجل التدقيق لمزيد من التفاصيل.</value>
+  </data>
   <data name="Error.HOSTED_SHAREPOINT_RECALCULATE_SIZE" xml:space="preserve">
     <value>خطأ في إعادة حساب حجم القرص. انظر سجل التدقيق لمزيد من التفاصيل.</value>
   </data>
@@ -3470,6 +3533,9 @@
   </data>
   <data name="Error.EXCHANGE_DELETE_MAILBOX" xml:space="preserve">
     <value>خطأ في حذف صندوق البريد. انظر سجل التدقيق لمزيد من التفاصيل.</value>
+  </data>
+  <data name="Error.EXCHANGE_DELETE_JOURNALING_MAILBOX" xml:space="preserve">
+    <value>خطأ في حذف صندوق بريد دفتر اليومية. راجع سجل التدقيق لمزيد من التفاصيل.</value>
   </data>
   <data name="Error.EXCHANGE_DELETE_MAILBOXPLAN" xml:space="preserve">
     <value>تعذر حذف خطة صندوق البريد. تأكد من عدم تعيين خطة صندوق البريد لأي صندوق بريد</value>
@@ -3543,6 +3609,9 @@
   <data name="Error.EXCHANGE_GET_MAILBOX_SETTINGS" xml:space="preserve">
     <value>خطأ في قراءة الإعدادات العامة لصندوق البريد. انظر سجل التدقيق لمزيد من التفاصيل.</value>
   </data>
+  <data name="Error.EXCHANGE_GET_JOURNALING_MAILBOX_SETTINGS" xml:space="preserve">
+    <value>خطأ في قراءة الإعدادات العامة لصندوق بريد دفتر اليومية. راجع سجل التدقيق لمزيد من التفاصيل.</value>
+  </data>
   <data name="Error.ORGANIZATION_GET_USER_SETTINGS" xml:space="preserve">
     <value>خطأ في قراءة إعدادات المستخدم العامة. انظر سجل التدقيق لمزيد من التفاصيل.</value>
   </data>
@@ -3600,6 +3669,9 @@
   <data name="Error.EXCHANGE_UPDATE_MAILBOX_SETTINGS" xml:space="preserve">
     <value>خطأ في تحديث الإعدادات العامة لصندوق البريد. انظر سجل التدقيق لمزيد من التفاصيل.</value>
   </data>
+  <data name="Error.EXCHANGE_UPDATE_JOURNALING_MAILBOX_SETTINGS" xml:space="preserve">
+    <value>خطأ في تحديث الإعدادات العامة لصندوق بريد دفتر اليومية. راجع سجل التدقيق لمزيد من التفاصيل.</value>
+  </data>
   <data name="Error.ORGANIZATION_UPDATE_MAILBOX_SETTINGS" xml:space="preserve">
     <value>خطأ في تحديث الإعدادات العامة للمستخدم. انظر سجل التدقيق لمزيد من التفاصيل.</value>
   </data>
@@ -3617,6 +3689,9 @@
   </data>
   <data name="Error.EXCHANGE_GET_MAILBOXES" xml:space="preserve">
     <value>خطأ في قراءة صناديق بريد المؤسسة</value>
+  </data>
+  <data name="Error.EXCHANGE_GET_JOURNALING_MAILBOXES" xml:space="preserve">
+    <value>خطأ في قراءة صناديق بريد دفتر اليومية الخاصة بالمؤسسة</value>
   </data>
   <data name="Error.EXCHANGE_GET_CONTACTS" xml:space="preserve">
     <value>خطأ في قراءة جهات اتصال المؤسسة</value>
@@ -3644,6 +3719,9 @@
   </data>
   <data name="Success.EXCHANGE_UPDATE_MAILBOX_SETTINGS" xml:space="preserve">
     <value>تم تحديث الإعدادات العامة لصندوق البريد بنجاح.</value>
+  </data>
+  <data name="Success.EXCHANGE_UPDATE_JOURNALING_MAILBOX_SETTINGS" xml:space="preserve">
+    <value>تم تحديث الإعدادات العامة لصندوق بريد دفتر اليومية بنجاح.</value>
   </data>
   <data name="Success.ORGANIZATION_UPDATE_USER_SETTINGS" xml:space="preserve">
     <value>تم تحديث الإعدادات العامة للمستخدم بنجاح.</value>
@@ -3743,6 +3821,9 @@
   </data>
   <data name="Warning.2613" xml:space="preserve">
     <value>تم تحديد حصة غير صالحة للعناصر القابلة للاسترداد، ويجب أن تكون أكبر من أو تساوي 6144 ميجابايت</value>
+  </data>
+  <data name="Warning.2614" xml:space="preserve">
+    <value>تم بلوغ حصة صناديق بريد دفتر اليومية في Exchange</value>
   </data>
   <data name="AuditLogTask.EXCHANGE_CALCULATE_DISKSPACE" xml:space="preserve">
     <value>حساب مساحة القرص للمؤسسة</value>
@@ -3847,6 +3928,9 @@
     <value>الحد الأقصى لحجم السجل، ميجابايت</value>
   </data>
 	<data name="Quota.MsSQL2022.MaxLogSize" xml:space="preserve">
+    <value>الحد الأقصى لحجم السجل، ميجابايت</value>
+  </data>
+  <data name="Quota.MsSQL2025.MaxLogSize" xml:space="preserve">
     <value>الحد الأقصى لحجم السجل، ميجابايت</value>
   </data>
   <data name="Error.EXCHANGE_UPDATE_MAILBOX_PERMISSIONS" xml:space="preserve">
@@ -4680,6 +4764,21 @@
   <data name="Error.VPS_ERROR_GET_VM_DETAILS" xml:space="preserve">
     <value>خطأ في الحصول على التفاصيل العامة لـ VPS</value>
   </data>
+  <data name="Error.VPS_ERROR_GET_PRIVATE_NETWORK" xml:space="preserve">
+    <value>خطأ في الحصول على تفاصيل الشبكة الخاصة بـ VPS</value>
+  </data>
+  <data name="Error.VPS_ERROR_GET_DMZ_NETWORK" xml:space="preserve">
+    <value>خطأ في الحصول على تفاصيل شبكة DMZ الخاصة بـ VPS</value>
+  </data>
+  <data name="Error.VPS_ERROR_GET_VDC_HOME" xml:space="preserve">
+    <value>خطأ في الحصول على التفاصيل العامة</value>
+  </data>
+  <data name="Error.PACKAGE_PHONE_NUMBER" xml:space="preserve">
+    <value>خطأ في الحصول على رقم الهاتف</value>
+  </data>
+  <data name="Error.PACKAGE_IP_ADDRESS" xml:space="preserve">
+    <value>خطأ في الحصول على عنوان IP</value>
+  </data>
   <data name="Error.VPS_ERROR_CREATE" xml:space="preserve">
     <value>خطأ في إنشاء خادم افتراضي</value>
   </data>
@@ -4703,6 +4802,12 @@
   </data>
   <data name="Error.VPS_LOAD_VM_META_ITEM" xml:space="preserve">
     <value>لا يمكن تحميل عنصر تعريف للجهاز الافتراضي</value>
+  </data>
+  <data name="Error.VPS_LOAD_PVEVM_ITEM" xml:space="preserve">
+    <value>خطأ في تحميل معلومات الجهاز الافتراضي</value>
+  </data>
+  <data name="Warning.VPS_CHANGE_VM_CONFIGURATION_SNAPSHOT" xml:space="preserve">
+    <value>لا يمكن تغيير التكوين إلا في حال عدم وجود أي لقطات</value>
   </data>
   <data name="Success.VPS_CHANGE_VM_CONFIGURATION" xml:space="preserve">
     <value>تم تغيير تكوين VPS</value>
@@ -4824,6 +4929,12 @@
   <data name="VPS.VPS_QUOTA_EXCEEDED_HDD" xml:space="preserve">
     <value>الحد الأقصى لحجم القرص الصلب الذي يمكن تحديده: {1} جيجابايت</value>
   </data>
+  <data name="VPS.VPS_QUOTA_EXCEEDED_HDDS" xml:space="preserve">
+    <value>حصة القرص الصلب المتاحة: {1} جيجابايت</value>
+  </data>
+  <data name="VPS.VPS_QUOTA_EXCEEDED_ADDITIONAL_HDD" xml:space="preserve">
+    <value>الحد الأقصى لعدد الأقراص الصلبة الإضافية التي يمكن تحديدها: {1}</value>
+  </data>
   <data name="VPS.VPS_QUOTA_EXCEEDED_PAUSE_RESUME_ALLOWED" xml:space="preserve">
     <value>الإيقاف المؤقت والاستئناف غير مسموح بهما في خطة الاستضافة</value>
   </data>
@@ -4904,6 +5015,9 @@
   </data>
   <data name="ErrorDescription.VPS_LOAD_VM_ITEM" xml:space="preserve">
     <value>الأسباب المحتملة لهذا الخطأ هي:&lt;br/&gt;1. تم حذف الجهاز الافتراضي المرتبط بعنصر تعريف VPS من خادم المحاكاة الافتراضية.&lt;br/&gt;2. تم إيقاف خدمة إدارة Hyper-V.&lt;br/&gt;3. لا يوجد اتصال مع خادم FuseCP المثبت على خادم المحاكاة الافتراضية.&lt;br/&gt;&lt;br/&gt;الحلول:&lt;br/&gt;1. تأكد من وجود الجهاز الافتراضي المرتبط على خادم Hyper-V؛ وإلا فأعد إنشاء VPS من FuseCP.&lt;br/&gt;2. تحقق من بدء تشغيل خدمة إدارة Hyper-V.&lt;br/&gt;3. تحقق من اتصال خادم FuseCP.</value>
+  </data>
+  <data name="ErrorDescription.VPS_LOAD_PVEVM_ITEM" xml:space="preserve">
+    <value>الأسباب المحتملة لهذا الخطأ هي:&lt;br/&gt;1. حُذف الجهاز الافتراضي المرتبط بعنصر تعريف VPS من خادم المحاكاة الافتراضية.&lt;br/&gt;2. خدمة إدارة Proxmox متوقفة.&lt;br/&gt;3. لا يوجد اتصال بخادم FuseCP المثبت على خادم المحاكاة الافتراضية.&lt;br/&gt;&lt;br/&gt;الحلول:&lt;br/&gt;1. تأكد من وجود الجهاز الافتراضي المرتبط على خادم Proxmox؛ وإلا فأعد إنشاء VPS من FuseCP.&lt;br/&gt;2. تحقق من أن خدمة إدارة Proxmox قيد التشغيل.&lt;br/&gt;3. تحقق من الاتصال بخادم FuseCP.</value>
   </data>
   <data name="ErrorDescription.VPS_PROVISION_ERROR" xml:space="preserve">
     <value>حدث خطأ فادح أثناء التوفير وتم إحباط العملية بأكملها. انقر فوق علامة التبويب "سجل التدقيق" أعلاه وتحقق من الخطأ الذي حدث أثناء إنشاء VPS. &lt;br/&gt; &lt;br/&gt; تخلص من سبب هذه المشكلة وأعد إنشاء VPS.</value>
@@ -5007,6 +5121,12 @@
   <data name="TaskActivity.VPS_CREATE_PRIVATE_VIRTUAL_SWITCH_ERROR" xml:space="preserve">
     <value>خطأ في إنشاء محول افتراضي</value>
   </data>
+  <data name="TaskActivity.VPS_CREATE_DMZ_VIRTUAL_SWITCH" xml:space="preserve">
+    <value>جارٍ إنشاء محول افتراضي لشبكة DMZ: {0}</value>
+  </data>
+  <data name="TaskActivity.VPS_CREATE_DMZ_VIRTUAL_SWITCH_ERROR" xml:space="preserve">
+    <value>خطأ في إنشاء المحول الافتراضي</value>
+  </data>
   <data name="TaskActivity.VPS_CREATE_RAM_SIZE" xml:space="preserve">
     <value>ذاكرة الوصول العشوائي: {0} ميجابايت</value>
   </data>
@@ -5028,6 +5148,15 @@
   <data name="TaskActivity.VPS_CREATE_SETUP_PRIVATE_NETWORK_SKIP" xml:space="preserve">
     <value>إعداد الشبكة الخاصة - تم تخطيه</value>
   </data>
+  <data name="TaskActivity.VPS_CREATE_SETUP_DMZ_NETWORK" xml:space="preserve">
+    <value>إعداد شبكة DMZ</value>
+  </data>
+  <data name="TaskActivity.VPS_CREATE_SETUP_DMZ_NETWORK_ERROR" xml:space="preserve">
+    <value>خطأ في إعداد شبكة DMZ: {0}</value>
+  </data>
+  <data name="TaskActivity.VPS_CREATE_SETUP_DMZ_NETWORK_SKIP" xml:space="preserve">
+    <value>إعداد شبكة DMZ - تم التخطي</value>
+  </data>
   <data name="TaskActivity.VPS_CREATE_SET_COMPUTER_NAME_KVP" xml:space="preserve">
     <value>تعيين معلمات مهمة توفير "اسم الكمبيوتر"</value>
   </data>
@@ -5045,6 +5174,12 @@
   </data>
   <data name="TaskActivity.VPS_CREATE_SET_PRIVATE_NIC_KVP_ERROR" xml:space="preserve">
     <value>خطأ في تعيين معلمات مهمة توفير "NIC الخاص"</value>
+  </data>
+  <data name="TaskActivity.VPS_CREATE_SET_DMZ_NIC_KVP" xml:space="preserve">
+    <value>جارٍ تعيين معلمات مهمة توفير "DMZ NIC"</value>
+  </data>
+  <data name="TaskActivity.VPS_CREATE_SET_DMZ_NIC_KVP_ERROR" xml:space="preserve">
+    <value>خطأ في تعيين معلمات مهمة توفير "DMZ NIC"</value>
   </data>
   <data name="TaskActivity.VPS_CREATE_STARTED_VPS" xml:space="preserve">
     <value>تم بدء تشغيل VPS</value>
@@ -5544,6 +5679,9 @@
 	<data name="ReportResourceGroup.MsSQL2022" xml:space="preserve">
     <value>SQL Server 2022</value>
   </data>
+  <data name="ReportResourceGroup.MsSQL2025" xml:space="preserve">
+    <value>SQL Server 2025</value>
+  </data>
   <data name="WebAppGallery.ApplicationInstallationError" xml:space="preserve">
     <value>خطأ أثناء تثبيت حزمة التطبيق</value>
   </data>
@@ -5639,6 +5777,9 @@
   </data>
   <data name="WebAppGallery.SQLRequired" xml:space="preserve">
     <value>قواعد بيانات SQL Server</value>
+  </data>
+  <data name="Quota.Web.SSL" xml:space="preserve">
+    <value>SSL</value>
   </data>
   <data name="Quota.Web.AllowIPAddressModeSwitch" xml:space="preserve">
     <value>السماح بتبديل وضع عنوان IP</value>
@@ -5808,6 +5949,9 @@
   <data name="Quota.VPS2012.Hdd" xml:space="preserve">
     <value>حجم القرص الصلب، جيجابايت</value>
   </data>
+  <data name="Quota.VPS2012.AdditionalVhdCount" xml:space="preserve">
+    <value>الأقراص الصلبة الإضافية لكل VPS</value>
+  </data>
   <data name="Quota.VPS2012.ManagingAllowed" xml:space="preserve">
     <value>السماح للمستخدم بإنشاء أو حذف VPS</value>
   </data>
@@ -5846,6 +5990,15 @@
   </data>
   <data name="Quota.VPS2012.ReplicationEnabled" xml:space="preserve">
     <value>السماح للمستخدم بالنسخ المتماثل</value>
+  </data>
+  <data name="Quota.VPS2012.DMZNetworkEnabled" xml:space="preserve">
+    <value>شبكة DMZ</value>
+  </data>
+  <data name="Quota.VPS2012.DMZIPAddressesNumber" xml:space="preserve">
+    <value>عدد عناوين IP لشبكة DMZ لكل VPS</value>
+  </data>
+  <data name="Quota.VPS2012.DMZVLANsNumber" xml:space="preserve">
+    <value>عدد شبكات VLAN لشبكة DMZ</value>
   </data>
   <data name="Error.CreateCheckPointError" xml:space="preserve">
     <value>خطأ في إنشاء نقطة تحقق</value>
@@ -6537,6 +6690,9 @@
   <data name="Text.MoveToFolder" xml:space="preserve">
     <value>نقل إلى مجلد</value>
   </data>
+  <data name="Text.NonIpmRoot" xml:space="preserve">
+    <value>جذر Non-IPM</value>
+  </data>
   <data name="Text.Notes" xml:space="preserve">
     <value>ملاحظات</value>
   </data>
@@ -6593,6 +6749,9 @@
   </data>
   <data name="Quota.Exchange2013.ResourceMailboxes" xml:space="preserve">
     <value>صناديق بريد الموارد لكل مؤسسة</value>
+  </data>
+  <data name="Quota.Exchange2013.JournalingMailboxes" xml:space="preserve">
+    <value>صناديق بريد دفتر اليومية لكل مؤسسة</value>
   </data>
   <data name="Quota.Exchange2013.SharedMailboxes" xml:space="preserve">
     <value>صناديق البريد المشتركة لكل مؤسسة</value>
@@ -6813,11 +6972,17 @@
   <data name="Error.VPS_ERROR_RESTORE_PRIVATE_IP" xml:space="preserve">
     <value>لا يمكن استعادة عنوان IP الخاص لمحول الشبكة</value>
   </data>
+  <data name="Error.VPS_ERROR_RESTORE_DMZ_IP" xml:space="preserve">
+    <value>تعذرت استعادة عنوان IP لشبكة DMZ على محول الشبكة</value>
+  </data>
   <data name="VPS.VPS_RESTORE_VIRTUAL_MACHINE_EXTERNAL_IP_ADDRESS_ERROR" xml:space="preserve">
     <value>خطأ في استعادة عنوان IP الخارجي. تحقق من سجل التدقيق لمزيد من التفاصيل.</value>
   </data>
   <data name="VPS.VPS_RESTORE_VIRTUAL_MACHINE_PRIVATE_IP_ADDRESS_ERROR" xml:space="preserve">
     <value>خطأ في استعادة عنوان IP الخاص. تحقق من سجل التدقيق لمزيد من التفاصيل.</value>
+  </data>
+  <data name="VPS.VPS_RESTORE_VIRTUAL_MACHINE_DMZ_IP_ADDRESS_ERROR" xml:space="preserve">
+    <value>خطأ في استعادة عنوان IP لشبكة DMZ. راجع سجل التدقيق لمزيد من التفاصيل.</value>
   </data>
   <data name="AuditLogTask.VPS_RESTORE_EXTERNAL_IP" xml:space="preserve">
     <value>استعادة IP الخارجي</value>
@@ -6825,17 +6990,53 @@
   <data name="AuditLogTask.VPS_RESTORE_PRIVATE_IP" xml:space="preserve">
     <value>استعادة IP الخاص</value>
   </data>
+  <data name="AuditLogTask.VPS_RESTORE_DMZ_IP" xml:space="preserve">
+    <value>استعادة عنوان IP لشبكة DMZ</value>
+  </data>
   <data name="Quota.RDS.DisableUserDeleteServer" xml:space="preserve">
     <value>منع المستخدم من إزالة خادم</value>
   </data>
   <data name="Quota.RDS.DisableUserShutdown" xml:space="preserve">
     <value>منع المستخدم من إيقاف تشغيل خادم RDS</value>
   </data>
+  <data name="TaskActivity.VPS_CREATE_CREATE_VM_ATTEMPT" xml:space="preserve">
+    <value>محاولة إنشاء كائن الجهاز الافتراضي - {0}</value>
+  </data>
+  <data name="Error.PinSendError" xml:space="preserve">
+    <value>خطأ في إرسال رمز PIN</value>
+  </data>
+  <data name="Error.QRCodeActivation" xml:space="preserve">
+    <value>فشل التفعيل. رمز PIN غير صحيح.</value>
+  </data>
+  <data name="Error.WrongPin" xml:space="preserve">
+    <value>رمز PIN غير صحيح</value>
+  </data>
+  <data name="Success.PinSend" xml:space="preserve">
+    <value>تم إرسال رمز PIN بنجاح</value>
+  </data>
+  <data name="Success.QRCodeActivation" xml:space="preserve">
+    <value>تم التفعيل بنجاح</value>
+  </data>
+  <data name="SuccessDescription.PinSend" xml:space="preserve">
+    <value>تم إرسال رمز PIN بنجاح إلى عنوان البريد الإلكتروني الأساسي.</value>
+  </data>
+  <data name="TaskActivity.VPS_CREATE_TRY_JOB_COMPLETE_ATTEMPTS_LEFT_AFTER_THREAD_ABORT" xml:space="preserve">
+    <value>جارٍ محاولة إنهاء المهمة بعد مقاطعة مؤشر الترابط. المحاولات المتبقية: {0}</value>
+  </data>
+  <data name="TaskActivity.VPS_JOB_FAILED_ERROR" xml:space="preserve">
+    <value>فشل تنفيذ المهمة بالرمز التالي: {0}</value>
+  </data>
+  <data name="TaskActivity.VPS_JOB_START_ERROR" xml:space="preserve">
+    <value>فشل بدء المهمة بالرمز التالي: {0}</value>
+  </data>
   <data name="AuditLogTask.VPS2012_ADD_EXTERNAL_IP" xml:space="preserve">
     <value>إضافة IP خارجي</value>
   </data>
   <data name="AuditLogTask.VPS2012_ADD_PRIVATE_IP" xml:space="preserve">
     <value>إضافة IP خاص</value>
+  </data>
+  <data name="AuditLogTask.VPS2012_ADD_DMZ_IP" xml:space="preserve">
+    <value>إضافة عنوان IP لشبكة DMZ</value>
   </data>
   <data name="AuditLogTask.VPS2012_APPLY_SNAPSHOT" xml:space="preserve">
     <value>تطبيق لقطة VPS</value>
@@ -6857,6 +7058,9 @@
   </data>
   <data name="AuditLogTask.VPS2012_DELETE_PRIVATE_IP" xml:space="preserve">
     <value>حذف IP الخاص</value>
+  </data>
+  <data name="AuditLogTask.VPS2012_DELETE_DMZ_IP" xml:space="preserve">
+    <value>حذف عنوان IP لشبكة DMZ</value>
   </data>
   <data name="AuditLogTask.VPS2012_DELETE_SNAPSHOT" xml:space="preserve">
     <value>حذف لقطة VPS</value>
@@ -6882,11 +7086,17 @@
   <data name="AuditLogTask.VPS2012_RESTORE_PRIVATE_IP" xml:space="preserve">
     <value>استعادة IP الخاص</value>
   </data>
+  <data name="AuditLogTask.VPS2012_RESTORE_DMZ_IP" xml:space="preserve">
+    <value>استعادة عنوان IP لشبكة DMZ</value>
+  </data>
   <data name="AuditLogTask.VPS2012_SET_PRIMARY_EXTERNAL_IP" xml:space="preserve">
     <value>تعيين عنوان IP الخارجي الأساسي</value>
   </data>
   <data name="AuditLogTask.VPS2012_SET_PRIMARY_PRIVATE_IP" xml:space="preserve">
     <value>تعيين عنوان IP الأساسي الخاص</value>
+  </data>
+  <data name="AuditLogTask.VPS2012_SET_PRIMARY_DMZ_IP" xml:space="preserve">
+    <value>تعيين عنوان IP الأساسي لشبكة DMZ</value>
   </data>
   <data name="AuditLogTask.VPS2012_TAKE_SNAPSHOT" xml:space="preserve">
     <value>أخذ لقطة VPS</value>
@@ -6903,16 +7113,85 @@
   <data name="TaskActivity.VPS2012_ADD_PRIVATE_IP" xml:space="preserve">
     <value>تعيين عناوين IP الخاصة</value>
   </data>
+  <data name="TaskActivity.VPS2012_ADD_DMZ_IP" xml:space="preserve">
+    <value>جارٍ تعيين عناوين IP لشبكة DMZ</value>
+  </data>
   <data name="TaskActivity.VPS2012_DELETE_EXTERNAL_IP" xml:space="preserve">
     <value>حذف عنوان IP الخارجي</value>
   </data>
   <data name="TaskActivity.VPS2012_DELETE_PRIVATE_IP" xml:space="preserve">
     <value>حذف عنوان IP الخاص</value>
   </data>
+  <data name="TaskActivity.VPS2012_DELETE_DMZ_IP" xml:space="preserve">
+    <value>حذف عنوان IP لشبكة DMZ</value>
+  </data>
   <data name="TaskActivity.VPS2012_SET_PRIMARY_EXTERNAL_IP" xml:space="preserve">
     <value>تعيين عنوان IP الأساسي الخارجي</value>
   </data>
   <data name="TaskActivity.VPS2012_SET_PRIMARY_PRIVATE_IP" xml:space="preserve">
     <value>تعيين عنوان IP الأساسي الخاص</value>
+  </data>
+  <data name="TaskActivity.VPS2012_SET_PRIMARY_DMZ_IP" xml:space="preserve">
+    <value>جارٍ تعيين عنوان IP الأساسي لشبكة DMZ</value>
+  </data>
+  <data name="Quota.PROXMOX.Bandwidth" xml:space="preserve">
+    <value>عرض النطاق الترددي الشهري، جيجابايت</value>
+  </data>
+  <data name="Quota.PROXMOX.BootCdAllowed" xml:space="preserve">
+    <value>السماح بالتمهيد من القرص المضغوط</value>
+  </data>
+  <data name="Quota.PROXMOX.BootCdEnabled" xml:space="preserve">
+    <value>التمهيد من القرص المضغوط</value>
+  </data>
+  <data name="Quota.PROXMOX.CpuNumber" xml:space="preserve">
+    <value>عدد أنوية وحدة المعالجة المركزية</value>
+  </data>
+  <data name="Quota.PROXMOX.DvdEnabled" xml:space="preserve">
+    <value>محرك أقراص DVD</value>
+  </data>
+  <data name="Quota.PROXMOX.ExternalIPAddressesNumber" xml:space="preserve">
+    <value>عدد عناوين IP الخارجية</value>
+  </data>
+  <data name="Quota.PROXMOX.ExternalNetworkEnabled" xml:space="preserve">
+    <value>الشبكة الخارجية</value>
+  </data>
+  <data name="Quota.PROXMOX.Hdd" xml:space="preserve">
+    <value>حجم القرص الصلب، جيجابايت</value>
+  </data>
+  <data name="Quota.PROXMOX.ManagingAllowed" xml:space="preserve">
+    <value>السماح للمستخدم بإنشاء VPS</value>
+  </data>
+  <data name="Quota.PROXMOX.PauseResumeAllowed" xml:space="preserve">
+    <value>السماح للمستخدم بإيقاف VPS مؤقتًا واستئنافه</value>
+  </data>
+  <data name="Quota.PROXMOX.PrivateIPAddressesNumber" xml:space="preserve">
+    <value>عدد عناوين IP الخاصة لكل VPS</value>
+  </data>
+  <data name="Quota.PROXMOX.PrivateNetworkEnabled" xml:space="preserve">
+    <value>الشبكة الخاصة</value>
+  </data>
+  <data name="Quota.PROXMOX.Ram" xml:space="preserve">
+    <value>حجم ذاكرة الوصول العشوائي، ميجابايت</value>
+  </data>
+  <data name="Quota.PROXMOX.RebootAllowed" xml:space="preserve">
+    <value>السماح للمستخدم بإعادة تشغيل VPS</value>
+  </data>
+  <data name="Quota.PROXMOX.ReinstallAllowed" xml:space="preserve">
+    <value>السماح للمستخدم بإعادة تثبيت VPS</value>
+  </data>
+  <data name="Quota.PROXMOX.ReplicationEnabled" xml:space="preserve">
+    <value>السماح للمستخدم بالنسخ المتماثل</value>
+  </data>
+  <data name="Quota.PROXMOX.ResetAlowed" xml:space="preserve">
+    <value>السماح للمستخدم بإعادة تعيين VPS</value>
+  </data>
+  <data name="Quota.PROXMOX.ServersNumber" xml:space="preserve">
+    <value>عدد خوادم VPS</value>
+  </data>
+  <data name="Quota.PROXMOX.SnapshotsNumber" xml:space="preserve">
+    <value>عدد اللقطات</value>
+  </data>
+  <data name="Quota.PROXMOX.StartShutdownAllowed" xml:space="preserve">
+    <value>السماح للمستخدم بتشغيل VPS وفصل طاقته وإيقاف تشغيله</value>
   </data>
 </root>

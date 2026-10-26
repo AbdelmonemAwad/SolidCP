@@ -120,6 +120,9 @@
   <data name="lblBesAdminServiceHost.Text" xml:space="preserve">
     <value>مضيف خدمة أداة إدارة مستخدم BES:</value>
   </data>
+  <data name="lblEnterpriseServer.Text" xml:space="preserve">
+    <value>BlackBerry Enterprise Server:</value>
+  </data>
   <data name="lblPassword.Text" xml:space="preserve">
     <value>كلمة المرور:</value>
   </data>

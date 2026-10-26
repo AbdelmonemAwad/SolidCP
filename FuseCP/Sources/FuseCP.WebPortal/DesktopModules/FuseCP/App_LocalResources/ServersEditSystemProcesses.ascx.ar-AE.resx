@@ -129,6 +129,12 @@
   <data name="gvProcesses.Empty" xml:space="preserve">
     <value>لم يتم العثور على عمليات نظام نشطة.</value>
   </data>
+  <data name="gvProcessesArguments.Header" xml:space="preserve">
+    <value>الوسائط</value>
+  </data>
+  <data name="gvProcessesCpuUsage.Header" xml:space="preserve">
+    <value>استخدام وحدة المعالجة المركزية</value>
+  </data>
   <data name="gvProcessesImageName.Header" xml:space="preserve">
     <value>اسم الصورة</value>
   </data>

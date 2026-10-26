@@ -243,4 +243,7 @@
   <data name="lblHddMinIOPS.Text" xml:space="preserve">
     <value>الحد الأدنى:</value>
   </data>
+  <data name="optionDmzNetwork.Text" xml:space="preserve">
+    <value>تم تمكين شبكة DMZ</value>
+  </data>
 </root>

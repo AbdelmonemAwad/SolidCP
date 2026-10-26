@@ -153,4 +153,7 @@
   <data name="lblMailTo.Text" xml:space="preserve">
     <value>أرسل بالبريد إلى:</value>
   </data>
+  <data name="lblUrl.Text" xml:space="preserve">
+    <value>عنوان URL:</value>
+  </data>
 </root>

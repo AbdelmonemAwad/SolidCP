@@ -162,6 +162,9 @@
   <data name="secTechnical.Text" xml:space="preserve">
     <value>تقني</value>
   </data>
+  <data name="secThrottling.Text" xml:space="preserve">
+    <value>تقييد المعدل</value>
+  </data>
   <data name="Text.NotSelected" xml:space="preserve">
     <value>&lt;غير محدد&gt;</value>
   </data>

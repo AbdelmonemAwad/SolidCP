@@ -384,6 +384,9 @@
   <data name="btnWmSvcSiteEnable.OnClientClick" xml:space="preserve">
     <value>ShowProgressDialog('جارٍ تمكين الإدارة عن بعد...')</value>
   </data>
+  <data name="Tab.SSL" xml:space="preserve">
+    <value>SSL</value>
+  </data>
   <data name="Tab.WebDeployPublishing" xml:space="preserve">
     <value>النشر على الويب</value>
   </data>

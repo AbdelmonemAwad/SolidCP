@@ -138,6 +138,9 @@
   <data name="lblSpace.Text" xml:space="preserve">
     <value>مساحة الاستضافة:</value>
   </data>
+  <data name="lblStackTrace.Text" xml:space="preserve">
+    <value>تتبع المكدس:</value>
+  </data>
   <data name="lblSubject.Text" xml:space="preserve">
     <value>موضوع:</value>
   </data>

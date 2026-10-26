@@ -267,6 +267,12 @@
   <data name="PageTitle.SpaceMailDomains" xml:space="preserve">
     <value>{user} - {space} - نطاقات البريد</value>
   </data>
+  <data name="PageName.SpaceMailAccess" xml:space="preserve">
+    <value>التحكم في الوصول</value>
+  </data>
+  <data name="PageTitle.SpaceMailAccess" xml:space="preserve">
+    <value>{user} - {space} - التحكم في الوصول إلى البريد</value>
+  </data>
   <data name="PageName.SpaceDatabases" xml:space="preserve">
     <value>قواعد بيانات</value>
   </data>
@@ -317,6 +323,12 @@
   </data>
   <data name="PageTitle.SpaceMsSql2022" xml:space="preserve">
     <value>{user} - {space} - SQL Server 2022</value>
+  </data>
+  <data name="PageName.SpaceMsSql2025" xml:space="preserve">
+    <value>SQL Server 2025</value>
+  </data>
+  <data name="PageTitle.SpaceMsSql2025" xml:space="preserve">
+    <value>{user} - {space} - SQL Server 2025</value>
   </data>
   <data name="PageName.SpaceMsSql2017" xml:space="preserve">
     <value>SQL Server 2017</value>

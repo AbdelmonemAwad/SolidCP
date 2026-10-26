@@ -237,6 +237,9 @@
   <data name="Text.PublicFolders" xml:space="preserve">
     <value>المجلدات العامة</value>
   </data>
+  <data name="Text.JournalingMailboxes" xml:space="preserve">
+    <value>صناديق بريد دفتر اليومية</value>
+  </data>
   <data name="Text.RetentionPolicy" xml:space="preserve">
     <value>سياسة الاحتفاظ</value>
   </data>

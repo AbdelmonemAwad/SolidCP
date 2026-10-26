@@ -147,6 +147,9 @@
   <data name="locMailboxDatabase.Text" xml:space="preserve">
     <value>اسم قاعدة بيانات صندوق البريد:</value>
   </data>
+  <data name="locOwaUrl.Text" xml:space="preserve">
+    <value>عنوان URL لـ OWA:</value>
+  </data>
   <data name="locPrimaryDomainController.Text" xml:space="preserve">
     <value>وحدة تحكم النطاق المفضلة (FQDN):</value>
   </data>
@@ -179,6 +182,9 @@
   </data>
   <data name="locServerNameColumn.HeaderText" xml:space="preserve">
     <value>الخادم</value>
+  </data>
+  <data name="locOABServer.Text" xml:space="preserve">
+    <value>خادم إنشاء دفتر العناوين دون اتصال (OAB):</value>
   </data>
   <data name="locPublicFolderServer.Text" xml:space="preserve">
     <value>خادم المجلد العام:</value>

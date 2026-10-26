@@ -138,6 +138,9 @@
   <data name="locTitle.Text" xml:space="preserve">
     <value>تحرير صندوق البريد</value>
   </data>
+  <data name="secBookingOptions.Text" xml:space="preserve">
+    <value>خيارات الحجز</value>
+  </data>
   <data name="secGeneral.Text" xml:space="preserve">
     <value>عام</value>
   </data>
@@ -153,10 +156,67 @@
   <data name="chkEnableLitigationHold.Text" xml:space="preserve">
     <value>تفعيل الاحتجاز لأغراض التقاضي</value>
   </data>
+  <data name="locLitigationHoldSpace.Text" xml:space="preserve">
+    <value>مساحة تخزين الاحتجاز لأغراض التقاضي:</value>
+  </data>
+  <data name="secLitigationHoldSettings.Text" xml:space="preserve">
+    <value>الاحتجاز لأغراض التقاضي</value>
+  </data>
   <data name="locExchangeGuid.Text" xml:space="preserve">
     <value>معرّف GUID في Exchange:</value>
   </data>
   <data name="secAdvancedInfo.Text" xml:space="preserve">
     <value>معلومات متقدمة</value>
+  </data>
+  <data name="chkAllowRecurringMeetings.Text" xml:space="preserve">
+    <value>السماح بالاجتماعات المتكررة</value>
+  </data>
+  <data name="chkEnforceSchedulingHorizon.Text" xml:space="preserve">
+    <value>الرفض دائمًا إذا كان تاريخ الانتهاء يتجاوز هذا الحد</value>
+  </data>
+  <data name="chkScheduleOnlyDuringWorkHours.Text" xml:space="preserve">
+    <value>السماح بالجدولة خلال ساعات العمل فقط</value>
+  </data>
+  <data name="locAdditionalResponse.Text" xml:space="preserve">
+    <value>إذا كنت تريد أن يتلقى منظِّم الاجتماع ردًا، فأدخل النص أدناه:</value>
+  </data>
+  <data name="locBookingRequests.Text" xml:space="preserve">
+    <value>طلبات الحجز:</value>
+  </data>
+  <data name="locBookingWindowInDays.Text" xml:space="preserve">
+    <value>الحد الأقصى لفترة الحجز المسبق (أيام):</value>
+  </data>
+  <data name="locCapacity.Text" xml:space="preserve">
+    <value>السعة:</value>
+  </data>
+  <data name="locDelegates.Text" xml:space="preserve">
+    <value>المفوَّضون:</value>
+  </data>
+  <data name="locMaximumDuration.Text" xml:space="preserve">
+    <value>الحد الأقصى للمدة (ساعات):</value>
+  </data>
+  <data name="rblBookingRequestsAuto.Text" xml:space="preserve">
+    <value>قبول طلبات الحجز أو رفضها تلقائيًا</value>
+  </data>
+  <data name="rblBookingRequestsCustom.Text" xml:space="preserve">
+    <value>استخدام إعداد مخصص لقبول طلبات الحجز أو رفضها</value>
+  </data>
+  <data name="rblBookingRequestsDelegates.Text" xml:space="preserve">
+    <value>تحديد المفوَّضين الذين يمكنهم قبول طلبات الحجز أو رفضها</value>
+  </data>
+  <data name="secBookingDelegates.Text" xml:space="preserve">
+    <value>مفوَّضو الحجز</value>
+  </data>
+  <data name="valBookingWindowInDays.ErrorMessage" xml:space="preserve">
+    <value>تنسيق الرقم غير صحيح</value>
+  </data>
+  <data name="valCapacity.ErrorMessage" xml:space="preserve">
+    <value>تنسيق الرقم غير صحيح</value>
+  </data>
+  <data name="valDelegates.ErrorMessage" xml:space="preserve">
+    <value>يرجى تحديد مفوَّض</value>
+  </data>
+  <data name="valMaximumDuration.ErrorMessage" xml:space="preserve">
+    <value>تنسيق الرقم غير صحيح</value>
   </data>
 </root>

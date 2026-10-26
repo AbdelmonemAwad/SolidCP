@@ -126,4 +126,7 @@
   <data name="Text.PageName" xml:space="preserve">
     <value>أرقام الهواتف</value>
   </data>
+  <data name="locTitle.Text" xml:space="preserve">
+    <value>تخصيص أرقام هواتف Skype for Business</value>
+  </data>
 </root>

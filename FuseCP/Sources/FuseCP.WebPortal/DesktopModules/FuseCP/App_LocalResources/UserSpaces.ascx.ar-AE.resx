@@ -153,6 +153,9 @@
   <data name="System.Text" xml:space="preserve">
     <value>النظام</value>
   </data>
+  <data name="VPS.Text" xml:space="preserve">
+    <value>VPS</value>
+  </data>
   <data name="Web.Text" xml:space="preserve">
     <value>الويب والتطبيقات</value>
   </data>

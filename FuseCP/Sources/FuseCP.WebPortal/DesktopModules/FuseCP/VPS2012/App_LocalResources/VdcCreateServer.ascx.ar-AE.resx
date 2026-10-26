@@ -141,6 +141,9 @@
   <data name="stepPrivateNetwork.Title" xml:space="preserve">
     <value>شبكة خاصة</value>
   </data>
+  <data name="stepDmzNetwork.Title" xml:space="preserve">
+    <value>شبكة DMZ</value>
+  </data>
   <data name="stepSummary.Title" xml:space="preserve">
     <value>ملخص</value>
   </data>
@@ -155,6 +158,9 @@
   </data>
   <data name="PrivateAddressesValidator.ErrorMessage" xml:space="preserve">
     <value>أدخل عدد عناوين IP الخاصة</value>
+  </data>
+  <data name="DmzAddressesValidator.ErrorMessage" xml:space="preserve">
+    <value>أدخل عدد عناوين IP لشبكة DMZ</value>
   </data>
   <data name="RequireHddValidator.ErrorMessage" xml:space="preserve">
     <value>أدخل حجم محرك القرص الصلب</value>
@@ -185,6 +191,9 @@
   </data>
   <data name="chkPrivateNetworkEnabled.Text" xml:space="preserve">
     <value>تم تمكين الشبكة الخاصة</value>
+  </data>
+  <data name="chkDmzNetworkEnabled.Text" xml:space="preserve">
+    <value>تم تمكين شبكة DMZ</value>
   </data>
   <data name="chkReboot.Text" xml:space="preserve">
     <value>إعادة التشغيل</value>
@@ -279,7 +288,13 @@
   <data name="locPrivateAddressesList.Text" xml:space="preserve">
     <value>قائمة عناوين IP:</value>
   </data>
+  <data name="locDmzAddressesList.Text" xml:space="preserve">
+    <value>قائمة عناوين IP:</value>
+  </data>
   <data name="locPrivateAddressesNumber.Text" xml:space="preserve">
+    <value>عدد عناوين IP:</value>
+  </data>
+  <data name="locDmzAddressesNumber.Text" xml:space="preserve">
     <value>عدد عناوين IP:</value>
   </data>
   <data name="locPrivateNetwork.Text" xml:space="preserve">
@@ -291,7 +306,19 @@
   <data name="locPrivateNetworkFormat.Text" xml:space="preserve">
     <value>تنسيق عناوين الشبكة:</value>
   </data>
+  <data name="locDmzNetwork.Text" xml:space="preserve">
+    <value>شبكة DMZ</value>
+  </data>
+  <data name="locDmzNetworkEnabled.Text" xml:space="preserve">
+    <value>تم تمكين شبكة DMZ:</value>
+  </data>
+  <data name="locDmzNetworkFormat.Text" xml:space="preserve">
+    <value>تنسيق عناوين الشبكة:</value>
+  </data>
   <data name="locPrivateSubnetMask.Text" xml:space="preserve">
+    <value>قناع الشبكة الفرعية:</value>
+  </data>
+  <data name="locDmzSubnetMask.Text" xml:space="preserve">
     <value>قناع الشبكة الفرعية:</value>
   </data>
   <data name="locRam.Text" xml:space="preserve">
@@ -358,6 +385,9 @@
     <value>({0} كحد أقصى)</value>
   </data>
   <data name="litMaxPrivateAddresses.Text" xml:space="preserve">
+    <value>({0} كحد أقصى)</value>
+  </data>
+  <data name="litMaxDmzAddresses.Text" xml:space="preserve">
     <value>({0} كحد أقصى)</value>
   </data>
   <data name="locNotEnoughExternalAddresses.Text" xml:space="preserve">
@@ -437,5 +467,20 @@
   </data>
   <data name="maskValidator.ErrorMessage" xml:space="preserve">
     <value>أدخل قناع الشبكة الفرعية</value>
+  </data>
+  <data name="btnAddHdd.Text" xml:space="preserve">
+    <value>إضافة قرص صلب</value>
+  </data>
+  <data name="btnRemoveHdd.Text" xml:space="preserve">
+    <value>إزالة قرص صلب</value>
+  </data>
+  <data name="lblAdditionalHdd.Text" xml:space="preserve">
+    <value>قرص صلب إضافي:</value>
+  </data>
+  <data name="locAdditionalHdd.Text" xml:space="preserve">
+    <value>قرص صلب إضافي، جيجابايت:</value>
+  </data>
+  <data name="valHddSize.ErrorMessage" xml:space="preserve">
+    <value>أدخل قيمة رقمية</value>
   </data>
 </root>

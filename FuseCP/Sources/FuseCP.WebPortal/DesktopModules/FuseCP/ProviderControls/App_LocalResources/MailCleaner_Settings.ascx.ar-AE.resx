@@ -129,6 +129,9 @@
   <data name="lblRootOU.Text" xml:space="preserve">
     <value>الوحدة التنظيمية الجذر (OU):</value>
   </data>
+  <data name="locLynServers.Text" xml:space="preserve">
+    <value>خوادم Front End وDirector في Skype for Business</value>
+  </data>
   <data name="locServerName.Text" xml:space="preserve">
     <value>العنوان:</value>
   </data>
@@ -137,5 +140,8 @@
   </data>
   <data name="UseDefault.Text" xml:space="preserve">
     <value>&lt;موجود على نفس الخادم&gt;</value>
+  </data>
+  <data name="chkIgnoreCheckSSL.Text" xml:space="preserve">
+    <value>تعطيل التحقق من شهادة SSL</value>
   </data>
 </root>

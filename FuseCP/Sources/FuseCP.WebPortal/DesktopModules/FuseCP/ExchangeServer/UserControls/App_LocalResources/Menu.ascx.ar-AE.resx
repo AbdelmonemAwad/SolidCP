@@ -162,8 +162,20 @@
   <data name="Text.PublicFolders" xml:space="preserve">
     <value>المجلدات العامة</value>
   </data>
+  <data name="Text.JournalingMailboxes" xml:space="preserve">
+    <value>صناديق بريد دفتر اليومية</value>
+  </data>
   <data name="Text.Setup" xml:space="preserve">
     <value>الإعداد</value>
+  </data>
+  <data name="Text.SharePointFoundationServerGroup" xml:space="preserve">
+    <value>SharePoint Foundation</value>
+  </data>
+  <data name="Text.SharePointEnterpriseServerGroup" xml:space="preserve">
+    <value>SharePoint Enterprise</value>
+  </data>
+  <data name="Text.OCSGroup" xml:space="preserve">
+    <value>OCS</value>
   </data>
   <data name="Text.OCSUsers" xml:space="preserve">
     <value>مستخدمو OCS</value>
@@ -183,11 +195,17 @@
   <data name="Text.MailboxPlans" xml:space="preserve">
     <value>خطط صندوق البريد</value>
   </data>
+  <data name="Text.SfBGroup" xml:space="preserve">
+    <value>Skype for Business</value>
+  </data>
   <data name="Text.SfBUserPlans" xml:space="preserve">
     <value>خطط مستخدم Skype for Business</value>
   </data>
   <data name="Text.SfBUsers" xml:space="preserve">
     <value>مستخدمو Skype for Business</value>
+  </data>
+  <data name="Text.SfBFederationDomains" xml:space="preserve">
+    <value>نطاقات اتحاد Skype for Business</value>
   </data>
   <data name="Text.LyncGroup" xml:space="preserve">
     <value>Lync</value>

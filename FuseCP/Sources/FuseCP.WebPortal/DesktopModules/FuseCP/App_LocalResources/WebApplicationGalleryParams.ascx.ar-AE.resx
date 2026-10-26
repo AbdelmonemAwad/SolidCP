@@ -213,6 +213,12 @@
   <data name="DatabaseEngine.FlatFile" xml:space="preserve">
     <value>ملف مسطح (Flat File)</value>
   </data>
+  <data name="DatabaseEngine.SQLite" xml:space="preserve">
+    <value>SQLite</value>
+  </data>
+  <data name="DatabaseEngine.VistaDB" xml:space="preserve">
+    <value>VistaDB</value>
+  </data>
   <data name="locDatabaseGroup.Text" xml:space="preserve">
     <value>قاعدة البيانات</value>
   </data>

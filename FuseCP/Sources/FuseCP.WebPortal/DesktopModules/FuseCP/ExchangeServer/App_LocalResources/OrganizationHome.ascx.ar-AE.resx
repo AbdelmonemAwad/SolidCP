@@ -192,6 +192,15 @@
   <data name="locLyncStatistics.Text" xml:space="preserve">
     <value>Lync</value>
   </data>
+  <data name="locSfBStatistics.Text" xml:space="preserve">
+    <value>Skype for Business</value>
+  </data>
+  <data name="locOCSStatistics.Text" xml:space="preserve">
+    <value>OCS</value>
+  </data>
+  <data name="locSharePoint.Text" xml:space="preserve">
+    <value>SharePoint Foundation</value>
+  </data>
   <data name="locTitle.Text" xml:space="preserve">
     <value>الرئيسية</value>
   </data>
@@ -200,6 +209,9 @@
   </data>
   <data name="Unlimited.Text" xml:space="preserve">
     <value>غير محدود</value>
+  </data>
+  <data name="lnkExchangeLitigationHold.Text" xml:space="preserve">
+    <value>مساحة تخزين الاحتجاز لأغراض التقاضي (ميجا بايت):</value>
   </data>
   <data name="lnkEnterpriseStorageFolders.Text" xml:space="preserve">
     <value>المجلدات:</value>
@@ -236,5 +248,8 @@
   </data>
   <data name="OrganizationSettings.Text" xml:space="preserve">
     <value>إعدادات المؤسسة:</value>
+  </data>
+  <data name="lnkJournalingMailboxes.Text" xml:space="preserve">
+    <value>صناديق بريد دفتر اليومية:</value>
   </data>
 </root>

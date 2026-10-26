@@ -162,6 +162,9 @@
   <data name="locHomePhone.Text" xml:space="preserve">
     <value>هاتف المنزل:</value>
   </data>
+  <data name="locInitials.Text" xml:space="preserve">
+    <value>الحرف الأول من الاسم الأوسط:</value>
+  </data>
   <data name="locJobTitle.Text" xml:space="preserve">
     <value>المسمى الوظيفي:</value>
   </data>
@@ -179,6 +182,9 @@
   </data>
   <data name="locNotes.Text" xml:space="preserve">
     <value>ملاحظات:</value>
+  </data>
+  <data name="locOffice.Text" xml:space="preserve">
+    <value>المكتب:</value>
   </data>
   <data name="locPager.Text" xml:space="preserve">
     <value>جهاز النداء:</value>

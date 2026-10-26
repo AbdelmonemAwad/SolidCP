@@ -153,6 +153,9 @@
   <data name="rbtnQuotaHard" xml:space="preserve">
     <value>ثابتة</value>
   </data>
+  <data name="rbtnQuotaSoft" xml:space="preserve">
+    <value>مرنة</value>
+  </data>
   <data name="valRequireFolderSize" xml:space="preserve">
     <value>valRequireFolderSize</value>
   </data>

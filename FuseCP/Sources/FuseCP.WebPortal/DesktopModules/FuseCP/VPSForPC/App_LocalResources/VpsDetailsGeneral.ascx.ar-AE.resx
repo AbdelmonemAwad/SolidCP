@@ -225,6 +225,9 @@
   <data name="locDomain.Text" xml:space="preserve">
     <value>النطاق:</value>
   </data>
+  <data name="locHeartbeat.Text" xml:space="preserve">
+    <value>نبض القلب:</value>
+  </data>
   <data name="locHostname1.Text" xml:space="preserve">
     <value>اسم المضيف:</value>
   </data>

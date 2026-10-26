@@ -156,6 +156,9 @@
   <data name="lblSiteCollectionOwner.Text" xml:space="preserve">
     <value>مالك:</value>
   </data>
+  <data name="lblSiteCollectionUrl.Text" xml:space="preserve">
+    <value>عنوان URL:</value>
+  </data>
   <data name="lblTitle.Text" xml:space="preserve">
     <value>العنوان:</value>
   </data>

@@ -132,6 +132,9 @@
   <data name="gvAddressesIPAddress.HeaderText" xml:space="preserve">
     <value>IP</value>
   </data>
+  <data name="gvAddressesItemName.HeaderText" xml:space="preserve">
+    <value>VPS</value>
+  </data>
   <data name="gvAddressesPrimary.HeaderText" xml:space="preserve">
     <value>الأساسي</value>
   </data>

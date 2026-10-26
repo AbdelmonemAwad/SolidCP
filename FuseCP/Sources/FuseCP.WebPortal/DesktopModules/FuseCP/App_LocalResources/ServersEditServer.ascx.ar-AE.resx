@@ -225,6 +225,9 @@
   <data name="lnkWindowsServices.Text" xml:space="preserve">
     <value>خدمات Windows</value>
   </data>
+  <data name="lnkUnixServices.Text" xml:space="preserve">
+    <value>خدمات النظام</value>
+  </data>
   <data name="rbUsersCreationModeItem.ADAccounts" xml:space="preserve">
     <value>استخدم حسابات Active Directory</value>
   </data>
@@ -272,5 +275,11 @@
   </data>
   <data name="lblAdParentDomainController.text" xml:space="preserve">
     <value>وحدة تحكم النطاق الأصل:</value>
+  </data>
+  <data name="btnDiscoverServices.Text" xml:space="preserve">
+    <value>البحث عن البرامج المثبتة</value>
+  </data>
+  <data name="btnDiscoverServices.OnClientClick" xml:space="preserve">
+    <value>ShowProgressDialog('جارٍ البحث عن البرامج المثبتة...')</value>
   </data>
 </root>

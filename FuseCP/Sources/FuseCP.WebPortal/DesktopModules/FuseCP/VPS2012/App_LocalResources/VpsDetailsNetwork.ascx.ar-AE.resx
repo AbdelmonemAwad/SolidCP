@@ -216,4 +216,43 @@
   <data name="locPrivGateway.Text" xml:space="preserve">
     <value>البوابة الافتراضية:</value>
   </data>
+  <data name="btnAddDmzAddress.Text" xml:space="preserve">
+    <value>إضافة عنوان IP...</value>
+  </data>
+  <data name="btnDeleteDmz.Text" xml:space="preserve">
+    <value>حذف</value>
+  </data>
+  <data name="btnDeleteDmzByInject.Text" xml:space="preserve">
+    <value>حذف بالحقن (تجريبي)</value>
+  </data>
+  <data name="btnRestoreDmzAddress.Text" xml:space="preserve">
+    <value>استعادة عناوين IP لشبكة DMZ</value>
+  </data>
+  <data name="btnRestoreExternalAddress.Text" xml:space="preserve">
+    <value>استعادة عناوين IP الخارجية</value>
+  </data>
+  <data name="btnRestorePrivateAddress.Text" xml:space="preserve">
+    <value>استعادة عناوين IP الخاصة</value>
+  </data>
+  <data name="btnSetPrimaryDmz.Text" xml:space="preserve">
+    <value>تعيين كأساسي</value>
+  </data>
+  <data name="gvDmzAddresses.Empty" xml:space="preserve">
+    <value>لم تُعيَّن أي عناوين IP لمحول شبكة DMZ.</value>
+  </data>
+  <data name="locDmzAddress.Text" xml:space="preserve">
+    <value>عنوان الخادم:</value>
+  </data>
+  <data name="locDmzGateway.Text" xml:space="preserve">
+    <value>البوابة الافتراضية:</value>
+  </data>
+  <data name="locDmzSubnet.Text" xml:space="preserve">
+    <value>قناع الشبكة الفرعية:</value>
+  </data>
+  <data name="locTotalDmz.Text" xml:space="preserve">
+    <value>عناوين IP:</value>
+  </data>
+  <data name="secDmzNetwork.Text" xml:space="preserve">
+    <value>شبكة DMZ</value>
+  </data>
 </root>

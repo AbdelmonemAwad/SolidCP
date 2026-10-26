@@ -129,8 +129,14 @@
   <data name="ddlAspNetItem.2" xml:space="preserve">
     <value>2.0</value>
   </data>
+  <data name="ddlAspNetItem.2I" xml:space="preserve">
+    <value>2.0 (الوضع المتكامل)</value>
+  </data>
   <data name="ddlAspNetItem.4" xml:space="preserve">
     <value>4.0</value>
+  </data>
+  <data name="ddlAspNetItem.4I" xml:space="preserve">
+    <value>4.0 (الوضع المتكامل)</value>
   </data>
   <data name="ddlAspNetItem.None" xml:space="preserve">
     <value>لا شيء</value>
@@ -152,6 +158,9 @@
   </data>
   <data name="lblCgiBin.Text" xml:space="preserve">
     <value>CGI-BIN:</value>
+  </data>
+  <data name="lblPerl.Text" xml:space="preserve">
+    <value>Perl:</value>
   </data>
   <data name="lblPhp.Text" xml:space="preserve">
     <value>PHP:</value>

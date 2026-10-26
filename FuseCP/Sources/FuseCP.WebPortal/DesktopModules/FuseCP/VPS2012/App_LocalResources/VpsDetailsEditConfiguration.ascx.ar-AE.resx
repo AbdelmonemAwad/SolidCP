@@ -249,4 +249,19 @@
   <data name="locNotEnoughExternalAddresses.Text" xml:space="preserve">
     <value>مجموعة عناوين IP الخارجية المتاحة فارغة. يتم تخصيص جميع عناوين IP المخصصة لمساحة الاستضافة الحالية للخوادم الافتراضية الحالية.</value>
   </data>
+  <data name="btnAddHdd.Text" xml:space="preserve">
+    <value>إضافة قرص صلب</value>
+  </data>
+  <data name="locRemoveHdd.Text" xml:space="preserve">
+    <value>إزالة قرص صلب</value>
+  </data>
+  <data name="btnRemoveHdd.OnClientClick" xml:space="preserve">
+    <value>if(!confirm('ستتم إزالة القرص الصلب الافتراضي.\n\nهل تريد المتابعة؟')) return false;</value>
+  </data>
+  <data name="valHddSize.ErrorMessage" xml:space="preserve">
+    <value>أدخل قيمة رقمية</value>
+  </data>
+  <data name="chkDmzNetworkEnabled.Text" xml:space="preserve">
+    <value>تم تمكين شبكة DMZ</value>
+  </data>
 </root>

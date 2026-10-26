@@ -195,4 +195,7 @@
   <data name="loginStatus.LockedOut" xml:space="preserve">
     <value>مقفل</value>
   </data>
+  <data name="lblMfaEnabled.Text" xml:space="preserve">
+    <value>عند تسجيل الدخول، يُرسل رمز تحقق إلى عنوان البريد الإلكتروني الأساسي. يؤدي تمكين تطبيق المصادقة إلى إيقاف إرسال رمز التحقق عبر البريد الإلكتروني.</value>
+  </data>
 </root>

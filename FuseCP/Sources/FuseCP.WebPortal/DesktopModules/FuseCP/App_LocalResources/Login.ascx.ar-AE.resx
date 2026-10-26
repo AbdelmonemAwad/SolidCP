@@ -150,4 +150,7 @@
   <data name="toresetyourpassword.Text" xml:space="preserve">
     <value>لإعادة تعيين كلمة المرور الخاصة بك</value>
   </data>
+  <data name="btResendPin.Text" xml:space="preserve">
+    <value>إعادة إرسال رمز PIN</value>
+  </data>
 </root>

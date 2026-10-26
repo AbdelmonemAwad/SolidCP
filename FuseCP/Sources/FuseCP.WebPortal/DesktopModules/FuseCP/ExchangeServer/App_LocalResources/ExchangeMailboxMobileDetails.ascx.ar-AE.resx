@@ -165,6 +165,9 @@
   <data name="locFirstSyncTime.Text" xml:space="preserve">
     <value>وقت المزامنة الأول:</value>
   </data>
+  <data name="locLastPing.Text" xml:space="preserve">
+    <value>آخر فاصل نبض Ping (بالثواني):</value>
+  </data>
   <data name="locLastSync.Text" xml:space="preserve">
     <value>آخر مزامنة ناجحة:</value>
   </data>

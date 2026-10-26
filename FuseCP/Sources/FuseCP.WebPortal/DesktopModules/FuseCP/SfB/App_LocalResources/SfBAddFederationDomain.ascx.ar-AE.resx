@@ -135,6 +135,12 @@
   <data name="DomainRequiredValidator.Text" xml:space="preserve">
     <value>*</value>
   </data>
+  <data name="Text.PageName" xml:space="preserve">
+    <value>إضافة نطاق اتحاد Skype for Business</value>
+  </data>
+  <data name="locTitle.Text" xml:space="preserve">
+    <value>إضافة نطاق اتحاد Skype for Business</value>
+  </data>
   <data name="btnAddText.Text" xml:space="preserve">
     <value>إضافة نطاق</value>
   </data>

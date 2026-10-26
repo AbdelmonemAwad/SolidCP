@@ -117,11 +117,17 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="lblEnterpriseServer.Text" xml:space="preserve">
+    <value>مثيل BlackBerry Enterprise Server:</value>
+  </data>
   <data name="lblEnterpriseServerFQDN.Text" xml:space="preserve">
     <value>FQDN لخادم BlackBerry Enterprise Server:</value>
   </data>
   <data name="lblHandheldcleanupPath.Text" xml:space="preserve">
     <value>مسار الأداة المساعدة handheldcleanup.exe:</value>
+  </data>
+  <data name="lblMAPIProfile.Text" xml:space="preserve">
+    <value>ملف تعريف MAPI لـ BlackBerry:</value>
   </data>
   <data name="lblPassword.Text" xml:space="preserve">
     <value>كلمة مرور المصادقة:</value>

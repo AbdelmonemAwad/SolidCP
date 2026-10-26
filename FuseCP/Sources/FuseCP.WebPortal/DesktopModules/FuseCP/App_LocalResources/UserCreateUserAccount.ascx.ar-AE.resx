@@ -123,6 +123,9 @@
   <data name="btnCreate.Text" xml:space="preserve">
     <value>إنشاء</value>
   </data>
+  <data name="lblAccountLetter.Text" xml:space="preserve">
+    <value>إرسال رسالة ملخص الحساب</value>
+  </data>
   <data name="chkAccountLetter.Text" xml:space="preserve">
     <value>نعم</value>
   </data>

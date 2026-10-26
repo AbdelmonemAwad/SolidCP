@@ -129,6 +129,9 @@
   <data name="chkMAPI.Text" xml:space="preserve">
     <value>MAPI</value>
   </data>
+  <data name="chkOWA.Text" xml:space="preserve">
+    <value>OWA/HTTP</value>
+  </data>
   <data name="chkPOP3.Text" xml:space="preserve">
     <value>POP3</value>
   </data>
@@ -201,6 +204,15 @@
   <data name="locRecoverableItemsWarning.Text" xml:space="preserve">
     <value>تحذير عند:</value>
   </data>
+  <data name="secLitigationHold.Text" xml:space="preserve">
+    <value>الاحتجاز لأغراض التقاضي</value>
+  </data>
+  <data name="lblLitigationHoldMsg.Text" xml:space="preserve">
+    <value>رسالة الاحتجاز لأغراض التقاضي:</value>
+  </data>
+  <data name="lblLitigationHoldUrl.Text" xml:space="preserve">
+    <value>عنوان URL للاحتجاز لأغراض التقاضي:</value>
+  </data>
   <data name="locTitleArchiving.Text" xml:space="preserve">
     <value>إضافة سياسة الاحتفاظ</value>
   </data>
@@ -215,5 +227,14 @@
   </data>
   <data name="locAutoReplyEnabled.Text" xml:space="preserve">
     <value>الردود التلقائية عبر FuseCP</value>
+  </data>
+  <data name="bntAddTag.Text" xml:space="preserve">
+    <value>إضافة علامة</value>
+  </data>
+  <data name="secRetentionPolicyTags.Text" xml:space="preserve">
+    <value>علامات سياسة الاحتفاظ</value>
+  </data>
+  <data name="chkIsForJournaling.Text" xml:space="preserve">
+    <value>لصناديق بريد دفتر اليومية فقط</value>
   </data>
 </root>

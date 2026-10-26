@@ -168,6 +168,9 @@
   <data name="lblWarningMailSubject.Text" xml:space="preserve">
     <value>موضوع البريد:</value>
   </data>
+  <data name="lblWarningThreshold.Text" xml:space="preserve">
+    <value>من الحد.</value>
+  </data>
   <data name="lblWhenUsageThresholdExceeds.Text" xml:space="preserve">
     <value>عندما يتجاوز الاستخدام</value>
   </data>

@@ -150,4 +150,19 @@
   <data name="btnUpdatePolicy.Text" xml:space="preserve">
     <value>تحديث</value>
   </data>
+  <data name="locAgeLimitForRetention.Text" xml:space="preserve">
+    <value>حد العمر للاحتفاظ (أيام):</value>
+  </data>
+  <data name="locRetentionAction.Text" xml:space="preserve">
+    <value>إجراء الاحتفاظ:</value>
+  </data>
+  <data name="locType.Text" xml:space="preserve">
+    <value>النوع:</value>
+  </data>
+  <data name="secPolicy.Text" xml:space="preserve">
+    <value>السياسة</value>
+  </data>
+  <data name="secPolicyFeatures.Text" xml:space="preserve">
+    <value>ميزات علامة السياسة</value>
+  </data>
 </root>

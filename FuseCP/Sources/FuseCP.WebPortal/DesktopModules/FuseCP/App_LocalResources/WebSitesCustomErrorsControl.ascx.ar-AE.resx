@@ -144,6 +144,9 @@
   <data name="IIS6.FILE" xml:space="preserve">
     <value>ملف</value>
   </data>
+  <data name="IIS6.URL" xml:space="preserve">
+    <value>عنوان URL</value>
+  </data>
   <data name="IIS7.ExecuteURL" xml:space="preserve">
     <value>تنفيذ عنوان URL</value>
   </data>

@@ -120,6 +120,9 @@
   <data name="btnAddMailboxPlan.Text" xml:space="preserve">
     <value>إضافة جديد</value>
   </data>
+  <data name="btnSave.Text" xml:space="preserve">
+    <value>تطبيق الخطة على صناديق البريد</value>
+  </data>
   <data name="btnSetDefaultMailboxPlan.Text" xml:space="preserve">
     <value>تعيين خطة صندوق البريد الافتراضية</value>
   </data>
@@ -161,5 +164,8 @@
   </data>
   <data name="Text.PageRetentionPolicyName" xml:space="preserve">
     <value>سياسة الاحتفاظ</value>
+  </data>
+  <data name="btnSaveText.Text" xml:space="preserve">
+    <value>تطبيق الخطة على صناديق البريد</value>
   </data>
 </root>

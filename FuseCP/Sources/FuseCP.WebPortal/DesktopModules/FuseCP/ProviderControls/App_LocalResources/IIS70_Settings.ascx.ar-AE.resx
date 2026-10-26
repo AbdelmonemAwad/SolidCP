@@ -270,4 +270,7 @@
   <data name="btnResetText.Text" xml:space="preserve">
     <value>إعادة تعيين</value>
   </data>
+  <data name="lblLeEmail.Text" xml:space="preserve">
+    <value>البريد الإلكتروني لإشعارات Let's Encrypt:</value>
+  </data>
 </root>
