@@ -474,8 +474,7 @@ namespace FuseCP.Portal
         {
             string selectedTheme = ddlTheme.SelectedValue;
 
-            HttpCookie userRtlCookie = HttpContext.Current.Response.Cookies["UserRTL"];
-            if (userRtlCookie != null && userRtlCookie.Value == "1")
+            if (PortalUtils.IsRightToLeft)
             {
                 DataSet themeData = ES.Services.Authentication.GetLoginThemes();
                 selectedTheme = themeData.Tables[0].Rows[ddlTheme.SelectedIndex]["RTLName"].ToString();

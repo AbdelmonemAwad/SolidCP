@@ -34,7 +34,7 @@ namespace FuseCP.Portal
 			{
 				DataSet themedata = ES.Services.Authentication.GetLoginThemes();
 
-				if (HttpContext.Current.Response.Cookies["UserRTL"].Value == "1")
+				if (PortalUtils.IsRightToLeft)
 				{
 					theme = themedata.Tables[0].Rows[0]["RTLName"].ToString();
 	

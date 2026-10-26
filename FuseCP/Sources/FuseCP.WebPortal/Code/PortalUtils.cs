@@ -76,6 +76,13 @@ public class PortalUtils
 		get { return GetCurrentCulture(); }
 	}
 
+	public static bool IsRightToLeft
+	{
+		// Only a language selected from SupportedLocales is guaranteed to have its own resources;
+		// a browser-detected culture may fall back to the default left-to-right resources.
+		get { return HttpContext.Current.Request.Cookies[CultureCookieName] != null && CurrentUICulture.TextInfo.IsRightToLeft; }
+	}
+
 	public static string CurrentTheme
 	{
 		get { return GetCurrentTheme(); }

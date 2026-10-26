@@ -44,6 +44,8 @@ namespace FuseCP.WebPortal
         private const string THEME_BUTTONS_LIGHT_COOKIE = "UserThemeButtonsLight";
         private const string THEME_BUTTONS_DARK_COOKIE = "UserThemeButtonsDark";
         private const string THEME_MODE_COOKIE = "UserThemeMode";
+        private const string BOOTSTRAP_STYLESHEET = "bootstrap5.min.css";
+        private const string BOOTSTRAP_RTL_STYLESHEET = "~/Styles/bootstrap5.rtl.min.css";
 
         private CultureInfo requestCulture;
 
@@ -234,15 +236,7 @@ namespace FuseCP.WebPortal
 
         protected void Page_Load(object sender, EventArgs e)
         {
-            //Set RTL
-            HttpCookie UserRTLCrub = Request.Cookies["UserRTL"];
-            if (UserRTLCrub != null)
-            {
-                if (HttpContext.Current.Response.Cookies["UserRTL"].Value == "1")
-                {
-                    htmltheme.Attributes.Add("dir", "RTL");
-                }
-            }
+            ApplyLanguageAndDirection();
 
             string sethtmlclassTheme = BuildThemeClassValue();
             if (!String.IsNullOrWhiteSpace(sethtmlclassTheme))
@@ -252,6 +246,29 @@ namespace FuseCP.WebPortal
 
             ApplyThemePaletteVariables();
 
+        }
+
+        private void ApplyLanguageAndDirection()
+        {
+            htmltheme.Attributes["lang"] = PortalUtils.CurrentUICulture.Name;
+
+            if (!PortalUtils.IsRightToLeft)
+            {
+                return;
+            }
+
+            htmltheme.Attributes["dir"] = "rtl";
+
+            // The theme links the LTR build of Bootstrap; swap in the matching RTL build.
+            foreach (Control control in Page.Header.Controls)
+            {
+                HtmlLink link = control as HtmlLink;
+                if (link != null && link.Href.EndsWith("/" + BOOTSTRAP_STYLESHEET, StringComparison.OrdinalIgnoreCase))
+                {
+                    link.Href = BOOTSTRAP_RTL_STYLESHEET;
+                    break;
+                }
+            }
         }
 
         private void ApplyThemePaletteVariables()
@@ -619,21 +636,6 @@ namespace FuseCP.WebPortal
                     System.Threading.Thread.CurrentThread.CurrentCulture = ci;
                     System.Threading.Thread.CurrentThread.CurrentUICulture = ci;
                     requestCulture = ci;
-
-                    if (ci.TextInfo.IsRightToLeft)
-                    {
-                        HttpCookie UserRTL = new HttpCookie("UserRTL", "1");
-                        UserRTL.Expires = DateTime.Now.AddMonths(2);
-                        HttpContext.Current.Response.Cookies.Add(UserRTL);
-                    }
-                    else
-                    {
-                        HttpCookie UserRTLCrub = Request.Cookies["UserRTL"];
-                        if (UserRTLCrub != null)
-                        {
-                            HttpContext.Current.Response.Cookies.Remove("UserRTL");
-                        }
-                    }
                 }
             }
 
