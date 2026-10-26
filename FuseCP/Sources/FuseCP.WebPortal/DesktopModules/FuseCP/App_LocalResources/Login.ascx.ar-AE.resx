@@ -153,4 +153,13 @@
   <data name="btResendPin.Text" xml:space="preserve">
     <value>إعادة إرسال رمز PIN</value>
   </data>
+  <data name="ThemeMode.System" xml:space="preserve">
+    <value>حسب النظام</value>
+  </data>
+  <data name="ThemeMode.Light" xml:space="preserve">
+    <value>فاتح</value>
+  </data>
+  <data name="ThemeMode.Dark" xml:space="preserve">
+    <value>داكن</value>
+  </data>
 </root>

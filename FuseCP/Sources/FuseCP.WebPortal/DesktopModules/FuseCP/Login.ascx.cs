@@ -206,9 +206,9 @@ namespace FuseCP.Portal
 		private void BindThemeModes()
 		{
 			ddlTheme.Items.Clear();
-			ddlTheme.Items.Add(new ListItem("System", ThemeModeAuto));
-			ddlTheme.Items.Add(new ListItem("Light", ThemeStyleLight));
-			ddlTheme.Items.Add(new ListItem("Dark", ThemeStyleDark));
+			ddlTheme.Items.Add(new ListItem(GetLocalizedString("ThemeMode.System"), ThemeModeAuto));
+			ddlTheme.Items.Add(new ListItem(GetLocalizedString("ThemeMode.Light"), ThemeStyleLight));
+			ddlTheme.Items.Add(new ListItem(GetLocalizedString("ThemeMode.Dark"), ThemeStyleDark));
 		}
 
 		protected void cmdForgotPassword_Click(object sender, EventArgs e)

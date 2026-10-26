@@ -153,4 +153,13 @@
   <data name="btResendPin.Text" xml:space="preserve">
     <value>Resend Pin Code</value>
   </data>
+  <data name="ThemeMode.System" xml:space="preserve">
+    <value>System</value>
+  </data>
+  <data name="ThemeMode.Light" xml:space="preserve">
+    <value>Light</value>
+  </data>
+  <data name="ThemeMode.Dark" xml:space="preserve">
+    <value>Dark</value>
+  </data>
 </root>
