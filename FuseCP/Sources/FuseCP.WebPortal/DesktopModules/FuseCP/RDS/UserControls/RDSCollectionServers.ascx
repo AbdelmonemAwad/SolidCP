@@ -30,28 +30,28 @@
 				</ItemTemplate>
 			</asp:TemplateField>
             <asp:TemplateField meta:resourcekey="gvPopupStatus">
-                <ItemStyle HorizontalAlign="Left" />
+                <ItemStyle CssClass="text-start" />
                 <ItemTemplate>
                     <asp:Literal ID="litStatus" runat="server" Text='<%# Eval("Status") %>'></asp:Literal>
                     <asp:HiddenField ID="hdnRdsCollectionId" runat="server" Value='<%# Eval("RdsCollectionId") %>' />
                 </ItemTemplate>
             </asp:TemplateField>
             <asp:TemplateField meta:resourcekey="gvViewInfo">
-                <ItemStyle HorizontalAlign="Right"/>
+                <ItemStyle CssClass="text-end"/>
                 <ItemTemplate>
                     <asp:LinkButton OnClientClick="ShowProgressDialog('Getting Server Info ...');return true;" CssClass="btn btn-primary" Visible='<%# Eval("Status") != null && Eval("Status").ToString().StartsWith("Online") %>' 
                         CommandName="ViewInfo" CommandArgument='<%# Eval("FqdName")%>' ID="lbViewInfo" runat="server" Text="View Info" meta:resourcekey="lbViewInfo"/>
                 </ItemTemplate>
             </asp:TemplateField>
             <asp:TemplateField meta:resourcekey="gvRestart">
-                <ItemStyle HorizontalAlign="Right"/>
+                <ItemStyle CssClass="text-end"/>
                 <ItemTemplate>
                     <asp:LinkButton ID="lbRestart" CommandName="Restart" CommandArgument='<%# Eval("FqdName")%>' CssClass="btn btn-warning" Visible='<%# Eval("Status") != null && Eval("Status").ToString().StartsWith("Online") %>'
                         runat="server" Text="Restart" OnClientClick="return confirm('Are you sure you want to restart selected server?')" meta:resourcekey="lbRestart"/>
                 </ItemTemplate>
             </asp:TemplateField>
             <asp:TemplateField meta:resourcekey="gvShutdown">
-                <ItemStyle HorizontalAlign="Right"/>
+                <ItemStyle CssClass="text-end"/>
                 <ItemTemplate>
                     <asp:LinkButton ID="lbShutdown" CommandName="ShutDown" CommandArgument='<%# Eval("FqdName")%>' CssClass="btn btn-danger" Visible='<%# Eval("Status") != null && Eval("Status").ToString().StartsWith("Online") %>'
                         runat="server" Text="Shut Down" OnClientClick="return confirm('Are you sure you want to shu down selected server?')" meta:resourcekey="lbShutdown"/>

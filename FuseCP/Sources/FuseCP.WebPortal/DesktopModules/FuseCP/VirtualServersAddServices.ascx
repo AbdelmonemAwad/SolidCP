@@ -22,7 +22,7 @@
                         <li class="list-group-item">
                             <asp:DataList ID="dlServices" Runat="server" DataSource='<%# GetServerServices((int)Eval("ServerID")) %>'
                             DataKeyField="ServiceID">
-							    <ItemStyle HorizontalAlign="Left" Wrap="false"></ItemStyle>
+							    <ItemStyle CssClass="text-start" Wrap="false"></ItemStyle>
 							    <ItemTemplate>
 				                     <asp:CheckBox ID="chkSelected" runat="server" Text='<%# Eval("ServiceName") %>' />
 							    </ItemTemplate>

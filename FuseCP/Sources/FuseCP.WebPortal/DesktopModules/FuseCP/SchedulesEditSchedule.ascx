@@ -211,7 +211,7 @@
 	                            </EditItemTemplate>
                             </asp:TemplateField>
                         </Columns>
-                        <HeaderStyle CssClass="GridHeader" HorizontalAlign="Left" />
+                        <HeaderStyle CssClass="GridHeader text-start" />
                         <RowStyle CssClass="Normal" />
                         <PagerStyle CssClass="GridPager" />
                         <EmptyDataRowStyle CssClass="Normal" />

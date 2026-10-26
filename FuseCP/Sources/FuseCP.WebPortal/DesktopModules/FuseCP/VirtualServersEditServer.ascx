@@ -68,7 +68,7 @@
                             <asp:DataList ID="dlServices" runat="server" RepeatDirection="Horizontal" RepeatLayout="Flow"
                                 DataSource='<%# GetGroupServices((int)Eval("GroupID")) %>'
                                 DataKeyField="ServiceID">
-                                <%--<ItemStyle CssClass="Brick" VerticalAlign="Top" HorizontalAlign="Left"></ItemStyle>--%>
+                                <%--<ItemStyle CssClass="Brick text-start" VerticalAlign="Top"></ItemStyle>--%>
                                 <ItemTemplate>
                                     <div class="col-md-6">
                                         <div class="card border-success">

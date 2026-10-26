@@ -21,7 +21,7 @@
                     <ItemStyle Width="10px" />
                 </asp:TemplateField>
                 <asp:TemplateField meta:resourcekey="gvUsersAccount" HeaderText="gvUsersAccount">
-                    <ItemStyle Wrap="false" HorizontalAlign="Left"></ItemStyle>
+                    <ItemStyle CssClass="text-start" Wrap="false"></ItemStyle>
                     <ItemTemplate>
                         <asp:Literal ID="litAccount" runat="server" Text='<%# Eval("DisplayName") %>'></asp:Literal>
                         <asp:Image ID="Image1" runat="server" ImageUrl='<%# GetThemedImage("Exchange/admin_16.png") %>' Visible='<%# Convert.ToBoolean(Eval("IsVIP")) %>' ImageAlign="AbsMiddle" />
@@ -30,7 +30,7 @@
                     </ItemTemplate>
                 </asp:TemplateField>
                 <asp:TemplateField meta:resourcekey="gvEmail" HeaderText="gvEmail">
-                    <ItemStyle Wrap="false" HorizontalAlign="Left"></ItemStyle>
+                    <ItemStyle CssClass="text-start" Wrap="false"></ItemStyle>
                     <ItemTemplate>
                         <asp:Literal ID="litEmail" runat="server" Text='<%# Eval("PrimaryEmailAddress") %>'></asp:Literal>
                     </ItemTemplate>
@@ -92,7 +92,7 @@
                                             <ItemStyle Width="10px" />
                                         </asp:TemplateField>
                                         <asp:TemplateField meta:resourcekey="gvAccountsDisplayName">
-                                            <ItemStyle HorizontalAlign="Left"></ItemStyle>
+                                            <ItemStyle CssClass="text-start"></ItemStyle>
                                             <ItemTemplate>
                                                 <asp:Image ID="imgAccount" runat="server" ImageUrl='<%# GetAccountImage((int)Eval("AccountType")) %>' ImageAlign="AbsMiddle" />
                                                 <asp:Literal ID="litDisplayName" runat="server" Text='<%# Eval("DisplayName") %>'></asp:Literal><asp:HiddenField ID="hdnSamName" runat="server" Value='<%# Eval("SamAccountName") %>' />
@@ -100,7 +100,7 @@
                                             </ItemTemplate>
                                         </asp:TemplateField>
                                         <asp:TemplateField meta:resourcekey="gvAccountsEmail">
-                                            <ItemStyle HorizontalAlign="Left"></ItemStyle>
+                                            <ItemStyle CssClass="text-start"></ItemStyle>
                                             <ItemTemplate>
                                                 <asp:Literal ID="litPrimaryEmailAddress" runat="server" Text='<%# Eval("PrimaryEmailAddress") %>'></asp:Literal>
                                             </ItemTemplate>

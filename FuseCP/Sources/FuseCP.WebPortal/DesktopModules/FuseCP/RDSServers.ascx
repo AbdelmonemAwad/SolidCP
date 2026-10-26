@@ -91,28 +91,28 @@
                 <asp:BoundField DataField="ControllerName" HeaderText="Controller"><ItemStyle /></asp:BoundField>
                 <asp:BoundField DataField="RDSCollectionName" HeaderText="Collection"><ItemStyle /></asp:BoundField>
                 <asp:TemplateField meta:resourcekey="gvPopupStatus">
-                    <ItemStyle HorizontalAlign="Left" />
+                    <ItemStyle CssClass="text-start" />
                     <ItemTemplate>
                         <asp:Literal ID="litStatus" runat="server" Text='<%# Eval("Status") %>'></asp:Literal>
                         <asp:HiddenField ID="hdnRdsCollectionId" runat="server" Value='<%# Eval("RdsCollectionId") %>' />
                     </ItemTemplate>
                 </asp:TemplateField>
                 <asp:TemplateField meta:resourcekey="gvViewInfo">
-                    <ItemStyle HorizontalAlign="Right"/>
+                    <ItemStyle CssClass="text-end"/>
                     <ItemTemplate>
                         <asp:LinkButton OnClientClick="ShowProgressDialog('Getting Server Info ...');return true;" style="display:none"
                             CommandName="ViewInfo" CommandArgument='<%# Eval("Id")%>' ID="lbViewInfo" runat="server" CssClass="btn btn-primary" Text="View Info"/>
                     </ItemTemplate>
                 </asp:TemplateField>
                 <asp:TemplateField meta:resourcekey="gvRestart">
-                    <ItemStyle HorizontalAlign="Right"/>
+                    <ItemStyle CssClass="text-end"/>
                     <ItemTemplate>
                         <asp:LinkButton ID="lbRestart" CommandName="Restart" CommandArgument='<%# Eval("Id")%>' runat="server" Text="Restart" CssClass="btn btn-warning" style="display:none"
                             OnClientClick="if(confirm('Are you sure you want to restart selected server?')) ShowProgressDialog('Loading...'); else return false;"/>
                     </ItemTemplate>
                 </asp:TemplateField>
                 <asp:TemplateField meta:resourcekey="gvShutdown">
-                    <ItemStyle HorizontalAlign="Right"/>
+                    <ItemStyle CssClass="text-end"/>
                     <ItemTemplate>
                         <asp:LinkButton ID="lbShutdown" CommandName="ShutDown" CssClass="btn btn-danger" CommandArgument='<%# Eval("Id")%>' style="display:none"
                             runat="server" Text="Shut Down" OnClientClick="if(confirm('Are you sure you want to shut down selected server?')) ShowProgressDialog('Loading...'); else return false;"/>

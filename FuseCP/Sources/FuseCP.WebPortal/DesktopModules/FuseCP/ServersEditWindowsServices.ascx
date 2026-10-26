@@ -33,7 +33,7 @@
                     </ItemTemplate>
                 </asp:TemplateField>
                 <asp:TemplateField ItemStyle-Wrap="false">
-                    <ItemStyle HorizontalAlign="Left" />
+                    <ItemStyle CssClass="text-start" />
                     <ItemTemplate>
                         <asp:ImageButton ID="cmdStart" runat="server" meta:resourcekey="cmdStart" SkinID="StartSmall"
                             CommandName="Running" CommandArgument='<%# Eval("Id") %>' />

@@ -20,7 +20,7 @@
 				<ItemStyle Width="10px" />
 			</asp:TemplateField>
 			<asp:TemplateField meta:resourcekey="gvUsersAccount" HeaderText="gvUsersAccount">
-				<ItemStyle Wrap="false" HorizontalAlign="Left">
+				<ItemStyle CssClass="text-start" Wrap="false">
 				</ItemStyle>
 				<ItemTemplate>
                     <asp:Literal ID="litAccount" runat="server" Text='<%# Eval("DisplayName") %>'></asp:Literal>
@@ -75,7 +75,7 @@
 								<ItemStyle Width="10px" />
 							</asp:TemplateField>
 							<asp:TemplateField meta:resourcekey="gvAccountsDisplayName">
-								<ItemStyle HorizontalAlign="Left"></ItemStyle>
+								<ItemStyle CssClass="text-start"></ItemStyle>
 								<ItemTemplate>
 									<asp:Image ID="imgAccount" runat="server" ImageUrl='<%# GetAccountImage((int)Eval("AccountType")) %>' ImageAlign="AbsMiddle" />
 									<asp:Literal ID="litDisplayName" runat="server" Text='<%# Eval("DisplayName") %>'></asp:Literal>
@@ -83,7 +83,7 @@
 								</ItemTemplate>
 							</asp:TemplateField>
 							<asp:TemplateField meta:resourcekey="gvAccountsEmail">
-								<ItemStyle HorizontalAlign="Left"></ItemStyle>
+								<ItemStyle CssClass="text-start"></ItemStyle>
 								<ItemTemplate>
 									<asp:Literal ID="litPrimaryEmailAddress" runat="server" Text='<%# Eval("PrimaryEmailAddress") %>'></asp:Literal>
 								</ItemTemplate>
