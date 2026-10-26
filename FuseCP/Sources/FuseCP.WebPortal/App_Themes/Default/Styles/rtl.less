@@ -1,0 +1,58 @@
+// Right-to-left adjustments that cannot be expressed with CSS logical properties.
+// Layout direction is handled by the logical properties in main.less and Menus.less,
+// and by the Bootstrap RTL build that Default.aspx.cs links for right-to-left cultures.
+
+html[dir="rtl"] {
+    // Icons whose meaning follows the reading direction (back/next, first/last, sign in/out).
+    [class*="bi-arrow-left"],
+    [class*="bi-arrow-right"],
+    [class*="bi-arrow-bar-left"],
+    [class*="bi-arrow-bar-right"],
+    [class*="bi-arrow-return-left"],
+    [class*="bi-arrow-return-right"],
+    [class*="bi-box-arrow-left"],
+    [class*="bi-box-arrow-right"],
+    [class*="bi-box-arrow-in-left"],
+    [class*="bi-box-arrow-in-right"],
+    [class*="bi-chevron-left"],
+    [class*="bi-chevron-right"],
+    [class*="bi-chevron-double-left"],
+    [class*="bi-chevron-double-right"],
+    [class*="bi-chevron-bar-left"],
+    [class*="bi-chevron-bar-right"],
+    [class*="bi-caret-left"],
+    [class*="bi-caret-right"],
+    [class*="bi-skip-backward"],
+    [class*="bi-skip-forward"],
+    [class*="bi-skip-start"],
+    [class*="bi-skip-end"],
+    [class*="bi-reply"],
+    [class*="bi-forward"] {
+        &::before {
+            transform: scaleX(-1);
+        }
+    }
+
+    // Machine-readable values keep their natural left-to-right order.
+    input[type="email"],
+    input[type="url"],
+    input[type="tel"],
+    input[type="password"],
+    input[type="number"],
+    .CodeEditor,
+    .CodeMirror,
+    pre,
+    code,
+    kbd,
+    samp {
+        direction: ltr;
+    }
+
+    // Free-text fields take the direction of the text the user enters.
+    input[type="text"],
+    input[type="search"],
+    input:not([type]),
+    textarea:not(.CodeEditor) {
+        unicode-bidi: plaintext;
+    }
+}

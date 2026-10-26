@@ -15,12 +15,13 @@
     font-size: 12px;
     color: #fff;
     overflow: hidden;
-    padding: 0 22px 0 34px;
+    padding-block: 0;
+    padding-inline: 34px 22px;
     cursor: pointer;
 }
 
 .MenuHeader {
-    float: left;
+    float: inline-start;
     position: relative;
     line-height: 74px;
     filter: alpha(opacity=70);
@@ -34,12 +35,12 @@
 
 .TopMenu ul.AspNet-Menu li ul li.AspNet-Menu-WithChildren span:after {
     content: '→';
-    float: right;
-    margin-right: 10px;
+    float: inline-end;
+    margin-inline-end: 10px;
 }
 
 .TopMenu ul.AspNet-Menu li {
-    float: left;
+    float: inline-start;
     position: relative;
 }
 
@@ -59,11 +60,12 @@
     }
 
 .TopMenu .AspNet-Menu-Horizontal ul.AspNet-Menu ul li {
-    text-align: left;
+    text-align: start;
     clear: both;
     text-indent: 10px;
     color: var(--fcp-text);
-    margin: 0 0 0 5px;
+    margin-block: 0;
+    margin-inline: 5px 0;
 }
 
     .TopMenu .AspNet-Menu-Horizontal ul.AspNet-Menu ul li a {
@@ -90,7 +92,7 @@
 
 .TopMenu .AspNet-Menu-Horizontal ul.AspNet-Menu li ul li ul {
     width: 160px;
-    left: 134px;
+    inset-inline-start: 134px;
     position: absolute;
     z-index: 3;
     top: 4px;
@@ -103,7 +105,7 @@
 
     .TopMenu ul.AspNet-Menu ul {
         width: 10.5em;
-        left: 0;
+        inset-inline-start: 0;
         top: 100%;
         z-index: 501;
     }
@@ -118,8 +120,8 @@
         height: 16px;
         width: 16px;
         border-width: 0;
-        padding-right: 3px;
-        float: left;
+        padding-inline-end: 3px;
+        float: inline-start;
         position: relative;
     }
 
@@ -137,11 +139,12 @@
 .TopMenu .AspNet-Menu-Horizontal ul.AspNet-Menu ul {
     position: absolute;
     top: 100%;
-    left: 0;
+    inset-inline-start: 0;
     z-index: 1000;
-    float: left;
+    float: inline-start;
     min-width: 180px;
-    padding: 5px 10px 5px 0;
+    padding-block: 5px;
+    padding-inline: 0 10px;
     margin: -10px 0 0;
     list-style: none;
     font-size: 14px;
@@ -167,7 +170,7 @@
         }
 
             .LeftMenu ul.AspNet-Menu ul, .LeftMenu ul.AspNet-Menu ul ul {
-                left: 190px;
+                inset-inline-start: 190px;
                 top: -.5em;
                 width: 190px;
                 z-index: 400;
@@ -181,16 +184,18 @@
 
     .LeftMenu ul.AspNet-Menu li a {
         color: var(--fcp-text-hi);
-        padding: 6px 15px 6px 7px;
-        text-align: left;
+        padding-block: 6px;
+        padding-inline: 7px 15px;
+        text-align: start;
     }
 
     .LeftMenu ul.AspNet-Menu li span {
         cursor: pointer;
         color: var(--fcp-text);
-        padding: 6px 25px 6px 7px;
+        padding-block: 6px;
+        padding-inline: 7px 25px;
         background: url(../Images/menu_popup_right.gif) right center no-repeat;
-        text-align: left;
+        text-align: start;
     }
 
     .LeftMenu ul.AspNet-Menu li.AspNet-Menu-Hover, .LeftMenu ul.AspNet-Menu li:hover {
@@ -205,13 +210,14 @@
 
         .LeftMenu .AspNet-Menu-Horizontal ul.AspNet-Menu ul li a {
             padding: 7px 15px;
-            text-align: left;
+            text-align: start;
             border: none;
             margin: 0;
         }
 
     .LeftMenu .AspNet-Menu-Horizontal ul.AspNet-Menu li ul li ul {
-        margin: 1em 0 0 10.35em;
+        margin-block: 1em 0;
+        margin-inline: 10.35em 0;
     }
 
 .PopupMenu ul.AspNet-Menu {
@@ -228,7 +234,7 @@
     }
 
     .PopupMenu ul.AspNet-Menu ul {
-        left: 0;
+        inset-inline-start: 0;
         top: 100%;
         z-index: 501;
     }
@@ -273,14 +279,15 @@
     .PopupMenu .AspNet-Menu-Horizontal ul.AspNet-Menu ul li a {
         width: 160px;
         padding: 6px 15px;
-        text-align: left;
+        text-align: start;
         border: none;
         margin: 0;
         color: var(--fcp-text-hi);
     }
 
 .PopupMenu .AspNet-Menu-Horizontal ul.AspNet-Menu li ul li ul {
-    margin: 1em 0 0 10.35em;
+    margin-block: 1em 0;
+    margin-inline: 10.35em 0;
 }
 
 .FormSimpleLabel, td.Normal, td.SubHead {
@@ -364,7 +371,8 @@ td.Normal .NormalTextBox + span {
 }
 
 .FormSimpleLabel {
-    padding: 9px 8px 14px 0;
+    padding-block: 9px 14px;
+    padding-inline: 0 8px;
     color: var(--fcp-text);
 }
 
@@ -408,7 +416,7 @@ td.Normal .NormalTextBox + span {
     width: 60px;
     display: block;
 }
-.ToolLink a:before{content:"\f285";font-family:"bootstrap-icons";font-size:11px;line-height:1;margin-right:6px;vertical-align:-1px}
+.ToolLink a:before{content:"\f285";font-family:"bootstrap-icons";font-size:11px;line-height:1;margin-inline-end:6px;vertical-align:-1px}
 .ToolLink a {
     font-size: 13px;
     display: inline-block;
@@ -426,7 +434,7 @@ td.Normal .NormalTextBox + span {
 }
 
 ul.LinksList {
-    margin-left: 20px;
+    margin-inline-start: 20px;
 }
 
     ul.LinksList li a {
@@ -481,7 +489,8 @@ ul.LinksList {
     border: 1px solid #ffd349;
     background: #ffde77;
     font-size: 9pt;
-    margin: 40px 0 0 -15px;
+    margin-block: 40px 0;
+    margin-inline: -15px 0;
     min-width: 150px;
 }
 
@@ -600,7 +609,8 @@ legend {
 }
 
 .FileManagerTreeNode {
-    padding: 2px 8px 4px 4px;
+    padding-block: 2px 4px;
+    padding-inline: 4px 8px;
 }
 
     .FileManagerTreeNode a {
@@ -624,7 +634,8 @@ select:not(.form-select):not(.form-control), textarea {
 }
 
 input.Huge, input.HugeTextBox, input.LoginTextBox, input.NormalTextBox {
-    padding: 0 0 0 3px;
+    padding-block: 0;
+    padding-inline: 3px 0;
     margin: 0 0 4px;
     font-family: inherit;
     font-size: inherit;
@@ -646,7 +657,8 @@ input.TextBox300 {
 }
 
 select:not(.form-select):not(.form-control) {
-    margin: 0 3px 3px 0;
+    margin-block: 0 3px;
+    margin-inline: 0 3px;
     vertical-align: middle;
     padding: 7px;
 }
@@ -663,7 +675,8 @@ select:not(.form-select):not(.form-control) {
     }
 
 textarea {
-    padding: 3px 0 3px 3px;
+    padding-block: 3px;
+    padding-inline: 3px 0;
     margin: 0;
     resize: none;
     line-height: normal;
@@ -679,7 +692,7 @@ input[type=checkbox], input[type=radio] {
 }
 
 .HeaderCheckbox {
-    margin-left: 5px;
+    margin-inline-start: 5px;
 }
 
 .GridCheckbox input[type=checkbox] {
@@ -687,23 +700,23 @@ input[type=checkbox], input[type=radio] {
 }
 
 input[type=image] {
-    margin-right: 4px;
+    margin-inline-end: 4px;
 }
 
 .LoginLabel {
     line-height: 34px;
     width: auto !important;
-    padding-right: 8px;
+    padding-inline-end: 8px;
 }
 
 .primary-content{
-    padding-right:@grid-gutter-width;
-    padding-left:@grid-gutter-width;
+    padding-inline-end: @grid-gutter-width;
+    padding-inline-start: @grid-gutter-width;
 }
 @media screen and (max-width:480px) {
     .primary-content{
-    padding-right:@padding-base-horizontal;
-    padding-left:@padding-base-horizontal;
+    padding-inline-end: @padding-base-horizontal;
+    padding-inline-start: @padding-base-horizontal;
     }
     .top-bar {
         padding: 0 @padding-base-horizontal;
@@ -711,11 +724,11 @@ input[type=image] {
 }
 .page-login .primary-content{
     padding-top:@grid-gutter-width;
-    margin-right:0;
+    margin-inline-end: 0;
 }
 
 .LoginContainer .SubHead {
-    padding-right: 8px;
+    padding-inline-end: 8px;
     color: var(--fcp-text);
 }
 
@@ -754,13 +767,13 @@ input[type=image] {
     .FormButtonsBar.right {
         clear: both;
         margin: -58px 10px 20px !important;
-        text-align: right !important;
+        text-align: end !important;
         min-height: 34px;
     }
 
     .FormButtonsBar.UserSpaces {
         margin: -50px 0 20px;
-        text-align: right;
+        text-align: end;
     }
 
 @media screen and (max-width:767px) {
@@ -785,7 +798,7 @@ input[type=image] {
 
 .Big {
     font-size: 18px;
-    padding-right: 9px;
+    padding-inline-end: 9px;
 }
 
 .MediumBold {
@@ -886,7 +899,7 @@ table.BorderFillBox td {
     }
 
     .HostingPlanGroup .Header .Left {
-        float: left;
+        float: inline-start;
         font-weight: 700;
     }
 
@@ -896,15 +909,17 @@ table.BorderFillBox td {
     }
 
 .HostingPlanGroup .Quota .Left {
-    float: left;
+    float: inline-start;
     width: 200px;
-    text-align: right;
-    padding: 8px 8px 8px 0;
+    text-align: end;
+    padding-block: 8px;
+    padding-inline: 0 8px;
     line-height: 13px;
 }
 
 .HostingPlanGroup .Quota .Viewer {
-    padding: 8px 0 8px 8px;
+    padding-block: 8px;
+    padding-inline: 8px 0;
     line-height: 13px;
 }
 
@@ -949,7 +964,7 @@ table.BorderFillBox td {
 .Calendar {
     width: 300px !important;
     border: 1px solid var(--fcp-border) !important;
-    margin-right: 20px;
+    margin-inline-end: 20px;
 }
 
     .Calendar a {
@@ -977,7 +992,7 @@ table.BorderFillBox td {
     margin: 20px;
     color: #fff;
     font-size: 14px;
-    text-align: left;
+    text-align: start;
     font-weight: 600;
     line-height: 16px;
 }
@@ -1018,7 +1033,7 @@ input.Button1, input.Button2, input.Button3, input.LoginButton, input.SmallButto
 }
 
 .FormButtonsBarCleanRight, .GridFooter .Right {
-    text-align: right;
+    text-align: end;
 }
 
 input.SmallButton {
@@ -1061,7 +1076,7 @@ ul.WPIKeywordList {
         padding: 0 !important;
         margin: 10px 0 0 !important;
         line-height: auto !important;
-        float: left;
+        float: inline-start;
         display: block !important;
         border-bottom: 1px solid #eee;
         height: 37px;
@@ -1107,7 +1122,7 @@ h2.ProductTitle.Huge {
 }
 
 .ProductsSearchButton {
-    float: right;
+    float: inline-end;
 }
 
 .LogArea {
@@ -1123,8 +1138,8 @@ h2.ProductTitle.Huge {
 }
 
 .FormBody.tabs {
-    border-left: 1px;
-    border-right: 1px;
+    border-inline-start: 1px;
+    border-inline-end: 1px;
     border-style: solid;
     border-color: var(--fcp-border);
     border-bottom: 0;
@@ -1132,8 +1147,8 @@ h2.ProductTitle.Huge {
 }
 
 .FormFooter.tabs {
-    border-bottom-left-radius: 3px;
-    border-bottom-right-radius: 3px;
+    border-end-start-radius: 3px;
+    border-end-end-radius: 3px;
     border-width: 1px;
     border-style: solid;
     border-color: var(--fcp-border);
@@ -1154,24 +1169,26 @@ h2.ProductTitle.Huge {
 
 .FormFooterRDSConf {
     border-style: none solid solid;
-    padding: 20px 15px 15px 10px;
+    padding-block: 20px 15px;
+    padding-inline: 10px 15px;
 }
 
 .FormContentRDSConf {
     border-style: solid;
-    padding: 30px 15px 15px 10px;
+    padding-block: 30px 15px;
+    padding-inline: 10px 15px;
 }
 
 .FormButtonsBar .Left {
-    float: left;
+    float: inline-start;
 }
 
 .FormButtonsBar .Right {
-    float: right;
+    float: inline-end;
 }
 
 .FormButtonsBar Button2.Right {
-    text-align: right;
+    text-align: end;
     margin-bottom: 3px;
 }
 
@@ -1203,7 +1220,7 @@ h2.ProductTitle.Huge {
     align-items: center;
     flex-wrap: wrap;
     gap: 8px;
-    margin-left: auto;
+    margin-inline-start: auto;
 }
 
 .FormButtonsBarCleanRight {
@@ -1212,19 +1229,19 @@ h2.ProductTitle.Huge {
     align-items: center;
     flex-wrap: wrap;
     gap: 8px;
-    margin-left: auto;
+    margin-inline-start: auto;
 }
 
 .FormButtonsBarCleanSeparator {
-    padding-right: 30px;
+    padding-inline-end: 30px;
 }
 
 .FormButtonsBarCleanSeparatorSmall {
-    padding-right: 3px;
+    padding-inline-end: 3px;
 }
 
 .GridFooter .Left {
-    float: left;
+    float: inline-start;
 }
 
 .FormRow {
@@ -1254,7 +1271,8 @@ SPAN.Checkbox.Bold {
 .FormFooterClean {
     font-size: 9pt;
     margin-top: 10px;
-    padding: 10px 10px 0 0;
+    padding-block: 10px 0;
+    padding-inline: 0 10px;
     border-top: solid 1px var(--fcp-border);
 }
 
@@ -1275,8 +1293,8 @@ SPAN.Checkbox.Bold {
 UL.VerticalButtons {
     margin: 0;
     list-style: none;
-    padding-left: 20px;
-    float: right;
+    padding-inline-start: 20px;
+    float: inline-end;
 }
 
 .HostingPlanGroup, .OrgStatsGroup {
@@ -1284,7 +1302,7 @@ UL.VerticalButtons {
 }
 
 .ToolbarMenuRootItem IMG, .ToolbarMenuRootItemSelected IMG {
-    margin-right: 2px;
+    margin-inline-end: 2px;
 }
 
 UL.VerticalButtons LI {
@@ -1298,7 +1316,7 @@ UL.VerticalButtons LI {
 
 .HugeTextBox, INPUT.HugeTextBox100, INPUT.HugeTextBox200, TEXTAREA.TextBox200, TEXTAREA.TextBox300, TEXTAREA.TextBox400 {
     border: 1px solid #909090;
-    padding-left: 2px;
+    padding-inline-start: 2px;
 }
 
 TEXTAREA.TextBox200 {
@@ -1338,7 +1356,7 @@ INPUT.HugeTextBox200 {
 .OrgStatsGroup {
     height: 24px;
     padding-top: 5px;
-    padding-left: 7px;
+    padding-inline-start: 7px;
     color: var(--fcp-text-hi);
     font-size: 8pt;
     background: #E5F2FF;
@@ -1346,14 +1364,14 @@ INPUT.HugeTextBox200 {
 }
 
 .OrgStatsQuota {
-    padding-left: 7px;
+    padding-inline-start: 7px;
     width: 20%;
-    text-align: left;
+    text-align: start;
 }
 
 .HostingPlanGroup .Header .Right {
-    text-align: right;
-    padding-right: 5px;
+    text-align: end;
+    padding-inline-end: 5px;
 }
 
 .HostingPlanGroup .Quota {
@@ -1361,12 +1379,12 @@ INPUT.HugeTextBox200 {
 }
 
     .HostingPlanGroup .Quota .Right {
-        float: left;
+        float: inline-start;
         white-space: nowrap;
     }
 
 .SideBar {
-    padding-right: 10px;
+    padding-inline-end: 10px;
 }
 
     .SideBar TD {
@@ -1384,8 +1402,8 @@ INPUT.HugeTextBox200 {
 }
 
 .ProgressBarContainer {
-    border-left: solid 1px #a0a0a0;
-    border-right: solid 1px #a0a0a0;
+    border-inline-start: solid 1px #a0a0a0;
+    border-inline-end: solid 1px #a0a0a0;
     height: 11px;
     background: url(../Images/gauge_bkg.gif) center center repeat-x #e5e5e5;
 }
@@ -1405,8 +1423,8 @@ INPUT.HugeTextBox200 {
 }
 
 .TreeNode {
-    padding-left: 2px;
-    padding-right: 2px;
+    padding-inline-start: 2px;
+    padding-inline-end: 2px;
     color: var(--fcp-text-hi);
 }
 
@@ -1472,7 +1490,7 @@ A.Black {
 }
 
 .QuotaName {
-    padding-left: 8px;
+    padding-inline-start: 8px;
 }
 
 .QuotaValue {
@@ -1573,7 +1591,7 @@ A.Black {
     .LogRecord .Time {
         width: 70px;
         background-color: var(--fcp-surface-alt);
-        float: left;
+        float: inline-start;
         padding: 2px;
     }
 
@@ -1617,8 +1635,8 @@ A.Black {
 }
 
 .ProductInfo {
-    border-left: solid 6px #E2E2E2;
-    padding-left: 13px;
+    border-inline-start: solid 6px #E2E2E2;
+    padding-inline-start: 13px;
     text-transform: uppercase;
     color: #6A6A6A;
     font-size: 10pt;
@@ -1637,16 +1655,16 @@ A.Black {
 }
 
 .PriceBlock {
-    float: left;
+    float: inline-start;
     margin-top: 15px;
 }
 
     .PriceBlock .Left {
-        float: left;
+        float: inline-start;
     }
 
     .PriceBlock .Right {
-        float: right;
+        float: inline-end;
     }
 
 .ProductPrice {
@@ -1655,7 +1673,8 @@ A.Black {
 
 ul.HighLights {
     padding: 10px 0 0;
-    margin: 0 0 0 15px;
+    margin-block: 0;
+    margin-inline: 15px 0;
 }
 
 .QuickLabel {
@@ -1668,7 +1687,8 @@ ul.HighLights {
 }
 
     .QuickOutlineTbl TD {
-        padding: 5px 0 5px 15px;
+        padding-block: 5px;
+        padding-inline: 15px 0;
     }
 
 .Width15Pcs {
@@ -1713,7 +1733,7 @@ ul.HighLights {
 UL.ActionButtons {
     list-style-type: none;
     margin-top: 5px;
-    margin-left: 0;
+    margin-inline-start: 0;
 }
 
     UL.ActionButtons LI {
@@ -1721,47 +1741,63 @@ UL.ActionButtons {
     }
 
 .ActionButton {
-    padding: 3px 2px 3px 20px;
+    padding-block: 3px;
+    padding-inline: 20px 2px;
 }
 
 .ActionButtonApplySnapshot {
-    padding: 3px 2px 3px 20px;
+    padding-block: 3px;
+    padding-inline: 20px 2px;
     background: url(../Images/VPS/apply2.png) left center no-repeat;
 }
 
 .ActionButtonRename {
-    padding: 3px 2px 3px 20px;
+    padding-block: 3px;
+    padding-inline: 20px 2px;
     background: url(../Images/VPS/rename.gif) left center no-repeat;
 }
 
 .ActionButtonDeleteSnapshot {
-    padding: 3px 2px 3px 20px;
+    padding-block: 3px;
+    padding-inline: 20px 2px;
     background: url(../Images/VPS/delete3.png) left center no-repeat;
 }
 
 .ActionButtonDeleteSnapshotTree {
-    padding: 3px 2px 3px 20px;
+    padding-block: 3px;
+    padding-inline: 20px 2px;
     background: url(../Images/VPS/delete4.png) left center no-repeat;
 }
 
 .ActionButtonApplySnapshot2012 {
-    padding: 3px 2px 3px 20px;
+    padding-block: 3px;
+    padding-inline: 20px 2px;
     background: url(../Images/VPS2012/apply.png) left center no-repeat;
 }
 
 .ActionButtonRename2012 {
-    padding: 3px 2px 3px 20px;
+    padding-block: 3px;
+    padding-inline: 20px 2px;
     background: url(../Images/VPS2012/rename.png) left center no-repeat;
 }
 
 .ActionButtonDeleteSnapshot2012 {
-    padding: 3px 2px 3px 20px;
+    padding-block: 3px;
+    padding-inline: 20px 2px;
     background: url(../Images/VPS2012/delete3.png) left center no-repeat;
 }
 
 .ActionButtonDeleteSnapshotTree2012 {
-    padding: 3px 2px 3px 20px;
+    padding-block: 3px;
+    padding-inline: 20px 2px;
     background: url(../Images/VPS2012/delete4.png) left center no-repeat;
+}
+
+html[dir="rtl"] {
+    .ActionButtonApplySnapshot, .ActionButtonRename, .ActionButtonDeleteSnapshot, .ActionButtonDeleteSnapshotTree,
+    .ActionButtonApplySnapshot2012, .ActionButtonRename2012, .ActionButtonDeleteSnapshot2012, .ActionButtonDeleteSnapshotTree2012 {
+        background-position: right center;
+    }
 }
 
 .CodeEditor {
@@ -1776,7 +1812,7 @@ UL.ActionButtons {
 .pnlControl {
     height: 20px;
     margin: 5px;
-    text-align: left;
+    text-align: start;
 }
 
     .pnlControl span {
@@ -1800,6 +1836,12 @@ UL.ActionButtons {
 
 .enabled {
     background: url(../Icons/ok.png) left center no-repeat;
+}
+
+html[dir="rtl"] {
+    .disabled, .enabled {
+        background-position: right center;
+    }
 }
 
 p.warningText {
@@ -1971,7 +2013,8 @@ p.warningText {
 }
 
     #LoginSkinContent > a img {
-        padding: 20px 0 0 10px;
+        padding-block: 20px 0;
+        padding-inline: 10px 0;
     }
 
 #Header .Container {
@@ -1979,15 +2022,16 @@ p.warningText {
 }
 
 #Header .Logo {
-    padding-left: 10px;
+    padding-inline-start: 10px;
 }
 
 #Header .Search {
     width: auto;
     height: 70px;
     vertical-align: bottom;
-    padding: 0 5px 8px 0;
-    text-align: right;
+    padding-block: 0 8px;
+    padding-inline: 0 5px;
+    text-align: end;
 }
 
 #Footer .Container, #TopMenu {
@@ -2015,8 +2059,9 @@ p.warningText {
 }
 
 #Header .Account {
-    text-align: right;
-    padding: 3px 6px 0 0;
+    text-align: end;
+    padding-block: 3px 0;
+    padding-inline: 0 6px;
 }
 
 #TopMenu {
@@ -2027,7 +2072,7 @@ p.warningText {
 }
 
     #TopMenu .Account {
-        float: right;
+        float: inline-end;
         color: #fff;
         height: 100%;
     }
@@ -2052,7 +2097,7 @@ p.warningText {
             #TopMenu .Account div input {
                 display: inline;
                 vertical-align: middle;
-                margin-right: 4px;
+                margin-inline-end: 4px;
                 opacity: .9;
             }
 
@@ -2064,7 +2109,8 @@ p.warningText {
 
 
     #Breadcrumb .Path {
-        padding: 10px 5px 12px 25px;
+        padding-block: 10px 12px;
+        padding-inline: 25px 5px;
         margin-bottom: 20px;
         background-color: var(--fcp-surface-alt);
     }
@@ -2080,7 +2126,8 @@ p.warningText {
 
         #Breadcrumb .Path a:not(:last-child):after, #Breadcrumb .Path span a:after {
             content: '/\00a0';
-            padding: 0 5px 0 10px;
+            padding-block: 0;
+            padding-inline: 10px 5px;
             color: var(--fcp-text);
             display: inline-block;
         }
@@ -2107,7 +2154,7 @@ p.warningText {
             }
 
         #Breadcrumb .Path .OrgsSelector {
-            float: right;
+            float: inline-end;
             position: relative;
             bottom: 7px;
         }
@@ -2137,11 +2184,12 @@ p.warningText {
 }
 
 #Left {
-    float: left;
+    float: inline-start;
     top: -15px;
     padding: 0;
     width: 200px;
-    margin: 1px 0 1px 1px;
+    margin-block: 1px;
+    margin-inline: 1px 0;
 }
 
     #Left .MenuHeader, #Left .NewsMenuHeader {
@@ -2153,7 +2201,7 @@ p.warningText {
     #Left .MenuHeader {
         height: 38px;
         padding-top: 5px;
-        padding-left: 7px;
+        padding-inline-start: 7px;
         background: url(../Images/left_menu_header.gif) no-repeat;
     }
 
@@ -2168,7 +2216,7 @@ p.warningText {
     #Left .NewsMenuHeader {
         height: 20px;
         padding-top: 5px;
-        padding-left: 7px;
+        padding-inline-start: 7px;
         background: url(../Images/left_news_menu_header.png) no-repeat;
     }
 
@@ -2200,13 +2248,14 @@ p.warningText {
 }
 
 #StorefrontCenter {
-    float: left;
+    float: inline-start;
     width: 955px;
-    padding: 10px 0 10px 10px;
+    padding-block: 10px;
+    padding-inline: 10px 0;
 }
 
 #CenterOneColumn {
-    float: left;
+    float: inline-start;
     width: 780px;
 }
 
@@ -2218,15 +2267,15 @@ p.warningText {
 }
 
     #Footer .Copyright {
-        text-align: left;
+        text-align: start;
     }
 
     #Footer .UseEntityFramework {
-        text-align: left;
+        text-align: start;
     }
 
     #Footer .Version {
-        text-align: right;
+        text-align: end;
     }
 
     #SimpleWhiteOutline {
